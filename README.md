@@ -5,6 +5,6 @@ The primary aim of this project is to facilitate financial reports analyses, wit
 
 # Key features
 - [Database](#database)
-
+- 
 ## Database
 For this particular scenario, OCR proved to be time-consuming, and it struggled notably with multi-column text layouts and irregular text orientations, both of which are commonly found in financial reports. For that I chose to use PyMuPDF also known as Fitz which is a flexible python library offering advanced bunch of functionalities to deal with pdf documents including fast text and image extraction with consideration of internal document structure, access to metadata and perform text search.
