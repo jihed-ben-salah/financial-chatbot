@@ -13,8 +13,8 @@ In order to be able to compare our gained insight with what really happened in t
 - bnp_parisbas global view 2023
 - UBS_alternative-investments-improving-portfolio-performance
 - Goldman Sachs_global view 2023
-- 01 12 2023_kkr_global view 2023
-- 07 08 2022_Moodys_Weekly-Market-Outlook
+- kkr_global view 2023
+- Moodys_Weekly-Market-Outlook
 - CACIB_-Monde-Hebdo
 - Erste_Week Ahead
 - ScotiaBank_global week ahead
@@ -27,3 +27,9 @@ In order to be able to compare our gained insight with what really happened in t
 - 29 07 2022_Goldman Sachs_recession
 ### Test Extraction
 For this particular scenario, OCR proved to be time-consuming, and it struggled notably with multi-column text layouts and irregular text orientations, both of which are commonly found in financial reports. For that I chose to use PyMuPDF also known as Fitz which is a flexible python library offering advanced bunch of functionalities to deal with pdf documents including fast text and image extraction with consideration of internal document structure, access to metadata and perform text search.
+
+### Text cleaning
+Considering that inconsistent noisy data, such as variations in spelling, punctuation, formatting, irrelevant symbols and special characters can potentially confuse various models and lead to poor results, I consider the text cleaning step pivotal for the success of this project.
+The preprocess_text function in our script will :
+- 
+### Dataframe Creation
