@@ -7,4 +7,23 @@ The primary aim of this project is to facilitate financial reports analyses, wit
 - [Database](#database)
 - 
 ## Database
+In order to be able to compare our gained insight with what really happened in the financial market and also be working with recent data we opted for 17 financial reports published in the 1st semester of 2023 which are: 
+- Goldman Sachs_Caution Heavy Fog
+- Unicredit_Economics chartbook Q2
+- bnp_parisbas global view 2023
+- UBS_alternative-investments-improving-portfolio-performance
+- Goldman Sachs_global view 2023
+- 01 12 2023_kkr_global view 2023
+- 07 08 2022_Moodys_Weekly-Market-Outlook
+- CACIB_-Monde-Hebdo
+- Erste_Week Ahead
+- ScotiaBank_global week ahead
+- Commerz_European Sunrise
+- ING_FX Talking July22
+- 12 31 2022_jpmorgan_asset management Q1 2023
+- 16 11 2022_Goldman Sachs_global outlook
+- 2022_jpmorgan_private banking global view 2023
+- 29 07 2022_Goldman Sachs_exemple analyse macro economique goldman sachs
+- 29 07 2022_Goldman Sachs_recession
+### Test Extraction
 For this particular scenario, OCR proved to be time-consuming, and it struggled notably with multi-column text layouts and irregular text orientations, both of which are commonly found in financial reports. For that I chose to use PyMuPDF also known as Fitz which is a flexible python library offering advanced bunch of functionalities to deal with pdf documents including fast text and image extraction with consideration of internal document structure, access to metadata and perform text search.
