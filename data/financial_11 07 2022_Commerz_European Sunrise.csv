@@ -1,0 +1,120 @@
+file_name,page_num,subjectivity_score,date,bank,title,topic,text,tokens,clean_text
+11 07 2022_Commerz_European Sunrise,3,0.43023172905525836,11 07 2022,Commerz,European Sunrise,0,"Rates: Wobbly balance
+Bunds remain vulnerable near-term as headwinds persist. The gas anxiety continues with the
+11-day maintenance period for Nord Stream 1 starting today but the data turns the focus on
+Fed tightening, while 
+hawkish ECB
+ talk (Holzmann) continues ahead of the blackout period
+beginning on Thursday. As rising rate expectations could weigh on risk sentiment, cross-market
+feedback loops could provide support though.
+The 
+US-Treasury curve
+ shifted some 8bp higher following the strong payroll report, with the
+2-10y curve remaining inverted. 20y remains the cheapest point on the curve with the nominal
+yield having risen above 3.55%, driven by both higher break-evens and a higher 
+real
+ TIPS 
+yield
+above 1.25%.
+A likely new 
+record high US inflation print
+ this week should tip the balance for a 75bp hike
+later this month, which is virtually priced in by now. Fed expectations are shifting higher again,
+but remain inverted beyond March-2023 (see left-hand chart below).
+The front-loaded Fed tightening is also spilling over to EURSTR forwards with the market pricing
+slightly more than 25bp ECB lift-off this month and 50bp in September. The EURSTR forwards for
+2023 remain lower on the week though given euro area recession fears (see right-hand chart
+below). A crucial litmus test for the tightening pattern could come much earlier though with the
+planned end of the Nord Stream 1 maintenance targeted to end one day after the ECB lift-off
+decision.
+Lingering recession risks should keep the Schatz better supported and the Bund curve with a
+steepening bias also as US headwinds extend.
+The backdrop for 
+EGB spreads
+ remains choppy as tangible official colour on the planned TPM
+instrument seems unlikely near-term with headline risks still stemming from sources. Hawkish
+rates talk (see Overnight News) could put the latest BTP-Bund spread tightening to the test
+again. 10y Greece continued to underperform on Friday as upgrade hopes did not materialise
+and the PDMA announced another auction for today (see below).
+Today's Eurogroup meeting could provide relative support for spreads as finance ministers may
+signal further fiscal support in case of economic hardship on a worsening energy crisis when
+discussing the budgetary situation in the euro area.
+Fed expectations shifting higher, 2023 ECB expectations shifting lower
+Fed- and ECB-dated rate hike expectations, derived from OIS forwards/Fed Funds Futures and EURSTR forwards, spot vs. last Monday, in bp
+163
+185
+195
+200
+197
+189
+169
+130
+73
+0
+50
+100
+150
+200
+250
+Jul-23
+Jun-23
+May-23
+Mar-23
+Feb-23
+Dec-22
+Nov-22
+Sep-22
+Jul-22
+FED
+spot
+4 Jul-22
+Source: Bloomberg, Commerzbank Research
+201
+197
+196
+187
+178
+165
+148
+120
+81
+29
+0
+50
+100
+150
+200
+250
+Sep-23
+Jul-23
+Jun-23
+May-23
+Mar-23
+Feb-23
+Dec-22
+Oct-22
+Sep-22
+Jul-22
+ECB
+spot
+4 Jul-22
+Source: Bloomberg, Commerzbank Research
+Supply: EU syndication, KFW update, moderate EGB volume, decent
+backflows
+The EGB auction volume should moderate to about 
+EUR16.5bn
+ this week (vs. EUR25bn last week).
+Germany
+ is scheduled to tap its Schatz tomorrow and 30y Bund on Wednesday while the
+Netherlands
+ will be active in its 10y DSL. In the periphery, 
+Greece
+ will tap its 10y GGB Jun32
+today and 
+Italy
+ will get active in 3y/7y/15y BTPs. Portugal, however, decided to stay put.
+3
+11 July 2022
+Rates and Credit Strategy
+ | European Sunrise
+","['rates', 'wobbly', 'balance', 'bunds', 'remain', 'vulnerable', 'term', 'headwinds', 'persist', 'gas', 'anxiety', 'continues', 'day', 'maintenance', 'period', 'nord', 'stream', 'starting', 'focus', 'fed', 'tightening', 'hawkish', 'ecb', 'talk', 'holzmann', 'continues', 'blackout', 'period', 'thursday', 'rising', 'rate', 'expectations', 'weigh', 'risk', 'sentiment', 'cross', 'market', 'feedback', 'loops', 'provide', 'support', 'treasury', 'curve', 'shifted', 'bp', 'strong', 'payroll', 'report', 'curve', 'remaining', 'inverted', 'remains', 'cheapest', 'curve', 'nominal', 'yield', 'risen', 'driven', 'break', 'evens', 'real', 'tips', 'yield', 'record', 'inflation', 'print', 'week', 'balance', 'bp', 'hike', 'month', 'virtually', 'priced', 'fed', 'expectations', 'shifting', 'remain', 'inverted', 'march', 'left', 'hand', 'chart', 'loaded', 'fed', 'tightening', 'spilling', 'eurstr', 'forwards', 'market', 'pricing', 'bp', 'ecb', 'lift', 'month', 'bp', 'september', 'eurstr', 'forwards', 'remain', 'week', 'euro', 'recession', 'fears', 'hand', 'chart', 'crucial', 'litmus', 'tightening', 'pattern', 'earlier', 'planned', 'nord', 'stream', 'maintenance', 'targeted', 'day', 'ecb', 'lift', 'decision', 'lingering', 'recession', 'risks', 'schatz', 'supported', 'bund', 'curve', 'steepening', 'bias', 'headwinds', 'extend', 'backdrop', 'egb', 'spreads', 'remains', 'choppy', 'tangible', 'official', 'colour', 'planned', 'tpm', 'instrument', 'term', 'headline', 'risks', 'stemming', 'sources', 'hawkish', 'rates', 'talk', 'overnight', 'news', 'btp', 'bund', 'spread', 'tightening', 'greece', 'continued', 'underperform', 'friday', 'upgrade', 'hopes', 'materialise', 'pdma', 'announced', 'auction', 'eurogroup', 'meeting', 'provide', 'relative', 'support', 'spreads', 'finance', 'ministers', 'signal', 'fiscal', 'support', 'economic', 'hardship', 'worsening', 'energy', 'crisis', 'discussing', 'budgetary', 'situation', 'euro', 'fed', 'expectations', 'shifting', 'ecb', 'expectations', 'shifting', 'fed', 'ecb', 'dated', 'rate', 'hike', 'expectations', 'derived', 'ois', 'forwards', 'fed', 'funds', 'futures', 'eurstr', 'forwards', 'spot', 'monday', 'bp', 'jul', 'jun', 'mar', 'feb', 'dec', 'nov', 'sep', 'jul', 'fed', 'spot', 'jul', 'bloomberg', 'commerzbank', 'sep', 'jul', 'jun', 'mar', 'feb', 'dec', 'oct', 'sep', 'jul', 'ecb', 'spot', 'jul', 'bloomberg', 'commerzbank', 'supply', 'eu', 'syndication', 'kfw', 'update', 'moderate', 'egb', 'volume', 'decent', 'backflows', 'egb', 'auction', 'volume', 'moderate', 'eur', 'week', 'eurbn', 'week', 'germany', 'scheduled', 'tap', 'schatz', 'tomorrow', 'bund', 'wednesday', 'netherlands', 'active', 'dsl', 'periphery', 'greece', 'tap', 'ggb', 'jun', 'italy', 'active', 'btps', 'portugal', 'decided', 'stay', 'july', 'rates', 'credit', 'strategy', 'european', 'sunrise']",rate wobbl balanc bund remain vulner term headwind persist gas anxieti continu day mainten period nord stream start focus fed tighten hawkish ecb talk holzmann continu blackout period thursday rise rate expect weigh risk sentiment cross market feedback loop provid support treasuri curv shift bp strong payrol report curv remain invert remain cheapest curv nomin yield risen driven break even real tip yield record inflat print week balanc bp hike month virtual price fed expect shift remain invert march left hand chart load fed tighten spill eurstr forward market price bp ecb lift month bp septemb eurstr forward remain week euro recess fear hand chart crucial litmus tighten pattern earlier plan nord stream mainten target day ecb lift decis linger recess risk schatz support bund curv steepen bias headwind extend backdrop egb spread remain choppi tangibl offici colour plan tpm instrument term headlin risk stem sourc hawkish rate talk overnight news btp bund spread tighten greec continu underperform friday upgrad hope materialis pdma announc auction eurogroup meet provid relat support spread financ minist signal fiscal support econom hardship worsen energi crisi discuss budgetari situat euro fed expect shift ecb expect shift fed ecb date rate hike expect deriv oi forward fed fund futur eurstr forward spot monday bp jul jun mar feb dec nov sep jul fed spot jul bloomberg commerzbank sep jul jun mar feb dec oct sep jul ecb spot jul bloomberg commerzbank suppli eu syndic kfw updat moder egb volum decent backflow egb auction volum moder eur week eurbn week germani schedul tap schatz tomorrow bund wednesday netherland activ dsl peripheri greec tap ggb jun itali activ btps portug decid stay juli rate credit strategi european sunris

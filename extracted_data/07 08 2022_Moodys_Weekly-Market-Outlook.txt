@@ -1,0 +1,2728 @@
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+ 
+
+1 
+
+Moody’s Analytics and Moody’s Investors Service maintain separate and independent economic forecasts. This publication uses the 
+forecasts of Moody’s Analytics. Moody’s Analytics markets and distributes all Moody’s Capital Markets Research materials. 
+Moody’s Analytics does not provide investment advisory services or products. For further detail, please see the last page. 
+
+Aggressive Now, Pause Later 
+
+The minutes from the June meeting of 
+the Federal Open Market Committee 
+didn’t contain a ton of surprises. The 
+central bank is worried that if it doesn't 
+aggressively remove monetary policy 
+accommodation, inflation could 
+become entrenched. Participants judged 
+a 50- or 75-basis point rate hike at the 
+July meeting would be appropriate. The 
+minutes are dated, and inflation 
+expectations have dropped recently 
+along with commodity prices. Still, the 
+incoming data on consumer prices 
+could determine if it is a 50- or 75-basis 
+point rate hike. The minutes noted that 
+policy would need to be even more 
+restrictive.  
+
+Since the minutes, market-based 
+measures of inflation expectations have 
+dropped and are consistent with where 
+the Fed would want them. Also, the 
+jump in the University of Michigan’s measure of inflation expectations, which spooked 
+the Fed, has been revised away. The June CPI will likely determine how aggressive the Fed 
+is this month. Our preliminary forecast is for the CPI to have risen 1.1% between May and 
+June. This would be the second consecutive monthly gain of at least 1%.  
+
+There were a few references to tighter financial market conditions, which are doing some 
+of the work for the Fed. Monetary policy primarily affects the economy via financial 
+market conditions. Therefore, the Fed is getting exactly what it wants: lower stock prices, 
+higher Treasury yields, and wider corporate bond spreads 
+
+Pause is possible 
+The front-loading of rate hikes gives the Fed the flexibility to pause, which the minutes 
+alluded to. Once the target range for the fed funds rate is at its neutral rate of 2.5%, the 
+Fed may pause to assess how the removal of monetary policy is affecting the economy, 
+inflation and the outlook. 
+
+.
+
+WEEKLY MARKET 
+OUTLOOK 
+JULY 7, 2022 
+
+Lead Author 
+ 
+Ryan Sweet 
+Senior Director 
+
+Asia-Pacific 
+ 
+Katrina Ell 
+Senior Economist 
+ 
+Stefan Angrick 
+Senior Economist 
+
+Europe 
+ 
+Ross Cioffi 
+Economist 
+
+U.S. 
+ 
+Jesse Rogers 
+Economist 
+ 
+Steven Shields 
+Economist 
+ 
+Matt Orefice 
+Data Specialist 
+
+Inside Economics Podcast: 
+
+ 
+Join the Conversation 
+Apple Podcasts 
+Google Podcasts  
+Spotify 
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+Top of Mind ...................................... 3 
+
+Week Ahead in Global Economy ... 5 
+
+Geopolitical Risks ............................ 6 
+
+The Long View 
+U.S.  .................................................................. 7 
+Europe  ......................................................... 10 
+Asia-Pacific  .................................................. 11 
+
+Ratings Roundup ........................... 12 
+
+Market Data ................................... 15 
+
+CDS Movers .................................... 16 
+
+Issuance .......................................... 19 
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+2 
+
+Fed officials don’t seem concerned about a recession. There 
+was no reference to recession in the minutes. Also, the Fed 
+described the labor market as very tight. The minutes did 
+highlight some downside risks to the outlook, including 
+further tightening in financial market conditions that would 
+be a larger drag on the economy. This is a subtle sign that 
+the Fed has financial market conditions roughly where it 
+would like them and further tightening could concern the 
+central bank. 
+
+Fed gives shout out to GDI 
+The Fed didn’t avoid discussing the drop in first-quarter GDP 
+and the prospect that it didn’t do well in the second quarter. 
+However, the minutes referenced gross domestic income, 
+which has held up better than GDP. 
+
+ 
+
+The difference between real GDP and real GDI, also known 
+as the statistical discrepancy, has never been so large. The 
+Bureau of Economic Analysis, the government agency that 
+constructs these estimates, may be having an especially 
+difficult time accurately measuring real GDP in the 
+pandemic given the resulting big swings in global trade and 
+inventories. If so, the BEA could ultimately revise GDP up to 
+be more consistent with real GDI. It is also possible that the 
+BEA is overstating corporate profits. The strength of GDI is 
+likely one reason the Fed doesn’t seem concerned about a 
+recession.  
+
+High-yield spreads will widen further 
+U.S. high-yield corporate bond spreads have widened 
+noticeably this year and likely have not peaked as the 
+economy continues to cool and volatility in equity markets 
+remains above historical averages. The current high-yield 
+corporate bond spread would put the odds of a recession at 
+33%. This would potentially be a reason for optimism, since 
+the credit cycle normally leads the economic cycle. 
+However, the investment-grade corporate bond spreads put 
+the recession odds at 52%. 
+
+For now, volatility isn’t out of line with economic 
+fundamentals. To estimate the level of the VIX consistent 
+with fundamentals, we model the monthly average of the 
+
+VIX using an ordinary least squares regression. Independent 
+variables include the GDP-weighted average of the ISM 
+surveys, financial market stress, a dummy variable for 
+recessions, and U.S. economic policy uncertainty. 
+
+The results were in line with our a priori, as all coefficients 
+had the expected sign. All were statistically significant and 
+had an adjusted r-squared of 0.62. The regression was re-
+estimated, but we replaced U.S. economic policy uncertainty 
+with global policy uncertainty. The assumption is that 
+uncertainty abroad would affect volatility in U.S. equity 
+markets. However, the results showed this explained less of 
+the variation in the VIX than U.S. policy uncertainty. 
+
+Overall, the VIX isn’t out of line with fundamentals, so the 
+widening in spreads for high-yield corporate bonds shouldn’t 
+be surprising. A model we built to forecast high-yield 
+corporate bond spreads uses the ISM surveys, and odds are 
+that they will decline further, implying further widening in 
+the spreads. The high-yield corporate bond spread is 
+currently 583 basis points, more than an average spread of 
+350 basis points outside of a recession. 
+
+Spreads are still noticeably tighter than the 1,000-point 
+average spread during the past three recessions. The 
+baseline forecast doesn’t assume a recession, therefore 
+spreads shouldn’t come anywhere close to the average seen 
+over the past three recessions. Though U.S. GDP could 
+decline in the first half of this year, other data don’t signal a 
+recession, including the ISM manufacturing and 
+nonmanufacturing surveys. 
+
+Both of the ISM surveys declined in June, but neither are 
+near levels that have historically signaled a recession. The 
+GDP-weighted average of the ISM surveys tracks financial 
+market conditions. Financial market stress so far in July 
+points to further ISM survey declines, though they would 
+not be as significant as in prior months. There is still some 
+cushion as the GDP-weighted average of the ISM surveys 
+remains above its neutral threshold of 50. 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+3 
+
+TOP OF MIND 
+Is Emerging Market Inflation Peaking? 
+
+BY JESSE ROGERS
+
+Large trade and current account surpluses have been a 
+bubble wrap-like barrier for emerging economies, but fresh 
+routs in emerging market currency, bond and equity markets 
+are tearing at the padding. With fast-rising interest rates in 
+both advanced and emerging economies stacking the deck 
+against the emerging world, our call for most emerging 
+economies to grow this year may seem foolhardy. But we 
+stand with our cards firmly on the table. This is because 
+inflation in most emerging economies has already peaked or 
+will do so by summer’s end, with falling food and energy 
+prices pulling inflation lower. 
+
+This does not mean that price pressures will fully recede. 
+While falling global food and energy prices will allow 
+emerging market central banks to ease off the pedal, the 
+cost of food staples, gasoline, and consumer-related services 
+will remain elevated. This means that while most emerging 
+economies will avoid recession, it certainly won’t feel like it 
+with elevated unemployment and still-large holes in 
+incomes. 
+
+Calling inflation’s peak 
+The next few inflation prints will mark the peak for inflation 
+in the emerging world; by late summer year-on-year price 
+gains will begin to ease. Most large economies in Latin 
+America saw inflation budge a little in May—
+in Brazil and Colombia the pace of inflation actually 
+decreased. We expect this pattern to play out in emerging 
+Asia, Africa, and the Middle East, where inflation has been 
+later to rise due to a combination of fuel subsidies and a 
+period of falling food prices in Asia 
+following Chinese farmers' near-three-year battle with swine 
+flu. Things could take longer in emerging Europe, where 
+labor markets are tighter and expectations of higher prices 
+are more entrenched. 
+
+Two forces will work in conjunction to reduce price 
+pressures. The first is the broader decline in commodity 
+prices. This owes partly to the anticipation of a better wheat 
+harvest in Australia, a bumper corn crop in Argentina and 
+Brazil, and of another large soybean harvest in the U.S., and 
+partly to commitments by global energy producers to raise 
+crude oil production. 
+
+Also helping things is that by now, emerging economies 
+highly dependent on food and energy imports 
+from Ukraine and Russia have secured new supplies or found 
+their way to discounts.  
+
+ 
+
+The second force is a more aggressive Federal Reserve, 
+which has pushed up the dollar and reduced growth 
+expectations. That in turn has pushed down inflation 
+expectations and commodity prices. Because most 
+commodities are priced in dollars, a stronger dollar tends to 
+put downward pressure on prices. 
+
+There is little disagreement that commodity prices are now 
+past their peak, and that action by the Fed and other major 
+central banks will work to push them even lower. But there 
+is less of a consensus that inflation in emerging markets will 
+fall in kind. This is because of fears that inflation 
+expectations have become perniciously ingrained in Latin 
+America, Africa, and parts of emerging Europe and the 
+Middle East. However, these concerns are based largely on 
+the past experience of high and hyperinflation in these 
+regions and ignores the fact that price pressures are not 
+finding their way into wages. 
+
+What’s needed to send inflation back up is a feedback loop 
+between higher prices and demands for higher wages, 
+known as a wage-price spiral. But growth in nominal wages 
+in most emerging economies has so far been outpaced by 
+inflation. This is the case in Latin America, where average 
+real monthly pay is some 15% below the pre-pandemic 
+peak, and in emerging Europe. The little wage data there is 
+in Southeast Asia, Africa, and the Middle East points to this 
+also being the case. The reason is that labor markets have 
+yet to fully heal from the pandemic’s blunt-force blow, 
+robbing workers of the bargaining power they would need to 
+push wages higher. 
+
+What about core? 
+Analysts are right to note that higher food and energy prices 
+have spilled into the cost of other goods, pushing measures 
+of core inflation—that is, inflation excluding food and 
+energy—above central bank targets. But this is because food 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+4 
+
+and energy commodities are also key inputs into the 
+broader basket of consumer goods and services. As these 
+commodity prices fall, overall inflation will ease, putting less 
+pressure on emerging market central banks to step on the 
+gas and paving the way for growth to continue. 
+
+The price of unrest 
+That commodity prices will continue to move lower does 
+not make up for the fact that today and tomorrow, they 
+remain uncomfortably high. Take wheat, the commodity 
+most shaken by Russia’s invasion of Ukraine after oil—and 
+one that is also critically important to the global economy. 
+Amid anticipation of better harvests in Australia and faster 
+tightening by the Fed, prices have fallen by almost half from 
+all-time highs set earlier this year. But at $9 per bushel, 
+wheat prices are still well above the average recorded during 
+the 2004-2014 commodities boom. 
+
+Food insecurity has stoked resentment in wheat-
+hungry Egypt, Turkey and South Africa, and will be a thorn in 
+the side of the frail recovery in other emerging economies. 
+Frustration with rising living costs has propelled populist 
+leaders to victory in recent presidential elections in Chile, 
+Colombia, Peru and the Philippines and has shaken up the 
+political landscape in Turkey. While there is little chance 
+that new leaders will fundamentally alter the economic 
+landscape in the near term, they will face pressure to 
+counter higher living costs with budget-busting subsidies. 
+
+And things could get worse. The last time food prices were 
+this high, social protests erupted across the emerging world, 
+culminating in the Arab Spring and in protest movements in 
+China and Iran. Today’s political climate is even more 
+volatile, the product of a decade of stagnation in most 
+emerging economies and the prolonged blow from the 
+COVID-19 pandemic. There is little patience for the kinds of 
+changes that would get emerging economies moving again, 
+mostly because they are less visible to ordinary voters and 
+the payoff is down the road. 
+
+A harder landing to stick 
+We are confident that our call for emerging markets to grow 
+this year is the right one, while remaining well aware that 
+
+what’s in store can hardly be called good growth, at least 
+not of the kind needed to boost jobs and bolster incomes. 
+We also caution that higher growth rates—especially in 
+emerging Asia and the Middle East—are largely an illusion. 
+Higher growth figures in India and Southeast Asia are largely 
+a consequence of their bouts with the Delta and Omicron 
+waves of the COVID-19 pandemic and the delayed recovery 
+relative to the rest of the emerging world. 
+
+The Middle East is the sole emerging region where higher 
+commodity prices will do more good than harm. But higher 
+growth rates are largely a function of a faster-growing 
+population rather than a rise in living standards. Like the rest 
+of the emerging world, productivity has barely risen in the 
+last decade, something that is dead evident in Latin America 
+and most other emerging regions. 
+
+ 
+
+Things should not be this way. Textbook economics teaches 
+that in a globalized economy, firms will exploit differences in 
+wages and production costs to pad profits, driving faster 
+economic growth along the way. This is the story of 21st-
+century China, but the rest of the emerging world has been 
+less able to latch on. Despite calls to re-shore supply chains, 
+China’s dominance of global manufacturing will budge 
+little—firms and workers in China are just too good at what 
+they do. To grow and prosper, emerging economies will 
+instead need to raise educational attainment, integrate the 
+informal economy, and cultivate high-value-added services. 
+This is a much harder landing to stick. 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+5 
+
+The Week Ahead in the Global Economy  
+
+U.S.  
+
+The U.S. economic calendar is busy next week and could 
+determine whether the Federal Reserve raises the fed funds 
+rate by 50 or 75 basis points at its meeting this month. The 
+key will be the June consumer price index, which likely will 
+rise by more than 1% for June because of a jump in retail 
+gasoline prices. Excluding food and energy, the early 
+consensus is for the CPI to have risen 0.6%, matching the 
+increase in May. On a year-ago basis, the CPI will be up 
+around 8.9% in June compared with 8.6% in May. We also 
+get the University of Michigan consumer sentiment survey, 
+and the Fed is very sensitive to inflation expectations.  
+ 
+Also, we’ll get new data on producer and import prices. 
+Once the CPI and PPI are released, we will have a good idea 
+what the PCE deflator did in June. Other key data include 
+retail sales, industrial production, the NFIB small business 
+optimism index, and business inventories.  
+ 
+Europe  
+
+The U.K.’s GDP likely inched lower by 0.1% m/m in May, 
+deepening the 0.3% decline in April. Surging inflation likely 
+weighed on appetite to spend, while supply shortages likely 
+continued to thwart output. Indeed, the country’s PMI 
+reading nosedived to 53.1 in May from 58.2 in the previous 
+month.  
+ 
+Meanwhile, we expect that the euro zone’s industrial output 
+picked up by 0.4% m/m this May, the same as in April. 
+Germany and Ireland’s manufacturing sectors likely propped 
+up the aggregate as those out of France and Spain were 
+lackluster. Supply conditions evidently eased enough to 
+allow output in the transport equipment sectors to recover 
+during the month. Unfortunately, future conditions are not 
+yet secured. 
+ 
+We do not expect any surprises from the final readings of 
+next week’s CPI releases. In Germany, we expect the 
+inflation rate to have slowed to 7.6% y/y in June from 7.9% 
+in May; in Spain we expect the rate jumped to 10.2% from 
+8.7%; in France it was likely up at 5.8% from 5.2%; and in 
+Italy, inflation likely rose to 8% from 6.8%. We suspect a 
+significant decrease in transport service prices in Germany, 
+thanks to policies introduced to ease the cost of living, was 
+one of the main reasons Germany’s inflation rate decreased. 
+
+ 
+Finally, the euro zone’s external trade balance likely reported 
+another significant deficit in May. We anticipate a deficit of 
+€33.3 billion for May, slightly worse than the prior month’s 
+€32.4 billion deficit. Imports likely continued to grow at a 
+much quicker pace than exports. Oil and gas will continue to 
+supercharge imports while exports are being weighed down 
+by tight supply and weaker demand from abroad, namely 
+China amidst that country’s COVID-19 lockdowns.  
+ 
+Asia-Pacific 
+
+China’s economic data barrage will be a highlight on the 
+economic calendar. We expect the annual decline in retail 
+trade to have moderated in June as aggressive movement 
+controls that were a notable dampener on April data eased. 
+Industrial production likely picked up modestly in the same 
+month. Mining, manufacturing and utilities all improved in 
+May, led by energy-related industries; this should repeat in 
+June. Manufacturing and nonmanufacturing PMI data 
+support our view that goods and services industries 
+continued mending last month. 
+
+China’s GDP growth likely moderated to 3.8% y/y in the 
+second quarter from 4.8% in the March quarter, reflecting 
+lockdowns and other pandemic-related controls in several 
+large cities early in the period. 
+
+Central banks in New Zealand and South Korea are likely to 
+lift benchmark rates by 50 basis points at their July policy 
+meetings. The Reserve Bank of New Zealand is trying to 
+anchor long-term inflation expectations. Demand-pull 
+pressures are running beyond comfort levels and have 
+pushed wage growth to a multiyear high. A 50-basis point 
+increase would lift the official cash rate to 2.5% and take 
+cumulative hiking this tightening cycle to 225 basis points. 
+The Bank of Korea is contending with inflation that soared 
+well beyond comfort levels in June to 6% y/y, its highest in 
+almost 24 years. A 50-basis point hike would take BoK’s 
+policy rate to 2.25%. 
+
+Households in New Zealand and South Korea are relatively 
+highly leveraged, making them sensitive to aggressive rises 
+in borrowing costs. Higher lending rates as well as elevated 
+prices for nondiscretionary items such as food will put more 
+pressure on consumption in those markets. 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+6 
+
+Geopolitical Calendar 
+
+  
+
+Date
+Country
+Event
+Economic 
+Importance
+Financial Market Risk
+
+Jun/Jul
+Papua New Guinea
+National general election
+Low
+Low
+
+Jul
+Japan
+House of Councillors election
+Medium
+Low
+
+12-14-Jul
+Pacific Islands Forum Pacific Islands Forum leaders' meeting
+Low
+Low
+
+21-Jul
+Mercosur
+Mercosur 2022 Summit
+Low
+Low
+
+4-Sep
+Chile
+Referendum on New Constitution
+Medium
+Low
+
+2-Oct
+Brazil
+Presidential and congressional elections
+High
+Medium
+
+Oct/Nov
+China
+National Party Congress
+High
+Medium
+
+7-18-Nov
+U.N.
+U.N. Climate Change Conference 2022 (COP 27)
+Medium
+Low
+
+15-16-Nov
+G-20
+G-20 Heads of State and Government Summit, hosted by Indonesia
+Medium
+Low
+
+18-19 Nov
+APEC
+Economic Leaders' Meeting, hosted by Thailand
+Low
+Low
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+7 
+
+THE LONG VIEW: U.S. 
+Corporate Bond Issuance Weakens for Q2 
+
+BY RYAN SWEET  
+
+CREDIT SPREADS 
+Moody's long-term average corporate bond spread is 166 
+basis points, compared with the 160 bps this time last week. 
+The spread is slightly wider than the 155 bps average in June. 
+The long-term average industrial corporate bond spread 
+narrowed by 5 bps to 150. It averaged 141 bps in June.  
+
+The ICE BofA U.S. high-yield option adjusted bond spread 
+widened from 562 basis points to 580 bps, the widest since 
+mid-2020. The Bloomberg Barclays high-yield option 
+adjusted spread widened this past week from 549 to 566 
+bps. The high-yield option adjusted bond spreads 
+approximate what is suggested by the accompanying long-
+term Baa industrial company bond yield spread but are 
+wider than implied by a VIX of 25.9. The VIX fell over the 
+course of the past week. 
+ 
+DEFAULTS 
+Defaults rose in May as nine Moody's-rated corporate debt 
+issuers defaulted, up from April’s revised count of five. The 
+May defaults lifted the global speculative-grade default rate 
+to 2.1% for the trailing 12 months ended in May from 1.9% a 
+month earlier. Six of the month's defaults came from 
+advanced markets and three were from emerging markets. 
+ 
+The year to date global corporate default tally was 39 
+through May, up from 26 in the same period last year. 
+Across sectors, Construction & Building, with nine defaults, 
+is the largest contributor to defaults so far this year. The 
+banking sector followed with eight. By region, North 
+America had 17 defaults (16 in the U.S. and one in Canada). 
+The rest were from Europe (11), Asia-Pacific (nine) and Latin 
+America (two). 
+ 
+Moody's Credit Transition Model predicts that the trailing 
+12-month global speculative-grade corporate default rate 
+will rise to 2.8% by the end of 2022 and then climb to 3.3% 
+by May 2023. If realized, these forecast rates would remain 
+below the long-term average of 4.1%. 
+ 
+U.S. CORPORATE BOND ISSUANCE 
+First-quarter 2020’s worldwide offerings of corporate bonds 
+revealed annual advances of 14% for IG and 19% for high-
+yield, wherein US$-denominated offerings increased 45% 
+for IG and grew 12% for high yield. 
+
+Second-quarter 2020’s worldwide offerings of corporate 
+bonds revealed annual surges of 69% for IG and 32% for 
+high-yield, wherein US$-denominated offerings increased 
+142% for IG and grew 45% for high yield. 
+
+Third-quarter 2020’s worldwide offerings of corporate 
+bonds revealed an annual decline of 6% for IG and an 
+annual advance of 44% for high-yield, wherein US$-
+denominated offerings increased 12% for IG and soared 
+upward 56% for high yield. 
+
+Fourth-quarter 2020’s worldwide offerings of corporate 
+bonds revealed an annual decline of 3% for IG and an 
+annual advance of 8% for high-yield, wherein US$-
+denominated offerings increased 16% for IG and 11% for 
+high yield. 
+
+First-quarter 2021’s worldwide offerings of corporate bonds 
+revealed an annual decline of 4% for IG and an annual 
+advance of 57% for high-yield, wherein US$-denominated 
+offerings sank 9% for IG and advanced 64% for high yield. 
+
+Issuance weakened in the second quarter of 2021 as 
+worldwide offerings of corporate bonds revealed a year-
+over-year decline of 35% for investment grade. High-yield 
+issuance faired noticeably better in the second quarter. 
+
+Issuance softened in the third quarter of 2021 as worldwide 
+offerings of corporate bonds revealed a year-over-year 
+decline of 5% for investment grade. U.S. denominated 
+corporate bond issuance also fell, dropping 16% on a year-
+ago basis. High-yield issuance faired noticeably better in the 
+third quarter.  
+
+Fourth-quarter 2021’s worldwide offerings of corporate 
+bonds fell 9.4% for investment grade. High-yield US$ 
+denominated high-yield corporate bond issuance fell from 
+$133 billion in the third quarter to $92 billion in the final 
+three months of 2021. December was a disappointment for 
+high-yield corporate bond issuance, since it was 33% below 
+its prior five-year average for the month. 
+
+In the first quarter of 2022, worldwide offerings of 
+investment grade corporate bonds totaled $901 billion, up 
+12% on a year-ago basis.  
+
+In the second quarter, corporate bond issuance weakened. 
+Worldwide offerings of investment grade corporate bonds 
+totaled $548 billion, down 21% on a year-ago basis. US$ 
+denominated high-yield corporate bond issuance was $38 
+billion in the second quarter, down from $63 billion in the 
+first three months of the year. High-yield issuance is down 
+79% on a year-ago basis.  
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+8 
+
+In the week ended July 1, US$-denominated high-yield 
+issuance totaled $0.788 billion. This brings the year-to-date 
+total to $98.2 billion. Investment-grade bond issuance 
+totaled $11.5 billion in the same week. This brings its year-
+to-date total to $805.8 billion. Issuance is still tracking that 
+seen in 2018 and 2019.  
+
+U.S. ECONOMIC OUTLOOK 
+There were some tweaks to the U.S. baseline forecast in 
+June, but the changes were smaller than in prior months. 
+The new baseline forecast factors in the recent tightening in 
+financial market conditions, increases in energy prices, and 
+new data on first-quarter GDP. 
+
+Fiscal assumptions 
+The federal budget deficit will fall from 12.4% of GDP in 
+fiscal 2021 to 4.4% this year and 3.8% the next year. This 
+improvement largely reflects the end of federal pandemic 
+relief and a stronger economy. In the June baseline, the 
+effective personal tax rate was adjusted higher in the near to 
+medium term. The U.S. Treasury Department enjoyed a 
+better-than-expected windfall of individual income taxes in 
+April thanks to soaring asset prices and widening 
+participation in equity markets in 2021. Nevertheless, this is 
+coming at the expense of personal savings. A higher tax bill 
+has led to a faster decumulation of excess personal savings 
+than previously thought. 
+
+In its second estimate of first-quarter GDP, the Bureau of 
+Economic Analysis revised personal current taxes to reflect 
+the stronger-than-anticipated filing season and lower 
+refunds, which shaved a full percentage point off the savings 
+rate in the first three months of the year. As a result, excess 
+savings are decumulating at an accelerating rate, though 
+they remain prodigiously above $2.5 trillion. Because of 
+incoming data and fiscal changes to the forecast, the savings 
+rate will average 1.1 and 0.7 percentage point lower in 2022 
+and 2023 compared with the May baseline. 
+
+COVID-19 assumptions 
+Changes to our epidemiological assumptions were 
+noticeable, but the economic implications are modest as 
+each wave of COVID-19 has a diminishing effect on the 
+economy. Total confirmed COVID-19 cases in the U.S. will 
+be 97.07 million, compared with 88.5 million. The seven-
+day moving average of daily confirmed cases has been 
+steadily rising since the May baseline and is now 122,000, 
+more than double that seen when we updated the May 
+baseline forecast. 
+
+We’re sticking with the concept of “effective immunity,” 
+which is a rolling number of infections plus vaccinations to 
+account for the fact that immunity is not permanent. The 
+forecast still assumes that COVID-19 will be endemic and 
+seasonal. 
+
+Energy price assumptions 
+The European Union’s sixth set of economic sanctions 
+against Russia will create the biggest disruption to the global 
+oil market since the Yom Kippur War. Though a strong vote 
+of confidence in Ukraine, the move will stoke inflation, raise 
+consumer energy bills, and complicate global central banks’ 
+task of raising interest rates without tipping their respective 
+economies into recession. 
+
+The baseline forecast now has West Texas Intermediate 
+crude oil prices peaking higher than in the prior baseline 
+forecast. However, the timing hasn’t changed, and the 
+forecast assumes oil prices peak this quarter, averaging $107 
+per barrel. The contours of the forecast haven’t changed, 
+and the June baseline still has oil prices steadily declining in 
+the second half of this year and throughout next year, 
+approaching $60 per barrel in late 2024. 
+
+Nudging GDP lower 
+Real GDP is expected to increase 2.7% this year, compared 
+with 2.8% in the prior baseline. We have cut our forecast for 
+U.S. GDP growth this year by a total of 80 basis points over 
+the past few months. We nudged the forecast for GDP 
+growth in 2023 down from 2.7% to 2.6%. The economy is 
+still expected to grow above its potential, which is likely 
+between 2% and 2.5%. 
+
+Revisions to first-quarter GDP, which is now shown to have 
+declined 1.5% at an annualized rate (previously -1.4%), were 
+a small factor in the revision to GDP growth this year. The 
+weakness in the first quarter was concentrated in net 
+exports and inventories. 
+
+Net exports were an enormous weight on first-quarter GDP. 
+Trade has been a consistent weight on GDP growth as 
+demand for consumer goods has been robust. The U.S. 
+consumer is buying a ton of goods and the majority of these 
+are imported. Neither inventories nor trade tell us where the 
+economy is headed. 
+
+Declines in GDP during economic expansions have 
+happened before. The three contractions in GDP occurring 
+between the global financial crisis and the COVID-19 
+pandemic occurred because of some combination of a 
+widened trade deficit and the quarterly oscillations of the 
+inventory build. Consumption, the largest component of 
+GDP, did not contract in those instances, nor did it in the 
+first quarter of 2022. Consumption, particularly on services, 
+accelerated in the quarter. 
+
+Our baseline forecast for real GDP growth this year is close 
+to the Bloomberg consensus of 2.6%. The forecast for next 
+year is 0.6 percentage point stronger than the Bloomberg 
+consensus of 2%. 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+9 
+
+Business investment and housing 
+Incoming data over the past few weeks point toward weaker 
+U.S. real business investment in the second quarter. Still, 
+growth will be solid and fundamentals, including supportive 
+financial market conditions and better after-tax corporate 
+profits as a share of nominal GDP, should continue to 
+support investment through the rest of this year and into 
+next. Another favorable development for business 
+investment is that the rate of new-business formations has 
+risen recently, tempering concerns that the pandemic could 
+have scarring impacts on entrepreneurship. 
+
+We have real business equipment spending rising 6.5% this 
+year, compared with 7% in the May baseline. The forecast is 
+for real business equipment spending to increase 5.2% in 
+2023, compared with 3.9% next year. 
+
+There was a downward revision to housing starts as supply 
+constraints and higher mortgage rates have started to bite 
+into the housing market. Housing starts are expected to be 
+1.77 million compared with 1.83 million in the prior baseline. 
+Housing starts are expected to total 1.86 million next year, 
+down from 1.89 in the prior baseline. 
+
+There are likely only so many homes that can be built each 
+year because of labor-supply constraints and a lack of 
+buildable lots. Some of the labor-supply issues will ease as 
+the pandemic winds down, but the reduction in immigration 
+is particularly problematic for homebuilders' ability to find 
+workers. We cut the forecasts for new- and existing-home 
+sales this year. They are expected to total 6.59 million, 
+lighter than the 6.86 million in the prior forecast. We also 
+cut the forecast for total home sales next year. New-home 
+sales account for about 10% of total home sales. 
+
+There were minor tweaks to the forecast for the FHFA All-
+Transactions House Price Index this year and next. The June 
+baseline has it rising 11.3% this year, compared with 12.2% 
+in the prior baseline. The forecast for 2023 and 2024 
+continues to expect little house price appreciation. 
+
+Labor market 
+The U.S. labor market remains strong even as job growth is 
+moderating. Trend job growth is between 400,000 and 
+450,000 per month, but this isn’t sustainable and needs to 
+fall to around 150,000 per month later this year or the 
+Federal Reserve’s attempt to engineer a soft landing will 
+become increasingly difficult. 
+
+Nonfarm employment rose by 390,000, on net, in May, 
+better than either we or the consensus anticipated. The gain 
+leaves nonfarm employment 822,000 below its pre-
+pandemic peak. This should be recouped over the next few 
+months. However, excluding leisure and hospitality, 
+
+employment is already above its pre-pandemic peak. Of 
+course, this doesn’t account for the jobs that would have 
+been created if the pandemic didn’t occur, which is around 5 
+million. 
+
+We have job growth averaging 373,000 per month this year, 
+nearly identical to the gain in the May baseline forecast. Job 
+growth is expected to moderate next year and in 2024. The 
+unemployment rate is expected to average around 3.3% in 
+the fourth quarter of this year before gradually rising over 
+the next couple of years as the effect of tighter monetary 
+policy starts to be felt. 
+
+We assume a full-employment economy is one with a 3.5% 
+unemployment rate, around a 62.5% labor force 
+participation rate, and a prime-age employment-to-
+population ratio a little north of 80%. All of these 
+conditions will be met this summer. 
+
+Monetary policy 
+The minutes from the May meeting of the Federal Open 
+Market Committee signal that the central bank wants to 
+aggressively hike rates at the next couple of meetings to 
+allow officials the potential to pause and assess the effects 
+of policy firming on the economy, inflation and financial 
+markets. This would improve the odds that the Fed 
+engineers a soft landing. Previously, it appeared the Fed was 
+going to hike until something broke, either inflation or the 
+economy. The minutes were lighter on the inflation 
+discussion than in March. On the balance sheet, a number of 
+officials supported eventually selling mortgage-backed 
+securities. The immediate market reaction to the minutes 
+was fairly tame, potentially because there were no big 
+surprises, and we didn’t make any changes to our near-term 
+forecast for the fed funds rate. 
+
+The Fed has begun its quantitative tightening campaign. If 
+the Fed sticks with its current plan, its balance sheet will 
+decline by about $520 billion this year. This may sound like 
+a lot, but the balance sheet will still be massive, around 37% 
+of nominal GDP. It was less than 20% of nominal GDP 
+before the pandemic. Also, there wasn’t a mention of MBS 
+sales in  the FOMC’s May minutes. 
+
+The 10-year Treasury yield has bounced around recently but 
+we didn’t make any changes to the baseline forecast. The 
+10-year Treasury yield will average 3.14% in the final three 
+months. We still have the 10-year Treasury yield averaging 
+3.25% in the fourth quarter of next year, identical to the 
+May baseline. The June baseline forecast incorporates the 
+recent swing in equity prices, which is the reason for the 
+revision to the forecast. Equity prices are expected to 
+bottom in the first quarter of next year and will resume 
+rising in the second quarter. 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+10 
+
+THE LONG VIEW: EUROPE 
+Boris Johnson as Caretaker PM 
+
+BY ROSS CIOFFI 
+
+U.K. Prime Minister Boris Johnson resigned on Thursday but 
+vowed to stay on as a caretaker until a new leader is 
+selected. There will be more details about the timetable for 
+finding a new prime minister next week. Although Johnson’s 
+resignation creates a period of additional uncertainty for 
+the U.K., we are not making changes to our forecast in 
+response to Thursday's news. Whoever takes over will need 
+to refocus policy on addressing the key risks to the 
+economy, such as the cost-of-living squeeze, and the 
+country's longer-term challenges. 
+
+German industry grows 
+German industrial production expanded 0.2% month on 
+month in May, following April's 1.3% growth—an upward 
+revision from the initial estimate of 0.7%. However, output 
+remains 2.7% below February's level. Excluding energy 
+production, manufacturing would have expanded by 0.6%. 
+This was supported by a rebound in transport equipment 
+production, up 5.5%. Shortages of intermediate products, 
+cost pressures, slowing global demand and heightened 
+uncertainty weigh on prospects for the manufacturing 
+sector in the second half of the year. In June, the 
+manufacturing PMI reading dropped by 2.8 points to 52 as 
+output and new orders contracted. 
+
+Ireland’s industrial production rebounded strongly in May, 
+increasing by 13.9% month over month, after a 9.6% slump 
+in April. Modern industries drove the rebound, surging by 
+32.6% and reversing the large 20.4% decline in April. 
+Traditional industries boasted a 6.1% increase following two 
+months of decline. The same supply and inflation issues are 
+creating considerable risks for Irish manufacturing. Indeed, 
+this June, the manufacturing PMI dropped to by 3.3 points 
+to 53.1, its lowest reading in 16 months. 
+
+The May releases for Ireland and Germany were each 
+upbeat, despite the overall uncertainty growing in the 
+economy. They will also be the reason industrial output 
+likely grew this May at the aggregate level of the euro zone. 
+In next week’s release, we predict a 0.4% month-on-month 
+increase in euro zone industrial production in May. 
+
+Dutch inflation softens in June 
+Year-on-year inflation in the Netherlands decelerated to 
+8.6% in June. After peaking at 9.7% in March, a moderation 
+in energy's contribution has pushed down the headline rate. 
+Inflation pressures will ease in the coming months as base 
+effects revert and start pushing down the year-ago 
+comparison. Moreover, next month, a 12-point VAT cut on 
+energy will drive the headline rate even lower. However, 
+natural gas prices have been soaring recently and if they stay 
+up, we will see the effect on Dutch inflation figures. Even in 
+the case that inflation decelerates, we would still expect 
+second-round effects to keep the consumer price index 
+growing at a rate that is above target. We expect these 
+higher prices to weigh on consumer spending, with prices 
+increasing with greater intensity later this year. 
+
+Swiss labour market still going strong 
+The situation in Switzerland’s labour market was stable. 
+June's unemployment rate remained where it has been since 
+February at 2.2%. Construction, retail, and food and 
+accommodation services sectors saw significant declines in 
+unemployment. Post-lockdown spending this summer is 
+supporting economic activity and demand for employment. 
+As there are headwinds in the global economy that will 
+soften growth later this year, we expect that the 
+unemployment rate has likely bottomed out. 
+
+ 
+ 
+ 
+
+ 
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+11 
+
+THE LONG VIEW: ASIA-PACIFIC 
+Election Test for Japan’s Kishida 
+
+BY STEFAN ANGRICK
+
+With the campaign for Japan’s House of Councillors election 
+approaching the finish line, Prime Minister Fumio Kishida is 
+facing his first real electoral test nine months into his 
+administration. Although we expect little in the way of 
+surprises from the 10 July poll, which sees half of the upper 
+house seats up for grabs, the election outcome will be an 
+important signal of economic and foreign policy over the 
+next two years. Polls for Kishida have largely been positive 
+but dipped in recent weeks amidst public dissatisfaction 
+with rising prices. Inflation has been a headache for the 
+prime minister, whose “new capitalism” program has been 
+positioned as a way of addressing income inequalities and 
+raising household incomes. 
+
+Still, it seems unlikely that public frustration with inflation 
+will hurt Kishida’s chances. An improving COVID-19 
+situation and Kishida’s opposition to Russia’s invasion of 
+Ukraine have boosted the prime minister’s popularity, and 
+victory for the ruling Liberal Democratic Party-Komeito 
+coalition appears all but guaranteed. 
+
+Splintered opposition  
+The coalition is helped by the fact that its opposition is 
+splintered and lacks a common agenda. One of the two 
+major opposition parties, the centre-left Constitutional 
+Democratic Party, has struggled to define its position after a 
+setback in the 2021 general election. The CDP has attacked 
+Kishida for rising inflation and yen weakness but has offered 
+few tangible policy alternatives. The second major 
+opposition party, the right-populist Japan Innovation Party, 
+saw a surge in popularity in 2021 but remains focussed 
+geographically on Osaka and the surrounding Kansai region. 
+One of the more interesting aspects of the election relates 
+to potential constitutional change. Under Japan's system of 
+government, many decisions of the upper house can be 
+overturned by the lower house, but not when it comes to 
+the constitution. The Innovation Party, the smaller centre-
+right Democratic Party for the People, and the ruling LDP-
+Komeito coalition favour a revision of Article 9 of Japan’s 
+constitution—the “peace clause”—which limits the country’s 
+ability to engage in military action. A two-thirds majority for 
+this group would in theory enable constitutional change, but 
+while polls suggest this is achievable, experience has shown 
+the path towards that goal would be difficult. 
+
+Strong results would strengthen Kishida 
+A stronger-than-expected showing for the LDP may not 
+change the outcome of the election, but it would give 
+
+Kishida greater autonomy vis-à-vis his own party. The past 
+nine months have been marked by friction between his 
+dovish faction and the hawkish faction of former Prime 
+Minister Shinzo Abe over foreign and fiscal policy. Members 
+of Abe’s faction—the largest within the LDP—favour raising 
+Japan’s defence spending to 2% of GDP, much to the 
+chagrin of the LDP’s more dovish members and the party’s 
+junior coalition partner, Komeito. The LDP’s conservative 
+wing is also more comfortable with fiscal deficits, reflected 
+in a recent loosening of the wording on the government’s 
+balanced budget commitment. A robust election result for 
+the ruling coalition would provide Kishida with greater 
+authority to put his stamp on policy and party. 
+
+But don’t expect a major break with past policy 
+That said, barring a surprise election outcome, we don’t 
+expect a major policy shift. The biggest implication of a 
+strong election result for the prime minister would likely be 
+greater efforts to patch Japan’s strained relationship with 
+neighbouring South Korea. As for economic policy, we don’t 
+see a major departure from the course laid out by Kishida's 
+immediate predecessor, Yoshihide Suga, or Abe. Although 
+Kishida’s “new capitalism” is not expected to be fleshed until 
+after the election, commentary has portrayed the program 
+either as a sharp break with Abenomics or an outright turn 
+towards socialism. Neither view is plausible. Kishida’s main 
+strength is the stability he projects. That may not be to 
+everyone’s liking, but it’s hard not to see the appeal for a 
+country scarred by a public health crisis, economic hardship, 
+and geopolitical upheaval. 
+
+The course also seems to be more or less set on key 
+questions of economic and defence policy. With Japan’s 
+recovery still trailing peers, fiscal and monetary support 
+remains warranted. Criticism of monetary policy and yen 
+weakness may satisfy political calculus but overlooks that 
+these are not the main drivers of current inflation. 
+
+Kishida may have been a foreign policy dove traditionally, 
+but polls show the public has warmed considerably to the 
+idea of higher defence spending following Russia’s invasion 
+of Ukraine. And for all the attention the government’s 
+loosened balanced budget commitment has received, a 
+dispassionate view of the matter needs to recognise that the 
+prior target always seemed like a long shot. Myopic pursuit 
+of that goal has all too often led to policy mistakes that 
+derailed the economy and ultimately did little for the deficit. 
+The trick will be, of course, to avoid making new ones. 
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+12 
+
+RATINGS ROUNDUP 
+Downgrades Dominate in U.S. and Europe 
+
+BY STEVEN SHIELDS
+
+U.S. 
+
+U.S. credit downgrades outnumbered upgrades in the latest 
+weekly period. The changes issued by Moody’s Investors 
+Service spanned a diverse set of industrial groups with 
+speculative-grade firms accounting for four of the five 
+changes.  
+ 
+The largest downgrade, accounting for nearly all the debt 
+affected in the period, was issued to FLNG Liquefaction 3 
+with its senior secured rating lowered to Baa2 from Baa3. 
+Moody’s Investors Service also placed the senior secured 
+ratings on review for further downgrade. The rating action 
+was issued after the news of a fire and explosion at the 
+liquefied natural gas export facility on June 8 that resulted in 
+the complete closure of operations for all three of Freeport 
+LNG's liquefaction trains for at least 90 days. A further 
+downgrade of FLIQ3 could occur if liquidity weakens greater 
+than forecasted if business interruption insurance proceeds 
+are not realized as expected if the broader Freeport LNG 
+family experiences severe financial stress such as a debt 
+default or if the project's return to operations is estimated 
+to take longer than currently anticipated.  
+ 
+Meanwhile Fitness International, LLC’s senior secured notes 
+were upgraded to B3 from B2 on June 29, reflecting Moody's 
+
+Investors Service’s expectation that operating performance 
+including membership trends will continue to recover in 
+2022 and 2023 as the threat of the coronavirus pandemic 
+subsides.  
+ 
+Despite upgrades being outnumbered in the latest period, 
+through the first half of this year U.S. rating changes were 
+favorable with upgrades exceeding downgrades 169:112.  
+ 
+Europe 
+
+Ratings activity was weak in Western Europe as well with 
+downgrades outstripping upgrades 2:1. The majority of 
+ratings changes were issued to investment-grade financial 
+firms. On June 30, Moody’s Investors Service lowered 
+Commerzbank AG’s long-term senior unsecured debt ratings 
+one notch to A2 from A1. The ratings change was prompted 
+by the expected reduction in the volume of this loss-
+absorbing debt class relative to the size of the bank's 
+balance sheet. This development results in a higher loss 
+severity for senior unsecured debt under Moody's Advanced 
+Loss Given Failure analysis. The change impacted 
+approximately $8.4B in outstanding debt.  
+ 
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+13 
+
+RATINGS ROUND-UP 
+
+ 
+
+ 
+
+ 
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Apr01
+Aug04
+Dec07
+Apr11
+Aug14
+Dec17
+Apr21
+
+FIGURE 1
+Rating Changes - US Corporate & Financial Institutions: Favorable as a % of Total Actions
+
+By Count of Actions
+By Amount of Debt Affected
+
+* Trailing 3-month  average
+
+Source: Moody's
+
+ FIGURE 2
+
+BCF
+Bank Credit Facility Rating
+MM
+Money-Market
+
+CFR
+Corporate Family Rating
+MTN
+MTN Program Rating
+
+CP
+Commercial Paper Rating
+Notes
+Notes
+
+FSR
+Bank Financial Strength Rating
+PDR
+Probability of Default Rating
+
+IFS
+Insurance Financial Strength Rating
+PS
+Preferred Stock Rating
+
+IR
+Issuer Rating
+SGLR
+Speculative-Grade Liquidity Rating
+
+JrSub
+Junior Subordinated Rating
+SLTD
+Short- and Long-Term Deposit Rating
+
+LGD
+Loss Given Default Rating
+SrSec
+Senior Secured Rating 
+
+LTCF
+Long-Term Corporate Family Rating
+SrUnsec Senior Unsecured Rating 
+
+LTD
+Long-Term Deposit Rating
+SrSub
+Senior Subordinated
+
+LTIR
+Long-Term Issuer Rating
+STD
+Short-Term Deposit Rating
+
+Rating Key
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURE 3
+Rating Changes: Corporate & Financial Institutions - US
+
+Date
+Company
+Sector
+Rating
+Amount   
+($ Million)
+
+Up/ 
+Down
+
+Old 
+LTD 
+Rating
+
+New LTD 
+Rating
+
+IG/S
+G
+
+6/29/2022
+FITNESS INTERNATIONAL, LLC
+Industrial
+SrSec/BCF/LTCFR/PDR
+U
+B3
+B2
+SG
+
+6/29/2022
+FREEPORT LNG INVESTMENTS, LLLP
+Industrial
+SrSec/BCF/LTCFR/PDR
+D
+B1
+B3
+SG
+
+6/29/2022
+FLNG LIQUEFACTION 3, LLC
+Industrial
+SrSec/BCF
+3075.2
+D
+Baa2
+Baa3
+IG
+
+6/30/2022
+VANTAGE SPECIALTY CHEMICALS, INC.
+Industrial
+SrSec/BCF/LTCFR/PDR
+U
+Caa3
+Caa2
+SG
+
+6/30/2022
+CORSAIR GROUP (CAYMAN) LP-CORSAIR 
+GAMING, INC.
+Industrial
+SrSec/BCF/LTCFR/PDR
+D
+Ba3
+B1
+SG
+
+Source: Moody's
+
+FIGURE 4
+Rating Changes: Corporate & Financial Institutions - Europe
+
+Date
+Company
+Sector
+Rating
+Amount   
+($ Million)
+
+Up/ 
+Down
+
+Old 
+LTD 
+Rating
+
+New 
+LTD 
+Rating
+
+O
+l
+d 
+
+IG/
+SG
+Country
+
+6/29/2022
+DEUTSCHE APOTHEKER- UND AERZTEBANK 
+EG
+Financial
+LTD
+D
+Aa1
+Aa2
+IG
+GERMANY
+
+6/29/2022
+KVIKA BANKI HF.
+Financial
+LTD
+U
+Baa2
+Baa1
+IG
+ICELAND
+
+6/30/2022
+COMMERZBANK AG
+Financial
+SrUnsec/LTIR/MTN
+8338.021
+D
+A1
+A2
+IG
+GERMANY
+
+6/30/2022
+CATALYST HEALTHCARE (ROMFORD) 
+FINANCING PLC
+Industrial
+SrSec
+154.1509
+D
+A2
+A3
+IG
+UNITED KINGDOM
+
+6/30/2022
+BOELS TOPHOLDING B.V.
+Industrial
+SrSec/BCF/LTCFR/PDR
+U
+B1
+Ba3
+SG
+NETHERLANDS
+
+7/1/2022
+AXA
+Financial
+SrUnsec/Sub/JrSub/MTN
+U
+A2
+A1
+IG
+FRANCE
+
+7/1/2022
+ZEPHYR GERMAN TOPCO GMBH-FLENDER 
+INTERNATIONAL GMBH
+Industrial
+SrSec/BCF/LTCFR/PDR
+D
+B1
+B2
+SG
+GERMANY
+
+7/4/2022
+DEUTSCHE BAHN AG-DEUTSCHE BAHN 
+FINANCE GMBH
+Industrial
+Sub
+2078.311
+D
+A3
+Baa1
+IG
+GERMANY
+
+7/5/2022
+OCTAGON HEALTHCARE FUNDING PLC
+Industrial
+SrSec
+367.7628
+D
+A2
+A3
+IG
+UNITED KINGDOM
+
+Source: Moody's
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+15 
+
+MARKET DATA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+
+200
+
+400
+
+600
+
+800
+
+0
+
+200
+
+400
+
+600
+
+800
+
+2003 2004 2005 2006 2007 2008 2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+
+Spread (bp)
+Spread (bp)
+
+ Aa2
+ A2
+ Baa2
+
+Source: Moody's
+
+Figure 1: 5-Year Median Spreads-Global Data (High Grade)
+
+0
+
+400
+
+800
+
+1,200
+
+1,600
+
+2,000
+
+0
+
+400
+
+800
+
+1,200
+
+1,600
+
+2,000
+
+2003 2004 2005 2006 2007 2008 2009 2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019 2020 2021 2022
+
+Spread (bp)
+Spread (bp)
+
+ Ba2
+ B2
+ Caa-C
+
+Source: Moody's
+
+Figure 2: 5-Year Median Spreads-Global Data (High Yield)
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+16 
+
+CDS MOVERS 
+
+ 
+
+CDS Implied Rating Rises
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+
+American Airlines Group Inc.
+Caa2
+Ca
+Caa1
+
+JPMorgan Chase & Co.
+Baa1
+Baa2
+A2
+
+Motorola Solutions, Inc.
+Baa1
+Baa2
+Baa3
+
+Goldman Sachs Group, Inc. (The)
+Baa2
+Baa3
+A2
+
+Comcast Corporation
+A3
+Baa1
+A3
+
+Union Pacific Corporation
+Aa1
+Aa2
+Baa1
+
+Home Depot, Inc. (The)
+Aa2
+Aa3
+A2
+
+Intel Corporation
+Aa2
+Aa3
+A1
+
+Walt Disney Company (The) (Old)
+Aaa
+Aa1
+A2
+
+Raytheon Technologies Corporation
+Aa3
+A1
+Baa1
+
+CDS Implied Rating Declines
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+
+TRW Automotive Inc.
+B1
+Baa2
+Ba1
+
+Merck & Co., Inc.
+A3
+Aa3
+A1
+
+Colgate-Palmolive Company
+Baa2
+A2
+Aa3
+
+Philip Morris International Inc.
+Baa3
+Baa1
+A2
+
+Illinois Tool Works Inc.
+Aa3
+Aa1
+A2
+
+Applied Materials Inc.
+A2
+Aa3
+A2
+
+Hershey Company (The)
+A1
+Aa2
+A1
+
+Federal Realty OP LP
+Baa3
+Baa1
+Baa1
+
+Toyota Motor Credit Corporation
+Aa3
+Aa2
+A1
+
+Coca-Cola Company (The)
+Aa3
+Aa2
+A1
+
+CDS Spread Increases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+
+TRW Automotive Inc.
+Ba1
+508
+100
+408
+
+Deluxe Corporation
+B3
+788
+588
+200
+
+Carnival Corporation
+B2
+1,545
+1,388
+157
+
+Nabors Industries, Inc.
+Caa2
+816
+676
+139
+
+Embarq Corporation
+Ba2
+710
+579
+130
+
+Domtar Corporation
+Ba3
+661
+548
+112
+
+Royal Caribbean Cruises Ltd.
+B2
+1,228
+1,128
+100
+
+Commercial Metals Company
+Ba2
+331
+248
+83
+
+Meritage Homes Corporation
+Ba1
+363
+279
+83
+
+Liberty Interactive LLC
+B2
+1,711
+1,643
+69
+
+CDS Spread Decreases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+
+American Airlines Group Inc.
+Caa1
+1,457
+1,678
+-221
+
+United Airlines Holdings, Inc.
+Ba3
+919
+988
+-69
+
+Enbridge Energy Limited Partnership
+Baa1
+119
+159
+-40
+
+Calpine Corporation
+B2
+558
+595
+-37
+
+KB Home
+Ba2
+430
+461
+-31
+
+Unisys Corporation
+B3
+533
+564
+-31
+
+Anywhere Real Estate Group LLC
+B2
+822
+848
+-25
+
+Dillard's, Inc.
+Baa3
+131
+155
+-24
+
+AutoNation, Inc.
+Baa3
+153
+171
+-18
+
+Delta Air Lines, Inc.
+Baa3
+543
+560
+-17
+
+Source: Moody's, CMA
+
+CDS Spreads 
+
+CDS Implied Ratings
+
+CDS Implied Ratings
+
+CDS Spreads 
+
+Figure 3.  CDS Movers - US (June 29, 2022 – July 6, 2022)
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+17 
+
+CDS Movers 
+
+ 
+
+CDS Implied Rating Rises
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+
+BNP Paribas
+A2
+A3
+Aa3
+
+Barclays PLC
+Baa2
+Baa3
+Baa2
+
+CaixaBank, S.A.
+A2
+A3
+Baa1
+
+Lloyds Bank plc
+A2
+A3
+A1
+
+DZ BANK AG
+Aa2
+Aa3
+Aa2
+
+Bayerische Landesbank
+A1
+A2
+Aa3
+
+UniCredit Bank Austria AG
+A3
+Baa1
+Baa1
+
+ENEL S.p.A.
+Baa2
+Baa3
+Baa1
+
+Anheuser-Busch InBev SA/NV
+Baa1
+Baa2
+Baa1
+
+KBC Group N.V.
+Baa1
+Baa2
+Baa1
+
+CDS Implied Rating Declines
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+
+Hamburg Commercial Bank AG
+Baa3
+Baa1
+Baa1
+
+Banca Monte dei Paschi di Siena S.p.A.
+B3
+B1
+Caa1
+
+Scottish Power UK plc
+A2
+Aa3
+Baa1
+
+Vedanta Resources Limited
+Ca
+Caa2
+B3
+
+Spain, Government of
+A1
+Aa3
+Baa1
+
+Banco Santander S.A. (Spain)
+A3
+A2
+A2
+
+Deutsche Bank AG
+Baa3
+Baa2
+A2
+
+Nordea Bank Abp
+A1
+Aa3
+Aa3
+
+Commerzbank AG
+Baa2
+Baa1
+A2
+
+Bayerische Motoren Werke Aktiengesellschaft
+Baa2
+Baa1
+A2
+
+CDS Spread Increases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+
+Vedanta Resources Limited
+B3
+2,000
+1,157
+844
+
+Boparan Finance plc
+Caa3
+2,412
+2,100
+312
+
+Novafives S.A.S.
+Caa2
+1,817
+1,552
+265
+
+Casino Guichard-Perrachon SA
+Caa1
+1,870
+1,611
+259
+
+Banca Monte dei Paschi di Siena S.p.A.
+Caa1
+741
+515
+225
+
+Jaguar Land Rover Automotive Plc
+B1
+1,111
+921
+190
+
+Wienerberger AG
+Ba1
+276
+131
+145
+
+Ardagh Packaging Finance plc
+Caa1
+972
+829
+142
+
+Iceland Bondco plc
+Caa2
+1,287
+1,161
+127
+
+Stena AB
+B2
+815
+689
+125
+
+CDS Spread Decreases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+
+Smiths Group plc
+Baa2
+84
+96
+-12
+
+ITV plc
+Baa3
+264
+271
+-7
+
+ASML Holding N.V.
+A2
+33
+39
+-6
+
+Atlas Copco AB
+A2
+41
+47
+-6
+
+CaixaBank, S.A.
+Baa1
+74
+78
+-5
+
+Dexia Credit Local
+Baa3
+40
+44
+-4
+
+adidas AG
+A2
+57
+61
+-4
+
+Nestle S.A.
+Aa3
+39
+42
+-4
+
+Anheuser-Busch InBev SA/NV
+Baa1
+97
+100
+-3
+
+Heineken N.V.
+Baa1
+48
+51
+-3
+
+Source: Moody's, CMA
+
+CDS Spreads 
+
+CDS Implied Ratings
+
+CDS Implied Ratings
+
+CDS Spreads 
+
+Figure 4.  CDS Movers - Europe (June 29, 2022 – July 6, 2022)
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+18 
+
+CDS Movers 
+
+ 
+
+CDS Implied Rating Rises
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+
+China Development Bank
+A3
+Baa1
+A1
+
+Macquarie Bank Limited
+A2
+A3
+A2
+
+Hong Kong SAR, China, Government of
+Aaa
+Aa1
+Aa3
+
+Wesfarmers Limited
+A1
+A2
+A3
+
+Chorus Limited
+A3
+Baa1
+Baa2
+
+SK Hynix Inc.
+Baa2
+Baa3
+Baa2
+
+China, Government of
+A3
+A3
+A1
+
+Korea, Government of
+Aa3
+Aa3
+Aa2
+
+Commonwealth Bank of Australia
+A2
+A2
+Aa3
+
+Indonesia, Government of
+Baa3
+Baa3
+Baa2
+
+CDS Implied Rating Declines
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+
+Suncorp-Metway Limited
+Baa1
+A2
+A1
+
+Mitsubishi Corporation
+A1
+Aa2
+A2
+
+Sumitomo Corporation
+A2
+Aa3
+Baa1
+
+Nippon Yusen Kabushiki Kaisha
+A2
+Aa3
+Ba2
+
+Japan, Government of
+Aa1
+Aaa
+A1
+
+Australia, Government of
+Aa1
+Aaa
+Aaa
+
+India, Government of
+Baa3
+Baa2
+Baa3
+
+Westpac Banking Corporation
+A3
+A2
+Aa3
+
+New Zealand, Government of
+Aa1
+Aaa
+Aaa
+
+SoftBank Group Corp.
+B2
+B1
+Ba3
+
+CDS Spread Increases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+
+Pakistan, Government of
+B3
+1,483
+1,314
+169
+
+SoftBank Group Corp.
+Ba3
+548
+482
+66
+
+Development Bank of Kazakhstan
+Baa2
+338
+273
+65
+
+Kazakhstan, Government of
+Baa2
+261
+211
+50
+
+Halyk Savings Bank of Kazakhstan
+Ba2
+518
+490
+28
+
+Suncorp-Metway Limited
+A1
+93
+67
+26
+
+India, Government of
+Baa3
+147
+124
+23
+
+Nomura Holdings, Inc.
+Baa1
+117
+94
+23
+
+Nomura Securities Co., Ltd.
+A3
+109
+89
+20
+
+Mitsubishi Corporation
+A2
+60
+42
+19
+
+CDS Spread Decreases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+
+SK Hynix Inc.
+Baa2
+123
+147
+-23
+
+Hong Kong SAR, China, Government of
+Aa3
+25
+29
+-4
+
+SK Innovation Co. Ltd.
+Baa3
+162
+165
+-3
+
+East Japan Railway Company
+A1
+34
+35
+-1
+
+Asahi Group Holdings, Ltd.
+Baa1
+26
+26
+-1
+
+Coca-Cola Amatil Limited
+Baa1
+34
+35
+-1
+
+DBS Bank Ltd.
+Aa1
+38
+38
+0
+
+Chorus Limited
+Baa2
+89
+89
+0
+
+Amcor Pty Ltd
+Baa2
+118
+118
+0
+
+MTR Corporation Limited
+Aa3
+39
+39
+0
+
+Source: Moody's, CMA
+
+Figure 5.  CDS Movers - APAC (June 29, 2022 – July 6, 2022)
+
+CDS Implied Ratings
+
+CDS Implied Ratings
+
+CDS Spreads 
+
+CDS Spreads 
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+19 
+
+ISSUANCE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+
+700
+
+1,400
+
+2,100
+
+2,800
+
+0
+
+700
+
+1,400
+
+2,100
+
+2,800
+
+Jan
+Feb Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+Issuance ($B)
+Issuance ($B)
+2018
+2019
+2020
+2021
+2022
+
+Source:  Moody's  / Dealogic
+
+Figure 6. Market Cumulative Issuance - Corporate & Financial Institutions: USD Denominated
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1,000
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1,000
+
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+Issuance ($B)
+Issuance ($B)
+2018
+2019
+2020
+2021
+2022
+
+Source:  Moody's / Dealogic
+
+Figure 7. Market Cumulative Issuance - Corporate & Financial Institutions: Euro  Denominated
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+20 
+
+ISSUANCE 
+
+ 
+
+ 
+
+ 
+
+Investment-Grade
+High-Yield
+Total*
+
+Amount
+Amount
+Amount
+
+$B
+$B
+$B
+
+Weekly
+11.499
+0.788
+13.075
+Year-to-Date
+805.305
+98.174
+930.820
+
+Investment-Grade
+High-Yield
+Total*
+
+Amount
+Amount
+Amount
+
+$B
+$B
+$B
+
+Weekly
+5.597
+0.462
+6.081
+Year-to-Date
+448.066
+27.072
+482.798
+* Difference represents issuance with pending ratings.
+Source: Moody's/ Dealogic
+
+USD Denominated
+
+Euro Denominated
+
+Figure 8. Issuance: Corporate & Financial Institutions
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+21 
+
+To order reprints of this report (100 copies minimum), please call 212.553.1658. 
+ 
+
+ 
+
+Report Number: 1335998 
+Contact Us 
+
+ 
+
+Editor 
+Reid Kanaley 
+help@economy.com 
+
+Americas 
++1.212.553.1658 
+clientservices@moodys.com 
+
+Europe 
++44.20.7772.5454 
+clientservices.emea@moodys.com 
+
+Asia (Excluding Japan) 
++85 2 2916 1121 
+clientservices.asia@moodys.com 
+
+Japan 
++81 3 5408 4100 
+clientservices.japan@moodys.com 
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK 
+22 
+
+ 
+
+ 
+
+© 2022 Moody’s Corporation, Moody’s Investors Service, Inc., Moody’s Analytics, Inc. and/or their licensors and affiliates (collectively, “MOODY’S”). All rights reserved. 
+ 
+CREDIT RATINGS ISSUED BY MOODY'S CREDIT RATINGS AFFILIATES ARE THEIR CURRENT OPINIONS OF THE RELATIVE FUTURE CREDIT RISK OF ENTITIES, 
+CREDIT COMMITMENTS, OR DEBT OR DEBT-LIKE SECURITIES, AND MATERIALS, PRODUCTS, SERVICES AND INFORMATION PUBLISHED BY MOODY’S 
+(COLLECTIVELY, “PUBLICATIONS”) MAY INCLUDE SUCH  CURRENT OPINIONS. MOODY’S DEFINES CREDIT RISK AS THE RISK THAT AN ENTITY MAY NOT 
+MEET ITS CONTRACTUAL FINANCIAL OBLIGATIONS AS THEY COME DUE AND ANY ESTIMATED FINANCIAL LOSS IN THE EVENT OF DEFAULT OR 
+IMPAIRMENT. SEE APPLICABLE MOODY’S RATING SYMBOLS AND DEFINITIONS PUBLICATION FOR INFORMATION ON THE TYPES OF CONTRACTUAL 
+FINANCIAL OBLIGATIONS ADDRESSED BY MOODY’S CREDIT RATINGS. CREDIT RATINGS DO NOT ADDRESS ANY OTHER RISK, INCLUDING BUT NOT 
+LIMITED TO: LIQUIDITY RISK, MARKET VALUE RISK, OR PRICE VOLATILITY. CREDIT RATINGS, NON-CREDIT ASSESSMENTS (“ASSESSMENTS”), AND  OTHER 
+OPINIONS INCLUDED IN MOODY’S PUBLICATIONS ARE NOT STATEMENTS OF CURRENT OR HISTORICAL FACT. MOODY’S PUBLICATIONS MAY ALSO 
+INCLUDE QUANTITATIVE MODEL-BASED ESTIMATES OF CREDIT RISK AND RELATED OPINIONS OR COMMENTARY PUBLISHED BY MOODY’S ANALYTICS, 
+INC. AND/OR ITS AFFILIATES. MOODY’S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND PUBLICATIONS DO NOT CONSTITUTE OR PROVIDE 
+INVESTMENT OR FINANCIAL ADVICE, AND MOODY’S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND  PUBLICATIONS ARE NOT AND DO NOT 
+PROVIDE RECOMMENDATIONS TO PURCHASE, SELL, OR HOLD PARTICULAR SECURITIES. MOODY’S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS 
+AND  PUBLICATIONS DO NOT COMMENT ON THE SUITABILITY OF AN INVESTMENT FOR ANY PARTICULAR INVESTOR. MOODY’S ISSUES ITS CREDIT 
+RATINGS, ASSESSMENTS AND OTHER OPINIONS AND PUBLISHES  ITS PUBLICATIONS WITH THE EXPECTATION AND UNDERSTANDING THAT EACH 
+INVESTOR WILL, WITH DUE CARE, MAKE ITS OWN STUDY AND EVALUATION OF EACH SECURITY THAT IS UNDER CONSIDERATION FOR PURCHASE, 
+HOLDING, OR SALE.  
+
+MOODY’S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS, AND PUBLICATIONS ARE NOT INTENDED FOR USE BY RETAIL INVESTORS AND IT WOULD BE RECKLESS 
+AND INAPPROPRIATE FOR RETAIL INVESTORS TO USE MOODY’S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS OR  PUBLICATIONS WHEN MAKING AN 
+INVESTMENT DECISION. IF IN DOUBT YOU SHOULD CONTACT YOUR FINANCIAL OR OTHER PROFESSIONAL ADVISER. 
+ 
+ALL INFORMATION CONTAINED HEREIN IS PROTECTED BY LAW, INCLUDING BUT NOT LIMITED TO, COPYRIGHT LAW, AND NONE OF SUCH INFORMATION MAY BE 
+COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR 
+SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT 
+MOODY’S PRIOR WRITTEN CONSENT. 
+ 
+MOODY’S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND PUBLICATIONS ARE NOT INTENDED FOR USE BY ANY PERSON AS A BENCHMARK AS THAT TERM IS 
+DEFINED FOR REGULATORY PURPOSES AND MUST NOT BE USED IN ANY WAY THAT COULD RESULT IN THEM BEING CONSIDERED A BENCHMARK. 
+ 
+All information contained herein is obtained by MOODY’S from sources believed by it to be accurate and reliable. Because of the possibility of human or mechanical error as 
+well as other factors, however, all information contained herein is provided “AS IS” without warranty of any kind. MOODY'S adopts all necessary measures so that the 
+information it uses in assigning a credit rating is of sufficient quality and from sources MOODY'S considers to be reliable including, when appropriate, independent third-party 
+sources. However, MOODY’S is not an auditor and cannot in every instance independently verify or validate information received in the rating process or in preparing its 
+Publications.  
+ 
+To the extent permitted by law, MOODY’S and its directors, officers, employees, agents, representatives, licensors and suppliers disclaim liability to any person or entity for 
+any indirect, special, consequential, or incidental losses or damages whatsoever arising from or in connection with the information contained herein or the use of or inability to 
+use any such information, even if MOODY’S or any of its directors, officers, employees, agents, representatives, licensors or suppliers is advised in advance of the possibility of 
+such losses or damages, including but not limited to: (a) any loss of present or prospective profits or (b) any loss or damage arising where the relevant financial instrument is 
+not the subject of a particular credit rating assigned by MOODY’S. 
+ 
+To the extent permitted by law, MOODY’S and its directors, officers, employees, agents, representatives, licensors and suppliers disclaim liability for any direct or 
+compensatory losses or damages caused to any person or entity, including but not limited to by any negligence (but excluding fraud, willful misconduct or any other type of 
+liability that, for the avoidance of doubt, by law cannot be excluded) on the part of, or any contingency within or beyond the control of, MOODY’S or any of its directors, 
+officers, employees, agents, representatives, licensors or suppliers, arising from or in connection with the information contained herein or the use of or inability to use any such 
+information. 
+ 
+NO WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, TIMELINESS, COMPLETENESS, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OF ANY 
+CREDIT RATING, ASSESSMENT, OTHER OPINION OR INFORMATION IS GIVEN OR MADE BY MOODY’S IN ANY FORM OR MANNER WHATSOEVER. 
+ 
+Moody’s Investors Service, Inc., a wholly-owned credit rating agency subsidiary of Moody’s Corporation (“MCO”), hereby discloses that most issuers of debt securities 
+(including corporate and municipal bonds, debentures, notes and commercial paper) and preferred stock rated by Moody’s Investors Service, Inc. have, prior to assignment of 
+any credit rating, agreed to pay to Moody’s Investors Service, Inc. for credit ratings opinions and services rendered by it fees ranging from $1,000 to approximately $5,000,000. 
+MCO and Moody’s Investors Service also maintain policies and procedures to address the independence of Moody’s Investors Service credit ratings and credit rating processes. 
+Information regarding certain affiliations that may exist between directors of MCO and rated entities, and between entities who hold credit ratings from Moody’s Investors 
+Service and have also publicly reported to the SEC an ownership interest in MCO of more than 5%, is posted annually at www.moodys.com under the heading “Investor 
+Relations — Corporate Governance — Director and Shareholder Affiliation Policy.”   
+ 
+Additional terms for Australia only: Any publication into Australia of this document is pursuant to the Australian Financial Services License of MOODY’S affiliate, Moody’s 
+Investors Service Pty Limited ABN 61 003 399 657AFSL 336969 and/or Moody’s Analytics Australia Pty Ltd ABN 94 105 136 972 AFSL 383569 (as applicable). This document 
+is intended to be provided only to “wholesale clients” within the meaning of section 761G of the Corporations Act 2001. By continuing to access this document from within 
+Australia, you represent to MOODY’S that you are, or are accessing the document as a representative of, a “wholesale client” and that neither you nor the entity you represent 
+will directly or indirectly disseminate this document or its contents to “retail clients” within the meaning of section 761G of the Corporations Act 2001. MOODY’S credit rating 
+is an opinion as to the creditworthiness of a debt obligation of the issuer, not on the equity securities of the issuer or any form of security that is available to retail investors. 
+ 
+Additional terms for Japan only: Moody's Japan K.K. (“MJKK”) is a wholly owned credit rating agency subsidiary of Moody's Group Japan G.K., which is wholly owned by 
+Moody’s Overseas Holdings Inc., a wholly owned subsidiary of MCO. Moody’s SF Japan K.K. (“MSFJ”) is a wholly owned credit rating agency subsidiary of MJKK. MSFJ is not a 
+Nationally Recognized Statistical Rating Organization (“NRSRO”). Therefore, credit ratings assigned by MSFJ are Non-NRSRO Credit Ratings. Non-NRSRO Credit Ratings are 
+assigned by an entity that is not a NRSRO and, consequently, the rated obligation will not qualify for certain types of treatment under U.S. laws. MJKK and MSFJ are credit 
+rating agencies registered with the Japan Financial Services Agency and their registration numbers are FSA Commissioner (Ratings) No. 2 and 3 respectively. 
+ 
+MJKK or MSFJ (as applicable) hereby disclose that most issuers of debt securities (including corporate and municipal bonds, debentures, notes and commercial paper) and 
+preferred stock rated by MJKK or MSFJ (as applicable) have, prior to assignment of any credit rating, agreed to pay to MJKK or MSFJ (as applicable) for credit ratings opinions 
+and services rendered by it fees ranging from JPY100,000 to approximately JPY550,000,000. 
+ 
+MJKK and MSFJ also maintain policies and procedures to address Japanese regulatory requirements. 
+ 
+
+ 

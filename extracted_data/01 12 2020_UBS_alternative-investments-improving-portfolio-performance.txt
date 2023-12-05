@@ -1,0 +1,3802 @@
+For marketing purposes
+For professional / qualified / 
+institutional clients and investors only
+December 2020
+
+Alternative 
+Investments
+
+Improving portfolio performance | UBS Asset Management
+
+Louis D. Finney, Co-Head of Strategic Asset Allocation Modeling
+Michele Gambera, Co-Head of Strategic Asset Allocation Modeling
+2
+3
+
+Table of contents
+
+Page
+
+1
+Introduction
+4
+
+1.1
+Who invests in alternatives
+
+1.2
+Market size
+
+1.3
+Historic risk and return: Alternatives and traditional asset classes
+
+1.4
+The liquidity risk premium and appraised versus economic risk
+
+2
+Real Estate
+11
+
+2.1
+Real estate performance
+
+3
+Private Equity
+14
+
+3.1
+Cash flows and the J-curve
+
+3.2
+Performance
+
+3.3
+Private credit
+
+3.4
+Natural resources, energy and timber/farmland
+
+4
+Infrastructure
+21
+
+4.1
+Cash flow characteristics of infrastructure funds
+
+4.2
+Performance
+
+5
+Hedge Funds
+23
+
+5.1
+Hedge fund performance
+
+6
+Commodities
+25
+
+6.1
+Gold
+
+6.2
+Commodities and gold as inflation hedges
+
+6.3
+Summary
+
+7
+Integration with traditional asset classes
+28
+
+7.1
+Formulating return and risk expectations
+
+7.2
+Managing cash flows
+
+7.3
+Implementation and practical issues
+
+8
+Summary
+31
+
+9
+References
+32
+4
+
+1. Introduction
+
+“ How are investors adjusting their allocation to alternatives, 
+
+and what are the results? In this paper we will look at 
+the size and variety of alternative investment categories, 
+expected returns and risk, and how investors can 
+incorporate them into their portfolios.“
+
+The last 30 years have seen a steady growth and acceptance 
+of alternative asset classes in institutional portfolios as 
+investors seek diversified sources of income and return. These 
+asset classes are sometimes called illiquid or private asset 
+classes because one important characteristic is that they are 
+not publicly listed in markets or no active dealer market exists. 
+Past success of these asset classes, continuous innovation, 
+and the ongoing low interest rate environment are the main 
+drivers of this growth.
+
+One way to divide the alternative universe is into private 
+capital investments and other strategic investments. Within 
+private capital there are real estate, private equity, private 
+debt, and infrastructure and natural resource investments. 
+The two strategic investment categories that we consider are 
+hedge funds and commodities.
+
+The largest sectors of the alternatives world are private equity, 
+real estate and hedge funds with private debt gradually 
+getting more attention and fund flows. 
+
+One characteristic of alternatives is that these assets classes 
+are far more difficult to implement. Except for commodities, 
+there are no low-cost index funds. They require higher levels 
+of oversight and management than those offered in the public 
+markets. Additionally, due to the closed-end nature of many 
+of the investments, continuous search costs are necessary, 
+thus requiring either sophisticated staffs to build and maintain 
+these portfolios or high out-sourcing costs. Hedge funds 
+require a high degree of active management both at the fund 
+level and the total portfolio level.
+
+How are investors adjusting their allocation to alternatives, 
+and what are the results? In this paper we will look at the size 
+and variety of alternative investment categories, expected 
+returns and risk, and how investors can incorporate them into 
+their portfolios.
+
+There are many ways to classify alternatives. Like the public 
+markets, there are equity funds and debt funds, but what 
+really distinguishes them from the public markets is their 
+liquidity, which ranges from illiquid investments requiring a 
+years-long commitment to markets with near daily liquidity.
+
+Exhibit 1: The alternative assets universe
+
+Illiquid
+Growth
+Debt
+Other
+
+Mostly closed-end funds with few if any transactions at NAV.
+
+Performance measures: IRRs, DPIs, PMEs.
+
+Analytic tools:  Cash flow models with contributions and 
+distributions.
+
+ – Traditional private equity 
+Venture capital, buyout, 
+growth
+ – Infrastructure
+ – Real estate 
+Opportunistic, value-added
+
+ – Distressed
+ – Private credit/direct 
+lending
+ – Mezzanine
+ – Mortgage
+ – Infrastructure
+
+ – Some hedge funds
+
+Semi-liquid
+Growth
+Debt
+Other
+
+Mostly open-end funds with some transactions at NAV. 
+Quarterly liquidity available, queues possible.
+
+Preformance measures: TWRR from appraised NAVs.
+
+Analytic tools: Mean variance somewhat helpful.
+
+ – Core real estate
+ – Mortgage
+ – Leveraged loans
+ – Most hedge funds
+
+Very liquid
+Growth
+Debt
+Other
+
+Market pricing, near daily liquidity.
+
+Performance measures: TWRR on market transactions.
+
+Analytic tools: Mean variance very helpful.
+
+ – Commodities
+ – Liquid hedge fund 
+strategies
+5
+
+Because of illiquidity, many of these asset classes don't have 
+actual transactions to assess short term performance. Instead, 
+they rely on net-asset-values (NAVs) based on appraisals, 
+which can distort short run performance. For long term 
+performance, these asset classes rely on cash flows with 
+the traditional measure being the internal-rate-of-return 
+(IRR). Other measures such as the Public Market Equivalent 
+(PME) are gaining attention. Right now, it is still very difficult 
+to obtain good measures of risk in these asset classes to 
+compare to traditional asset classes.
+
+Another feature of alternatives is the almost exclusive reliance 
+on active management. Commodities are the only alternative 
+asset class that can run systematic or passive strategies at low 
+cost. This adds on an additional layer of risk in these asset 
+classes: manager performance.
+
+By and large, the historic performance of alternatives has been 
+in line with expectations with return and risk profiles that 
+can help investors build better portfolios. Going forward, we 
+expect more muted returns, in part due to the current market 
+conditions that we see in the public markets (low interest 
+rates and potentially stretched valuations in equities), but also 
+because of the enormous amounts of capital that has flown 
+into these sectors.
+
+1.1. Who invests in alternatives?
+At the institutional level, we see four groups of major 
+investors into alternatives: large public funds, endowments, 
+growth-oriented sovereign wealth funds and family offices.
+
+The most aggressive users are US university endowments, 
+some with allocations as high as 60%. Yale University started 
+this trend in the 1980s and is now over 75% invested in 
+alternatives. It is the norm to see 40% to 60% allocations 
+to alternatives in large endowments. Global family offices 
+allocated an average 37% to a variety of alternatives 
+according to a recent survey1. Mega funds like large public 
+pension plans and sovereign wealth funds typically allocate 
+15% to 25% to alternatives and are considering increasing 
+their alternatives allocation.
+
+Private (corporate) defined benefit pension plans in the US are 
+smaller players in alternatives as they are gradually adopting 
+liability-driven investing. In the defined contribution market, 
+historically US plans have been negligible players, but recent 
+regulation encourages some innovation. Superannuation 
+funds in Australia have been more receptive to alternatives, 
+but still have very small allocations. In aggregate, the 
+insurance market is huge, so even small allocations of 1% 
+means they are significant players, but they tend to focus on 
+real estate and debt funds and shy away from private equity 
+and hedge funds. Statutory reserve requirements in the 
+insurance industry make meaningful allocations to alternatives 
+problematic for general accounts. 
+
+Exhibit 2: Alternatives allocations by sample investors
+
+Type
+Public pension plans
+Sovereign wealth fund
+University endowment
+Global family office
+
+Entity
+CalPERS
+GIC (Singapore)
+Yale University
+121 surveyed
+
+Size (in billions USD)
+355.8
+>100
+30
+1.6 (average)
+
+Date
+March 2020
+March 2020
+June 2019
+May 2020
+
+Allocation (%)
+ 
+ 
+ 
+ 
+
+Equities
+49
+30
+17
+29
+
+Fixed income & Cash
+31
+50
+7
+30
+
+Other
+–
+– 
+– 
+6
+
+Alternatives
+ 
+ 
+ 
+ 
+
+Private equity
+8
+13
+38
+16
+
+Infrastructure
+–
+–
+–
+–
+
+Real estate/real assets
+13
+7
+10
+14
+
+Natural resources
+–
+–
+6
+–
+
+Hedge funds
+–
+–
+23
+5
+
+Commodities
+–
+–
+–
+–
+
+Alternatives as % of portfolio
+20
+20
+77
+35
+
+1 The Global Family Office Report 2020, UBS Global Wealth Management, July 2020.
+6
+
+1.2. Market size 
+We look at several measures when we estimate the size 
+and opportunity set of the alternative market. We have to 
+combine various types of data often with different dates and 
+some of which will overlap with the public markets (hedge 
+funds, for example), and others which are based on fund 
+level data, not security level data (which can also overlap with 
+market measures).  Thus, getting an estimate of the size of the 
+alternative universe is not easy.
+
+First, we look at the public equity and fixed income markets. 
+As of June 2020, we estimate the size of the public equity 
+market at USD 53 trillion and the fixed income market at 
+USD62.9 trillion, which gives a total of about USD116 trillion 
+of public assets of debt and equity. Additionally, for December 
+2019 we have estimates of USD9.55 trillion of direct real 
+
+estate assets and about USD3.0 trillion held in gold. To this 
+opportunity set, we can add the closed-end funds of private 
+assets (private equity, private debt, infrastructure and natural 
+resources) of about USD4.8 trillion.
+
+Thus, we define the Base Market as the sum of the public 
+assets, direct real estate and closed-end funds, which is 
+approximately USD134 trillion.
+
+We now add in hedge funds, and open-end real estate 
+and commodity funds. But hedge funds are generally 
+using existing public assets and real estate funds consist 
+of existing real estate investments; thus, we are technically 
+double counting the opportunity set when we include them. 
+Commodity funds, which we estimate to be about USD250 
+billion are another nuance to deal with.
+
+Exhibit 3: The opportunity set for institutional investors (in USD billions)
+
+Base 
+market
+Additional 
+strategies
+Dry 
+powder
+
+ 
+
+1
+% of base 
+market
+
+ 
+
+2
+
+Public Equities3
+52,956
+–
+–
+39.5%
+
+Public fixed income4
+63,929
+–
+–
+47.6%
+
+Private Real Estate5
+9,553
+–
+–
+7.1%
+
+Hedge funds6
+–
+3,177
+–
+2.4%
+
+Commodities7
+–
+250
+–
+0.2%
+
+Gold8
+3,000
+–
+–
+2.2%
+
+Closed-End Funds1
+
+Private Equity
+3,202
+1,534
+2.4%
+
+Infrastructure
+420
+223
+0.3%
+
+Private debt
+576
+269
+0.4%
+
+Natural resources 
+557
+256
+0.4%
+
+Real estate 
+–
+704
+364
+0.5%
+
+Total9
+134,193
+4,131
+2,646
+103.1%
+
+Total alternatives
+
+Private Real Estate
+–
+–
+9,553
+–
+
+Hedge Funds
+–
+–
+3,177
+–
+
+Commodities
+–
+–
+250
+–
+
+Gold
+–
+–
+3,000
+–
+
+Private Equity
+–
+–
+3,202
+–
+
+Infrastructure
+–
+–
+420
+–
+
+Private Debt
+–
+–
+576
+–
+
+Natural Resources
+–
+–
+557
+–
+
+Total
+–
+–
+20,735
+15.5%
+
+1  Preqin data, Dec 2019
+2   Percentage of Base Market or Additional 
+
+Strategies to Total of Base Markets
+
+3  FTSE World, June 2020
+4  Bloomberg Barclays Multiverse June 2020
+5  MSCI IPS data December 2019
+6  HFRI June 2020
+7  UBS AM estimate
+8  World Gold Council, Jan 2020
+9   Due to additional funds and overlaps, 
+
+total will be be greater than 100%
+7
+
+Still we can compare the total size of the alternative 
+marketplace of by adding in the Base Market alternatives with 
+the hedge funds and commodity funds, and real estate funds.
+
+In aggregate we estimate the size of the alternative market for 
+institutional investors to be about USD20.7 trillion or about 
+15.5% of the Base Market. Other measures of market size are 
+fundraising and committed cash that has not been called (aka 
+- dry powder). There is a huge amount of dry powder in this 
+segment – USD2.6 trillion. 
+
+Another measure of the market is the amount of fund raising. 
+As shown in Exhibit 4, fundraising is highly cyclical, rising 
+rapidly in bull markets and dropping in the aftermath of bear 
+markets.
+
+Traditionally, the private credit markets consisted of 
+mezzanine, distressed debt and real estate mortgages. In 
+the last dozen years, the biggest growth in the private debt 
+market is in direct lending, driven by post-financial crisis bank 
+lending restrictions and attractive returns. It has gone from 
+years of below USD1 billion in fundraising in early 2000s to 
+years of USD25 billion (peak of USD59 billion in 2017).
+
+Exhibit 4: Fundraising by year
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+20201
+2019
+2018
+
+Private Equity
+
+Fund Raising in USD billions
+
+Real Estate
+Private Debt
+Infrastructure
+Natural Resources
+
+1 Year to date as of 30 August 2020
+Source: Preqin
+8
+
+1.3  Historic risk and return: 
+
+Alternatives and traditional asset classes
+
+Exhibit 5 presents historical performance statistics of some 
+major traditional and alternative assets. These statistics convey 
+some of the important relationships in alternative investments. 
+
+• Private equity is expected to have a higher return than 
+
+public equities. The differential here is over 4% and volatility 
+reflects appraised value volatility, not economic risk of 
+illiquidity and leverage. This 4% premium is supported by 
+comparing median IRRs with 6-year rolling performance of 
+equity markets.
+
+• Unlevered property has a return and risk between stocks 
+
+and bonds.
+
+• Not shown, but as this sector leverages up (e.g., in 
+
+opportunistic funds), the returns and risks approach 
+equities.
+
+• A diversified portfolio of hedge funds has bond-like 
+
+volatility and bond-like return and a beta around 0.3 to the 
+equity market.
+
+• Commodities have equity-like volatility, returns around cash 
+
+and a low, but positive correlation with equities.
+
+However, we need to be careful how we interpret these 
+performance numbers. Estimating alternatives performance 
+is complicated by what is called 'stale pricing,' the slow 
+adjustment of appraised valuations embedded in the net asset 
+value (NAV). The result is that the volatility based on NAVs – 
+especially those that do not trade – is lower than what the 
+market (or economic) volatility would be based on market 
+transactions. There are also issues about survivor-bias and 
+selection-bias in the indices because fund managers are not 
+required to disclose their returns publicly.
+
+Exhibit 5: Summary statistics: 1Q 1994-1Q2020
+
+Private 
+Equity
+Real 
+Estate
+Hedge 
+Funds
+Comm- 
+odities
+T-Bills
+10-year 
+Treasury
+S&P 
+500
+
+Estimates based on quarterly returns
+
+Geometric Return
+13.7
+9.2
+4.3
+1.2
+2.3
+5.4
+8.9
+
+Arithmetic Return
+13.6
+8.9
+4.5
+2.7
+2.3
+5.6
+9.9
+
+Standard Deviation
+10.1
+4.1
+7.0
+16.7
+1.0
+8.2
+16.1
+
+Quarterly Serial Correlation
+0.35
+0.85
+0.19
+0.16
+0.98
+-0.01
+0.01
+
+Equity correlation
+0.77
+0.20
+0.72
+0.30
+0.03
+-0.48
+1.00
+
+Equity beta
+0.48
+0.05
+0.31
+0.31
+0.00
+-0.24
+1.00
+
+Skew
+-0.6
+-2.9
+-0.7
+-0.9
+0.3
+0.7
+-0.7
+
+Kurtosis
+2.4
+11.8
+3.2
+2.0
+-1.5
+0.7
+0.7
+
+Estimates based on annual returns
+
+Standard Deviation
+14.8
+7.5
+8.3
+18.0
+2.0
+7.2
+17.3
+
+Annual Serial Correlation
+0.20
+0.35
+-0.12
+-0.01
+0.85
+-0.21
+0.20
+
+Equity Correlation
+0.80
+0.28
+0.65
+0.29
+0.10
+-0.34
+1.00
+
+Equity Beta
+0.68
+0.13
+0.31
+0.29
+0.01
+-0.14
+1.00
+
+Skew
+-0.7
+-2.4
+-0.1
+-0.4
+0.3
+0.0
+-0.7
+
+Data 
+Private Equity
+Property
+Hedge Funds
+Commod
+T-Bills
+10-yr Treasury
+S&P 500
+
+Cambridge Associates US Private Equity
+NCREIF Property
+HFRI Fund of Funds Composite USD
+Bloomberg Commodity TR USD
+FTSE Treasury Bill 1 Mon USD
+BBgBarc US Trsy Bellwethers 10Y TR USD
+S&P 500 TR USD
+
+Source: Morningstar Direct. Analysis by UBS Asset Management. Data as of 30 June 2020.
+9
+
+To get a sense of how large this impact could be, we provide 
+two estimates of volatility and serial correlation for alternatives 
+over the last 26 years: one based on quarterly data and one 
+based on rolling annual estimates.
+
+Note that the serial correlations based on quarterly data are 
+quite high, especially for property. We believe this is a sign 
+of stale pricing. Cash has a different serial correlation issue 
+as central banks have large control over these yields and 
+subsequent returns. When we simply look at annual data, 
+serial correlation declines.
+
+Once we move to annual estimates, we have notable increases 
+in the volatility of private equity (from 10.1% to 14.8%), 
+unlevered property (4.1% to 7.5%) and hedge funds (7.0% to 
+8.3%). We believe annual estimates provide clearer insight, 
+but still don't reflect all the risks associated with alternatives.
+
+Additional items to consider are the equity correlation and 
+equity beta. When adjusted to the annual level, we see private 
+equity having an equity correlation rising from 0.77 to 0.80 
+and equity betas rise from 0.48 to 0.68.
+
+Real estate exhibits a similar pattern in relationship to equities, 
+though more muted. The quarterly data shows a lower 
+correlation than the annual data (0.20 compared to 0.28) and 
+equity beta increases from 0.05 to 0.13.
+
+These historic performance numbers give a good showing 
+of the relationship for returns, but not for risks. In particular, 
+because of the stale pricing problems, we believe that the 
+volatility of real estate and private equity underestimate the 
+true risks of these investments. We estimate an 'economic' 
+risk as opposed to NAV volatility. Hedge fund volatility 
+is a different issue, as the market is far more liquid and 
+competitive than the high growth era of the late 1990s and 
+early 2000s. 
+
+Exhibit 6: Return and risk: 1994–2020
+
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+10-year Treasury
+
+Hedge Funds
+
+Real Estate
+
+Cash
+
+S&P500
+
+Commodities
+
+Standard deviation %
+
+Arithmetic return %
+
+Private Equity
+
+Data provided by Morningstar Direct
+Analysis by UBS Asset Management. As of 30 June 2020.
+10
+
+1.4.  The liquidity risk premium and appraised versus 
+
+economic risk
+
+Compensation for illiquidity is one of the rationales for 
+higher expected returns in alternative investments. From the 
+demand side, by giving up the option to sell at the investor's 
+convenience, the investor is meant to be rewarded with higher 
+cash flows. 
+
+However, demand for a premium must be supplied by some 
+economic mechanism and it is these economic risks that 
+we should be measuring and managing, not the appraised 
+ones. There are many mechanisms through which alternative 
+managers can create these transformations, especially when 
+aided by explicit rules limiting when pay-outs can occur 
+(thus, eliminating market pricing as well as panic selling by 
+investors). The most obvious way to model this transformation 
+
+mechanism is simple leverage in the equity or fixed income 
+markets without the constraint of margin management. Other 
+methods are to take on maturity mismatches or substitute 
+with higher levels of credit risk. A final mechanism may be 
+used of various option writing strategies that can produce 
+high Sharpe ratios in the short and intermediate run, but have 
+tremendous downside risk when tail-events happen.
+
+We believe that the economic measure of risk is most 
+important for investors. This economic risk will include 
+underlying exposures (leverage, credit) as well as the indirect 
+costs of illiquidity. 
+
+We also provide estimates of appraised volatility, as investors 
+will be interested in how volatile the reported funds and total 
+portfolio will be1.
+
+1  In fact, a few academics are skeptical of any real advantage of private assets and allege that the true appeal is the lower reported volatility. 
+
+See Ilmanen et. al. 2020.
+11
+
+2. Real estate
+
+Even though it has features of both equity and fixed income, 
+private real estate1 behaves differently than these asset 
+classes. It starts with the contractual nature of real estate, 
+which is always a tangible asset (physical ownership of land 
+or buildings), while corporate ownership can consist of non-
+tangible capital such as patents and software. This limits the 
+potential scalability of real estate compared to equities. 
+
+The historical experience of real estate in the US is quite good. 
+As Exhibit 6 shows, unlevered institutional real estate has had 
+equity like-returns over the long run. Volatility – admittedly 
+distorted by the appraisal process, but getting better – is quite 
+low. We don’t expect such stellar performance going forward, 
+but even with lower returns and higher volatility, real estate 
+clearly deserves strong consideration in portfolios.
+
+One empirical advantage of real estate is its historically low 
+correlation with equities – around 0.2 to 0.3 – and it has at 
+times had its own distinct cycle. We can easily find periods 
+where equities behave quite differently, namely the real 
+estate bust of the 1980s and the tech bust of the early 2000s. 
+On the other hand, both real estate and equities had large 
+declines around the Global Financial Crisis (GFC).
+
+An additional feature of the private real estate market and its 
+vehicle structure is that it allows the use of leverage to improve 
+the return profile. This leverage would be difficult for individual 
+investors, but can be effectively implemented and managed by 
+professionals. As we move up in leverage, we see smaller fund 
+sizes and greater concentration in speculative ventures. 
+
+At the most basic level, all existing commercial property 
+could be available for purchase, but in practice, only part of 
+the market is actually investable by institutional investors. 
+When estimating the size of the real estate market, we 
+look at the market at two levels. The broadest measure is 
+basic property market as measured by the MSCI IPS data. In 
+practice, however, most institutional investors access the real 
+estate market through actively managed funds2. In turn, these 
+actively managed funds can be divided into two classes: open-
+ended (or evergreen) funds and close-ended funds, which 
+have a planned time horizon in which to return all assets to 
+investors.
+
+In practice, real estate is highly dependent on location and 
+property type and diversified portfolios focus on balancing 
+these bets. Typical property types are office, apartments, 
+retail, and industrial. Another distinct feature of real estate is 
+the different measures of valuation than equity. Real estate 
+focuses on capitalization rates, which is more similar to a yield 
+(or inverted P/E ratio) and price per square foot, for example. 
+
+Real estate's illiquid nature makes all buying and selling 
+a negotiated process. It reinforces the long-term view of 
+investing. Investors in the most liquid vehicles (core funds) 
+should expect that it may take several quarters to sell 
+properties and redeem the fund's holdings. Value-added 
+and opportunistic investors will have to go to the secondary 
+market to sell their shares.
+
+Exhibit 7: The real estate cycle is distinct from equities
+Cumulative returns
+
+Period
+Real
+
+Estate
+
+S&P500
+
+RE down, 
+equities up
+
+Sep 1990 – Jun 1993
+-11.3
+46.5
+
+RE up, 
+equities down
+
+Mar 2000 – Sep 2002
+21.6
+-43.8
+
+Both down
+Global financial crisis*
+-37.8
+-45.8
+
+* For equities this is measured from Sept 2007 to March 2009
+ 
+
+For real estate this is measued from June 2008 to Dec 2009
+ 
+Real estate: NCREIF ODCE Index
+Source: Morningstar Direct. Analysis by UBS Asset Management
+
+Exhibit 8:
+Size of the private real estate market
+
+Type
+Source
+Size in billions 
+Dec 2019
+
+Direct
+MSCI Global Annual Property Index
+NCREIF National Property Index
+9,553
+659
+
+Open-end
+NCREIF Open-End Diversified 
+Core Equity
+176.4
+
+Funds
+NCREIF Open-End Equity
+232.7
+
+Size of closed-end real estate market
+
+Leverage
+AUM 
+Dec 2019
+Dry Powder 
+Sep 2019
+
+Core/Core Plus Funds
+15%-25%
+118.1
+45.8
+
+Value-added funds
+25%-40%
+176.4
+176.4
+
+Opportunistic funds
+40%+
+232.7
+232.7
+
+Debt
+128.7
+60.8
+
+Other
+48.1
+24.3
+
+Total Closed End
+704.0
+540.0
+
+Source: Preqin
+
+1  We clarify that we are talking about private real estate as opposed to 
+
+public real estate expressed in the REIT market. REITs behave more like 
+a small cap value stock: they have equity-like volatility (around 17% to 
+19%) and are part of many equity indices. Separating out REITs as an 
+asset class raises a problem of potential double counting.
+
+2  Some investors do invest directly without funds. We don't have good 
+
+measures of the extent and size of this market. 
+12
+
+2.1. Real estate performance
+When we look at performance of the real estate market 
+we need to differentiate between the open-end and the 
+closed-end markets. The best estimate of the basic real estate 
+market in the US is the National Property Index (NPI), which 
+represents unlevered property as reported by institutional 
+investors. The performance of this unlevered property index is 
+quite good on a NAV basis (i.e. appraised value). The returns 
+since 1994 have been 9.2% with a standard deviation of 
+7.5%, as measured through annualized returns.
+
+When we move into the performance of open ended funds, 
+the Open Diversified Core Equity (ODCE) from NCREIF is most 
+common benchmark and performs in line with the NPI. In the 
+last few years the ODCE index has had a higher return than 
+the NPI. We note that in down markets for real estate, the 
+ODCE index has underperformed. 
+
+For the performance of the closed-end sector, we look at 
+the IRRs of three groups: 1) Core and Core Plus Funds, 2) 
+Value-Added Funds, and 3) Opportunistic Funds. With one 
+exception, the performance is in line with what we expect: 
+riskier funds have higher IRRs. However, at the highest level of 
+risk, the Opportunistic funds performs slightly below Value-
+Added funds. 
+
+Other observations about real estate performance:
+– ODCE: The effect of leverage is noticeable on the downside 
+
+and upside for the ODCE set of funds. In the latest bull 
+market (2010-2015), these funds provided a return 1.3% 
+above the unlevered benchmark net-of-fees. In the brief 
+down market (2004-2007), they underperformed by -3.9%. 
+
+– This is consistent with the negative skewness between the 
+
+indices. Note that the ODCE has a larger negative skewness 
+coefficient than the NPI. 
+
+– For closed-end funds, Core and Value-Added funds have 
+
+performed as expected, with both sectors doing quite well 
+at times. Opportunistic funds have struggled to keep up 
+with Value-added funds, but have beaten ODCE and Core 
+funds. The real outlier may be Value-Added funds with 
+strong performance in each time period.
+
+– The funds subsequent performance follows the market 
+
+performance by a one-year to 18-month lag. This makes sense 
+as closed-end funds are locked into the subsequent few years 
+of performance as capital gets called and redistributed. 
+
+Exhibit 9: Real estate median IRRs and performance
+Median IRR and subsequent 5-yr performance
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+
+NPI
+ODCE
+CorePlus
+Value-added
+Opportunistic
+
+2014
+2013
+2012
+2017
+2016
+2015
+2011
+2010
+2009
+2008
+
+Median IRR, 5-yr annualized return
+
+Source: Morningstar direct and Preqin. Analysis by UBS Asset Management. 31 December 2016.
+13
+
+The historic data suggest:
+– Core managers should earn a premium over unlevered 
+
+real estate.
+
+– Value-Added and Opportunistic funds earn a further 
+
+premium, but is has been inconsistent.
+
+In a sense, private real estate trades off positive skewness for 
+steadier income and moderate capital appreciation that should 
+be more correlated with inflation.1 This is supported by statistics 
+in the performance in Exhibit 6 real estate has the most negative 
+
+skewness of any of the asset classes as well as the highest 
+kurtosis for both the quarterly and annual estimates. The 
+inflation correlation is slightly better than other asset classes. 
+
+In summary, we see that real estate offers a different return 
+profile than equities and bonds. Without leverage, they 
+offer steady income with modest price appreciation; thus, 
+capping upside moves, and leaving some significant downside 
+risk. More aggressive strategies offer returns that approach 
+equities, but with commensurate risk.
+
+Exhibit 10: 5-year estimates of performance
+
+Direct or Open-end
+Closed-end funds
+
+Period
+Series
+Direct NPI
+Core ODCE
+Core-Plus
+Value Added
+Opportunistic
+
+Full 15-years
+Average2
+8.9
+8.2
+10.3
+12.7
+11.9
+
+2001-2015
+Differcence over NPI
+–
+-0.7
+1.4
+3.7
+3.0
+
+Pre-GFC
+Average2
+4.1
+0.3
+7.6
+1.4
+1.7
+
+2005-2006
+Differcence over NPI
+–
+-3.9
+3.4
+-2.7
+-2.4
+
+Post-GFC
+Average2
+10.5
+11.8
+12.3
+16.0
+14.6
+
+2009-2015
+Differcence over NPI
+–
+1.3
+1.8
+5.5
+4.1
+
+2 For NPI and ODCE, the data are the average of the rolling 5-year returns starting at the beginning of the year and ending 5-years later.
+  
+ 
+
+For the closed end funds, they are the median IRR by vintage year from Preqin database.
+
+Source: Morningstar direct and Preqin.  Analysis by UBS Asset Management.
+
+Real estate performance:
+2001 – 2015
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+Post Global Financial Crisis
+Pre Global Financial Crisis
+Full period
+
+Direct
+
+Average 5-yr perforamnce, Median IRRs
+
+Core
+Core-Plus
+Value-added
+Opportunistic
+
+Source: Morningstar direct and Preqin. Analysis by UBS Asset Management. 31 December 2016.
+
+1  However, the negative skewness could be a relic of the appraisal process. The data is very limited, but indices based purely on transactions don't show 
+
+the negative skewness (and of course have much higher volatility). It could be that in the appraisal process, gains are gradually written up over years, 
+while losses are written down over a matter of quarters. 
+14
+
+3. Private equity
+
+Given the track record shown in Exhibit 6, it is no surprise 
+that interest in private equity has boomed. Most private 
+equity investors are satisfied with their portfolios and we 
+expect slight increases in allocation by investors in the coming 
+decade.
+
+Private equity encompasses a large number of strategies and 
+niche markets. It can broadly be broken into three groups: 
+return-oriented strategies, debt strategies, and natural 
+resource strategies. Within return-oriented strategies, we 
+have the traditional buyout and venture cap funds with a new 
+category of growth funds. Within debt, we have distressed 
+debt, mezzanine and direct lending (private credit). Natural 
+resource funds include energy specific projects, timberland 
+and farmland and aim to provide better inflation protection.
+
+Buyout funds aim to buy poorly run public companies, take 
+them private, restructure them and then spin them off for 
+large profits. Historically, they have a controversial reputation 
+since the public targets often have entrenched management 
+or other stake-holders that resist change. Under private 
+ownership, management is relieved of public disclosure 
+requirements and can focus on restructuring the firm (both 
+on a capital and strategic plan basis). For leveraged buyouts, 
+the use of debt within their holdings further enhances the 
+potential return. More recently, the criticism has turned to 
+the excessive use of debt that leaves these firms vulnerable to 
+downturns.
+
+Venture capital investing looks to invest in completely new 
+firms and ideas with markets. The failure rate can be quite 
+high (well over 50%), but all it takes are a few 'home-runs' to 
+produce extraordinary returns.
+
+Many funds now focus on growth strategies. These strategies 
+provide additional financing, management and governance 
+assistance to propel an existing business onto the next stage. 
+Unlike buyout funds which sometimes has a confrontational 
+strategy with existing management of target companies, 
+growth strategies work with existing management. Growth 
+funds look for companies that are small and proven to be led 
+by talented entrepreneurs. They provide them with capital 
+and expertise to expand rapidly and secure larger market 
+share. Buyout funds typical involve significant management 
+changes and reorientation of business strategy. This growth 
+category is a mix of late-stage venture and limited buyout of 
+management. 
+
+Sometimes the credit vehicles of the private markets are 
+combined with the buy-out, growth and venture capital funds 
+in the definition of private equity. These credit niches of the 
+private equity market are:
+
+– Distressed investing. Distressed investing focuses on 
+
+purchasing debt of companies in or near default and 
+negotiating new structures. Given the low quality of the 
+debt held by these funds, we expect near equity return 
+from them, offset by high costs and delayed payoffs from 
+litigation and negotiation in the bankruptcy process 
+
+– Mezzanine financing. Mezzanine financing is junior debt 
+
+financing and should command a premium to compensate 
+for its lower status on the capital stack. They can include 
+warrants which add an equity-like upside option to the 
+returns. Thus, it is a sort of convertible bond, but applied to 
+private sector companies and outside some Securities and 
+Exchange Commission (SEC) registration.
+
+– Direct lending/private credit. Although it has always existed, 
+
+this sector boomed after the GFC as banks had to retreat in 
+lending that serviced smaller companies and family business 
+that urgently needed capital and were willing to pay higher 
+interest rates. It has now become a standard part of the 
+alternatives universe with explicit allocation targets at the 
+sub-asset class level by some large institutional investors.
+
+Finally, another subsector of the broad private asset class is 
+natural resources: Investments dedicated to specific segments 
+of energy, timber and farmland. Many investors have carved 
+out a 'Real Asset' or 'Inflation-protection' category in their 
+SAA and this type of natural resource fund can be a major 
+component.1
+
+3.1. Cash flows and the J-curve
+One of the unique features of private equity investing and 
+closed-end funds is the cash flow nature of the investment. 
+This has important implications in building and maintaining 
+allocations to private capital.
+
+When general partners launch a fund, they target a size and 
+market niche and begin fund raising. The fund-raising cycle is 
+finding investors (limited partners) to make current and future 
+cash flows. These limited partners make a commitment to the 
+fund and sign agreements about investing money into the 
+fund. Over time, these commitments are called (capital calls) 
+
+1 This real asset category would also include real estate, inflation-indexed bonds and commodities. 
+15
+
+as needed by the general partners and typically are done over 
+a three-year cycle, though in many cases the remaining calls 
+can take many years to be finished.
+
+For example a USD100 million fund with a 10-year life span. 
+Initially, limited partners put in 10.5% or USD10.5 million 
+into the fund. Over subsequent years the remaining USD89.5 
+million is put in with the vast majority done by the fourth year. 
+Payouts don't occur until year 2 (USD4 million), but increase 
+rapidly with the success of the fund and peak in year 6 at 
+USD33 million. 
+
+If we look at a graph of cash flows and net cash flows, we can 
+see the J-curve, which refers to the net cash flows in the first 
+five years. This is one of the features of private asset investing: 
+negative cash flows in the initial years with little to no positive 
+returns and a rapid reversal into positive cash flows if successful. 
+It means that funds cannot be evaluated in the first few years. 
+We use six years as the standard for evaluating private equity 
+(which is about how long it takes to build a mature portfolio).
+
+These net cash flows determine the internal rate of return 
+(IRR). In this case, the cash flows provide an 11.6% internal 
+rate of return. The total distributions are USD146 million, 
+which based on USD100 million of contributions, produces a 
+Distribution-to-Paid-In (DPI) ratio of 1.46.
+
+Typically, the contributions are done within three to four years, 
+though in some cases the final few percent of calls can take 
+much longer and are netted against distributions. The typical 
+'cash-weighted time of contributions' is about 2.5 years. Most 
+
+funds extend their life beyond 10-years. (The ideal case is a 
+10-year payout partnership with a one-year wind down of final 
+assets.) A few funds have lasted 20 years or more.
+
+Performance is greatly affected by the year the fund started 
+– the vintage year. This shouldn't be surprising as the 
+performance of public equities is also dependent on the time 
+period selected. One of the efforts in private investing is to 
+manage vintage year diversification. Unlike public markets, 
+where one can invest in an open-ended or evergreen vehicle, 
+private assets require constant recycling of assets and impose 
+high research and oversight costs.
+
+At the fund level, there are several measures of fund 
+performance. The most cited number is the 
+Internal-rate-of-return (IRR). The IRR is cash flow weighted 
+return and is calculated differently than the standard time-
+weighted rate of return used for public assets. There can be a 
+large discrepancy of gross IRR and net IRR due to fees.
+
+Other measures that investors focus on are distributions to 
+paid-in (DPI). This is simply the ratio of cumulative distributions 
+to cumulative capital committed (which does not consider 
+compounding of interest). A similar metric is the Net Multiple, 
+which adjusts for fees. Finally, there is the private market 
+equivalent (PME). The PME simply compares the performance 
+of the cash flows if they had been invested in the public 
+market instead of the particular partnership of portfolio of 
+partnerships. The result is a ratio of added (or detracted) value 
+compared to the market.
+
+Cash flows: The J-curve
+
+-40
+
+-30
+
+-20
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+3
+4
+5
+6
+7
+8
+9
+11
+10
+2
+1
+
+Contributions
+
+0
+
+Cash fow in millions USD
+
+Net cash
+Distributions
+
+Source: Preqin. Analysis by UBS Asset Management. 30 June 2020.
+
+Exhibit 11: Cash flows in millions USD
+
+Year
+Contributions
+Distributions
+Net cash flow
+
+0
+-10.5
+0.00
+-10.50
+
+1
+-16.5
+0.00
+-16.50
+
+2
+-23.5
+4.00
+-19.50
+
+3
+-27.5
+7.00
+-20.50
+
+4
+-18.5
+17.00
+-1.50
+
+5
+-3.5
+32.00
+28.50
+
+6
+0.0
+33.00
+33.00
+
+7
+0.0
+27.00
+27.00
+
+8
+0.0
+20.00
+20.00
+
+9
+0.0
+4.00
+4.00
+
+10
+0.0
+2.00
+2.00
+
+11
+0.0
+0.01
+0.01
+
+Key metrics
+IRR
+11.6%
+
+DPI
+1.46
+
+Source: Preqin. Analysis by UBS Asset Management. 30 June 2020.
+16
+
+3.2. Performance
+Historic performance bears out the higher return for private 
+equity over public equities. As this simple comparison of IRRs 
+by vintage years and subsequent six-year performance of the 
+S&P 500 shows, the median private equity fund outperformed 
+the public equity market by 5.5% per year. The strongest 
+period was the late 1990s during the tech boom with an 
+8.2% outperformance, but the mid-2000s also had strong 
+performance relative to the S&P 500. 
+
+However, after 2007 the performance has been lower and the 
+vintage 2008 year particularly struggled. When we take the 
+average premium of the last 10 years of data with six years 
+of history, we get an average premium of 2.1% – near the 
+2.0% premium that is the rule-of-thumb when thinking about 
+private equity.
+
+Exhibit 12a: Median net IRRs of private equity funds and subsequent 6-yr S&P 500 returns
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+2001
+1999
+1997
+1995
+1993
+1991
+1989
+
+Median
+S&P
+
+2015
+2013
+2011
+2017
+2009
+2007
+2005
+2003
+
+Internal Rate-of-Return (%)
+
+Source: Preqin. Analysis by UBS Asset Management. 31 December 2019.
+
+Exhibit 12b: Premium of IRRs of private equity funds and subsequent 6-yr S&P 500 returns
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+2001
+1999
+1997
+1995
+1993
+1991
+1989
+
+Average premium since 1989: 5.5%
+Average premium since 2004: 2.1%
+
+2015
+2013
+2011
+2017
+2009
+2007
+2005
+2003
+
+Internal Rate-of-Return (%)
+
+Source: Preqin. Analysis by UBS Asset Management. 31 December 2019.
+17
+
+Another feature of private equity is a huge disparity of 
+performance, much larger than seen in traditional public 
+equity portfolios. Exhibit 13 shows the wide range between 
+the 75th and 25th percentile IRRs by vintage year, a spread 
+which averaged 17.5%.  
+
+Like the equity market, timing is important. Early 1990s funds 
+that jumped into internet and tech stocks have the highest 
+returns. However, 1999 and 2000 vintages did poorly as 
+they invested into a declining and consolidating market. The 
+
+illiquid nature of private equity makes timing the market 
+near impossible, as capital calls can force investors to invest 
+in funds with shaky prospects once commitments are made 
+unless they want to risk their opportunity to invest in the 
+future. 
+
+Although we see private equity doing better than the public 
+markets, we don't have any good comparable risk measures 
+between the two asset classes, so risk-adjusted performance 
+is very hard to assess.
+
+Exhibit 13: Net IRRs of private equity funds
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+2001
+1999
+1997
+1995
+1993
+1991
+1989
+
+Median
+75%
+
+2015
+2013
+2011
+2017
+2009
+2007
+2005
+2003
+
+Internal Rate-of-Return (%)
+
+25%
+
+Source: Preqin. 31 December 2017.
+18
+
+3.3. Private credit
+There have always been credit aspects to the private equity 
+space: mezzanine financing and distressed debt, but a 
+different niche has emerged in the last 12 years: direct 
+lending. According to the Preqin database, direct lending 
+funds in 2006 totaled around USD1.0 billion and rose to 
+USD59.8 billion by 2017. 
+
+When banking regulation after the GFC tightened up capital 
+requirements, this left a market gap and non-bank pools 
+have capital have stepped in. These tend to focus more 
+
+on niche markets such as smaller, family-owned or single 
+entrepreneur enterprises that have become stretched due 
+to tax issues, mismatches of assets and liabilities, and other 
+unique circumstances. The other hallmark of these funds is 
+immediacy. These borrowers typically have enough assets, but 
+need a large amount of cash to refinance, make tax payments, 
+and settle family splits or similar large cash outflows. Because 
+of the immediacy needs and potential risks, private credit 
+funds can charge very high interest rates and generate equity-
+like returns at times.
+
+Exhibit 14a: Private debt median IRRs and US high yield yield-to-worst by vintage year
+
+0
+
+5
+
+10
+
+15
+
+20
+
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+
+IRR Median
+US High Yield yield-to-worst 
+
+2015
+2018
+2013
+2011
+2017
+2010
+2014
+2012
+2019
+2009
+2008
+2016
+2007
+
+Median IRR, Yield-to-worst
+
+Source: Preqin, Bloomberg Barclays. 31 December 2019.
+
+Exhibit 14b: Premium of median IRR over high yield yield-to-worst by vintage year
+
+-10
+
+-8
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+Average premium: 0.7%
+
+Premium by vintage year
+
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+2015
+2018
+2013
+2011
+2017
+2010
+2014
+2012
+2019
+2009
+2008
+2016
+2007
+
+Source: Preqin, Bloomberg Barclays. 31 December 2019.
+19
+
+We find that the performance of private debt funds is similar 
+to high yield. When we chart the vintage year IRRs of private 
+debt funds we see that they track the beginning of the year 
+yield-to-worst of the high yield market (with no default rates 
+added, which normally depress returns by 200 basis points 
+or so). With default rates added, we expect the actual return 
+of high yield to be lower, so private debt does have a higher 
+return than high yield due to better collateral.
+
+As can be seen in Exhibit 14, the premium of median private 
+debt IRRs compared to the yield-to-worst has averaged 0.7% 
+over this time period. Although steady in the last few years, we 
+note that the periods of substantial underperformance coincide 
+with years of turmoil for the high-yield market (2008, 2003).
+
+3.4. Natural resources, energy and timber/farmland
+Several major investors have carved out specific allocations 
+to natural resource-related projects: oil & gas development, 
+renewable alternatives, pipelines, timber and farmland. This 
+carve-out is often a significant part of a 'Real Asset' category, 
+which is expected to do well in inflationary or commodity-
+driven markets. After fundraising and investment peaked in 
+2014 amid high oil prices, investment in this sector has declined 
+and the orientation is shifting. Energy and natural resource 
+plays like some other types of alternatives involve physical 
+assets, but unlike real estate, they seem to undergo larger and 
+more frequent cycles. 
+
+When we look at the performance of natural resource funds in 
+the Preqin database, we see outstanding performance in 2002 
+and 2003 vintages – no surprise as energy prices boomed and 
+peaked in mid-2008. However, since then the median IRRs have 
+been well below the aggregate group of private equity funds, 
+reflecting the downtrend in oil prices since their peak.
+
+Despite the performance gap, there is still considerable interest 
+in natural resource investing and recent fundraising has partially 
+recovered from its 2015 lows. We expect the natural resource 
+sector to continue to be a small component of the overall 
+alternative portfolios. 
+
+For convenience, we include timber and farmland investments 
+in this category, although they can clearly cross over into real 
+estate just as well. There was an investment boom in timber 
+the mid-2000s and several major institutional investors invested 
+significantly in this area. Unfortunately, it has performed poorly 
+and caused headaches for several prominent investors (see 
+Harvard articles). We expect a handful of dedicated efforts, but 
+nowhere near the interest seen in the 2000s.
+
+Exhibit 15: Median IRRs: Natural resources (energy) and private equity
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+
+Natural Resources
+All Private Equity
+
+2015
+2014
+2013
+2017
+2016
+2012
+2011
+2010
+2009
+
+Median IRR
+
+Source: Preqin. 31 December 2017.
+20
+
+Exhibit 16: Return and Risk: June 1994-June 2020
+
+Year
+Timber
+Farmland
+S&P 500
+
+Annualized Quarterly Data
+
+Geometric Return
+7.2
+11.3
+9.8
+
+Arithmetic Return
+7.1
+11.0
+10.8
+
+Standard Deviation
+5.0
+6.2
+16.6
+
+Serial Correlation
+0.23
+0.01
+-0.04
+
+Equity correlation
+0.03
+0.11
+1.00
+
+Equity beta
+0.01
+0.04
+1.00
+
+Inflation Correlation
+-0.18
+-0.39
+0.07
+
+Annual Averages
+
+Arithmetic Return
+7.4
+11.6
+11.3
+
+Standard Deviation
+6.7
+7.0
+17.3
+
+Serial Correlation
+0.51
+0.66
+0.18
+
+Equity correlation
+0.24
+0.01
+1.0
+
+Equity beta
+0.10
+0.01
+1.0
+
+Inflation Correlation
+0.03
+0.34
+-0.20
+
+Timber 
+NCREIF Timberland
+Farmland 
+NCREIF Farmland
+S&P 500 
+S&P 500 TR USD
+
+Source:  Data from Morninstar Direct. 
+Analysis by UBS Asset Management. 30 June 2020.
+
+Exhibit 16: Return and Risk: Last 10-years through J
+
+Year
+Timber
+Farml
+
+Annualized Quarterly Data
+
+Geometric Return
+4.4
+
+Arithmetic Return
+4.4
+
+Standard Deviation
+3.0
+
+Serial Correlation
+0.18
+
+Equity correlation
+0.05
+
+Equity beta
+0.01
+
+Inflation Correlation
+-0.49
+-
+
+Annual Averages
+4.4
+
+Arithmetic Return
+3.8
+
+Standard Deviation
+0.54
+
+Serial Correlation
+0.26
+
+Equity correlation
+0.11
+
+Equity beta
+-0.48
+-
+
+Inflation Correlation
+0.03
+
+une 2020
+
+and
+S&P 500
+
+10.9
+14.0
+
+10.6
+14.4
+
+4.7
+14.8
+
+0.12
+-0.42
+
+0.22
+1.00
+
+0.07
+1.00
+
+0.49
+0.07
+
+11.1
+13.2
+
+5.3
+9.3
+
+0.75
+-0.20
+
+0.31
+1.0
+
+0.19
+1.0
+
+0.07
+0.26
+
+0.34
+-0.20
+
+As of December 2019, the NCREIF Timberland National 
+Property Index was based on USD23.2 billion of assets and the 
+NCREIF Farmland NPI was based on USD11.4 billion of assets. 
+Here are some summary statistics as it compares to real estate 
+and equities.
+
+First, the returns from timber are disappointing (the 10-year 
+return through June 2020 is just 4.4%). Second, as seen in 
+other analysis, the standard deviations from annual estimates 
+are higher than the quarterly estimates showing smoother 
+returns. Third, despite the limited quality of the data, the equity 
+correlation and beta coefficients indicate that these asset 
+classes may have some diversification potential. However, the 
+size of the market questions the ability to scale these sub-asset 
+classes. We expect them to remain niche sectors and only a 
+very small part of total portfolios.
+
+Finally, we find conflicting signals about relationship of 
+timberland and farmland to inflation. Using quarterly data, 
+we find a consistent negative correlation. However, when we 
+look at annual data, we find a modest positive correlation 
+(though reversed in the last 10 years). In contrast, real estate 
+as measured by the NCREIF Property Index shows a relatively 
+consistent positive correlation with inflation in both annual 
+and quarterly terms. For timberland and farmland, we are 
+inclined to believe the annual results that show a slight positive 
+correlation. We assume that the lagged appraisal process 
+distorts some of the relationships that only show up in longer 
+term estimates.
+21
+
+4. Infrastructure
+
+Infrastructure funds invest in large capital projects and often 
+have a 'public-private' perspective. Like private equity, these 
+projects have long time horizons, typically longer. But they 
+have aspects of real estate as well since they involve physical 
+(tangible) capital and should be more resilient in inflationary 
+environments.
+
+Infrastructure, like private equity, is a cash flow investment 
+strategy, but there are substantive differences in the type of 
+investment, payout period, and expected performance that 
+is distinguished from 'traditional' private equity. Moreover, 
+infrastructure is fundamentally different in they are always 
+physical, capital intensive projects, not software or services. 
+They have large up-front capital costs, longer but steadier 
+payout periods, and an element of government involvement 
+because of the public nature of the investment. In a sense, 
+they are a 'low beta' private equity investment.
+
+Consequently, infrastructure has a different profile than 
+private equities and real estate. 
+
+Types of projects that infrastructure funds invest in are:
+
+– Port construction, maintenance, and expansion
+– Airports 
+– Energy related: grids, power construction
+– Tollways
+
+Infrastructure first appeared in the early 2000s and has 
+become a standard part of private asset portfolios. In 
+addition, like real estate, the category has refined into sub-
+strategies of core, value-added and opportunistic investing 
+depending on the amount of leverage, riskiness of the 
+projects and concentration risk.
+
+4.1. Cash flow characteristics of infrastructure funds
+The three distinguishing characteristics of infrastructure funds 
+compared to standard private equity funds are the longer 
+duration, greater stability of cash flows, and lower expected 
+IRRs. Infrastructure funds have a longer expected time 
+horizon: 12 to 15 years versus 10 for private equity. 
+
+Here is a typical cash flow profile of an infrastructure fund.
+
+Exhibit 17: Cash flows: The J-curve
+
+-30
+
+-20
+
+-10
+
+0
+
+10
+
+20
+
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16
+2
+1
+
+Contributions
+
+0
+
+Cash fow in millions USD
+
+Net cash
+Distributions
+
+Source: UBS Asset Management. 30 June 2020.
+
+For this fund, we have an IRR of 8.1%. Although the 
+contribution period is similar to the private equity about (2.4 
+year average contribution period), the time weighted cash 
+flow payout is much larger (8.0 years versus 5.9 years). 
+22
+
+4.2. Performance
+We don't have a long history of infrastructure performance, 
+as the asset class started in the late 1990s and early 2000s 
+and the data is sparse for these early years. Contrary to 
+other private asset classes, there is no generally accepted 
+performance index for infrastructure (either equity or debt). By 
+the late 2000s, we get enough funds for reasonable analysis. 
+As seen in Exhibit 18, the median IRRs for infrastructure are 
+always below those of PE by an average of 3.8% and the 
+subsequent 6-year return of the S&P 500 (3.7% for the 2008-
+2013 time period). Despite the horrendous start in 2008 and 
+2009, the S&P 500 performs exceptionally well in this time 
+period. A more appropriate comparison might be with global 
+equities.
+
+Infrastructure offers a diversified set of cash flows for long 
+term investors and behaves differently than private equity. 
+We expect this asset class to continue to grow in size and 
+become more heterogeneous in offerings. Because of the 
+public/private nature of the investment, we expect returns to 
+be steadier with some downside protection for low leveraged 
+projects and similar caps on upside gains.
+
+Exhibit 18: Median IRRs: Private equity and infrastructure
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+Infrastructure
+Private Equity
+
+2017
+2016
+2015
+
+Median IRR
+
+S&P 6-year return
+
+Source: Preqin, Morningstar Direct. 31 December 2019.
+23
+
+5. Hedge Funds
+
+Strictly speaking hedge funds are not an asset class, but 
+a set of active strategies. They are applied in two ways: 
+1) strategically, as an asset class, and 2) as a source of 
+independent alpha that is embedded into other asset classes. 
+Either way, they can play a large enough role in portfolio 
+construction that they merit considerable attention. Most 
+aggregate statistics clearly indicate that the performance of 
+hedge funds is different from stocks and bonds. 
+
+Hedge funds encompass a wide variety of strategies. They can 
+be very concentrated with some funds holding a handful of 
+leveraged bets or they can involve high-trading strategies that 
+try to squeeze small margins in thousands of transactions a day. 
+
+Since we are focusing on strategic asset allocation, we look 
+at what portfolios of hedge funds produce, not individual 
+performance or performance of sub-sectors. This starts with 
+looking at the track record of broad indices and fund-of-fund 
+indices and extrapolating to what investors should expect. 
+Building a well-constructed portfolio amid the thousands of 
+hedge funds requires a lot of specific knowledge about the 
+opportunities and how the cycle over time. 
+
+5.1. Hedge fund performance
+The data show two distinct periods for hedge funds. The 
+growth phase was from the mid-1990s through the GFC. 
+Returns were excellent with outstanding Sharpe ratios 
+for whole groups of funds. The growth rates of assets in 
+management between 2000 and 2007 was 21%, but slipped 
+to 10% per year in the 2008 to 2017 level, peaking at around 
+USD3.2 trillion, a level that the industry has hovered around 
+since.
+
+Hedge fund performance over the last 25 years has two 
+distinct periods. The growth period from the early 1990s to 
+the GFC was very strong, as performance in some categories 
+exceeded equities, but with much lower volatility, producing 
+outstanding Sharpe ratios. However, after the GFC the 
+character of performance changed with much lower returns 
+and a decline in the Sharpe ratios. 
+
+In Exhibit 19, we present the performance of hedge funds 
+and focus on performance of broad indices and fund-of-fund 
+performance. Along with long term performance, we look at 
+the latest 10 years and well as performance prior to the GFC. 
+We still have to be careful about interpreting the performance 
+of hedge funds. While we consider the returns accurate over 
+the long time horizon, there are concerns about stale-pricing 
+distorting the NAVs and hence, the reported volatility over 
+time (though we do note that the serial correlations at the 
+quarterly level don't support these concerns). Additionally, 
+there are always issues about survivor bias and reporting bias 
+for fund based indices.1 In the Appendix, we provide data 
+about the performance of specific sub-sectors of the hedge 
+fund market as categorized by different index providers.
+
+1 See Getmansky, Lo and Makarov (2004) for a fuller discussion of serial correlation, survivor bias and reporting bias in these estimates
+24
+
+Exhibit 19: The performance of various broad hedge fund indices
+
+CISDM
+Hedge Fund Research Indexes (HFRI)
+Credit Suisse
+
+Equal-Wght
+Composite
+FoF
+Diversified
+FoF
+Composite
+Fund Wght
+Composite
+FoF
+Diversified
+FoF
+Conserv
+FoF
+Mkt Def
+FoF
+Strategic
+HF
+Index
+Cash
+10-yr
+Treas
+S&P
+500
+
+From March 1994
+to June 2020
+
+Geometric Return
+8.7
+5.5
+4.8
+7.3
+4.6
+4.5
+5.1
+5.2
+7.4
+2.3
+5.6
+9.8
+
+Arithmetic Return
+8.9
+5.5
+4.9
+7.5
+4.8
+4.6
+5.1
+5.6
+7.5
+2.2
+5.8
+10.8
+
+Standard Deviation
+8.9
+5.7
+7.1
+8.4
+7.1
+5.3
+5.2
+9.9
+7.6
+1.0
+8.0
+16.5
+
+Serial Correlation
+0.10
+0.16
+0.13
+0.07
+0.11
+0.26
+0.15
+0.09
+0.16
+0.98
+-0.03
+-0.05
+
+Equity Correlation
+0.81
+0.69
+0.72
+0.83
+0.70
+0.70
+0.20
+0.74
+0.70
+0.01
+-0.50
+1.00
+
+Equity Beta
+0.44
+0.24
+0.31
+0.42
+0.30
+0.22
+0.06
+0.45
+0.33
+0.00
+-0.24
+1.00
+
+Sharpe Ratio
+0.74
+0.57
+0.38
+0.63
+0.36
+0.44
+0.54
+0.34
+0.69
+0.00
+0.45
+0.52
+
+Last 10-years: June 
+2010 to June 2020
+
+Geometric Return
+4.7
+3.4
+2.8
+3.7
+2.9
+2.6
+0.7
+3.1
+3.8
+0.6
+4.5
+14.0
+
+Arithmetic Return
+4.9
+3.4
+2.9
+3.9
+3.0
+2.6
+0.8
+3.3
+3.9
+0.6
+4.7
+14.4
+
+Standard Deviation
+7.2
+4.1
+5.8
+7.1
+5.3
+4.2
+3.9
+7.8
+5.6
+0.4
+7.6
+14.8
+
+Serial Correlation
+-0.3
+-0.3
+-0.3
+-0.3
+-0.3
+-0.2
+-0.1
+-0.4
+-0.2
+0.9
+0.0
+-0.4
+
+Equity Correlation
+0.92
+0.83
+0.91
+0.94
+0.90
+0.89
+0.50
+0.90
+0.91
+-0.14
+-0.57
+1.00
+
+Equity Beta
+0.45
+0.23
+0.35
+0.45
+0.32
+0.26
+0.13
+0.47
+0.34
+0.00
+-0.29
+1.00
+
+Sharpe Ratio
+0.60
+0.70
+0.41
+0.48
+0.46
+0.49
+0.05
+0.36
+0.60
+0.00
+0.55
+0.93
+
+Pre-GFC: March 1994 
+to December 2007
+
+Geometric Return
+13.3
+8.8
+8.3
+11.7
+7.8
+7.8
+8.8
+9.2
+11.8
+3.8
+6.2
+11.0
+
+Arithmetic Return
+13.0
+8.7
+8.2
+11.6
+7.8
+7.6
+8.7
+9.5
+11.6
+3.8
+6.3
+11.8
+
+Standard Deviation
+8.4
+5.5
+6.6
+7.9
+7.0
+4.0
+5.3
+10.3
+7.3
+0.8
+7.3
+15.3
+
+Serial Correlation
+0.0
+0.1
+0.1
+0.0
+0.1
+0.3
+0.1
+0.1
+0.1
+1.0
+0.0
+-0.1
+
+Equity Correlation
+0.76
+0.61
+0.59
+0.79
+0.57
+0.54
+0.11
+0.64
+0.58
+0.07
+-0.36
+1.00
+
+Equity Beta
+0.42
+0.22
+0.25
+0.41
+0.26
+0.14
+0.04
+0.43
+0.28
+0.00
+-0.17
+1.00
+
+Sharpe Ratio
+1.10
+0.88
+0.68
+0.98
+0.58
+0.97
+0.92
+0.55
+1.06
+0.00
+0.35
+0.52
+
+CISDM Equal-Wght Composite 
+CISDM EW Hedge Fund USD
+CISDM FoF Diversified 
+CISDM Fund of Funds Diverfd USD
+HFRI FoF Composite 
+HFRI Fund of Funds Composite USD
+HFRI Fund Wght Composite 
+HFRI Fund Weighted Composite USD
+HFRI FoF Diversified 
+HFRI FOF Diversified USD
+HFRI FoF Conserv 
+HFRI FOF Conservative USD
+
+HFRI FoF Mkt Def 
+HFRI FOF Market Defensive USD
+HFRI FoF Strategic 
+HFRI FOF Strategic USD
+Crediti Suisse HF Index 
+Credit Suisse Hedge Fund USD
+Cash 
+FTSE Treasury Bill 1 Mon USD
+10-yr Treasury 
+BBgBarc US Trsy Bellwethers 10Y TR USD
+S&P 500 
+S&P 500 TR USD
+
+Source: Data provided by Morningstar Direct.  Analysis by UBS Asset Management.
+
+Observations:
+– Long run Sharpe ratios for hedge funds are in line with equities 
+
+and treasuries. Performance prior to the GFC was very strong 
+with ratios across the board better than equities and bonds. 
+In the last ten years, the ratios have been lower, especially 
+compared to stocks and bonds. Stocks and bonds had a stellar 
+decade in the 2010s, so the hurdle was quite high.
+
+– Returns have declined over time. High single digit returns 
+
+prior to the GFC or better are the norm prior to the GFC, but 
+low single digit returns in the last ten years. In excess returns 
+(i.e. returns over cash), the differences are much smaller. 
+
+– Volatility has declined over time. 
+
+– Correlation to equities and beta are higher post-GFC.
+
+When we look at hedge funds as an asset class, we believe 
+that well-diversified portfolios can achieve volatilities around 
+4% to 6% with equity betas around 0.25 to 0.3. The returns 
+will likely remain low which given the low yield environment 
+means net returns around 3.5% to 4.5%. Higher return 
+targets will require more concentrated portfolios and higher 
+risks. We would expect such strategies to have a higher 
+correlation with equities.
+
+We need to also acknowledge that hedge funds can also 
+be alpha diversifiers and can be combined with other asset 
+classes that exhibit low information ratios. Such approaches 
+lead to revision of alpha and tracking error estimates for these 
+portfolios. Skillful selection of such funds should improve 
+overall portfolio performance.
+25
+
+6. Commodities
+
+Dedicated commodity exposures for institutional investors 
+started in the late 1980s and early 1990s. The performance 
+of oil in the 1970s and early 1990s suggested both strong 
+inflation protection and a negative correlation with equities 
+and fixed income; thus, they could be very valuable in real 
+terms with outstanding diversification benefits. Additionally, 
+these high returns from back-tests made the asset class look 
+promising from a return perspective as well. With concerns 
+about 'running out of resources' future returns had a large 
+scarcity premium. 
+
+Unfortunately, in practice, commodity prices declined in 
+the 1990s and inflation ticked downward, disappointing 
+commodity investors. Rising oil and food prices in the mid-
+2000s revived interest, as did another mini-boom in the 
+early part of the 2010s. However, in hindsight, these look 
+like classic bubbles and the subsequent busts quickly wiped 
+out years of gains. We note that oil prices (oil is the largest 
+component of several indices) today are still over 50% below 
+their peaks reached in the summer of 2008. Of course, the 
+drop looks worse in real terms.
+
+Consequently, the performance of the long-only commodity 
+indices based on rolling-futures contracts has been more than 
+disappointing. Returns are negative in real terms. Volatility 
+is about what has been expected (near equities), and have 
+a positive correlation with equities. This last fact greatly 
+weakens the case for a strategic allocation to commodities. In 
+the active space with commodity trading advisors (CTAs), the 
+returns have been underwhelming as well.
+
+Various efforts at rationalizing a premium for long-only 
+commodities investors have been put forward: imbalances 
+between hedging by suppliers and users of commodities, 
+insurance premiums inherent in the market, ever growing 
+scarcity in commodities, etc. The skeptical view of 
+commodities has questioned any premium (spot commodity 
+prices have been decreasing in real terms for hundreds of 
+years). Moreover, to access this asset class, investors must 
+manage a portfolio of futures or swap contracts and their roll 
+over time. Investing through such contracts means that there 
+are three components to returns:
+
+– Collateral return: The return on Treasury bills for the period. 
+
+Index performance assumes 100% collateralization.1
+
+ 
+– Price return: The return from the spot price at maturity 
+
+versus the contracted forward price at the commencement 
+of the contract.
+
+– Roll return: The return from converting from a maturing 
+
+contract and rolling into a new contract. Erb and Campbell 
+(2015) categorize this as part of the 'income' return for 
+commodities. Rownenhoorst and Gorton propose that the 
+return from roll yields declined after the 1990s.
+
+Thus, actual returns can at times be quite different from 
+movements in spot prices and are sensitive to supply and 
+demand for hedging and speculation. At the end of a 
+contract, futures prices must be reconciled against spot prices, 
+and therefore physical demand and supply of commodities 
+matter. While short term firms have rather inelastic demand 
+because, for example, if they have a natural gas-powered 
+plant, they will not need any other fuel but natural gas. Over 
+the longer run, as the plant becomes obsolete, it will be 
+replaced by whatever energy source is relatively cheaper. So 
+in the medium and long term, competitive pressures will push 
+energy and other commodity prices down.
+
+1  In practice, managers invest only 10% or so in collateral and invest the remainder in higher yielding instruments. Thus, they are overlaying the 
+
+exposure with some duration and credit risk. 
+26
+
+Exhibit 20: Commodity and gold returns: 1991 to June 2020
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+2004
+2002
+
+Oil and Commodities
+peak in 2008
+Gold at peaks
+seen in 2011
+
+2000
+1998
+1996
+1994
+1992
+
+Bloomberg Commodity TR USD
+Gold
+
+2010
+2008
+2006
+2016
+2014
+2012
+2020
+2018
+
+Value: Dec 1991=100
+
+Source: Bloomberg. 30 June 2020.
+
+We model commodities starting with cash returns because 
+the pricing of financial futures contracts involves Treasury bill 
+yields. The relationship between spot and future prices are not 
+stable and are based on storage costs and perishability factors 
+interacting with interest rates and supply and demand factors.
+
+As Exhibit 20 shows, commodity prices peaked in mid-2008 
+and crashed precipitously into 2009. Investors in the two most 
+prominent indices (the Bloomberg Commodity Index and 
+the S&P Commodity Index) have not recovered to their 2008 
+peaks. Gold, however, kept rising in the post GFC era and hit 
+a peak in 2010 before plummeting in 2012. Gold has had a 
+recent rally, piquing some renewed interest in the asset class.  
+
+Investors approach the commodities market in two ways: 
+through passive funds that match an established index 
+or through active trading with CTAs (Commodity Trading 
+Advisors). We estimate the investment in commodities 
+by institutional investors is very small relative to the 
+overall market. ETFs and mutual funds in the US are only 
+USD10 billion, collective investment trusts as measured 
+by Morningstar are about USD6.4 billion, and the Preqin 
+database has another USD61 billion in CTA funds. Outside the 
+US this is a more attractive asset class, so add in dedicated 
+allocations by non-US investors and this is probably no more 
+than USD250 billion. When compared to the USD110 trillion 
+that UBS measures for total investable assets, this is probably 
+between 0.2% and 0.3% of the market. 
+
+Exhibit 21: Commodity and traditional returns
+
+Year
+S&P GSCI
+Commodity
+Bloomberg
+Commodity
+Gold
+Cash 1 Mo 
+T-Bills
+10-yr
+Treasury
+S&P
+500
+US CPI
+Inflation
+
+Since 1991
+
+Geometric Return
+-1.3
+1.1
+5.3
+2.4
+6.0
+10.1
+1.5
+
+Arithmetic Return
+1.0
+2.2
+6.3
+2.4
+6.1
+10.8
+2.1
+
+Standard Deviation
+21.3
+14.5
+15.3
+0.6
+7.0
+14.4
+1.3
+
+Equity correlation
+0.29
+0.33
+-0.02
+0.02
+-0.18
+1.00
+0.03
+
+Inflation Correlation
+0.35
+0.26
+0.04
+0.15
+-0.22
+0.03
+1.00
+
+Last 10 Years 
+(June 2010 through June 2020)
+
+Geometric Return
+-8.5
+-5.8
+3.6
+0.6
+4.5
+14.0
+1.7
+
+Arithmetic Return
+-6.5
+-5.0
+4.8
+0.6
+4.6
+14.1
+1.7
+
+Standard Deviation
+21.3
+14.1
+16.0
+0.2
+6.4
+13.4
+1.0
+
+Equity correlation
+0.55
+0.55
+0.08
+-0.10
+-0.45
+1.00
+0.02
+
+Inflation Correlation
+0.33
+0.22
+0.04
+0.05
+-0.11
+0.02
+1.00
+
+S&P GSCI 
+S&P GSCI TR USD
+Bloomberg 
+Bloomberg Commodity TR USD
+Gold 
+LBMA Gold Price AM USD
+Cash 
+FTSE Treasury Bill 1 Mon USD
+
+10-year Treasury 
+BBgBarc US Trsy Bellwethers 10Y TR USD
+S&P 500 
+S&P 500 TR USD
+Inflation 
+IA SBBI US Inflation
+
+Source: Morningstar Direct. Analysis by UBS Asset Management.
+27
+
+Exhibit 22: Gold and real yields: 2006–2020
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+
+Gold (lhs)
+Real yield (inverted) (lhs)
+
+2015
+2014
+2013
+2018
+2017
+2016
+2020
+2019
+
+Gold price – USD per ounce
+
+10-yr US TIPS Yield
+
+3.5
+
+2.5
+
+1.5
+
+0.5
+
+-0.5
+
+-1.5
+
+Source: Bloomberg. 30 September 2020.
+
+6.1. Gold
+Gold is one of the assets with the longest history and has 
+played an enormous role in finance. However, with the 
+constraints of gold-based currencies, national governments 
+have moved to fiat currencies and don't promise any support 
+in terms of gold.
+
+Gold clearly behaves differently from other commodities. As 
+the chart above shows, gold tracked the broad commodities 
+index into the global financial crisis, but diverted thereafter, 
+continuing upward and doubling in value afterwards while 
+commodities dropped.
+
+Some argue that gold is not a commodity, but a currency. 
+Some central banks do maintain positions in gold. The US 
+dollar was unpegged to gold in 1972. We think that central 
+bank purchases which are not always publicly announced have 
+a material effect on gold price dynamics.
+
+We do see a better case for gold over commodities in the 
+historic data: higher returns, lower volatility, and a near-zero 
+correlation with equities.
+
+6.2. Commodities and gold as inflation hedges
+One rationale for holding commodities and gold is that 
+they provide protection against inflation. The historic data 
+do indicate that commodities as reflected in the two major 
+indices are correlated with inflation as measured by the US 
+Consumer Price Index. 
+
+However, this is only a partial hedge. As services become a 
+larger part of the economy and manufacturing declines, we 
+would expect commodities to have a lower impact in overall 
+CPI. The correlation of commodities to inflation is rather 
+modest, ranging from around 0.1 to 0.4 depending on how it 
+is measured.
+
+Gold has demonstrated a mixed reaction to inflation. It 
+performs well both in increases of unexpected inflation and 
+large moves downward in inflation. 
+
+In sum, we agree that gold has its own cycle and idiosyncratic 
+elements to it. Should inflation break out above the current 
+level of expectations (2.0%) for developed economies, we 
+would expect gold to do well and offer some of the best 
+returns available in a rising inflation environment.
+
+6.3. Summary
+The recent performance of commodities has seriously dented 
+passive commodities' attractiveness as a strategic asset class 
+for institutional investors. Low inflation, the negative real 
+return and positive correlation with equities has been strong 
+headwinds for commodities. 
+
+The most compelling case for commodities is that global 
+growth kicks back to a higher gear and the supply chains 
+lag behind demand. Many of these commodities – like 
+natural resources and infrastructure – require a large capital 
+commitment and several years before extraction is done. A 
+rising cost-pressure inflation world could cause equities and 
+bonds slump in relative terms.
+
+Also, there is a case for commodities for some investors 
+from a holistic perspective. Countries that are resource-light 
+such Korea or Taiwan or companies that are sensitive to 
+commodities like transportation or steel may want to hold 
+some commodity exposure to reduce overall risk. An airline or 
+cruise line, for example, may want to add commodities in their 
+portfolio to hedge oil risk for the overall organization. 
+28
+
+7. Integration with traditional asset classes
+
+Ultimately, investors need to blend traditional and alternative 
+asset classes into a strategic asset allocation. The standard 
+tool for SAA work – mean-variance analysis – works well 
+with traditional assets, but runs into difficulties when applied 
+to cash flow oriented investments. For cash flow assets, we 
+must work with appraised assets with NAVs that don't reflect 
+any sort of market transactions. Thus, NAV based volatility 
+measures appear smoothed and underestimate actual 
+volatility. 
+
+Further compounding the issue, these cash flow asset classes 
+cannot be managed through market transactions, but through 
+commitment schedules that require the investor provide 
+the liquidity to the general partner. This means a lagged 
+adjustment to changing market events (which in turn is why 
+fundraising is so cyclical).
+
+Our approach is to develop two measures: appraised volatility 
+and economic risk. The economic risk reflects the underlying, 
+unsmoothed risk inherent in these investments. Investors 
+should be aware of both measures.
+
+7.1. Formulating return and risk expectations
+Since alternatives cover a wide array of investment opportunities 
+with different economic rationales, we need to use a wide array 
+of approaches to formulate prospective returns.
+
+To model real estate, we start with expected unlevered 
+property returns and then adjust for leverage. Basic property 
+has an income component and a price return component. 
+Historically, in the US the income component for the NPI 
+has been around 4% to 5%. With inflation around 2.0% 
+and a small real appreciation (after maintenance and capital 
+improvements) of 0.3%, we currently estimate that unlevered 
+property has a net return of 5.5%. When we adjust for fees, 
+alpha and leverage, we get returns that begin approach long 
+run equity returns: in the 6.2% range.
+
+Our approach to setting private equity assumptions uses a 
+multi-factor capital-asset pricing model type of approach 
+and assigns higher betas to the relative public equities 
+and additional idiosyncratic risk.1 When we include some 
+mezzanine financing and special situations, we estimate that 
+a private equity portfolio would have economic risks around 
+24% compared to our volatility of 15.0% to 16.0% for global 
+equity portfolios.
+
+As discussed in Section 3.3, our analysis finds that 
+private debt funds appear to track the high yield market. 
+Consequently, we model private debt related to the high yield 
+market with a spread of about 80 basis points relative to the 
+prevailing yield-to-worst. 
+
+Exhibit 23: Return and risk assumptions: USD Terms
+September 2020
+
+Asset Class
+
+5-yr
+Expected 
+Return
+Economic
+Risk
+Appraised
+Volatility
+
+USD Cash
+0.3%
+1.3%
+–
+
+Intermediate Global IG Fixed Income
+0.4%
+2.6%
+–
+
+Global Investment Grade Fixed Income
+0.0%
+5.5%
+–
+
+Global Equities Unhedged
+7.2%
+16.0%
+–
+
+Global High Yield Hedged
+3.0%
+10.5%
+–
+
+Global Private Equity Unhedged
+9.5%
+24.5%
+15.0%
+
+Global Infrastructure (Equity) Unhedged
+6.2%
+14.0%
+8.0%
+
+Global Core Real Estate Unhedged
+6.2%
+12.6%
+7.2%
+
+Hedge Funds (Hedged)
+4.0%
+4.3%
+–
+
+Note:  Expected returns are geometrc. We develop 5-year expected returns in the capital markets based on current market markets and our expectations 
+of inflation, growth and the path of interest rates. We then overlay our assessment of fair value and the reversion and how quickly the market will 
+react.  From here we extrapolate to the different sectors of the capital markets. Global Equity, Private Equity, Infrastructure, and Core Real Estate 
+are assumed to be unhedged. Cash, fixed income and hedge funds are assumed to be hedged.
+Source: UBS Asset Management. 30 September 2020.
+
+1  See Korteweg (2018) for a good summary of the academic literature. Researchers find that buy-out funds have betas relative to public markets ranging 
+
+from 1.0 to as high as 3.0. Venture capital funds have lower betas, but much higher idiosyncratic risk.
+29
+
+Like real estate, we view infrastructure as a hybrid of equity 
+and fixed income. The median IRR for infrastructure funds 
+by vintage year has been consistently below that of private 
+equity by an average of 3.9%. Consequently, one simple 
+approach is simply to discount the return to private equity by 
+an appropriate amount and set economic risk appropriate for 
+such risk-bearing. This gives us net returns around 6.2% – 
+similar to real estate, but with a different risk profile. 
+
+We rely on a combination of historic relationships and basic 
+heuristics to model hedge funds. As noted in the review of 
+historic performance, fund-of-fund composites of hedge 
+funds returns in the last 10-years have been about 2.5% to 
+3.8% above cash with equity betas around 0.30. 
+
+We believe that the prospect for hedge funds is encouraging. 
+With low interest rates and low credit spreads across the 
+world, the costs of borrowing are extremely low. This 
+leverages the alpha opportunity set for all sorts of hedge 
+funds – long-short, market neutral and macros funds – 
+and previously unprofitable trades now look attractive. 
+Additionally, the steeper yield curve offers all sorts of 
+opportunities in fixed income such as carry trades and roll 
+return. This low borrowing cost environment should last for a 
+few years, as central banks have indicated high thresholds for 
+any rise in short term rates.  
+
+Another boost for hedge funds may be greater dispersion of 
+returns, which will benefit strategies like equity long/short and 
+relative. Additional tailwinds are fits of volatility and regime 
+changes. These will allow trading-oriented macro managers 
+to exploit uncorrelated trades opportunities.  It is synchronous 
+moves in markets and within markets that don’t allow hedge 
+fund managers to apply their winners versus losers investment 
+approach.
+
+Finally, after moving sideways for a few years and a decline in 
+the number of hedge funds, the industry is starting to regain 
+momentum. We see positive cash flows as investors rebalance 
+from the high equity returns and low government bond yields. 
+Alternative investments that offer steady income or steady 
+NAVs increases will be very attractive.  
+
+Commodities are a hard asset class to model. We have no 
+demand-side or supply-side model to lean on as a starting 
+point. Our only piece of financial theory is that since these are 
+futures contracts, the contracts will price in the opportunity 
+cost of fully collateralized positions; thus, we expect a cash 
+return plus a highly idiosyncratic element.
+
+Investors are ultimately interested in net-of-fee performance 
+and we need to assess both the fees and expected alpha 
+from alternative investments. Because of the research costs 
+and expertise needed to implement alternative portfolios, 
+the management fees are extremely high compared to what 
+is seen in public assets classes. The 2 and 20 model remains 
+the norm in private equity. Investors have pushed back on the 
+some of the GP friendly terms in the contracts, so the implicit 
+costs are not as large as they used to be, but the top line 2 
+and 20 is still the prevalent form of investing.
+
+When we apply some representative allocations to the types 
+of funds in Exhibit 2, we see that even in economic terms, the 
+Sharpe ratios are substantially better than the standard 60% 
+global equities/40% global investment grade income. The 
+appraised volatility is lower, as anticipated. The lower volatility 
+for the very aggressive university endowment is substantial: 
+from 14.1% to 9.9%.
+
+As can be seen, the appraised volatilities of real estate, private 
+equity, and infrastructure make them highly attractive relative 
+to public asset classes. Instead by projecting economic risk we 
+move these asset classes more in line with the overall return 
+and risk trade-off we expect in the capital markets.
+
+Exhibit 24: Prospective 5-year Performance in USD Terms
+September 2020
+
+Public
+Pension
+Plan
+
+Sovereign
+Wealth
+Fund
+University
+Endowment
+
+Global
+Family
+Office
+Standard
+60/40
+
+5-yr Expected Geometric Return
+5.3%
+4.7%
+7.2%
+5.3%
+4.5%
+
+Economic Risk
+11.3%
+10.0%
+14.1%
+10.3%
+10.5%
+
+Sharpe Ratio
+0.50
+0.49
+0.56
+0.54
+0.46
+
+Appraised Volatility
+10.0%
+8.6%
+9.9%
+8.3%
+10.5%
+
+Source: UBS Asset Management. 30 September 2020.
+30
+
+7.2. Managing cash flows
+Along with adjusting for volatility to assess the trade-offs in 
+return and risk, investors must grapple with the management 
+of the commitment schedule for the cash flow alternatives 
+(as well as gates and queues that occur with the semi-liquid 
+asset classes). This means understanding the relationship 
+between commitments and NAVs. If NAVs typically show 
+only small premiums over cumulative contributions (I.e. they 
+are marked at cost), we can use the projected contributions 
+to estimate the amount of commitments necessary to reach 
+target NAV levels. For example, in the cash flow figures given 
+in Exhibit 11, we estimate that investors should have uncalled 
+commitments around 55% of the targeted NAV the private 
+equity portfolio. Thus, if a plan has a target of USD100 million 
+in private equity, this plan should have about USD55 million of 
+uncalled commitments.
+
+7.3. Implementation and practical issues
+It is one thing to design a strategic asset allocation with 
+alternatives; it is another to implement them. They require 
+a larger staff than other asset classes and a quick decision-
+making structure. Co-commitment programs require yet more 
+additional staff.
+
+One element of staffing is legal review and monitoring of 
+terms. The private nature of most of alternative assets means 
+that there are few standard contractual terms. Issues are 
+constantly arising – allocation of expenses, incentive and 
+base-fee formulas, use of subscriptions lines of credit, and co-
+investment terms – that demand expert legal evaluation.
+
+Moreover, it requires a balance of process in governance, due 
+diligence with nimble decision-making, which can be difficult 
+when there are multiple stakeholders and public oversight. 
+Perhaps that is why the endowment community has been 
+so successful in implementing alternative portfolios: quick 
+decision-making structures with wide authority given to the 
+CIO to implement as attractive deals come along.
+
+Small investors have several disadvantages and must out-
+source some of the implementation and management. 
+Minimum sizes and large search costs make it difficulty in 
+achieving significant diversification not only cross-sectional, 
+but across vintage years as well. Thus, they have large 
+concentration risk as there is wide variation in results across 
+funds. 
+
+Investors often look at alternative investments searching 
+for an immediate bump in return; however, the j-curve for 
+many of the private capital assets means that the superior 
+returns are delayed for a few years (about 5 to 7 years) until a 
+portfolio matures and begins returning distributions. Investors 
+can accelerate this by going in the secondary market, but they 
+are also time-consuming, resource-intensive efforts which can 
+still take many months to compete.
+
+Another thorny problem in alternative investments is 
+benchmarking and assessing performance. The cash flow 
+nature of private equity, infrastructure and other closed-
+end funds means that it can several years to build mature 
+portfolios and move to target allocations. Proper assessment 
+of performance is very dependent on adjusting for vintage 
+year performance and even then, this is compounded by the 
+lag in data reporting and the fact that it can take five to ten 
+years to assess whether a fund was a success. Hedge funds 
+are another area with huge benchmarking concerns. Often 
+investors sent a simple benchmark related to cash rates (T-Bills 
++ 4%, for example) with volatility and correlation targets. 
+
+Small investors are at a disadvantage in implementing 
+alternative investments. First, they cannot afford the staff and 
+expertise necessary, but additionally, given the 'lumpy' nature 
+of the minimum investment size, it can be difficult to build 
+properly diversified portfolios.
+
+One area that we expect more innovation is in vehicle design 
+that will allow these smaller investors – and potentially even 
+retail investors – access to these markets. 
+31
+
+8. Summary
+
+The alternatives market has evolved over the last 30 years 
+and has gained wide acceptance with investors. What was 
+once obscure and mysterious, it now standard for many 
+institutional investors. We now have enough experience to 
+understand how they perform and react in different market 
+environments.
+
+The primary rationale for alternatives is their ability to improve 
+the risk/reward relationship for investors – certainly on an 
+appraised basis, but on an economic basis as well. Going 
+forward, we believe that returns will be lower than their 
+historic averages – but this is generally true of the public 
+markets as well, particularly fixed income. The diversification 
+benefit will remain and we continue to see more evolution 
+and innovation in the marketplace.
+
+One big caveat for many investors is implementation. 
+Alternatives require higher levels of oversight and 
+management than those offered in the public markets. The 
+search and due diligence costs are high due to the closed-
+end and/or private nature of many of the investments. These 
+portfolios require sophisticated staffs to build and maintain 
+these portfolios, or high out-sourcing costs.
+32
+
+9. References
+
+Erb, Claude B., Harvey, Campbell R., "Conquering 
+Misconceptions about Commodity Futures Investing", 
+Financial Analyst Journal, forthcoming. 
+
+Getmansky, Mila; Lo, Andrew W., and Makarov, Igor, 2004, 
+"An Econometric Model of Serial Correlation and Illiquidity in 
+Hedge Fund Returns:, Journal of Financial Economics, Vol 73, 
+Issue 3, December, pp 529-609.
+
+Ilmanen, Antti; Chandra, Swati; and McQuinn, Nicholas, 
+"Demystifying Illiquid Assets: Expected Returns for Private 
+Equity", Journal of Alternative Investments, Winter 2020, 
+Volume 22, Issue 3.
+
+Korteweg, Arthur, 2018, "Risk Adjustment in Private Equity 
+Returns", Working paper, University of Southern California 
+Marshall School of Business.
+33
+For marketing and information purposes by UBS. For professional / 
+qualified / institutional clients and investors.
+
+This document does not replace portfolio and fund-specific materials. 
+Commentary is at a macro or strategy level and is not with reference to 
+any registered or other mutual funds. 
+
+Americas
+The views expressed are a general guide to the views of UBS Asset Man- 
+agement as of December 2020. The information contained herein should 
+not be considered a recommendation to purchase or sell securities or any
+particular strategy or fund. Commentary is at a macro level and is not 
+with reference to any investment strategy, product or fund offered by 
+UBS Asset Management. The information contained herein does not 
+constitute invest- ment research, has not been prepared in line with the 
+requirements of any jurisdiction designed to promote the independence 
+of investment research and is not subject to any prohibition on dealing 
+ahead of the dissemina- tion of investment research. The information 
+and opinions contained in this document have been compiled or arrived 
+at based upon information obtained from sources believed to be reliable 
+and in good faith. All such information and opinions are subject to 
+change without notice. Care has been taken to ensure its accuracy but 
+no responsibility is accepted for any errors or omissions herein. A number 
+of the comments in this document are based on current expectations 
+and are considered “forward-looking statements”. Actual future results, 
+however, may prove to be different from expectations. The opinions 
+expressed are a reflection of UBS Asset Man- agement’s best judgment 
+at the time this document was compiled, and any obligation to update or 
+alter forward-looking statements as a result of new information, future 
+events or otherwise is disclaimed. Furthermore, these views are not 
+intended to predict or guarantee the future performance of any individual 
+security, asset class or market generally, nor are they intended to predict 
+the future performance of any UBS Asset Management account, portfolio 
+or fund.
+
+EMEA
+The information and opinions contained in this document have been 
+com- piled or arrived at based upon information obtained from sources 
+believed to be reliable and in good faith, but is not guaranteed as being 
+accurate, nor is it a complete statement or summary of the securities, 
+markets or de- velopments referred to in the document. UBS AG and 
+/ or other members of the UBS Group may have a position in and may 
+make a purchase and / or sale of any of the securities or other financial 
+instruments mentioned in this document.
+
+Before investing in a product please read the latest prospectus carefully 
+and thoroughly. Units of UBS funds mentioned herein may not be eligible 
+for sale in all jurisdictions or to certain categories of investors and may 
+not be offered, sold or delivered in the United States. The information 
+mentioned herein is not intended to be construed as a solicitation or an 
+offer to buy or sell any securities or related financial instruments. Past 
+performance is not a reliable indicator of future results. The performance 
+shown does not take account of any commissions and costs charged 
+when subscribing to and redeeming units. Commissions and costs have a 
+negative impact on performance. If the currency of a financial product or 
+financial service is different from your reference currency, the return can 
+increase or decrease as a result of currency fluctuations. This information 
+pays no regard to the specific or future investment objectives, financial or 
+tax situation or particu- lar needs of any specific recipient.
+
+The details and opinions contained in this document are provided by 
+UBS without any guarantee or warranty and are for the recipient’s 
+personal use and information purposes only. This document may not be 
+reproduced, redistributed or republished for any purpose without the 
+written permission of UBS AG.
+
+This document contains statements that constitute “forward-looking 
+statements”, including, but not limited to, statements relating to our 
+future business development. While these forward-looking statements 
+represent our judgments and future expectations concerning the 
+development of  our business, a number of risks, uncertainties and other 
+important factors could cause actual developments and results to differ 
+materially from our expectations.
+
+UK
+Issued in the UK by UBS Asset Management (UK) Ltd. Authorised and 
+regulated by the Financial Conduct Authority.
+
+APAC
+This document and its contents have not been reviewed by, delivered to 
+or registered with any regulatory or other relevant authority in APAC. This
+document is for informational purposes and should not be construed 
+as an offer or invitation to the public, direct or indirect, to buy or sell 
+securities. This document is intended for limited distribution and only 
+to the extent permitted under applicable laws in your jurisdiction. No 
+representations are made with respect to the eligibility of any recipients 
+of this document to acquire interests in securities under the laws of your 
+jurisdiction.
+
+Using, copying, redistributing or republishing any part of this document 
+without prior written permission from UBS Asset Management is 
+prohibited. Any statements made regarding investment performance 
+objectives, risk and/or return targets shall not constitute a representation 
+or warranty that such objectives or expectations will be achieved or 
+risks are fully disclosed. The information and opinions contained in this 
+document is based upon information obtained from sources believed 
+to be reliable and in good faith but no responsibility is accepted for 
+any misrepresentation, errors or omissions. All such information and 
+opinions are subject to change without notice. A number of comments 
+in this document are based on current expectations and are considered 
+“forward-looking statements”. Actual future results may prove to be 
+different from expectations and any unforeseen risk or event may arise 
+in the future. The opinions expressed are a reflection of UBS Asset 
+Management’s judgment at the time this document is compiled and any 
+obligation to update or alter forward-looking statements as a result of 
+new information, future events, or otherwise is disclaimed.
+
+You are advised to exercise caution in relation to this document. The 
+information in this document does not constitute advice and does not 
+take into consideration your investment objectives, legal, financial or tax 
+situation or particular needs in any other respect. Investors should be 
+aware that past performance of investment is not necessarily indicative of 
+future performance. Potential for profit is accompanied by possibility of 
+loss. If you are in any doubt about any of the contents of this document, 
+you should obtain independent professional advice.
+
+Australia 
+This document is provided by UBS Asset Management (Australia) Ltd, ABN 
+31 003 146 290 and AFS License No. 222605.
+
+Source for all data and charts (if not indicated otherwise): UBS Asset 
+Management
+
+The key symbol and UBS are among the registered and unregistered 
+trademarks of UBS.
+
+© UBS 2020. All rights reserved.
+www.ubs.com/am
+For professional / qualified / institutional clients and investors. 
+
+www.ubs.com/am-linkedin

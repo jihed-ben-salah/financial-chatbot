@@ -1,0 +1,1093 @@
+moody analytics capital markets research : ORG
+weekly : DATE
+1 : CARDINAL
+moody analytics moody analytics markets : ORG
+moody capital markets : ORG
+later 
+the minutes : TIME
+june : DATE
+50 : CARDINAL
+75 : CARDINAL
+july : DATE
+50 : CARDINAL
+75 : CARDINAL
+fed : ORG
+the university of michigan : ORG
+fed : ORG
+june : DATE
+fed : ORG
+this month : DATE
+1 1 : CARDINAL
+between may and june : DATE
+second : ORDINAL
+monthly : DATE
+at least 1 : CARDINAL
+fed : ORG
+fed : ORG
+fed : ORG
+fed : ORG
+2 5 : CARDINAL
+fed : ORG
+weekly : DATE
+july 7 2022 : DATE
+asia pacific katrina : LOC
+stefan angrick : PERSON
+europe : LOC
+steven shields : PERSON
+matt : PERSON
+3 
+week : DATE
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+europe : LOC
+asia pacific 11 : EVENT
+12 : CARDINAL
+15 : CARDINAL
+16 : CARDINAL
+19 : CARDINAL
+moody analytics capital markets research : ORG
+weekly : DATE
+2 : CARDINAL
+fed : ORG
+don : PERSON
+the minutes : TIME
+fed : ORG
+fed : ORG
+fed : ORG
+fed : ORG
+first quarter : DATE
+the second quarter : DATE
+gdi : ORG
+one : CARDINAL
+fed : ORG
+this year : DATE
+33 : CARDINAL
+52 : CARDINAL
+monthly : DATE
+0 62 : CARDINAL
+583 : CARDINAL
+350 : CARDINAL
+1 000 : CARDINAL
+three : CARDINAL
+three : CARDINAL
+the first half of this year : DATE
+june : DATE
+july : DATE
+prior months : DATE
+50 : CARDINAL
+moody analytics capital markets research : ORG
+weekly : DATE
+3 : CARDINAL
+this year : DATE
+summer : DATE
+late summer year : DATE
+year : DATE
+latin america : LOC
+brazil : GPE
+colombia : GPE
+asia africa : LOC
+the middle east : LOC
+asia : LOC
+chinese : NORP
+three year : DATE
+europe : LOC
+two : CARDINAL
+first : ORDINAL
+australia : GPE
+argentina : GPE
+brazil : GPE
+ukraine : GPE
+russia : GPE
+second : ORDINAL
+fed : ORG
+latin america africa : LOC
+europe : LOC
+the middle east : LOC
+latin america : LOC
+monthly : DATE
+some 15 : CARDINAL
+europe : LOC
+southeast asia africa : LOC
+middle east : LOC
+weekly : DATE
+4 : CARDINAL
+today : DATE
+russia : GPE
+ukraine : GPE
+australia : GPE
+fed : ORG
+almost half : CARDINAL
+earlier this year : DATE
+9 : CARDINAL
+2004 2014 : DATE
+egypt : GPE
+south africa : GPE
+chile : GPE
+colombia : GPE
+peru : GPE
+arab : NORP
+china : GPE
+iran : GPE
+today : DATE
+decade : DATE
+19 : CARDINAL
+this year : DATE
+asia : LOC
+the middle east : LOC
+india : GPE
+southeast asia : LOC
+19 : CARDINAL
+the middle east : LOC
+the last decade : DATE
+latin america : LOC
+21st century : DATE
+china : GPE
+china : GPE
+china : GPE
+moody analytics capital markets research : ORG
+weekly : DATE
+5 : CARDINAL
+the week : DATE
+next week : DATE
+fed : ORG
+50 : CARDINAL
+75 : CARDINAL
+this month : DATE
+june : DATE
+more than 1 : CARDINAL
+june : DATE
+0 6 : CARDINAL
+year ago : DATE
+june : DATE
+8 6 : CARDINAL
+the university of michigan : ORG
+fed : ORG
+june : DATE
+europe : LOC
+0 1 : CARDINAL
+0 3 : CARDINAL
+april : DATE
+53 1 : CARDINAL
+58 2 : CARDINAL
+the previous month : DATE
+0 4 : CARDINAL
+april : DATE
+germany : GPE
+ireland : GPE
+france : GPE
+spain : GPE
+the month : DATE
+next week : DATE
+germany : GPE
+7 6 : CARDINAL
+june : DATE
+7 9 : CARDINAL
+spain : GPE
+10 2 : CARDINAL
+8 7 : DATE
+france : GPE
+5 8 : CARDINAL
+5 2 : CARDINAL
+italy : GPE
+8 : CARDINAL
+6 8 : CARDINAL
+germany : GPE
+germany : GPE
+33 3 billion : MONEY
+the prior month : DATE
+32 4 billion : MONEY
+china : GPE
+19 : CARDINAL
+asia pacific 
+china economic data : LOC
+annual : DATE
+june : DATE
+april : DATE
+the same month : DATE
+june : DATE
+last month : DATE
+china : GPE
+3 8 : CARDINAL
+the second quarter : DATE
+4 8 : CARDINAL
+the march quarter : DATE
+new zealand : GPE
+south korea : GPE
+50 : CARDINAL
+july : DATE
+new zealand : GPE
+multiyear high 50 : CARDINAL
+2 5 : CARDINAL
+225 : CARDINAL
+korea : GPE
+june : DATE
+6 : CARDINAL
+almost 24 years : DATE
+50 : CARDINAL
+2 25 : CARDINAL
+new zealand : GPE
+south korea : GPE
+weekly : DATE
+6 : CARDINAL
+jun jul : PERSON
+new guinea national general election low : ORG
+jul japan house : ORG
+12 14 jul pacific islands forum pacific islands : QUANTITY
+21 : CARDINAL
+jul mercosur : PERSON
+2022 : DATE
+4 : CARDINAL
+2 oct : CARDINAL
+brazil : GPE
+oct : DATE
+nov china national party : ORG
+congress : ORG
+7 18 nov : DATE
+2022 : DATE
+27 : CARDINAL
+15 16 : DATE
+20 20 : CARDINAL
+indonesia : GPE
+18 19 : DATE
+apec : NORP
+thailand : GPE
+weekly : DATE
+7 : CARDINAL
+166 : CARDINAL
+160 : CARDINAL
+last week : DATE
+155 : CARDINAL
+june : DATE
+5 : CARDINAL
+150 : CARDINAL
+141 : CARDINAL
+june : DATE
+562 : CARDINAL
+580 : CARDINAL
+mid 2020 : DATE
+this past week : DATE
+549 : CARDINAL
+566 : CARDINAL
+25 9 : DATE
+the past week : DATE
+nine : CARDINAL
+april : DATE
+five : CARDINAL
+2 1 : CARDINAL
+12 months : DATE
+1 9 month earlier six of the month : DATE
+three : CARDINAL
+the year : DATE
+39 : DATE
+26 : CARDINAL
+the same period last year : DATE
+nine : CARDINAL
+this year : DATE
+eight : CARDINAL
+north america : LOC
+17 : CARDINAL
+16 : CARDINAL
+canada : GPE
+europe : LOC
+11 asia pacific nine : TIME
+latin america : LOC
+two : CARDINAL
+12 month : DATE
+2 8 : CARDINAL
+the end of 2022 : DATE
+3 3 : CARDINAL
+may 2023 : DATE
+4 1 : CARDINAL
+first quarter 2020 : DATE
+annual : DATE
+14 : CARDINAL
+19 : CARDINAL
+45 : CARDINAL
+12 : CARDINAL
+second quarter 2020 : DATE
+annual : DATE
+69 : CARDINAL
+32 : CARDINAL
+142 : CARDINAL
+45 : CARDINAL
+third quarter 2020 : DATE
+annual : DATE
+6 : CARDINAL
+annual : DATE
+44 : CARDINAL
+12 : CARDINAL
+56 : CARDINAL
+fourth quarter 2020 : DATE
+annual : DATE
+3 : CARDINAL
+annual : DATE
+8 : CARDINAL
+16 : CARDINAL
+11 : CARDINAL
+first quarter 2021 : DATE
+annual : DATE
+4 : CARDINAL
+annual : DATE
+57 : CARDINAL
+9 : CARDINAL
+64 : CARDINAL
+the second quarter of 2021 : DATE
+year : DATE
+year : DATE
+35 : CARDINAL
+the second quarter : DATE
+the third quarter of 2021 : DATE
+year : DATE
+year : DATE
+5 : CARDINAL
+16 : CARDINAL
+year ago : DATE
+the third quarter 
+fourth quarter 2021 : DATE
+9 4 : CARDINAL
+133 billion : MONEY
+the third quarter : DATE
+92 billion : CARDINAL
+the final three months of 2021 december : DATE
+33 : CARDINAL
+five year : DATE
+the month : DATE
+the first quarter : DATE
+901 billion : MONEY
+12 : CARDINAL
+year ago : DATE
+the second quarter : DATE
+548 billion : CARDINAL
+21 : CARDINAL
+year ago : DATE
+38 billion : MONEY
+the second quarter : DATE
+63 billion : CARDINAL
+the first three months of the year : DATE
+79 : CARDINAL
+year ago : DATE
+weekly : DATE
+8 : CARDINAL
+the week ended july 1 : DATE
+0 788 billion : MONEY
+the year to date : DATE
+98 2 billion : QUANTITY
+11 5 billion : MONEY
+the same week : DATE
+its year : DATE
+805 8 billion : MONEY
+2018 : DATE
+2019 : DATE
+june : DATE
+prior months : DATE
+first quarter : DATE
+12 4 : CARDINAL
+fiscal 2021 to 4 4 : DATE
+this year : DATE
+3 8 : DATE
+the next year : DATE
+june : DATE
+the s treasury department : ORG
+april : DATE
+2021 : DATE
+second : ORDINAL
+first quarter : DATE
+season : DATE
+the first three months of the year : DATE
+2 5 trillion : QUANTITY
+1 1 : CARDINAL
+2022 : DATE
+2023 : DATE
+19 : CARDINAL
+19 : CARDINAL
+19 : CARDINAL
+97 07 million : MONEY
+88 5 million : CARDINAL
+seven day : DATE
+daily : DATE
+122 : CARDINAL
+19 : CARDINAL
+the european union sixth : ORG
+russia : GPE
+the yom kippur : EVENT
+west texas : LOC
+this quarter : DATE
+107 : CARDINAL
+june : DATE
+the second half of this year : DATE
+next year : DATE
+60 : CARDINAL
+late 2024 : DATE
+2 7 this year : DATE
+2 8 : CARDINAL
+this year : DATE
+80 : CARDINAL
+the past few months : DATE
+2023 : DATE
+2 7 to 2 6 : DATE
+between 2 and 2 5 : CARDINAL
+first quarter : DATE
+1 5 : CARDINAL
+1 4 : CARDINAL
+this year : DATE
+the first quarter : DATE
+first quarter : DATE
+three : CARDINAL
+19 : CARDINAL
+quarterly : DATE
+the first quarter : DATE
+the quarter : DATE
+this year : DATE
+2 6 : CARDINAL
+next year : DATE
+6 : CARDINAL
+2 : CARDINAL
+moody analytics capital markets research : ORG
+weekly : DATE
+9 : CARDINAL
+the past few weeks : DATE
+the second quarter : DATE
+this year : DATE
+6 5 : DATE
+this year : DATE
+7 : CARDINAL
+5 2 : CARDINAL
+2023 : DATE
+3 9 next year : DATE
+1 77 million : CARDINAL
+1 83 million : MONEY
+1 86 million : MONEY
+next year : DATE
+1 89 : CARDINAL
+each year : DATE
+this year : DATE
+6 59 million : QUANTITY
+6 86 million : MONEY
+next year : DATE
+about 10 : CARDINAL
+this year : DATE
+june : DATE
+11 3 : DATE
+this year : DATE
+12 2 : CARDINAL
+2023 and 2024 : DATE
+between 400 000 and : CARDINAL
+450 000 : CARDINAL
+around 150 000 : CARDINAL
+later this year : DATE
+the federal reserve attempt : ORG
+390 000 : CARDINAL
+822 000 : QUANTITY
+the next few months : DATE
+around 5 million : CARDINAL
+373 000 : CARDINAL
+next year : DATE
+2024 : DATE
+around 3 3 : CARDINAL
+the fourth quarter of this year : DATE
+the next couple of years : DATE
+3 5 : CARDINAL
+62 5 : CARDINAL
+80 : CARDINAL
+this summer : DATE
+fed : ORG
+fed : ORG
+march : DATE
+fed : ORG
+fed : ORG
+fed : ORG
+about 520 billion : MONEY
+this year : DATE
+37 : CARDINAL
+less than 20 : CARDINAL
+10 year : DATE
+10 year : DATE
+3 14 : CARDINAL
+the final three months : DATE
+the 10 year : DATE
+3 25 : CARDINAL
+the fourth quarter of next year : DATE
+june : DATE
+the first quarter of next year : DATE
+the second quarter : DATE
+moody analytics capital markets research : ORG
+weekly : DATE
+10 : CARDINAL
+europe : LOC
+boris johnson : PERSON
+caretaker pm : PERSON
+ross cioffi 
+ : PERSON
+boris johnson : PERSON
+thursday : DATE
+next week : DATE
+johnson : PERSON
+thursday : DATE
+german : NORP
+german : NORP
+0 2 month : DATE
+month : DATE
+april 1 3 : DATE
+0 7 : CARDINAL
+2 7 : CARDINAL
+february : DATE
+0 6 : CARDINAL
+5 5 : CARDINAL
+the second half of the year : DATE
+june : DATE
+2 8 : CARDINAL
+52 : CARDINAL
+13 9 month over month : DATE
+9 6 : CARDINAL
+april : DATE
+32 6 : DATE
+20 4 : CARDINAL
+april : DATE
+6 1 : CARDINAL
+two months : DATE
+irish : NORP
+june : DATE
+3 3 : CARDINAL
+53 1 : CARDINAL
+16 months : DATE
+ireland : GPE
+germany : GPE
+next week : DATE
+0 4 month : DATE
+month : DATE
+dutch : NORP
+june year : DATE
+year : DATE
+netherlands : GPE
+8 6 : DATE
+june : DATE
+9 7 : DATE
+the coming months : DATE
+the year ago : DATE
+next month : DATE
+12 : CARDINAL
+dutch : NORP
+second : ORDINAL
+later this year : DATE
+swiss : NORP
+switzerland : GPE
+june : DATE
+february : DATE
+2 2 : CARDINAL
+this summer : DATE
+later this year : DATE
+moody analytics capital markets research : ORG
+weekly : DATE
+11 : CARDINAL
+asia : LOC
+japan : GPE
+stefan angrick : PERSON
+japan house : ORG
+fumio kishida : PERSON
+first : ORDINAL
+nine months : DATE
+10 july : DATE
+half : CARDINAL
+the next two years : DATE
+recent weeks : DATE
+19 : CARDINAL
+russia : GPE
+komeito : GPE
+two : CARDINAL
+2021 : CARDINAL
+cdp : ORG
+second : ORDINAL
+japan innovation : ORG
+2021 : DATE
+osaka : GPE
+japan : GPE
+ldp komeito : ORG
+article 9 : LAW
+japan : GPE
+two thirds : CARDINAL
+ldp : ORG
+the past nine months : DATE
+ldp : ORG
+japan : GPE
+2 : CARDINAL
+ldp : ORG
+dovish : NORP
+ldp : ORG
+don : PERSON
+japan : GPE
+south korea : GPE
+japan : GPE
+russia : GPE
+moody analytics capital markets research : ORG
+weekly : DATE
+12 : CARDINAL
+europe : LOC
+steven shields : PERSON
+moody investors service : ORG
+four : CARDINAL
+five : CARDINAL
+3 : CARDINAL
+baa3 : ORG
+june 8 : DATE
+three : CARDINAL
+at least 90 days : DATE
+june 29 : DATE
+2022 : DATE
+2023 : DATE
+the first half of this year : DATE
+169 112 : CARDINAL
+europe : LOC
+western europe : LOC
+2 1 : CARDINAL
+june 30 : DATE
+moody investors service : ORG
+commerzbank ag long term senior : ORG
+one : CARDINAL
+moody advanced loss : ORG
+approximately 8 4b : CARDINAL
+moody analytics capital markets research : ORG
+weekly : DATE
+13 : CARDINAL
+0 0 : CARDINAL
+0 2 : CARDINAL
+0 4 : CARDINAL
+0 6 : CARDINAL
+0 8 : CARDINAL
+1 0 : CARDINAL
+0 0 : CARDINAL
+0 2 : CARDINAL
+0 4 : CARDINAL
+0 6 : CARDINAL
+0 8 : CARDINAL
+1 0 : CARDINAL
+1 : CARDINAL
+3 month : DATE
+2 : CARDINAL
+fsr bank : ORG
+ps : ORG
+weekly : DATE
+14 
+ 
+ 
+ 
+ 
+ : CARDINAL
+3 : CARDINAL
+million : CARDINAL
+6 29 2022 : DATE
+b2 sg 
+ : PERSON
+6 29 2022 : DATE
+b3 sg 
+6 : PERSON
+29 2022 : DATE
+3 : CARDINAL
+3075 2 : DATE
+6 : CARDINAL
+30 2022 : DATE
+specialty chemicals inc industrial srsec : ORG
+sg 
+ : PERSON
+6 30 2022 : DATE
+corsair gaming inc industrial srsec : ORG
+4 : CARDINAL
+europe : LOC
+million : CARDINAL
+sg : NORP
+6 : CARDINAL
+29 2022 : DATE
+aerztebank eg financial ltd aa1 : ORG
+germany : GPE
+6 29 2022 : DATE
+banki hf financial ltd baa2 baa1 : ORG
+6 : CARDINAL
+30 2022 : DATE
+commerzbank ag financial srunsec : ORG
+8338 021 : CARDINAL
+ig germany : GPE
+6 : CARDINAL
+30 2022 : DATE
+healthcare romford financing plc industrial srsec : ORG
+154 1509 : DATE
+a3 ig : PERSON
+united kingdom : GPE
+6 30 2022 : DATE
+netherlands : GPE
+1 2022 : DATE
+france : GPE
+7 : CARDINAL
+1 2022 : DATE
+german : NORP
+gmbh : PERSON
+germany : GPE
+7 : CARDINAL
+4 2022 : DATE
+deutsche bahn ag deutsche bahn finance : ORG
+2078 311 : DATE
+germany : GPE
+7 : CARDINAL
+5 2022 : DATE
+octagon healthcare funding plc : ORG
+367 : CARDINAL
+7628 : DATE
+united kingdom : GPE
+weekly : DATE
+15 : CARDINAL
+0 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+800 : CARDINAL
+0 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+2003 2004 2005 : DATE
+2008 2009 2010 : DATE
+2011 2012 2013 2014 2015 2016 2017 : DATE
+2020 2021 2022 : DATE
+1 5 year : DATE
+0 : CARDINAL
+400 : CARDINAL
+800 : CARDINAL
+1 200 : CARDINAL
+1 600 : CARDINAL
+2 000 : CARDINAL
+0 : CARDINAL
+400 : CARDINAL
+800 : CARDINAL
+1 200 : CARDINAL
+1 600 : CARDINAL
+2 000 : CARDINAL
+2003 2004 2005 : DATE
+2008 2009 2010 : DATE
+2011 2012 2013 2014 2015 2016 2017 : DATE
+2020 2021 2022 : DATE
+2 5 year : DATE
+moody analytics capital markets research : ORG
+weekly : DATE
+16 : CARDINAL
+6 : CARDINAL
+29 : CARDINAL
+american airlines group inc : ORG
+motorola solutions inc : ORG
+baa1 baa2 baa3 : PERSON
+goldman sachs group : ORG
+a3 baa1 a3 
+union pacific corporation : PERSON
+a2 : NORP
+intel : ORG
+walt disney : ORG
+a1 baa1 : PERSON
+6 : CARDINAL
+29 : CARDINAL
+a3 aa3 a1 
+ : PERSON
+colgate : ORG
+philip morris international inc : ORG
+illinois tool works inc : ORG
+baa1 baa1 : PERSON
+6 : CARDINAL
+29 : CARDINAL
+508 : CARDINAL
+788 : CARDINAL
+588 200 : CARDINAL
+1 545 : CARDINAL
+157 : CARDINAL
+nabors industries inc : ORG
+816 : CARDINAL
+676 : CARDINAL
+139 : CARDINAL
+710 579 130 : CARDINAL
+661 : CARDINAL
+royal caribbean cruises ltd : ORG
+1 228 : CARDINAL
+1 : CARDINAL
+100 : CARDINAL
+331 : CARDINAL
+248 83 : CARDINAL
+363 : CARDINAL
+83 : CARDINAL
+1 : CARDINAL
+1 : CARDINAL
+6 : CARDINAL
+29 : CARDINAL
+american airlines group inc : ORG
+1 457 : CARDINAL
+221 : CARDINAL
+united airlines holdings inc : ORG
+919 : CARDINAL
+69 : CARDINAL
+159 40 : CARDINAL
+558 : CARDINAL
+595 37 : CARDINAL
+430 461 31 : CARDINAL
+533 : CARDINAL
+564 : CARDINAL
+31 : CARDINAL
+822 848 : CARDINAL
+131 : CARDINAL
+155 : CARDINAL
+24 : CARDINAL
+autonation inc : ORG
+153 : CARDINAL
+171 : CARDINAL
+delta air lines inc : ORG
+543 : CARDINAL
+560 17 : CARDINAL
+3 : CARDINAL
+june 29 2022 : DATE
+6 2022 : DATE
+moody analytics capital markets research : ORG
+weekly : DATE
+17 : CARDINAL
+6 : CARDINAL
+29 : CARDINAL
+a2 : PRODUCT
+a2 : PRODUCT
+a3 baa1 
+lloyds bank plc : PERSON
+a2 a3 a1 
+dz bank ag : PERSON
+bayerische landesbank : ORG
+austria ag : PERSON
+baa1 baa1 : PERSON
+inbev sa : PERSON
+baa1 baa2 baa1 
+kbc : FAC
+6 : CARDINAL
+29 : CARDINAL
+hamburg commercial bank : ORG
+baa1 baa1 : PERSON
+siena p : ORG
+spain : GPE
+baa1 
+banco santander : PERSON
+spain : GPE
+a3 a2 : PERSON
+deutsche bank : ORG
+commerzbank ag baa2 baa1 : ORG
+werke aktiengesellschaft : PERSON
+6 : CARDINAL
+29 : CARDINAL
+2 : CARDINAL
+2 : CARDINAL
+2 : CARDINAL
+1 817 : PERCENT
+741 : CARDINAL
+225 : CARDINAL
+1 111 : CARDINAL
+921 : CARDINAL
+190 : CARDINAL
+276 : CARDINAL
+145 : CARDINAL
+972 : CARDINAL
+829 142 : CARDINAL
+1 : CARDINAL
+1 : CARDINAL
+127 : CARDINAL
+815 : CARDINAL
+125 : CARDINAL
+6 : CARDINAL
+29 : CARDINAL
+84 96 : CARDINAL
+12 : CARDINAL
+itv plc : ORG
+264 : CARDINAL
+271 : CARDINAL
+41 : CARDINAL
+6 : CARDINAL
+5 : CARDINAL
+40 : CARDINAL
+44 4 : CARDINAL
+57 : CARDINAL
+39 : CARDINAL
+anheuser : ORG
+inbev sa : PERSON
+4 : CARDINAL
+june 29 2022 : DATE
+6 2022 : DATE
+moody analytics capital markets research : ORG
+weekly : DATE
+18 : CARDINAL
+6 : CARDINAL
+29 : CARDINAL
+china development bank : ORG
+a3 baa1 : PERSON
+a2 : CARDINAL
+hong kong : GPE
+china : GPE
+a3 a3 : PERSON
+commonwealth bank of australia : ORG
+a2 : NORP
+6 : CARDINAL
+29 : CARDINAL
+baa1 a2 : PRODUCT
+mitsubishi corporation : ORG
+baa1 : PERSON
+yusen kabushiki kaisha : PERSON
+aa3 ba2 : PERSON
+japan : GPE
+baa3 baa2 baa3 : ORG
+new zealand : GPE
+softbank group corp b2 : ORG
+6 : CARDINAL
+29 : CARDINAL
+pakistan : GPE
+1 : CARDINAL
+softbank group corp : ORG
+548 : CARDINAL
+338 : CARDINAL
+261 : CARDINAL
+518 : CARDINAL
+490 28 : CARDINAL
+93 : CARDINAL
+26 : CARDINAL
+baa3 : ORG
+147 : CARDINAL
+124 23 : CARDINAL
+nomura holdings inc : ORG
+nomura securities co ltd a3 : ORG
+89 20 : CARDINAL
+mitsubishi corporation : ORG
+60 : CARDINAL
+19 : CARDINAL
+6 : CARDINAL
+29 : CARDINAL
+123 : CARDINAL
+hong kong : GPE
+china : GPE
+25 : CARDINAL
+162 : CARDINAL
+japan : GPE
+34 : CARDINAL
+asahi group holdings ltd : ORG
+26 1 : CARDINAL
+38 38 : DATE
+89 89 : DATE
+118 : CARDINAL
+39 39 : CARDINAL
+5 : CARDINAL
+june 29 2022 : DATE
+6 2022 : DATE
+moody analytics capital markets research : ORG
+weekly : DATE
+19 : CARDINAL
+700 : CARDINAL
+1 400 : CARDINAL
+2 100 : CARDINAL
+2 800 : CARDINAL
+0 : CARDINAL
+700 : CARDINAL
+1 400 : CARDINAL
+2 100 : CARDINAL
+2 800 : CARDINAL
+jun jul aug : PERSON
+2018 2019 : DATE
+2020 2021 2022 : DATE
+6 : CARDINAL
+0 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+800 : CARDINAL
+1 000 : CARDINAL
+0 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+800 : CARDINAL
+1 000 : CARDINAL
+jan feb : DATE
+jun jul aug : PERSON
+2018 2019 : DATE
+2020 2021 2022 : DATE
+7 : CARDINAL
+weekly : DATE
+20 : CARDINAL
+weekly : DATE
+499 : CARDINAL
+0 : CARDINAL
+13 : DATE
+075 year to date : DATE
+805 : CARDINAL
+305 : CARDINAL
+98 : CARDINAL
+174 : CARDINAL
+820 : CARDINAL
+weekly 5 : DATE
+597 : CARDINAL
+0 : CARDINAL
+6 : CARDINAL
+081 year to date : DATE
+448 : CARDINAL
+066 : CARDINAL
+27 : CARDINAL
+072 : CARDINAL
+482 : CARDINAL
+798 : CARDINAL
+8 : CARDINAL
+weekly : DATE
+21 : CARDINAL
+100 : CARDINAL
+212 : CARDINAL
+1658 : DATE
+1335998 : CARDINAL
+us : GPE
+reid kanaley : PERSON
+1 212 : PERCENT
+1658 : DATE
+europe : LOC
+44 20 7772 5454 : DATE
+asia : LOC
+japan : GPE
+85 2 2916 1121 : DATE
+asia : LOC
+japan : GPE
+81 : CARDINAL
+4100 : DATE
+japan : GPE
+weekly : DATE
+22 : CARDINAL
+2022 : DATE
+moody investors service inc moody analytics inc : ORG
+moody analytics inc : ORG
+third : ORDINAL
+moody investors service inc wholly : ORG
+moody corporation : ORG
+moody investors service inc : ORG
+moody investors service inc : ORG
+1 000 : CARDINAL
+approximately 5 000 : CARDINAL
+mco : ORG
+moody investors service : ORG
+moody investors service : ORG
+mco : ORG
+moody investors service : ORG
+sec : ORG
+more than 5 : CARDINAL
+annually : DATE
+australia : GPE
+australian : NORP
+moody investors service : ORG
+61 003 : CARDINAL
+399 : CARDINAL
+336969 : DATE
+moody analytics australia pty ltd : ORG
+94 : CARDINAL
+136 : CARDINAL
+383569 : DATE
+section 761g : LAW
+2001 : DATE
+australia : GPE
+section 761g : LAW
+2001 : DATE
+japan : GPE
+moody japan : ORG
+moody group : ORG
+japan : GPE
+moody overseas holdings inc wholly : ORG
+mco moody sf japan : ORG
+the japan financial services agency : ORG
+japanese : NORP

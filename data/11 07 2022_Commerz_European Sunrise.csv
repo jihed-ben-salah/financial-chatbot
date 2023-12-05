@@ -1,0 +1,886 @@
+file_name,page_num,text,clean_text,tokens,subjectivity_score,date,bank,title,topic
+11 07 2022_Commerz_European Sunrise,1,"Rates and Credit Strategy
+ 
+ 
+11 July 2022
+Overnight Markets
+149.7
+150.0
+150.2
+150.5
+150.7
+151.0
+151.2
+117.5
+117.7
+117.9
+118.1
+118.3
+118.5
+118.7
+07:00
+13:00
+19:00
+01:00
+07:00
+T-Note
+Bund
+NY CLOSE
+Source: Bloomberg
+Bund Future
+Target
+Stop
+Tactical positioning for today* (RXU2)
+neutral
+Cumulative performance YTD: +195 ticks
+                           since 2014: +3679 ticks
+*8:00am to 5:15pm CET
+Source: Commerzbank Research
+Credit 1d changes (level) in bp
+-12
+-9
+-6
+-3
+0
+XO (576)
+SenFin (128)
+Main (117)
+EURHY (534)
+EURIG (120)
+Source: Bloomberg
+Author
+Rainer Guntermann
+Rates Strategist
++49 69 136 87506
+rainer.guntermann@commerzbank.com
+ 
+ research.commerzbank.com   |   Bloomberg: RESP CBKR   |   
+Important disclosure information
+ 
+European Sunrise
+ 
+Wobbly balance
+ 
+Rates: Bunds look set to remain vulnerable near-term as upcoming US inflation data
+adds weight to the Fed's front-loading while still solid activity data bolsters risk
+sentiment. Downside remains limited though as gas anxiety continues.
+Supply: Modest EGB supply of EUR16.5bn from Germany, Netherlands, Greece and Italy
+meets decent EUR30.5bn backflows. In SSAs, the first H2 NGEU syndication and the KFW
+mid-year funding update will be in focus at the start of the week.
+Overnight News
+ECB:
+ Holzmann says ECB should hike rates by 50bp in July and by 75bp in September, if
+inflation outlook doesn't improve. Stournaras sees 25bp hike ""very likely"" in July, hopes that
+new instrument will surprise markets ""on the positive side"" as a ""strong"" tool could stay on
+the shelf.
+Euro area:
+ BBG poll shows 55% recession risk in Germany and 45% in euro area (up from
+30% last month), inflation to peak this quarter, and ECB raising depo rate to 1.25% by March.
+Fed:
+ Williams sees 50 or 75bp July hike on the table. He expects GDP growth below 1% in
+2022 and around 1.5% in 2023.
+Gas:
+ Canada returns sanctioned gas turbine to Germany by issuing ""time-limited and
+revocable"" permit. French FinMin Le Maire says total Russian gas cut-off is most likely
+scenario.
+France:
+ Govt mulls extending energy tariff shield beyond 2022 on targeted basis for poorest
+households, PM Borne says.
+Sanctions:
+ EU is working to improve enforcement of its sanctions against Russia (WSJ).
+Ratings:
+ Fitch affirms Greece at BB/positive, ESM at AAA/stable, EFSF at AA, raises outlook
+for US (AAA) to stable citing improved debt dynamics and downgrades Turkey one notch to B/
+negative. DBRS confirms Netherlands at AAA/stable.
+China:
+ CPI rises stronger than expected to 2.5% in June (exp. 2.4%), PPI slows less than
+expected to 6.1% (exp. 6.0%). June CPI won't stand in the way of more stimulus, state media
+says. Covid-19 cases in Shanghai continue to rise, incl. first case of BA.5. Property developer
+Ronshine misses payments on senior notes.
+Japan:
+ Ruling LDP and its junior partner increase majority in upper house election to 76 seats
+(out of 125).
+Markets:
+ USTs trade rangebound near Friday's lows. Upbeat Nikkei on election, downbeat
+China stocks on Covid situation, e-minis weaken. DXY recovers, Yen falls to new low. Brent
+holds above $106/bbl.
+ 
+This report is intended for mohamedamine.belaid@biat.com.tn. Unauthorized distribution prohibited.
+",rate credit strategi juli overnight market note bund ny close bloomberg bund futur target tactic posit rxu neutral cumul perform ytd tick tick cet commerzbank credit level bp xo senfin main eurhi eurig bloomberg rainer guntermann rate strategist rainer guntermann commerzbank commerzbank bloomberg resp cbkr disclosur european sunris wobbl balanc rate bund set remain vulner term upcom inflat add weight fed load solid activ bolster risk sentiment downsid remain limit gas anxieti continu suppli modest egb suppli eur germani netherland greec itali meet decent eur backflow ssa ngeu syndic kfw mid fund updat focus start week overnight news ecb holzmann ecb hike rate bp juli bp septemb inflat improv stournara bp hike juli hope instrument surpris market posit strong tool stay shelf euro bbg poll recess risk germani euro month inflat peak quarter ecb rais depo rate march fed william bp juli hike tabl expect gdp growth gas canada return sanction gas turbin germani issu time limit revoc permit french finmin le mair total russian gas cut scenario franc govt mull extend energi tariff shield target basi poorest household born sanction eu improv enforc sanction russia wsj rate fitch affirm greec posit esm stabl efsf rais stabl cite improv debt dynam downgrad turkey notch negat dbrs confirm netherland stabl china cpi rise stronger expect june exp ppi slow expect exp june cpi stand stimulus medium covid shanghai continu rise incl properti develop ronshin miss payment senior note japan rule ldp junior partner increas major upper hous elect seat market ust trade rangebound friday low upbeat nikkei elect downbeat china stock covid situat mini weaken dxi recov yen fall brent hold bbl report intend mohamedamin belaid biat unauthor distribut prohibit,"['rates', 'credit', 'strategy', 'july', 'overnight', 'markets', 'note', 'bund', 'ny', 'close', 'bloomberg', 'bund', 'future', 'target', 'tactical', 'positioning', 'rxu', 'neutral', 'cumulative', 'performance', 'ytd', 'ticks', 'ticks', 'cet', 'commerzbank', 'credit', 'level', 'bp', 'xo', 'senfin', 'main', 'eurhy', 'eurig', 'bloomberg', 'rainer', 'guntermann', 'rates', 'strategist', 'rainer', 'guntermann', 'commerzbank', 'commerzbank', 'bloomberg', 'resp', 'cbkr', 'disclosure', 'european', 'sunrise', 'wobbly', 'balance', 'rates', 'bunds', 'set', 'remain', 'vulnerable', 'term', 'upcoming', 'inflation', 'adds', 'weight', 'fed', 'loading', 'solid', 'activity', 'bolsters', 'risk', 'sentiment', 'downside', 'remains', 'limited', 'gas', 'anxiety', 'continues', 'supply', 'modest', 'egb', 'supply', 'eur', 'germany', 'netherlands', 'greece', 'italy', 'meets', 'decent', 'eur', 'backflows', 'ssas', 'ngeu', 'syndication', 'kfw', 'mid', 'funding', 'update', 'focus', 'start', 'week', 'overnight', 'news', 'ecb', 'holzmann', 'ecb', 'hike', 'rates', 'bp', 'july', 'bp', 'september', 'inflation', 'improve', 'stournaras', 'bp', 'hike', 'july', 'hopes', 'instrument', 'surprise', 'markets', 'positive', 'strong', 'tool', 'stay', 'shelf', 'euro', 'bbg', 'poll', 'recession', 'risk', 'germany', 'euro', 'month', 'inflation', 'peak', 'quarter', 'ecb', 'raising', 'depo', 'rate', 'march', 'fed', 'williams', 'bp', 'july', 'hike', 'table', 'expects', 'gdp', 'growth', 'gas', 'canada', 'returns', 'sanctioned', 'gas', 'turbine', 'germany', 'issuing', 'time', 'limited', 'revocable', 'permit', 'french', 'finmin', 'le', 'maire', 'total', 'russian', 'gas', 'cut', 'scenario', 'france', 'govt', 'mulls', 'extending', 'energy', 'tariff', 'shield', 'targeted', 'basis', 'poorest', 'households', 'borne', 'sanctions', 'eu', 'improve', 'enforcement', 'sanctions', 'russia', 'wsj', 'ratings', 'fitch', 'affirms', 'greece', 'positive', 'esm', 'stable', 'efsf', 'raises', 'stable', 'citing', 'improved', 'debt', 'dynamics', 'downgrades', 'turkey', 'notch', 'negative', 'dbrs', 'confirms', 'netherlands', 'stable', 'china', 'cpi', 'rises', 'stronger', 'expected', 'june', 'exp', 'ppi', 'slows', 'expected', 'exp', 'june', 'cpi', 'stand', 'stimulus', 'media', 'covid', 'shanghai', 'continue', 'rise', 'incl', 'property', 'developer', 'ronshine', 'misses', 'payments', 'senior', 'notes', 'japan', 'ruling', 'ldp', 'junior', 'partner', 'increase', 'majority', 'upper', 'house', 'election', 'seats', 'markets', 'usts', 'trade', 'rangebound', 'friday', 'lows', 'upbeat', 'nikkei', 'election', 'downbeat', 'china', 'stocks', 'covid', 'situation', 'minis', 'weaken', 'dxy', 'recovers', 'yen', 'falls', 'brent', 'holds', 'bbl', 'report', 'intended', 'mohamedamine', 'belaid', 'biat', 'unauthorized', 'distribution', 'prohibited']",0.40341083647535264,11 07 2022,Commerz,European Sunrise,1
+11 07 2022_Commerz_European Sunrise,2,"Economic events
+CET
+Region
+Indicator
+Period
+Unit
+Forecast
+Survey
+Last
+value
+EUR
+Eurogroup meeting
+Primary market
+CET
+Issuer
+Event
+Size
+EU
+NGEU syndication announcement (e)
+EUR8.0bn (e)
+12:00 GR
+GGB 1.75% Jun32
+EUR0.5bn (e)
+17:00 BE
+Announcement for OLO auction on 18 Jul
+19:00 US
+New 3y UST
+$43.0bn
+(e) = expected; (p) = preliminary; Source: Bloomberg, Commerzbank Research
+2
+11 July 2022
+Rates and Credit Strategy
+ | European Sunrise
+",econom event cet region indic period unit forecast survey eur eurogroup meet primari market cet issuer event size eu ngeu syndic announc eur ggb jun eur announc olo auction jul ust expect preliminari bloomberg commerzbank juli rate credit strategi european sunris,"['economic', 'events', 'cet', 'region', 'indicator', 'period', 'unit', 'forecast', 'survey', 'eur', 'eurogroup', 'meeting', 'primary', 'market', 'cet', 'issuer', 'event', 'size', 'eu', 'ngeu', 'syndication', 'announcement', 'eur', 'ggb', 'jun', 'eur', 'announcement', 'olo', 'auction', 'jul', 'ust', 'expected', 'preliminary', 'bloomberg', 'commerzbank', 'july', 'rates', 'credit', 'strategy', 'european', 'sunrise']",0.27020202020202017,11 07 2022,Commerz,European Sunrise,1
+11 07 2022_Commerz_European Sunrise,3,"Rates: Wobbly balance
+Bunds remain vulnerable near-term as headwinds persist. The gas anxiety continues with the
+11-day maintenance period for Nord Stream 1 starting today but the data turns the focus on
+Fed tightening, while 
+hawkish ECB
+ talk (Holzmann) continues ahead of the blackout period
+beginning on Thursday. As rising rate expectations could weigh on risk sentiment, cross-market
+feedback loops could provide support though.
+The 
+US-Treasury curve
+ shifted some 8bp higher following the strong payroll report, with the
+2-10y curve remaining inverted. 20y remains the cheapest point on the curve with the nominal
+yield having risen above 3.55%, driven by both higher break-evens and a higher 
+real
+ TIPS 
+yield
+above 1.25%.
+A likely new 
+record high US inflation print
+ this week should tip the balance for a 75bp hike
+later this month, which is virtually priced in by now. Fed expectations are shifting higher again,
+but remain inverted beyond March-2023 (see left-hand chart below).
+The front-loaded Fed tightening is also spilling over to EURSTR forwards with the market pricing
+slightly more than 25bp ECB lift-off this month and 50bp in September. The EURSTR forwards for
+2023 remain lower on the week though given euro area recession fears (see right-hand chart
+below). A crucial litmus test for the tightening pattern could come much earlier though with the
+planned end of the Nord Stream 1 maintenance targeted to end one day after the ECB lift-off
+decision.
+Lingering recession risks should keep the Schatz better supported and the Bund curve with a
+steepening bias also as US headwinds extend.
+The backdrop for 
+EGB spreads
+ remains choppy as tangible official colour on the planned TPM
+instrument seems unlikely near-term with headline risks still stemming from sources. Hawkish
+rates talk (see Overnight News) could put the latest BTP-Bund spread tightening to the test
+again. 10y Greece continued to underperform on Friday as upgrade hopes did not materialise
+and the PDMA announced another auction for today (see below).
+Today's Eurogroup meeting could provide relative support for spreads as finance ministers may
+signal further fiscal support in case of economic hardship on a worsening energy crisis when
+discussing the budgetary situation in the euro area.
+Fed expectations shifting higher, 2023 ECB expectations shifting lower
+Fed- and ECB-dated rate hike expectations, derived from OIS forwards/Fed Funds Futures and EURSTR forwards, spot vs. last Monday, in bp
+163
+185
+195
+200
+197
+189
+169
+130
+73
+0
+50
+100
+150
+200
+250
+Jul-23
+Jun-23
+May-23
+Mar-23
+Feb-23
+Dec-22
+Nov-22
+Sep-22
+Jul-22
+FED
+spot
+4 Jul-22
+Source: Bloomberg, Commerzbank Research
+201
+197
+196
+187
+178
+165
+148
+120
+81
+29
+0
+50
+100
+150
+200
+250
+Sep-23
+Jul-23
+Jun-23
+May-23
+Mar-23
+Feb-23
+Dec-22
+Oct-22
+Sep-22
+Jul-22
+ECB
+spot
+4 Jul-22
+Source: Bloomberg, Commerzbank Research
+Supply: EU syndication, KFW update, moderate EGB volume, decent
+backflows
+The EGB auction volume should moderate to about 
+EUR16.5bn
+ this week (vs. EUR25bn last week).
+Germany
+ is scheduled to tap its Schatz tomorrow and 30y Bund on Wednesday while the
+Netherlands
+ will be active in its 10y DSL. In the periphery, 
+Greece
+ will tap its 10y GGB Jun32
+today and 
+Italy
+ will get active in 3y/7y/15y BTPs. Portugal, however, decided to stay put.
+3
+11 July 2022
+Rates and Credit Strategy
+ | European Sunrise
+",rate wobbl balanc bund remain vulner term headwind persist gas anxieti continu day mainten period nord stream start focus fed tighten hawkish ecb talk holzmann continu blackout period thursday rise rate expect weigh risk sentiment cross market feedback loop provid support treasuri curv shift bp strong payrol report curv remain invert remain cheapest curv nomin yield risen driven break even real tip yield record inflat print week balanc bp hike month virtual price fed expect shift remain invert march left hand chart load fed tighten spill eurstr forward market price bp ecb lift month bp septemb eurstr forward remain week euro recess fear hand chart crucial litmus tighten pattern earlier plan nord stream mainten target day ecb lift decis linger recess risk schatz support bund curv steepen bias headwind extend backdrop egb spread remain choppi tangibl offici colour plan tpm instrument term headlin risk stem sourc hawkish rate talk overnight news btp bund spread tighten greec continu underperform friday upgrad hope materialis pdma announc auction eurogroup meet provid relat support spread financ minist signal fiscal support econom hardship worsen energi crisi discuss budgetari situat euro fed expect shift ecb expect shift fed ecb date rate hike expect deriv oi forward fed fund futur eurstr forward spot monday bp jul jun mar feb dec nov sep jul fed spot jul bloomberg commerzbank sep jul jun mar feb dec oct sep jul ecb spot jul bloomberg commerzbank suppli eu syndic kfw updat moder egb volum decent backflow egb auction volum moder eur week eurbn week germani schedul tap schatz tomorrow bund wednesday netherland activ dsl peripheri greec tap ggb jun itali activ btps portug decid stay juli rate credit strategi european sunris,"['rates', 'wobbly', 'balance', 'bunds', 'remain', 'vulnerable', 'term', 'headwinds', 'persist', 'gas', 'anxiety', 'continues', 'day', 'maintenance', 'period', 'nord', 'stream', 'starting', 'focus', 'fed', 'tightening', 'hawkish', 'ecb', 'talk', 'holzmann', 'continues', 'blackout', 'period', 'thursday', 'rising', 'rate', 'expectations', 'weigh', 'risk', 'sentiment', 'cross', 'market', 'feedback', 'loops', 'provide', 'support', 'treasury', 'curve', 'shifted', 'bp', 'strong', 'payroll', 'report', 'curve', 'remaining', 'inverted', 'remains', 'cheapest', 'curve', 'nominal', 'yield', 'risen', 'driven', 'break', 'evens', 'real', 'tips', 'yield', 'record', 'inflation', 'print', 'week', 'balance', 'bp', 'hike', 'month', 'virtually', 'priced', 'fed', 'expectations', 'shifting', 'remain', 'inverted', 'march', 'left', 'hand', 'chart', 'loaded', 'fed', 'tightening', 'spilling', 'eurstr', 'forwards', 'market', 'pricing', 'bp', 'ecb', 'lift', 'month', 'bp', 'september', 'eurstr', 'forwards', 'remain', 'week', 'euro', 'recession', 'fears', 'hand', 'chart', 'crucial', 'litmus', 'tightening', 'pattern', 'earlier', 'planned', 'nord', 'stream', 'maintenance', 'targeted', 'day', 'ecb', 'lift', 'decision', 'lingering', 'recession', 'risks', 'schatz', 'supported', 'bund', 'curve', 'steepening', 'bias', 'headwinds', 'extend', 'backdrop', 'egb', 'spreads', 'remains', 'choppy', 'tangible', 'official', 'colour', 'planned', 'tpm', 'instrument', 'term', 'headline', 'risks', 'stemming', 'sources', 'hawkish', 'rates', 'talk', 'overnight', 'news', 'btp', 'bund', 'spread', 'tightening', 'greece', 'continued', 'underperform', 'friday', 'upgrade', 'hopes', 'materialise', 'pdma', 'announced', 'auction', 'eurogroup', 'meeting', 'provide', 'relative', 'support', 'spreads', 'finance', 'ministers', 'signal', 'fiscal', 'support', 'economic', 'hardship', 'worsening', 'energy', 'crisis', 'discussing', 'budgetary', 'situation', 'euro', 'fed', 'expectations', 'shifting', 'ecb', 'expectations', 'shifting', 'fed', 'ecb', 'dated', 'rate', 'hike', 'expectations', 'derived', 'ois', 'forwards', 'fed', 'funds', 'futures', 'eurstr', 'forwards', 'spot', 'monday', 'bp', 'jul', 'jun', 'mar', 'feb', 'dec', 'nov', 'sep', 'jul', 'fed', 'spot', 'jul', 'bloomberg', 'commerzbank', 'sep', 'jul', 'jun', 'mar', 'feb', 'dec', 'oct', 'sep', 'jul', 'ecb', 'spot', 'jul', 'bloomberg', 'commerzbank', 'supply', 'eu', 'syndication', 'kfw', 'update', 'moderate', 'egb', 'volume', 'decent', 'backflows', 'egb', 'auction', 'volume', 'moderate', 'eur', 'week', 'eurbn', 'week', 'germany', 'scheduled', 'tap', 'schatz', 'tomorrow', 'bund', 'wednesday', 'netherlands', 'active', 'dsl', 'periphery', 'greece', 'tap', 'ggb', 'jun', 'italy', 'active', 'btps', 'portugal', 'decided', 'stay', 'july', 'rates', 'credit', 'strategy', 'european', 'sunrise']",0.43023172905525836,11 07 2022,Commerz,European Sunrise,0
+11 07 2022_Commerz_European Sunrise,4,"Decent 
+EUR30.5bn
+ redemption and coupon payments keep net supply in negative territory. The
+backflows
+ from the Netherlands (EUR16.6) and Italy (EUR13.9bn) will be available for reinvestment
+from Wednesday (considering t+2 settlement).
+Benign flow pattern extends
+Expected EGB isssuance and backflows over the coming weeks, in EURbn
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+27-Jun
+04-Jul
+11-Jul
+18-Jul
+25-Jul
+01-Aug
+gross
+principal
+coupon
+buybacks
+net
+forecast
+Source: DMOs, Bloomberg, Commerzbank Research
+At the start of the week, 
+SSAs
+ will be in focus. The EU should kick-start its H2 funding with
+a 
+NGEU syndication
+. The NGEU funding target for H2 is EUR50bn (same as in H1), and given
+four auctions and five syndications, the size of the upcoming transaction should be around
+EUR8bn. MFA/SURE funding could boost total H2 issuance to EUR65.6bn and should lead to larger
+syndications after the summer break.
+The 
+KFW mid-year funding update
+ will also be in focus. There is uncertainty with potential
+upside risk for the funding given the government's several new bailout and relief packages for
+the energy sector which should partly be paid out via KFW.
+It remains unclear whether the initiatives are only backed by Federal guarantees or also involve
+Bund funding similar to the economic support measures during the corona crisis. Either way, as
+most measures appear to imply credit lines rather than swift payouts of the full amounts as well
+as a temporary and thus short-term character, we expect limited impact on KFW bond funding
+and spreads. Even in case of an upward revision, the funding progress should cushion any
+adverse impact on spreads. The current KFW bond funding target for 2022 foresees a EUR80-85bn
+range of which EUR64bn (i.e. 75%) are already funded.
+Scheduled rating updates on Friday, 15 July
+Issuer
+Rating agency
+Current rating/outlook Last action by rating agency
+Next scheduled update
+Spain
+Moody's
+Baa1/Stable
+09/18/2020
+Affirmed
+02-Sep-22 by DBRS
+Ireland
+DBRS
+AA (low)/Stable 
+01/14/2022
+Upgrade to AA (low)/Stable 
+22-Jul-22 by Fitch
+Luxembourg
+Fitch
+AAA/Stable
+02/11/2022
+Affirmed
+29-Jul-22 by DBRS
+Source: Rating agencies, Commerzbank Research, *) for our handy 1-page overviews of all 2022
+EUR-sovereign rating reviews by date and by country see 
+Rates Radar
+.
+4
+11 July 2022
+Rates and Credit Strategy
+ | European Sunrise
+",decent eur redempt coupon payment suppli negat territori backflow netherland eur itali eur reinvest wednesday settlement benign flow pattern extend expect egb isssuanc backflow come week eurbn jun jul jul jul jul aug gross princip coupon buyback forecast dmos bloomberg commerzbank start week ssa focus eu kick start fund ngeu syndic ngeu fund target eurbn auction syndic size upcom transact eurbn mfa fund boost total issuanc eur lead larger syndic summer break kfw mid fund updat focus uncertainti potenti upsid risk fund govern bailout relief packag energi sector part paid kfw remain unclear initi feder guarante involv bund fund econom support measur corona crisi measur impli credit line swift payout amount temporari short term charact expect limit impact kfw bond fund spread upward revis fund progress cushion advers impact spread current kfw bond fund target forese eur rang eurbn fund schedul rate updat friday juli issuer rate agenc current rate action rate agenc schedul updat spain moodi baa stabl affirm sep dbrs ireland dbrs stabl upgrad stabl jul fitch luxembourg fitch stabl affirm jul dbrs rate agenc commerzbank handi overview eur sovereign rate review countri rate radar juli rate credit strategi european sunris,"['decent', 'eur', 'redemption', 'coupon', 'payments', 'supply', 'negative', 'territory', 'backflows', 'netherlands', 'eur', 'italy', 'eur', 'reinvestment', 'wednesday', 'settlement', 'benign', 'flow', 'pattern', 'extends', 'expected', 'egb', 'isssuance', 'backflows', 'coming', 'weeks', 'eurbn', 'jun', 'jul', 'jul', 'jul', 'jul', 'aug', 'gross', 'principal', 'coupon', 'buybacks', 'forecast', 'dmos', 'bloomberg', 'commerzbank', 'start', 'week', 'ssas', 'focus', 'eu', 'kick', 'start', 'funding', 'ngeu', 'syndication', 'ngeu', 'funding', 'target', 'eurbn', 'auctions', 'syndications', 'size', 'upcoming', 'transaction', 'eurbn', 'mfa', 'funding', 'boost', 'total', 'issuance', 'eur', 'lead', 'larger', 'syndications', 'summer', 'break', 'kfw', 'mid', 'funding', 'update', 'focus', 'uncertainty', 'potential', 'upside', 'risk', 'funding', 'government', 'bailout', 'relief', 'packages', 'energy', 'sector', 'partly', 'paid', 'kfw', 'remains', 'unclear', 'initiatives', 'federal', 'guarantees', 'involve', 'bund', 'funding', 'economic', 'support', 'measures', 'corona', 'crisis', 'measures', 'imply', 'credit', 'lines', 'swift', 'payouts', 'amounts', 'temporary', 'short', 'term', 'character', 'expect', 'limited', 'impact', 'kfw', 'bond', 'funding', 'spreads', 'upward', 'revision', 'funding', 'progress', 'cushion', 'adverse', 'impact', 'spreads', 'current', 'kfw', 'bond', 'funding', 'target', 'foresees', 'eur', 'range', 'eurbn', 'funded', 'scheduled', 'rating', 'updates', 'friday', 'july', 'issuer', 'rating', 'agency', 'current', 'rating', 'action', 'rating', 'agency', 'scheduled', 'update', 'spain', 'moody', 'baa', 'stable', 'affirmed', 'sep', 'dbrs', 'ireland', 'dbrs', 'stable', 'upgrade', 'stable', 'jul', 'fitch', 'luxembourg', 'fitch', 'stable', 'affirmed', 'jul', 'dbrs', 'rating', 'agencies', 'commerzbank', 'handy', 'overviews', 'eur', 'sovereign', 'rating', 'reviews', 'country', 'rates', 'radar', 'july', 'rates', 'credit', 'strategy', 'european', 'sunrise']",0.38354577521244193,11 07 2022,Commerz,European Sunrise,1
+11 07 2022_Commerz_European Sunrise,5,"Primary market
+CET
+Issuer
+Event
+Size
+Monday, 11 July 2022
+EU
+NGEU syndication announcement (e)
+EUR8.0bn (e)
+12:00
+GR
+GGB 1.75% Jun32
+EUR0.5bn (e)
+17:00
+BE
+Announcement for OLO auction on 18 Jul
+19:00
+US
+New 3y UST
+$43.0bn
+Tuesday, 12 July 2022
+10:00
+NL
+DSL 0.5% Jul32
+EUR2.0bn (e)
+11:30
+DE
+Schatz 0.2% Jun24
+EUR5.5bn
+19:00
+US
+10y UST reopening
+$33.0bn
+Wednesday, 13 July 2022
+11:00
+IT
+BTP 1.2% Aug25, 2.8% Jun29, 3.25% Mar38
+EUR7.0bn (e)
+11:30
+DE
+Bund 0% Aug52
+EUR1.5bn
+19:00
+US
+30y UST reopening
+$19.0bn
+Thursday, 14 July 2022
+17:00
+US
+Announcement for 20y UST reopening and new 10y TIPS on 20,
+21 Jul
+Friday, 15 July 2022
+11:00
+FR
+Announcement for medium-term and inflation-linked OAT
+auction on 21 Jul
+14:00
+ES
+Announcement for SPGB auction on 21 Jul
+12:30
+BE
+Size announcement for OLO auction on 18 Jul
+Monday, 18 July 2022
+12:00
+BE
+OLO auction
+EUR2.8bn (e)
+Tuesday, 19 July 2022
+11:30
+DE
+Bobl 1.3% Oct27
+EUR4.0bn
+Wednesday, 20 July 2022
+11:30
+DE
+Bund 0% Aug30 (green)
+EUR1.5bn
+19:00
+US
+20y UST reopening
+$14.0bn
+Thursday, 21 July 2022
+10:30
+ES
+SPGB auction
+EUR5.5bn (e)
+10:50
+FR
+Medium-term OAT auction
+EUR10.0bn (e)
+11:50
+FR
+Inflation-linked OAT auction
+EUR1.0bn (e)
+17:00
+US
+Announcement for new 2y, 5y, 7y USTs and 2y FRN on 25, 26,
+27, 28 Jul
+18:00
+IT
+Announcement for BTP Short Term/BTPei auction on 26 Jul
+19:00
+US
+New 10y TIPS
+$17.0bn
+Friday, 22 July 2022
+14:00
+PT
+Possible announcement for PGB auction on 27 Jul
+5
+11 July 2022
+Rates and Credit Strategy
+ | European Sunrise
+",primari market cet issuer event size monday juli eu ngeu syndic announc eur ggb jun eur announc olo auction jul ust tuesday juli dsl jul eur schatz jun eur ust reopen wednesday juli btp aug jun mar eur bund aug eur ust reopen thursday juli announc ust reopen tip jul friday juli announc medium term inflat link oat auction jul announc spgb auction jul size announc olo auction jul monday juli olo auction eur tuesday juli bobl oct eur wednesday juli bund aug green eur ust reopen thursday juli spgb auction eur medium term oat auction eur inflat link oat auction eur announc ust frn jul announc btp short term btpei auction jul tip friday juli announc pgb auction jul juli rate credit strategi european sunris,"['primary', 'market', 'cet', 'issuer', 'event', 'size', 'monday', 'july', 'eu', 'ngeu', 'syndication', 'announcement', 'eur', 'ggb', 'jun', 'eur', 'announcement', 'olo', 'auction', 'jul', 'ust', 'tuesday', 'july', 'dsl', 'jul', 'eur', 'schatz', 'jun', 'eur', 'ust', 'reopening', 'wednesday', 'july', 'btp', 'aug', 'jun', 'mar', 'eur', 'bund', 'aug', 'eur', 'ust', 'reopening', 'thursday', 'july', 'announcement', 'ust', 'reopening', 'tips', 'jul', 'friday', 'july', 'announcement', 'medium', 'term', 'inflation', 'linked', 'oat', 'auction', 'jul', 'announcement', 'spgb', 'auction', 'jul', 'size', 'announcement', 'olo', 'auction', 'jul', 'monday', 'july', 'olo', 'auction', 'eur', 'tuesday', 'july', 'bobl', 'oct', 'eur', 'wednesday', 'july', 'bund', 'aug', 'green', 'eur', 'ust', 'reopening', 'thursday', 'july', 'spgb', 'auction', 'eur', 'medium', 'term', 'oat', 'auction', 'eur', 'inflation', 'linked', 'oat', 'auction', 'eur', 'announcement', 'usts', 'frn', 'jul', 'announcement', 'btp', 'short', 'term', 'btpei', 'auction', 'jul', 'tips', 'friday', 'july', 'announcement', 'pgb', 'auction', 'jul', 'july', 'rates', 'credit', 'strategy', 'european', 'sunrise']",0.4353535353535353,11 07 2022,Commerz,European Sunrise,1
+11 07 2022_Commerz_European Sunrise,6,"Economic Calendar
+CET
+Region
+Indicator
+Period
+Unit
+Forecast
+Survey
+Last value
+Monday, 11 July 2022
+EUR
+Eurogroup meeting
+Tuesday, 12 July 2022
+EUR
+Ecofin meeting
+11:00
+GER
+ZEW Index
+Jul
+sa
+-45.0
+-39.3
+-28.0
+Wednesday, 13 July 2022
+-
+CHN
+Imports in USD
+Jun
+y/y
+-
+4.0
+4.1
+08:00
+GBR
+Monthly GDP
+May
+m/m, sa
+-
+-
+-0.3
+08:45
+FRA
+CPI
+Jun F
+y/y
+5.8
+5.8
+5.8 (p)
+08:45
+FRA
+CPI ex Tobacco
+Jun
+index
+111.76
+111.76
+110.95
+11:00
+EUR
+Industrial Production
+May
+m/m, sa
+0.5
+0.1
+0.4
+14:30
+USA
+CPI
+Jun
+m/m, sa
+1.2
+1.1
+1.0
+14:30
+USA
+CPI ex Food and Energy
+Jun
+m/m, sa
+0.5
+0.6
+0.6
+16:00
+CAN
+Bank of Canada Rate Decision
+%
+-
+2.0
+1.5
+Thursday, 14 July 2022
+14:30
+USA
+PPI, Final Demand
+Jun
+m/m, sa
+-
+0.8
+0.8
+14:30
+USA
+Initial Claims
+9 Jul
+k, sa
+-
+-
+235
+Friday, 15 July 2022
+04:00
+CHN
+Industrial Production
+Jun
+y/y
+-
+4.2
+0.7
+04:00
+CHN
+GDP
+2Q
+y/y
+-
+1.0
+4.8
+14:30
+USA
+Empire State Index
+Jul
+sa
+-
+-2.6
+-1.2
+14:30
+USA
+Retail Sales
+Jun
+m/m, sa
+1.0
+0.9
+-0.3
+14:30
+USA
+Retail Sales (ex Autos)
+Jun
+m/m, sa
+0.8
+0.7
+0.5
+15:15
+USA
+Industrial Production
+Jun
+m/m, sa
+-
+0.0
+0.1
+16:00
+USA
+Consumer Sentiment (Uni Michigan), prel.
+Jul P
+sa
+-
+49.0
+50.0
+(e) = expected; (p) = preliminary; Source: Bloomberg, Commerzbank Research
+6
+11 July 2022
+Rates and Credit Strategy
+ | European Sunrise
+",econom calendar cet region indic period unit forecast survey monday juli eur eurogroup meet tuesday juli eur ecofin meet ger zew jul wednesday juli chn import usd jun gbr month gdp fra cpi jun fra cpi tobacco jun eur industri product usa cpi jun usa cpi food energi jun canada rate decis thursday juli usa ppi final demand jun usa initi claim jul friday juli chn industri product jun chn gdp usa empir jul usa retail sale jun usa retail sale auto jun usa industri product jun usa consum sentiment uni michigan prel jul expect preliminari bloomberg commerzbank juli rate credit strategi european sunris,"['economic', 'calendar', 'cet', 'region', 'indicator', 'period', 'unit', 'forecast', 'survey', 'monday', 'july', 'eur', 'eurogroup', 'meeting', 'tuesday', 'july', 'eur', 'ecofin', 'meeting', 'ger', 'zew', 'jul', 'wednesday', 'july', 'chn', 'imports', 'usd', 'jun', 'gbr', 'monthly', 'gdp', 'fra', 'cpi', 'jun', 'fra', 'cpi', 'tobacco', 'jun', 'eur', 'industrial', 'production', 'usa', 'cpi', 'jun', 'usa', 'cpi', 'food', 'energy', 'jun', 'canada', 'rate', 'decision', 'thursday', 'july', 'usa', 'ppi', 'final', 'demand', 'jun', 'usa', 'initial', 'claims', 'jul', 'friday', 'july', 'chn', 'industrial', 'production', 'jun', 'chn', 'gdp', 'usa', 'empire', 'jul', 'usa', 'retail', 'sales', 'jun', 'usa', 'retail', 'sales', 'autos', 'jun', 'usa', 'industrial', 'production', 'jun', 'usa', 'consumer', 'sentiment', 'uni', 'michigan', 'prel', 'jul', 'expected', 'preliminary', 'bloomberg', 'commerzbank', 'july', 'rates', 'credit', 'strategy', 'european', 'sunrise']",0.27777777777777773,11 07 2022,Commerz,European Sunrise,1
+11 07 2022_Commerz_European Sunrise,7," 
+In accordance with ESMA MAR requirements this report was completed 11/7/2022 07:48 CEST and disseminated 11/7/2022 07:48 CEST.
+ 
+In respect to Article 4 of ESMA MAR, for an overview of recommendations made in the previous 12 months on any instrument or issuer covered in this report as well as
+an overview of all recommendations made by the producer(s) of this report in the previous 12 months, please follow this link: 
+https://research.commerzbank.com/
+RecommendationHistoryCredit
+; 
+https://research.commerzbank.com/RecommendationHistoryInterestRates
+This document has been created and published by the Group Research department (GM-R) within the Group Management division of Commerzbank AG, Frankfurt/
+Main or Commerzbank's branch offices mentioned in the document. Commerzbank AG is a provisionally registered swap dealer with the CFTC.
+Please note that the author(s) certify that (a) the views expressed in this report accurately reflect their personal views; and (b) no part of their compensation
+was, is, or will be directly or indirectly related to the specific recommendation(s) or views expressed by them contained in this document. The research
+analyst(s) named on this report are not registered / qualified as research analysts with FINRA. Such research analyst(s) may not be associated persons of
+Commerz Markets LLC and therefore may not be subject to FINRA Rule 2241 restrictions on communications with a subject company, public appearances
+and trading securities held by a research analyst account.
+It has not been determined in advance whether and in what intervals this document will be updated. Unless otherwise stated current prices refer to the most recent
+trading day's closing price or spread which may fluctuate.
+Conflicts of interest
+Disclosures of potential conflicts of interest relating to Commerzbank AG, its affiliates, subsidiaries (together ""Commerzbank"") and its relevant employees with respect
+to the issuers, financial instruments and/or securities forming the subject of this document valid as of the end of the month prior to publication of this document*:
+Please refer to the following link for disclosures on companies included in compendium reports or disclosures on any company covered by Commerzbank analysts:
+https://commerzbank.bluematrix.com/sellside/Disclosures.action
+*
+*Updating this information may take up to ten days after month end.
+Recommendation Key
+I) Recommendations versus benchmarks:
+Overweight (OW)
+We expect outperformance versus the benchmark in spread and/or total return
+terms
+Marketweight (MW)
+We expect performance in line with the benchmark in spread and/or total return
+terms
+Underweight (UW)
+We expect underperformance versus the benchmark in spread and/or total
+return terms
+Benchmark
+Unless stated otherwise, the benchmark is the iBoxx EUR Corporate for IG-rated
+names/instruments, and the iBoxx EUR High Yield core cum crossover LC for HY-
+rated names/instruments
+II) Outright recommendations:
+Buy
+We suggest entering / expanding positions in the relevant names/instruments
+Sell
+We suggest reducing / closing positions in the relevant names/instruments
+Time Horizon
+Unless stated otherwise, the time horizon for our recommendations is three
+months.
+Risks related to these recommendations
+A variety of factors and events may adversely affect the performance of any recommendation, and in case of investment in bonds can also lead to the non-payment
+of coupons as well as principal losses.
+These risk factors include general macroeconomic and political conditions, central bank action, or any other factor directly affecting overall risk sentiment.
+In addition, industry or sector specific legal frameworks and regulation, as well as rating or rating methodology changes and any other factors directly or indirectly
+influencing the credit quality, the operating and/or refinancing environment of the specific issuer may also affect performance.
+Distribution of Commerzbank AG credit research recommendations as of 30 June 2022:
+All covered instruments
+The 
+proportion 
+of 
+issuers 
+in
+each 
+of 
+these 
+categories 
+for
+which 
+Commerzbank 
+provides
+investment banking services
+Overweight
+14%
+100%
+Marketweight
+43%
+67%
+Underweight
+43%
+33%
+Source: Commerzbank Research
+Distribution of Commerzbank AG rates research recommendations as of 30
+ 
+June 2022:
+All covered instruments
+The 
+proportion 
+of 
+issuers 
+in
+each 
+of 
+these 
+categories 
+for
+which 
+Commerzbank 
+provides
+investment banking services
+Long/Buy
+46%
+0%
+Neutral
+16%
+0%
+Underweight
+38%
+0%
+Source: Commerzbank Research
+Disclaimer
+This document is for information purposes only and does not take into account specific circumstances of any recipient. The information contained herein does not
+constitute the provision of investment advice. It is not intended to be and should not be construed as a recommendation, offer or solicitation to acquire, or dispose
+of, any of the financial instruments and/or securities mentioned in this document and will not form the basis or a part of any contract or commitment whatsoever.
+7
+11 July 2022
+Rates and Credit Strategy
+ | European Sunrise
+",esma mar requir report complet cest dissemin cest respect articl esma mar overview previous month instrument issuer cover report overview produc report previous month follow link document creat publish depart manag divis commerzbank frankfurt main commerzbank branch offic mention document commerzbank provision regist swap dealer cftc note certifi view express report accur reflect person view compens indirect specif recommend view express contain document analyst name report regist qualifi analyst finra analyst person commerz market llc finra rule restrict communic compani public appear trade secur held analyst account determin advanc interv document updat state current price refer trade day close price spread fluctuat conflict disclosur potenti conflict relat commerzbank affili subsidiari commerzbank relev employe respect issuer financi instrument secur form document valid month prior public document refer link disclosur compani includ compendium report disclosur compani cover commerzbank analyst updat day month recommend key benchmark overweight ow expect outperform benchmark spread total return term marketweight expect perform benchmark spread total return term underweight uw expect benchmark spread total return term benchmark state benchmark iboxx eur corpor ig rate name instrument iboxx eur yield core cum crossov hy rate name instrument outright enter expand posit relev name instrument sell reduc close posit relev name instrument time horizon state time horizon month risk varieti factor event advers affect perform recommend invest bond lead payment coupon princip loss risk factor includ macroeconom polit condit central action factor risk sentiment addit industri sector specif legal framework regul rate rate methodolog factor indirect influenc credit qualiti oper refinanc environ specif issuer affect perform distribut commerzbank credit june cover instrument proport issuer categori commerzbank invest bank servic overweight marketweight underweight commerzbank distribut commerzbank rate june cover instrument proport issuer categori commerzbank invest bank servic neutral underweight commerzbank disclaim document account specif circumst recipi contain constitut provis invest advic intend constru recommend offer solicit acquir dispos financi instrument secur mention document form basi contract commit whatsoev juli rate credit strategi european sunris,"['esma', 'mar', 'requirements', 'report', 'completed', 'cest', 'disseminated', 'cest', 'respect', 'article', 'esma', 'mar', 'overview', 'previous', 'months', 'instrument', 'issuer', 'covered', 'report', 'overview', 'producer', 'report', 'previous', 'months', 'follow', 'link', 'document', 'created', 'published', 'department', 'management', 'division', 'commerzbank', 'frankfurt', 'main', 'commerzbank', 'branch', 'offices', 'mentioned', 'document', 'commerzbank', 'provisionally', 'registered', 'swap', 'dealer', 'cftc', 'note', 'certify', 'views', 'expressed', 'report', 'accurately', 'reflect', 'personal', 'views', 'compensation', 'indirectly', 'specific', 'recommendation', 'views', 'expressed', 'contained', 'document', 'analyst', 'named', 'report', 'registered', 'qualified', 'analysts', 'finra', 'analyst', 'persons', 'commerz', 'markets', 'llc', 'finra', 'rule', 'restrictions', 'communications', 'company', 'public', 'appearances', 'trading', 'securities', 'held', 'analyst', 'account', 'determined', 'advance', 'intervals', 'document', 'updated', 'stated', 'current', 'prices', 'refer', 'trading', 'day', 'closing', 'price', 'spread', 'fluctuate', 'conflicts', 'disclosures', 'potential', 'conflicts', 'relating', 'commerzbank', 'affiliates', 'subsidiaries', 'commerzbank', 'relevant', 'employees', 'respect', 'issuers', 'financial', 'instruments', 'securities', 'forming', 'document', 'valid', 'month', 'prior', 'publication', 'document', 'refer', 'link', 'disclosures', 'companies', 'included', 'compendium', 'reports', 'disclosures', 'company', 'covered', 'commerzbank', 'analysts', 'updating', 'days', 'month', 'recommendation', 'key', 'benchmarks', 'overweight', 'ow', 'expect', 'outperformance', 'benchmark', 'spread', 'total', 'return', 'terms', 'marketweight', 'expect', 'performance', 'benchmark', 'spread', 'total', 'return', 'terms', 'underweight', 'uw', 'expect', 'benchmark', 'spread', 'total', 'return', 'terms', 'benchmark', 'stated', 'benchmark', 'iboxx', 'eur', 'corporate', 'ig', 'rated', 'names', 'instruments', 'iboxx', 'eur', 'yield', 'core', 'cum', 'crossover', 'hy', 'rated', 'names', 'instruments', 'outright', 'entering', 'expanding', 'positions', 'relevant', 'names', 'instruments', 'sell', 'reducing', 'closing', 'positions', 'relevant', 'names', 'instruments', 'time', 'horizon', 'stated', 'time', 'horizon', 'months', 'risks', 'variety', 'factors', 'events', 'adversely', 'affect', 'performance', 'recommendation', 'investment', 'bonds', 'lead', 'payment', 'coupons', 'principal', 'losses', 'risk', 'factors', 'include', 'macroeconomic', 'political', 'conditions', 'central', 'action', 'factor', 'risk', 'sentiment', 'addition', 'industry', 'sector', 'specific', 'legal', 'frameworks', 'regulation', 'rating', 'rating', 'methodology', 'factors', 'indirectly', 'influencing', 'credit', 'quality', 'operating', 'refinancing', 'environment', 'specific', 'issuer', 'affect', 'performance', 'distribution', 'commerzbank', 'credit', 'june', 'covered', 'instruments', 'proportion', 'issuers', 'categories', 'commerzbank', 'investment', 'banking', 'services', 'overweight', 'marketweight', 'underweight', 'commerzbank', 'distribution', 'commerzbank', 'rates', 'june', 'covered', 'instruments', 'proportion', 'issuers', 'categories', 'commerzbank', 'investment', 'banking', 'services', 'neutral', 'underweight', 'commerzbank', 'disclaimer', 'document', 'account', 'specific', 'circumstances', 'recipient', 'contained', 'constitute', 'provision', 'investment', 'advice', 'intended', 'construed', 'recommendation', 'offer', 'solicitation', 'acquire', 'dispose', 'financial', 'instruments', 'securities', 'mentioned', 'document', 'form', 'basis', 'contract', 'commitment', 'whatsoever', 'july', 'rates', 'credit', 'strategy', 'european', 'sunrise']",0.3682269503546099,11 07 2022,Commerz,European Sunrise,1
+11 07 2022_Commerz_European Sunrise,8," 
+Investors should seek independent professional advice and draw their own conclusions regarding suitability of any transaction including the economic benefits, risks,
+legal, regulatory, credit, accounting and tax implications.
+The information in this document is based on public data obtained from sources believed by Commerzbank to be reliable and in good faith, but no representations,
+guarantees or warranties are made by Commerzbank with regard to accuracy, completeness or suitability of the data. Commerzbank has not performed any independent
+review or due diligence of publicly available information regarding an unaffiliated reference asset or index. The opinions and estimates contained herein reflect the
+current judgement of the author(s) on the date of this document and are subject to change without notice. The opinions do not necessarily correspond to the opinions
+of Commerzbank. Commerzbank does not have an obligation to update, modify or amend this document or to otherwise notify a reader thereof in the event that any
+matter stated herein, or any opinion, projection, forecast or estimate set forth herein, changes or subsequently becomes inaccurate.
+In order to address potential conflicts of interest Commerzbank's Research department operates independently of other business units of the bank. This is achieved
+by way of physical and administrative information barriers and separate reporting lines as well as by written internal policies and procedures.
+This communication may contain trading ideas where Commerzbank may trade in such financial instruments with customers or other counterparties. Any prices
+provided herein (other than those that are identified as being historical) are indicative only, and do not represent firm quotes as to either size or price. The past
+performance of financial instruments is not indicative of future results. No assurance can be given that any financial instrument or issuer described herein would yield
+favourable investment results. Any forecasts or price targets shown for companies and/or securities discussed in this document may not be achieved due to multiple
+risk factors including without limitation market volatility, sector volatility, corporate actions, the unavailability of complete and accurate information and/or the subsequent
+transpiration that underlying assumptions made by Commerzbank or by other sources relied upon in the document were inapposite.
+Commerzbank and or its affiliates may act as a market maker in the instrument(s) and or its derivative that has been mentioned in our research reports. Employees
+of Commerzbank and or its affiliates may provide written or oral commentary, including trading strategies, to our clients and business units that may be contrary to the
+opinions conveyed in this research report. Commerzbank may perform or seek to perform investment banking services for issuers mentioned in research reports.
+Neither Commerzbank nor any of its respective directors, officers or employees accepts any responsibility or liability whatsoever for any expense, loss or damages
+arising out of or in any way connected with the use of all or any part of this document.
+Commerzbank may provide hyperlinks to websites of entities mentioned in this document, however the inclusion of a link does not imply that Commerzbank endorses,
+recommends or approves any material on the linked page or accessible from it. Commerzbank does not accept responsibility whatsoever for any such material, nor
+for any consequences of its use.
+This document is for the use of the addressees only and may not be reproduced, redistributed or passed on to any other person or published, in whole or in part, for
+any purpose, without the prior, written consent of Commerzbank. The manner of distributing this document may be restricted by law or regulation in certain countries,
+including the United States. Persons into whose possession this document may come are required to inform themselves about and to observe such restrictions. By
+accepting this document, a recipient hereof agrees to be bound by the foregoing limitations.
+Additional notes to readers in the following countries:
+Germany:
+ Commerzbank AG is registered in the Commercial Register at Amtsgericht Frankfurt under the number HRB 32000. Commerzbank AG is supervised by
+both the German regulator, Bundesanstalt fur Finanzdienstleistungsaufsicht (BaFin), Graurheindorfer Strasse 108, 53117 Bonn, Marie-Curie-Strasse 24-28, 60439
+Frankfurt am Main and the European Central Bank, Sonnemannstrasse 20, 60314 Frankfurt am Main, Germany.
+United Kingdom
+: This document has been issued or approved for issue in the United Kingdom by Commerzbank AG London Branch. Commerzbank AG, London
+Branch is authorised and regulated by Bundesanstalt fur Finanzdienstleistungsaufsicht (BaFin) and the European Central Bank. Authorised by the Prudential Regulation
+Authority and with deemed variation of permission. Subject to regulation by the Financial Conduct Authority and limited regulation by the Prudential Regulation Authority.
+Details of the Temporary Permissions Regime, which allows EEA-based firms to operate in the UK for a limited period while seeking full authorisation, are available on
+the Financial Conduct Authority's website. This document is directed exclusively to eligible counterparties and professional clients. It is not directed to retail clients. No
+persons other than an eligible counterparty or a professional client should read or rely on any information in this document. Commerzbank AG, London Branch does
+not deal for or advise or otherwise offer any investment services to retail clients.
+United States:
+ To the extent this report is distributed to U.S. investors, it is restricted from being sent to U.S. retail investors. Commerz Markets LLC (""CMLLC"") is a U.S.
+registered broker-dealer and wholly owned subsidiary of Commerzbank AG. For securities purposes, Commerzbank AG provides this report as a third-party report,
+therefore the involved research analysts may not be registered with FINRA and the reports are not subject to the full provisions of FINRA Rule 2242. Any securities
+transactions by US investors resulting from this report must be effected with CMLLC. CMLLC is a member of FINRA and SIPC. Banking and swap services in the U.S.
+will be provided by Commerzbank AG in accordance with the Dodd-Frank Wall Street Reform and Consumer Protection Act. Commerzbank AG is not a member of
+SIPC and is a provisionally registered swap dealer with the CFTC.
+Canada:
+ The information contained herein is not, and under no circumstances is to be construed as, a prospectus, an advertisement, a public offering, an offer to sell
+securities described herein, solicitation of an offer to buy securities described herein, in Canada or any province or territory thereof. Any offer or sale of the securities
+described herein in Canada will be made only under an exemption from the requirements to file a prospectus with the relevant Canadian securities regulators and
+only by a dealer properly registered under applicable securities laws or, alternatively, pursuant to an exemption from the dealer registration requirement in the relevant
+province or territory of Canada in which such offer or sale is made. Under no circumstances is the information contained herein to be construed as investment advice
+in any province or territory of Canada and is not tailored to the needs of the recipient. In Canada, the information contained herein is intended solely for distribution to
+Permitted Clients (as such term is defined in National Instrument 31-103) with whom Commerz Markets LLC deals pursuant to the international dealer exemption. To
+the extent that the information contained herein references securities of an issuer incorporated, formed or created under the laws of Canada or a province or territory
+of Canada, any trades in such securities may not be conducted through Commerz Markets LLC. No securities commission or similar regulatory authority in Canada
+has reviewed or in any way passed upon these materials, the information contained herein or the merits of the securities described herein and any representation
+to the contrary is an offence.
+European Economic Area:
+ Where this document has been produced by a legal entity outside of the EEA, the document has been re-issued by Commerzbank AG,
+London Branch for distribution into the EEA. Commerzbank AG, London Branch is authorised and regulated by Bundesanstalt fur Finanzdienstleistungsaufsicht (BaFin)
+and the European Central Bank. Authorised by the Prudential Regulation Authority and with deemed variation of permission. Subject to regulation by the Financial
+Conduct Authority and limited regulation by the Prudential Regulation Authority. Details of the Temporary Permissions Regime, which allows EEA-based firms to operate
+in the UK for a limited period while seeking full authorisation, are available on the Financial Conduct Authority's website.
+Switzerland:
+ This is an advertisement in the meaning of FIDLEG. The financial instruments mentioned in this publication do not constitute a participation in a collective
+investment scheme in the sense of the Swiss Collective Investment Schemes Act (CISA). This publication, the information contained herein as well as any other
+publication in connection with the financial instruments mentioned herein may be distributed exclusively to qualified investors as defined in the CISA and may only
+be made available to such qualified investors.
+Singapore:
+ This document is furnished in Singapore by Commerzbank AG, Singapore branch. It may only be received in Singapore by an institutional investor, an
+accredited investor or an expert investor as respectively defined in section 4A of the Securities and Futures Act, Chapter 289 of Singapore (""SFA"") pursuant to section
+274 or section 275 (as applicable) of the SFA. Nothing in this document constitutes accounting, legal, regulatory, tax, financial or other advice and/or recommendations
+to the recipient of this communication. Further, the communication/information provided herein does not constitute a ""financial advisory service"" within the meaning
+of the Financial Advisers Act, Chapter 110 of Singapore (""FAA"") and therefore, the regulatory requirements and duties that may be owed to a client pursuant to or in
+connection with the FAA are not applicable to the recipient in connection with this communication. Recipients are advised to seek independent advice from their own
+professional advisers about the information contained discussed herein.
+Hong Kong:
+ This document, may only be made available in Hong Kong by Commerzbank AG, Hong Kong Branch to 'professional investors' within the meaning of the
+Securities and Futures Ordinance (Cap.571) of Hong Kong and any rules made there under, and persons whose ordinary business is to buy or sell shares or debentures.
+8
+11 July 2022
+Rates and Credit Strategy
+ | European Sunrise
+",investor seek independ profession advic draw conclus suitabl transact includ econom benefit risk legal regulatori credit account tax implic document base public sourc believ commerzbank reliabl faith guarante warranti commerzbank regard accuraci complet suitabl commerzbank perform independ review dilig public unaffili refer asset opinion estim contain reflect current judgement document chang notic opinion correspond opinion commerzbank commerzbank oblig updat modifi amend document notifi reader event matter state opinion project forecast estim set subsequ inaccur address potenti conflict commerzbank depart oper independ busi unit achiev physic administr barrier separ report line written intern polici procedur communic trade idea commerzbank trade financi instrument custom counterparti price identifi histor indic repres firm quot size price perform financi instrument indic futur assur financi instrument issuer yield favour invest forecast price target compani secur discuss document achiev multipl risk factor includ limit market volatil sector volatil corpor action unavail complet accur subsequ transpir under assumpt commerzbank sourc reli document inapposit commerzbank affili market maker instrument deriv mention report employe commerzbank affili provid written oral commentari includ trade strategi client busi unit contrari opinion convey report commerzbank perform seek perform invest bank servic issuer mention report commerzbank respect director offic employe accept respons liabil whatsoev expens loss damag aris connect document commerzbank provid hyperlink websit entiti mention document inclus link impli commerzbank endors recommend approv materi link access commerzbank accept respons whatsoev materi consequ document addresse reproduc redistribut pass publish purpos prior written consent commerzbank manner distribut document restrict law regul countri includ unit person possess document requir inform observ restrict accept document recipi hereof agre bound forego limit addit note reader countri germani commerzbank regist commerci regist amtsgericht frankfurt hrb commerzbank supervis german regul bundesanstalt fur bafin strass bonn mari curi strass frankfurt main european central frankfurt main germani unit document issu approv issu unit commerzbank london branch commerzbank london branch authoris regul bundesanstalt fur bafin european central authoris prudenti regul author deem variat permiss regul financi conduct author limit regul prudenti regul author detail temporari permiss regim eea base firm oper limit period seek authoris financi conduct author document direct exclus elig counterparti profession client direct retail client person elig counterparti profession client read reli document commerzbank london branch deal advis offer invest servic retail client unit extent report distribut investor restrict retail investor commerz market llc cmllc regist broker dealer wholli own subsidiari commerzbank secur commerzbank report parti report involv analyst regist finra report provis finra rule secur transact investor report effect cmllc cmllc finra sipc bank swap servic commerzbank dodd frank wall street reform consum protect commerzbank sipc provision regist swap dealer cftc canada contain circumst constru prospectus advertis public offer offer sell secur solicit offer secur canada provinc territori offer sale secur canada exempt requir file prospectus relev canadian secur regul dealer proper regist applic secur law altern pursuant exempt dealer registr requir relev provinc territori canada offer sale circumst contain constru invest advic provinc territori canada tailor recipi canada contain intend sole distribut permit client term defin nation instrument commerz market llc deal pursuant intern dealer exempt extent contain refer secur issuer incorpor form creat law canada provinc territori canada trade secur conduct commerz market llc secur commiss regulatori author canada review pass materi contain merit secur represent contrari offenc european econom document produc legal entiti eea document issu commerzbank london branch distribut eea commerzbank london branch authoris regul bundesanstalt fur bafin european central authoris prudenti regul author deem variat permiss regul financi conduct author limit regul prudenti regul author detail temporari permiss regim eea base firm oper limit period seek authoris financi conduct author switzerland advertis mean fidleg financi instrument mention public constitut particip collect invest scheme sens swiss collect invest scheme cisa public contain public connect financi instrument mention distribut exclus qualifi investor defin cisa qualifi investor singapor document furnish singapor commerzbank singapor branch receiv singapor institut investor accredit investor expert investor defin secur futur chapter singapor sfa pursuant applic sfa document constitut account legal regulatori tax financi advic recipi communic communic constitut financi advisori servic mean financi advis chapter singapor faa regulatori requir duti owe client pursuant connect faa applic recipi connect communic recipi advis seek independ advic profession advis contain discuss hong kong document hong kong commerzbank hong kong branch profession investor mean secur futur ordin cap hong kong rule person ordinari busi sell share debentur juli rate credit strategi european sunris,"['investors', 'seek', 'independent', 'professional', 'advice', 'draw', 'conclusions', 'suitability', 'transaction', 'including', 'economic', 'benefits', 'risks', 'legal', 'regulatory', 'credit', 'accounting', 'tax', 'implications', 'document', 'based', 'public', 'sources', 'believed', 'commerzbank', 'reliable', 'faith', 'guarantees', 'warranties', 'commerzbank', 'regard', 'accuracy', 'completeness', 'suitability', 'commerzbank', 'performed', 'independent', 'review', 'diligence', 'publicly', 'unaffiliated', 'reference', 'asset', 'opinions', 'estimates', 'contained', 'reflect', 'current', 'judgement', 'document', 'change', 'notice', 'opinions', 'correspond', 'opinions', 'commerzbank', 'commerzbank', 'obligation', 'update', 'modify', 'amend', 'document', 'notify', 'reader', 'event', 'matter', 'stated', 'opinion', 'projection', 'forecast', 'estimate', 'set', 'subsequently', 'inaccurate', 'address', 'potential', 'conflicts', 'commerzbank', 'department', 'operates', 'independently', 'business', 'units', 'achieved', 'physical', 'administrative', 'barriers', 'separate', 'reporting', 'lines', 'written', 'internal', 'policies', 'procedures', 'communication', 'trading', 'ideas', 'commerzbank', 'trade', 'financial', 'instruments', 'customers', 'counterparties', 'prices', 'identified', 'historical', 'indicative', 'represent', 'firm', 'quotes', 'size', 'price', 'performance', 'financial', 'instruments', 'indicative', 'future', 'assurance', 'financial', 'instrument', 'issuer', 'yield', 'favourable', 'investment', 'forecasts', 'price', 'targets', 'companies', 'securities', 'discussed', 'document', 'achieved', 'multiple', 'risk', 'factors', 'including', 'limitation', 'market', 'volatility', 'sector', 'volatility', 'corporate', 'actions', 'unavailability', 'complete', 'accurate', 'subsequent', 'transpiration', 'underlying', 'assumptions', 'commerzbank', 'sources', 'relied', 'document', 'inapposite', 'commerzbank', 'affiliates', 'market', 'maker', 'instrument', 'derivative', 'mentioned', 'reports', 'employees', 'commerzbank', 'affiliates', 'provide', 'written', 'oral', 'commentary', 'including', 'trading', 'strategies', 'clients', 'business', 'units', 'contrary', 'opinions', 'conveyed', 'report', 'commerzbank', 'perform', 'seek', 'perform', 'investment', 'banking', 'services', 'issuers', 'mentioned', 'reports', 'commerzbank', 'respective', 'directors', 'officers', 'employees', 'accepts', 'responsibility', 'liability', 'whatsoever', 'expense', 'loss', 'damages', 'arising', 'connected', 'document', 'commerzbank', 'provide', 'hyperlinks', 'websites', 'entities', 'mentioned', 'document', 'inclusion', 'link', 'imply', 'commerzbank', 'endorses', 'recommends', 'approves', 'material', 'linked', 'accessible', 'commerzbank', 'accept', 'responsibility', 'whatsoever', 'material', 'consequences', 'document', 'addressees', 'reproduced', 'redistributed', 'passed', 'published', 'purpose', 'prior', 'written', 'consent', 'commerzbank', 'manner', 'distributing', 'document', 'restricted', 'law', 'regulation', 'countries', 'including', 'united', 'persons', 'possession', 'document', 'required', 'inform', 'observe', 'restrictions', 'accepting', 'document', 'recipient', 'hereof', 'agrees', 'bound', 'foregoing', 'limitations', 'additional', 'notes', 'readers', 'countries', 'germany', 'commerzbank', 'registered', 'commercial', 'register', 'amtsgericht', 'frankfurt', 'hrb', 'commerzbank', 'supervised', 'german', 'regulator', 'bundesanstalt', 'fur', 'bafin', 'strasse', 'bonn', 'marie', 'curie', 'strasse', 'frankfurt', 'main', 'european', 'central', 'frankfurt', 'main', 'germany', 'united', 'document', 'issued', 'approved', 'issue', 'united', 'commerzbank', 'london', 'branch', 'commerzbank', 'london', 'branch', 'authorised', 'regulated', 'bundesanstalt', 'fur', 'bafin', 'european', 'central', 'authorised', 'prudential', 'regulation', 'authority', 'deemed', 'variation', 'permission', 'regulation', 'financial', 'conduct', 'authority', 'limited', 'regulation', 'prudential', 'regulation', 'authority', 'details', 'temporary', 'permissions', 'regime', 'eea', 'based', 'firms', 'operate', 'limited', 'period', 'seeking', 'authorisation', 'financial', 'conduct', 'authority', 'document', 'directed', 'exclusively', 'eligible', 'counterparties', 'professional', 'clients', 'directed', 'retail', 'clients', 'persons', 'eligible', 'counterparty', 'professional', 'client', 'read', 'rely', 'document', 'commerzbank', 'london', 'branch', 'deal', 'advise', 'offer', 'investment', 'services', 'retail', 'clients', 'united', 'extent', 'report', 'distributed', 'investors', 'restricted', 'retail', 'investors', 'commerz', 'markets', 'llc', 'cmllc', 'registered', 'broker', 'dealer', 'wholly', 'owned', 'subsidiary', 'commerzbank', 'securities', 'commerzbank', 'report', 'party', 'report', 'involved', 'analysts', 'registered', 'finra', 'reports', 'provisions', 'finra', 'rule', 'securities', 'transactions', 'investors', 'report', 'effected', 'cmllc', 'cmllc', 'finra', 'sipc', 'banking', 'swap', 'services', 'commerzbank', 'dodd', 'frank', 'wall', 'street', 'reform', 'consumer', 'protection', 'commerzbank', 'sipc', 'provisionally', 'registered', 'swap', 'dealer', 'cftc', 'canada', 'contained', 'circumstances', 'construed', 'prospectus', 'advertisement', 'public', 'offering', 'offer', 'sell', 'securities', 'solicitation', 'offer', 'securities', 'canada', 'province', 'territory', 'offer', 'sale', 'securities', 'canada', 'exemption', 'requirements', 'file', 'prospectus', 'relevant', 'canadian', 'securities', 'regulators', 'dealer', 'properly', 'registered', 'applicable', 'securities', 'laws', 'alternatively', 'pursuant', 'exemption', 'dealer', 'registration', 'requirement', 'relevant', 'province', 'territory', 'canada', 'offer', 'sale', 'circumstances', 'contained', 'construed', 'investment', 'advice', 'province', 'territory', 'canada', 'tailored', 'recipient', 'canada', 'contained', 'intended', 'solely', 'distribution', 'permitted', 'clients', 'term', 'defined', 'national', 'instrument', 'commerz', 'markets', 'llc', 'deals', 'pursuant', 'international', 'dealer', 'exemption', 'extent', 'contained', 'references', 'securities', 'issuer', 'incorporated', 'formed', 'created', 'laws', 'canada', 'province', 'territory', 'canada', 'trades', 'securities', 'conducted', 'commerz', 'markets', 'llc', 'securities', 'commission', 'regulatory', 'authority', 'canada', 'reviewed', 'passed', 'materials', 'contained', 'merits', 'securities', 'representation', 'contrary', 'offence', 'european', 'economic', 'document', 'produced', 'legal', 'entity', 'eea', 'document', 'issued', 'commerzbank', 'london', 'branch', 'distribution', 'eea', 'commerzbank', 'london', 'branch', 'authorised', 'regulated', 'bundesanstalt', 'fur', 'bafin', 'european', 'central', 'authorised', 'prudential', 'regulation', 'authority', 'deemed', 'variation', 'permission', 'regulation', 'financial', 'conduct', 'authority', 'limited', 'regulation', 'prudential', 'regulation', 'authority', 'details', 'temporary', 'permissions', 'regime', 'eea', 'based', 'firms', 'operate', 'limited', 'period', 'seeking', 'authorisation', 'financial', 'conduct', 'authority', 'switzerland', 'advertisement', 'meaning', 'fidleg', 'financial', 'instruments', 'mentioned', 'publication', 'constitute', 'participation', 'collective', 'investment', 'scheme', 'sense', 'swiss', 'collective', 'investment', 'schemes', 'cisa', 'publication', 'contained', 'publication', 'connection', 'financial', 'instruments', 'mentioned', 'distributed', 'exclusively', 'qualified', 'investors', 'defined', 'cisa', 'qualified', 'investors', 'singapore', 'document', 'furnished', 'singapore', 'commerzbank', 'singapore', 'branch', 'received', 'singapore', 'institutional', 'investor', 'accredited', 'investor', 'expert', 'investor', 'defined', 'securities', 'futures', 'chapter', 'singapore', 'sfa', 'pursuant', 'applicable', 'sfa', 'document', 'constitutes', 'accounting', 'legal', 'regulatory', 'tax', 'financial', 'advice', 'recipient', 'communication', 'communication', 'constitute', 'financial', 'advisory', 'service', 'meaning', 'financial', 'advisers', 'chapter', 'singapore', 'faa', 'regulatory', 'requirements', 'duties', 'owed', 'client', 'pursuant', 'connection', 'faa', 'applicable', 'recipient', 'connection', 'communication', 'recipients', 'advised', 'seek', 'independent', 'advice', 'professional', 'advisers', 'contained', 'discussed', 'hong', 'kong', 'document', 'hong', 'kong', 'commerzbank', 'hong', 'kong', 'branch', 'professional', 'investors', 'meaning', 'securities', 'futures', 'ordinance', 'cap', 'hong', 'kong', 'rules', 'persons', 'ordinary', 'business', 'sell', 'shares', 'debentures', 'july', 'rates', 'credit', 'strategy', 'european', 'sunrise']",0.3210387694900969,11 07 2022,Commerz,European Sunrise,1
+11 07 2022_Commerz_European Sunrise,9," 
+Japan:
+ This information and its distribution do not constitute and should not be construed as a ""solicitation"" under the Financial Instrument Exchange Act (FIEA) of
+Japan. This information may be distributed from Commerzbank international branches outside Japan solely to ""professional investors"" as defined in Section 2(31) of the
+FIEA and Section 23 of the Cabinet Ordinance Regarding Definition of Section 2 of the FIEA. Please note that Commerzbank AG, Tokyo Branch has not participated
+in its preparation. Any instruments referred in this report cannot be introduced by the Branch. You should contact the Corporate Clients division of Commerzbank AG
+for inquiries on availability of such instruments.
+Australia:
+ Commerzbank AG does not hold an Australian financial services licence. This document is being distributed in Australia to wholesale customers pursuant
+to an Australian financial services licence exemption for Commerzbank AG under Class Order 04/1313. Commerzbank AG is regulated by Bundesanstalt fur
+Finanzdienstleistungsaufsicht (BaFin) under the laws of Germany which differ from Australian laws.
+People's Republic of China (PRC):
+ This document is furnished by Commerzbank AG and is only intended for institutions that are eligible for financial transactions.
+No-one else may rely on any information contained within this document. Any derivative transactions by PRC persons may only be entered into by PRC financial
+institutions which are permitted to conduct derivatives business in the PRC and have obtained all necessary regulatory approvals in the PRC.
+(c) Commerzbank AG 2022. All rights reserved. Version 22.04
+Commerzbank Offices
+Frankfurt
+Commerzbank AG
+London
+Commerzbank AG
+New York
+Commerz Markets LLC
+Singapore
+Commerzbank AG
+Hong Kong
+Commerzbank AG
+DLZ 
+- 
+Gebaude 
+2,
+Handlerhaus
+Mainzer Landstrasse 153
+60327 Frankfurt
+PO BOX 52715
+30 Gresham Street
+London, EC2P 2XY
+225 Liberty Street, 32nd floor,
+New York,
+NY 10281-1050
+71, Robinson Road, #12-01
+Singapore 068895
+15th Floor, Lee Garden One
+33 Hysan Avenue,
+Causeway Bay
+Hong Kong
+Tel: + 49 69 136 21200
+Tel: + 44 207 623 8000
+Tel: + 1 212 703 4000
+Tel: +65 631 10000
+Tel: +852 3988 0988
+9
+11 July 2022
+Rates and Credit Strategy
+ | European Sunrise
+",japan distribut constitut constru solicit financi instrument exchang fiea japan distribut commerzbank intern branch japan sole profession investor defin fiea cabinet ordin definit fiea note commerzbank tokyo branch particip prepar instrument refer report introduc branch contact corpor client divis commerzbank inquiri avail instrument australia commerzbank hold australian financi servic licenc document distribut australia wholesal custom pursuant australian financi servic licenc exempt commerzbank class commerzbank regul bundesanstalt fur bafin law germani australian law peopl republ china prc document furnish commerzbank intend institut elig financi transact reli contain document deriv transact prc person enter prc financi institut permit conduct deriv busi prc regulatori approv prc commerzbank right version commerzbank offic frankfurt commerzbank london commerzbank york commerz market llc singapor commerzbank hong kong commerzbank dlz gebaud handlerhaus mainzer landstrass frankfurt po box gresham street london ecp xy liberti street floor york ny robinson road singapor floor lee garden hysan avenu causeway bay hong kong tel tel tel tel tel juli rate credit strategi european sunris,"['japan', 'distribution', 'constitute', 'construed', 'solicitation', 'financial', 'instrument', 'exchange', 'fiea', 'japan', 'distributed', 'commerzbank', 'international', 'branches', 'japan', 'solely', 'professional', 'investors', 'defined', 'fiea', 'cabinet', 'ordinance', 'definition', 'fiea', 'note', 'commerzbank', 'tokyo', 'branch', 'participated', 'preparation', 'instruments', 'referred', 'report', 'introduced', 'branch', 'contact', 'corporate', 'clients', 'division', 'commerzbank', 'inquiries', 'availability', 'instruments', 'australia', 'commerzbank', 'hold', 'australian', 'financial', 'services', 'licence', 'document', 'distributed', 'australia', 'wholesale', 'customers', 'pursuant', 'australian', 'financial', 'services', 'licence', 'exemption', 'commerzbank', 'class', 'commerzbank', 'regulated', 'bundesanstalt', 'fur', 'bafin', 'laws', 'germany', 'australian', 'laws', 'people', 'republic', 'china', 'prc', 'document', 'furnished', 'commerzbank', 'intended', 'institutions', 'eligible', 'financial', 'transactions', 'rely', 'contained', 'document', 'derivative', 'transactions', 'prc', 'persons', 'entered', 'prc', 'financial', 'institutions', 'permitted', 'conduct', 'derivatives', 'business', 'prc', 'regulatory', 'approvals', 'prc', 'commerzbank', 'rights', 'version', 'commerzbank', 'offices', 'frankfurt', 'commerzbank', 'london', 'commerzbank', 'york', 'commerz', 'markets', 'llc', 'singapore', 'commerzbank', 'hong', 'kong', 'commerzbank', 'dlz', 'gebaude', 'handlerhaus', 'mainzer', 'landstrasse', 'frankfurt', 'po', 'box', 'gresham', 'street', 'london', 'ecp', 'xy', 'liberty', 'street', 'floor', 'york', 'ny', 'robinson', 'road', 'singapore', 'floor', 'lee', 'garden', 'hysan', 'avenue', 'causeway', 'bay', 'hong', 'kong', 'tel', 'tel', 'tel', 'tel', 'tel', 'july', 'rates', 'credit', 'strategy', 'european', 'sunrise']",0.23995215311004783,11 07 2022,Commerz,European Sunrise,1

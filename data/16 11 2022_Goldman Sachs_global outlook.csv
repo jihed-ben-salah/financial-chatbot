@@ -1,0 +1,1737 @@
+file_name,page_num,text,clean_text,tokens,subjectivity_score,date,bank,title,topic
+16 11 2022_Goldman Sachs_global outlook,1,"Global growth slowed through 2022 on a diminishing reopening boost, fiscal and
+n
+monetary tightening, China's Covid restrictions and property slump, and the
+Russia-Ukraine war.  We expect global growth of just 1.8% in 2023, as US
+resilience contrasts with a European recession and a bumpy reopening in China.
+The US should narrowly avoid recession as core PCE inflation slows from 5%
+n
+now to 3% in late 2023 with a  1/2 pp rise in the unemployment rate.  To keep
+growth below potential amidst stronger real income growth, we now see the
+Fed hiking another 125bp to a peak of 5-5.25%.  We don't expect cuts in 2023.
+How can core inflation fall so much with such a small employment hit?  The
+n
+reason, we think, is that this cycle is different from prior high-inflation periods.
+First, post-pandemic labor market overheating showed up not in excessive
+employment but in unprecedented job openings, which are much less painful to
+unwind.  Second, the disinflationary impact of the recent normalization in supply
+chains and rental housing markets still has a long way to go.  And third,
+long-term inflation expectations remain well-anchored.
+The Euro area and the UK are probably in recession, mainly because of the real
+n
+income hit from surging energy bills.  But we expect only a mild downturn as
+Europe has already managed to cut Russian gas imports without crushing
+activity and is likely to benefit from the same post-pandemic improvements that
+are helping avoid US recession.  Given reduced risks of a deep downturn and
+persistent inflation, we now expect hikes through May with a 3% ECB peak.
+China is likely to grow slowly in H1 as an April reopening initially triggers an
+n
+increase in Covid cases that keeps caution high, but should accelerate sharply in
+H2 on a reopening boost.  Our longer-run China view remains cautious because
+of the long slide in the property market as well as slower potential growth
+(reflecting weakness in both demographics and productivity).
+Several central banks in Central/Eastern Europe and Latin America started hiking
+n
+rates well before their DM peers.  While none has clearly achieved a soft landing
+yet, activity has been resilient and inflation is now coming down in some
+countries, especially Brazil.  CEE is in a more difficult position because of its
+commodity exposure, high inflation, and ongoing monetary tightening.
+Jan Hatzius 
++1(212)902-0394
+ | 
+jan.hatzius@gs.com 
+Goldman Sachs & Co. LLC 
+Daan Struyven 
++1(212)357-4172
+ | 
+daan.struyven@gs.com 
+Goldman Sachs & Co. LLC 
+Yulia Zhestkova 
++1(646)446-3905
+ | 
+yulia.zhestkova@gs.com 
+Goldman Sachs & Co. LLC 
+Devesh Kodnani 
++1(917)343-9216
+ | 
+devesh.kodnani@gs.com 
+Goldman Sachs & Co. LLC
+Global Economics Analyst 
+Macro Outlook 2023: This Cycle Is Different
+16 November 2022 | 10:59AM EST
+Investors should consider this report as only a single factor in making their investment decision. For Reg AC 
+certification and other important disclosures, see the Disclosure Appendix, or go to 
+www.gs.com/research/hedge.html. 
+Note: The following is a redacted version of the original report published on 16 November 2022 [24 pgs]. 
+",global growth slow diminish reopen boost fiscal monetari tighten china covid restrict properti slump russia ukrain war expect global growth resili contrast european recess bumpi reopen china narrowli avoid recess core pce inflat slow late rise unemploy rate growth potenti stronger real incom growth fed hike bp peak expect cut core inflat fall employ hit reason cycl prior inflat period post pandem labor market overh excess employ unpreced job open pain unwind impact normal suppli chain rental hous market term inflat expect remain anchor euro recess real incom hit surg energi bill expect mild downturn europ manag cut russian gas import crush activ benefit post pandem improv help avoid recess reduc risk deep downturn persist inflat expect hike ecb peak china grow slowli april reopen initi trigger increas covid caution acceler sharpli reopen boost china view remain cautious slide properti market slower potenti growth reflect weak demograph product central bank central eastern europ latin america start hike rate peer achiev soft land activ resili inflat come countri brazil cee difficult posit commod exposur inflat ongo monetari tighten jan hatzius jan hatzius llc daan struyven daan struyven llc yulia zhestkova yulia zhestkova llc devesh kodnani devesh kodnani llc global econom analyst macro cycl novemb est investor report singl factor invest decis reg ac certif disclosur disclosur appendix hedg note redact version origin report publish novemb pgs,"['global', 'growth', 'slowed', 'diminishing', 'reopening', 'boost', 'fiscal', 'monetary', 'tightening', 'china', 'covid', 'restrictions', 'property', 'slump', 'russia', 'ukraine', 'war', 'expect', 'global', 'growth', 'resilience', 'contrasts', 'european', 'recession', 'bumpy', 'reopening', 'china', 'narrowly', 'avoid', 'recession', 'core', 'pce', 'inflation', 'slows', 'late', 'rise', 'unemployment', 'rate', 'growth', 'potential', 'stronger', 'real', 'income', 'growth', 'fed', 'hiking', 'bp', 'peak', 'expect', 'cuts', 'core', 'inflation', 'fall', 'employment', 'hit', 'reason', 'cycle', 'prior', 'inflation', 'periods', 'post', 'pandemic', 'labor', 'market', 'overheating', 'excessive', 'employment', 'unprecedented', 'job', 'openings', 'painful', 'unwind', 'impact', 'normalization', 'supply', 'chains', 'rental', 'housing', 'markets', 'term', 'inflation', 'expectations', 'remain', 'anchored', 'euro', 'recession', 'real', 'income', 'hit', 'surging', 'energy', 'bills', 'expect', 'mild', 'downturn', 'europe', 'managed', 'cut', 'russian', 'gas', 'imports', 'crushing', 'activity', 'benefit', 'post', 'pandemic', 'improvements', 'helping', 'avoid', 'recession', 'reduced', 'risks', 'deep', 'downturn', 'persistent', 'inflation', 'expect', 'hikes', 'ecb', 'peak', 'china', 'grow', 'slowly', 'april', 'reopening', 'initially', 'triggers', 'increase', 'covid', 'caution', 'accelerate', 'sharply', 'reopening', 'boost', 'china', 'view', 'remains', 'cautious', 'slide', 'property', 'market', 'slower', 'potential', 'growth', 'reflecting', 'weakness', 'demographics', 'productivity', 'central', 'banks', 'central', 'eastern', 'europe', 'latin', 'america', 'started', 'hiking', 'rates', 'peers', 'achieved', 'soft', 'landing', 'activity', 'resilient', 'inflation', 'coming', 'countries', 'brazil', 'cee', 'difficult', 'position', 'commodity', 'exposure', 'inflation', 'ongoing', 'monetary', 'tightening', 'jan', 'hatzius', 'jan', 'hatzius', 'llc', 'daan', 'struyven', 'daan', 'struyven', 'llc', 'yulia', 'zhestkova', 'yulia', 'zhestkova', 'llc', 'devesh', 'kodnani', 'devesh', 'kodnani', 'llc', 'global', 'economics', 'analyst', 'macro', 'cycle', 'november', 'est', 'investors', 'report', 'single', 'factor', 'investment', 'decision', 'reg', 'ac', 'certification', 'disclosures', 'disclosure', 'appendix', 'hedge', 'note', 'redacted', 'version', 'original', 'report', 'published', 'november', 'pgs']",0.46018224573780137,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,2,"Macro Outlook 2023: This Cycle Is Different 
+Global growth slowed sharply through 2022 on a diminishing reopening boost, fiscal and 
+monetary tightening, China's ongoing Covid restrictions and property slump, and the 
+energy supply shock resulting from the Russia-Ukraine war.  We expect the world to 
+continue growing at a below-trend pace of 1.8% in 2023, with a mild recession in 
+Europe and a bumpy reopening in China but also important pockets of resilience in the 
+US and some EM early hikers, such as Brazil. 
+Exhibit 1: Slow Growth in 2023, But Above-Consensus on the US 
+Potential
+GS
+GS
+GS
+GS
+1.9
+1.8
+1.0
+0.4
+1.6
+1.4
+1.1
+0.9
+1.8
+3.3
+3.1
+-0.1
+-0.1
+1.4
+1.5
+0.0
+-0.5
+1.1
+Germany
+1.8
+1.6
+-0.6
+-0.7
+1.4
+1.3
+-0.3
+-0.9
+1.3
+France
+2.5
+2.5
+0.1
+0.4
+1.3
+1.3
+0.3
+-0.1
+1.1
+Italy
+3.8
+3.5
+-0.1
+-0.1
+1.3
+1.2
+-0.1
+-0.7
+0.8
+Spain
+4.6
+4.5
+0.6
+1.0
+2.1
+2.0
+0.6
+0.2
+1.3
+1.5
+1.6
+1.3
+1.4
+1.4
+1.1
+1.1
+1.5
+0.8
+4.4
+4.2
+-1.2
+-0.5
+0.9
+1.1
+-0.8
+-1.6
+1.4
+3.2
+3.3
+0.9
+0.6
+1.4
+1.7
+0.8
+0.7
+1.6
+3.0
+3.3
+4.5
+4.8
+5.3
+4.9
+5.5
+4.2
+4.2
+6.9
+7.1
+5.9
+5.8
+6.5
+6.6
+7.5
+7.2
+6.0
+2.9
+2.7
+1.2
+0.8
+2.2
+1.9
+1.6
+1.0
+1.9
+-3.3
+-4.0
+-1.3
+-3.2
+1.8
+1.5
+0.9
+0.9
+1.2
+2.9
+2.9
+1.8
+1.8
+2.8
+2.6
+2.4
+1.8
+2.6
+Q4/Q4
+Next 4 Quarters
+2022Q4-2023Q3
+GS
+2022
+..
+2023
+..
+2024
+..
+Annual Average
+Consensus
+Consensus
+Consensus
+2023
+GS
+Brazil
+Russia
+World
+Note: All forecasts calculated on calendar year basis. 2022-2024 are GS forecasts. Potential growth is the median of GS estimates for 2023-25 for the US, Japan and 
+Canada, our long-run estimate for the European economies and 2023 for EM economies. IMF forecasts used for India 2023 and 2024 consensus when quarters not 
+available in Bloomberg. The global growth aggregates use market FX country weights.
+Canada
+China
+India
+Japan
+UK
+US
+Real GDP Growth
+Percent Change yoy
+Euro Area
+Source: Bloomberg, Goldman Sachs Global Investment Research
+16 November 2022
+  2
+Goldman Sachs
+Global Economics Analyst
+",macro cycl global growth slow sharpli diminish reopen boost fiscal monetari tighten china ongo covid restrict properti slump energi suppli shock russia ukrain war expect continu grow trend pace mild recess europ bumpi reopen china pocket resili em hiker brazil exhibit slow growth consensus potenti germani franc itali spain quarter annual averag consensus consensus consensus brazil russia note forecast calcul calendar basi forecast potenti growth median estim japan canada estim european economi em economi imf forecast india consensus quarter bloomberg global growth aggreg market countri weight canada china india japan real gdp growth percent chang yoy euro bloomberg global invest novemb global econom analyst,"['macro', 'cycle', 'global', 'growth', 'slowed', 'sharply', 'diminishing', 'reopening', 'boost', 'fiscal', 'monetary', 'tightening', 'china', 'ongoing', 'covid', 'restrictions', 'property', 'slump', 'energy', 'supply', 'shock', 'russia', 'ukraine', 'war', 'expect', 'continue', 'growing', 'trend', 'pace', 'mild', 'recession', 'europe', 'bumpy', 'reopening', 'china', 'pockets', 'resilience', 'em', 'hikers', 'brazil', 'exhibit', 'slow', 'growth', 'consensus', 'potential', 'germany', 'france', 'italy', 'spain', 'quarters', 'annual', 'average', 'consensus', 'consensus', 'consensus', 'brazil', 'russia', 'note', 'forecasts', 'calculated', 'calendar', 'basis', 'forecasts', 'potential', 'growth', 'median', 'estimates', 'japan', 'canada', 'estimate', 'european', 'economies', 'em', 'economies', 'imf', 'forecasts', 'india', 'consensus', 'quarters', 'bloomberg', 'global', 'growth', 'aggregates', 'market', 'country', 'weights', 'canada', 'china', 'india', 'japan', 'real', 'gdp', 'growth', 'percent', 'change', 'yoy', 'euro', 'bloomberg', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.39722222222222225,16 11 2022,Goldman Sachs,global outlook,1
+16 11 2022_Goldman Sachs_global outlook,3,"US Likely to Avoid Recession 
+In the past year, US growth has slowed to a below-potential pace of about 1% because 
+of a diminishing reopening boost, declining real disposable income (driven by fiscal 
+normalization and high inflation), and aggressive monetary tightening.  In our forecast, 
+growth remains at roughly this pace in 2023.  Unlike a year ago, when our forecast for 
+both 2022 and 2023 was below consensus because we expected a negative impact of 
+monetary and especially fiscal tightening, our current 2023 forecast is well above 
+consensus (Exhibit 2).   
+Our disagreement with the consensus is even more visible when we focus on recession 
+probabilities.  As shown in Exhibit 3, we estimate a 35% probability that the US 
+economy enters recession over the next 12 months, well below the median of 65% 
+among the forecasters in the latest Wall Street Journal survey and toward the bottom of 
+the range. 
+Exhibit 2: Our 2023 US Growth Forecast Is Now Well Above Consensus 
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+Jan-2022
+Apr-2022
+Jul-2022
+Oct-2022
+GS
+Bloomberg Consensus
+Percent change, year ago
+Percent change, year ago
+US 2023 Real GDP Growth Forecasts
+Source: Bloomberg, Goldman Sachs Global Investment Research
+16 November 2022
+  3
+Goldman Sachs
+Global Economics Analyst
+",avoid recess growth slow potenti pace diminish reopen boost declin real dispos incom driven fiscal normal inflat aggress monetari tighten forecast growth remain rough pace forecast consensus expect negat impact monetari fiscal tighten current forecast consensus exhibit disagr consensus visibl focus recess probabl exhibit estim probabl economi enter recess month median forecast wall street journal survey rang exhibit growth forecast consensus jan apr jul oct bloomberg consensus percent chang percent chang real gdp growth forecast bloomberg global invest novemb global econom analyst,"['avoid', 'recession', 'growth', 'slowed', 'potential', 'pace', 'diminishing', 'reopening', 'boost', 'declining', 'real', 'disposable', 'income', 'driven', 'fiscal', 'normalization', 'inflation', 'aggressive', 'monetary', 'tightening', 'forecast', 'growth', 'remains', 'roughly', 'pace', 'forecast', 'consensus', 'expected', 'negative', 'impact', 'monetary', 'fiscal', 'tightening', 'current', 'forecast', 'consensus', 'exhibit', 'disagreement', 'consensus', 'visible', 'focus', 'recession', 'probabilities', 'exhibit', 'estimate', 'probability', 'economy', 'enters', 'recession', 'months', 'median', 'forecasters', 'wall', 'street', 'journal', 'survey', 'range', 'exhibit', 'growth', 'forecast', 'consensus', 'jan', 'apr', 'jul', 'oct', 'bloomberg', 'consensus', 'percent', 'change', 'percent', 'change', 'real', 'gdp', 'growth', 'forecasts', 'bloomberg', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.38764705882352934,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,4,"Exhibit 3: We Think That a US Recession in the Next 12 Months Is Less Likely Than Most Other Forecasters 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+40
+50
+GS Forecast: 35%
+Percent
+Percent
+Number of Forecasters
+Estimated US Recession Probability (Next 12 Months),
+Wall Street Journal October 2022 Forecaster Survey
+Consensus Median Forecast: 65%
+Source: The Wall Street Journal, Goldman Sachs Global Investment Research
+Why is our recession probability--while more than twice as high as the unconditional 
+probability of entering recession in any given 12-month period--still clearly below 50%? 
+One immediate reason is that the incoming activity data are nowhere close to 
+recessionary.  The advance GDP report showed 2.6% (annualized) growth in Q3, 
+nonfarm payrolls grew 261k in October, and there were 225k initial jobless claims in the 
+week of November 5.  
+More fundamentally, there are strong reasons to expect positive growth in coming 
+quarters.  To be sure, the tightening in financial conditions is weighing heavily on 
+growth, to the tune of nearly 2pp at present.  But real disposable personal income is 
+rebounding from the plunge seen in H1--when fiscal tightening and sharply higher 
+inflation took their toll--to a pace of 3%+over the next year (Exhibit 4).  And while there 
+are risks on both sides, we think the real income upturn is likely to be the stronger force 
+as we move through 2023, especially because the financial conditions drag will likely 
+diminish assuming Fed officials do not deliver dramatically more tightening than the 
+rates market is currently pricing. 
+16 November 2022
+  4
+Goldman Sachs
+Global Economics Analyst
+",exhibit recess month forecast forecast percent percent forecast estim recess probabl month wall street journal octob forecast survey consensus median forecast wall street journal global invest recess probabl uncondit probabl enter recess month period reason incom activ close recessionari advanc gdp report annual growth nonfarm payrol grew octob initi jobless claim week novemb fundament strong reason expect posit growth come quarter tighten financi condit weigh heavili growth tune real dispos person incom rebound plung fiscal tighten sharpli inflat toll pace exhibit risk real incom upturn stronger forc financi condit drag diminish assum fed offici deliv dramat tighten rate market price novemb global econom analyst,"['exhibit', 'recession', 'months', 'forecasters', 'forecast', 'percent', 'percent', 'forecasters', 'estimated', 'recession', 'probability', 'months', 'wall', 'street', 'journal', 'october', 'forecaster', 'survey', 'consensus', 'median', 'forecast', 'wall', 'street', 'journal', 'global', 'investment', 'recession', 'probability', 'unconditional', 'probability', 'entering', 'recession', 'month', 'period', 'reason', 'incoming', 'activity', 'close', 'recessionary', 'advance', 'gdp', 'report', 'annualized', 'growth', 'nonfarm', 'payrolls', 'grew', 'october', 'initial', 'jobless', 'claims', 'week', 'november', 'fundamentally', 'strong', 'reasons', 'expect', 'positive', 'growth', 'coming', 'quarters', 'tightening', 'financial', 'conditions', 'weighing', 'heavily', 'growth', 'tune', 'real', 'disposable', 'personal', 'income', 'rebounding', 'plunge', 'fiscal', 'tightening', 'sharply', 'inflation', 'toll', 'pace', 'exhibit', 'risks', 'real', 'income', 'upturn', 'stronger', 'force', 'financial', 'conditions', 'drag', 'diminish', 'assuming', 'fed', 'officials', 'deliver', 'dramatically', 'tightening', 'rates', 'market', 'pricing', 'november', 'global', 'economics', 'analyst']",0.38448469065656565,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,5,"But the most fundamental question is this: how can the Fed bring down inflation by 2 
+percentage points over the next year with only a  1/2 pp increase in the unemployment 
+rate (Exhibit 5)?  Doesn't this fly in the face of the experience from prior high-inflation 
+episodes--most notably the 1970s--that ended with a much bigger increase in 
+unemployment? 
+Our answer is that this cycle is different from prior high-inflation periods.  
+The first reason why this cycle is different is that post-pandemic labor market 
+overheating showed up not in excessive employment but in unprecedented job 
+openings.  As shown in Exhibit 6, job openings surged in 2020-2021 as employers 
+sought to keep up with the strongest economic recovery on record amidst continuing 
+Covid fears and exceptionally generous unemployment benefits.  However, employment 
+as a share of the labor force only rose to roughly the pre-pandemic level, not above.  
+Exhibit 4: The Boost From the Rebound in Real Income vs. the Drag From Financial Conditions 
+-2.5
+-2.0
+-1.5
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+-2.5
+-2.0
+-1.5
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+2021
+2022
+2023
+Percentage points
+Percentage points
+Real US GDP Growth Impulse from GS FCI,
+3-Quarter Centered Moving Average
+Note: The impulses assume that the FCI stays flat after November 15, 2022.
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2021
+2022
+2023
+Transfers (Nominal)
+Other Income (Nominal)
+Inflation
+Real Disposable Income
+Percent change vs. Dec. 2020
+Percent change vs. Dec. 2020
+Household Disposable Income
+Source: Goldman Sachs Global Investment Research
+Exhibit 5: We Expect Core PCE Inflation to Decline by 2pp by End-2023 With Only a  1/2 pp Increase in the Unemployment Rate 
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+Jan-21
+Jul-21
+Jan-22
+Jul-22
+Jan-23
+Jul-23
+Jan-24
+Jul-24
+Percent change, 
+year ago
+Percent change, 
+year ago
+US Core PCE Inflation
+Note: Dashed lines indicate GS forecasts.
+3
+4
+5
+6
+7
+3
+4
+5
+6
+7
+Jan-21
+Jul-21
+Jan-22
+Jul-22
+Jan-23
+Jul-23
+Jan-24
+Jul-24
+Percent
+Percent
+US Unemployment Rate
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+16 November 2022
+  5
+Goldman Sachs
+Global Economics Analyst
+",fundament question fed bring inflat percentag increas unemploy rate exhibit fli experi prior inflat episod notabl bigger increas unemploy answer cycl prior inflat period reason cycl post pandem labor market overh excess employ unpreced job open exhibit job open surg employ sought strongest econom recoveri record continu covid fear except generous unemploy benefit employ share labor forc rose rough pre pandem level exhibit boost rebound real incom drag financi condit percentag percentag real gdp growth impuls fci quarter center move averag note impuls assum fci stay flat novemb jan mar jul sep nov jan mar jul sep nov jan mar jul sep nov transfer nomin incom nomin inflat real dispos incom percent chang dec percent chang dec household dispos incom global invest exhibit expect core pce inflat declin increas unemploy rate jan jul jan jul jan jul jan jul percent chang percent chang core pce inflat note dash line forecast jan jul jan jul jan jul jan jul percent percent unemploy rate haver analyt global invest novemb global econom analyst,"['fundamental', 'question', 'fed', 'bring', 'inflation', 'percentage', 'increase', 'unemployment', 'rate', 'exhibit', 'fly', 'experience', 'prior', 'inflation', 'episodes', 'notably', 'bigger', 'increase', 'unemployment', 'answer', 'cycle', 'prior', 'inflation', 'periods', 'reason', 'cycle', 'post', 'pandemic', 'labor', 'market', 'overheating', 'excessive', 'employment', 'unprecedented', 'job', 'openings', 'exhibit', 'job', 'openings', 'surged', 'employers', 'sought', 'strongest', 'economic', 'recovery', 'record', 'continuing', 'covid', 'fears', 'exceptionally', 'generous', 'unemployment', 'benefits', 'employment', 'share', 'labor', 'force', 'rose', 'roughly', 'pre', 'pandemic', 'level', 'exhibit', 'boost', 'rebound', 'real', 'income', 'drag', 'financial', 'conditions', 'percentage', 'percentage', 'real', 'gdp', 'growth', 'impulse', 'fci', 'quarter', 'centered', 'moving', 'average', 'note', 'impulses', 'assume', 'fci', 'stays', 'flat', 'november', 'jan', 'mar', 'jul', 'sep', 'nov', 'jan', 'mar', 'jul', 'sep', 'nov', 'jan', 'mar', 'jul', 'sep', 'nov', 'transfers', 'nominal', 'income', 'nominal', 'inflation', 'real', 'disposable', 'income', 'percent', 'change', 'dec', 'percent', 'change', 'dec', 'household', 'disposable', 'income', 'global', 'investment', 'exhibit', 'expect', 'core', 'pce', 'inflation', 'decline', 'increase', 'unemployment', 'rate', 'jan', 'jul', 'jan', 'jul', 'jan', 'jul', 'jan', 'jul', 'percent', 'change', 'percent', 'change', 'core', 'pce', 'inflation', 'note', 'dashed', 'lines', 'forecasts', 'jan', 'jul', 'jan', 'jul', 'jan', 'jul', 'jan', 'jul', 'percent', 'percent', 'unemployment', 'rate', 'haver', 'analytics', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.42634548611111117,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,6,"(And employment relative to the working-age 
+population 
+remains below the 
+pre-pandemic level.) 
+Exhibit 6: Post-Pandemic Labor Market Overheating Showed Up Not in Excessive Employment but in 
+Unprecedented Job Openings 
+88
+90
+92
+94
+96
+98
+100
+102
+104
+106
+88
+90
+92
+94
+96
+98
+100
+102
+104
+106
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Job Openings
+Household Employment
+Percent of labor force
+Percent of labor force
+US Labor Demand
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+Now, however, the environment looks very different.  Demand has slowed, the 
+pandemic has subsided, unemployment benefits have normalized, and excess savings 
+are coming down.  It is therefore not surprising that job openings and our jobs-workers 
+gap--total labor demand minus total labor supply--are coming down quickly.  Based on 
+timely job openings measures from Linkup and Indeed, we estimate that the 
+jobs-workers gap has declined from a peak of nearly 6 million to just over 4 million, 
+nearly half of the way to the 2mn level required to slow wage growth to a rate 
+compatible with the inflation target (Exhibit 7, left panel).  Partly because of the 
+reduction in the jobs-workers gap, timely measures of nominal wage growth, i.e. 
+composition-adjusted average hourly earnings and our monthly wage survey composite, 
+have slowed to levels consistent with 4 1/2 % wage growth (Exhibit 7, right panel). 
+16 November 2022
+  6
+Goldman Sachs
+Global Economics Analyst
+",employ relat age popul remain pre pandem level exhibit post pandem labor market overh excess employ unpreced job open job open household employ percent labor forc percent labor forc labor demand haver analyt global invest environ demand slow pandem subsid unemploy benefit normal excess save come surpris job open job worker gap total labor demand total labor suppli come base time job open measur linkup estim job worker gap declin peak level requir slow wage growth rate compat inflat target exhibit left panel part reduct job worker gap time measur nomin wage growth composit adjust averag hour earn month wage survey composit slow level consist wage growth exhibit panel novemb global econom analyst,"['employment', 'relative', 'age', 'population', 'remains', 'pre', 'pandemic', 'level', 'exhibit', 'post', 'pandemic', 'labor', 'market', 'overheating', 'excessive', 'employment', 'unprecedented', 'job', 'openings', 'job', 'openings', 'household', 'employment', 'percent', 'labor', 'force', 'percent', 'labor', 'force', 'labor', 'demand', 'haver', 'analytics', 'global', 'investment', 'environment', 'demand', 'slowed', 'pandemic', 'subsided', 'unemployment', 'benefits', 'normalized', 'excess', 'savings', 'coming', 'surprising', 'job', 'openings', 'jobs', 'workers', 'gap', 'total', 'labor', 'demand', 'total', 'labor', 'supply', 'coming', 'based', 'timely', 'job', 'openings', 'measures', 'linkup', 'estimate', 'jobs', 'workers', 'gap', 'declined', 'peak', 'level', 'required', 'slow', 'wage', 'growth', 'rate', 'compatible', 'inflation', 'target', 'exhibit', 'left', 'panel', 'partly', 'reduction', 'jobs', 'workers', 'gap', 'timely', 'measures', 'nominal', 'wage', 'growth', 'composition', 'adjusted', 'average', 'hourly', 'earnings', 'monthly', 'wage', 'survey', 'composite', 'slowed', 'levels', 'consistent', 'wage', 'growth', 'exhibit', 'panel', 'november', 'global', 'economics', 'analyst']",0.38211361737677535,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,7,"The second reason why this cycle is different is that the recent normalization in supply 
+chains and rental housing markets is a source of disinflation not seen in previous 
+high-inflation episodes such as the 1970s, and it is only beginning to show up in the 
+official numbers (Exhibit 8).  On the goods side, the ongoing rotation from goods to 
+services spending, healing supply chains, and rebounding inventory levels should put 
+downward pressure on core goods prices.  On the services side, asking rents on new 
+leases have decelerated sharply after the one-time jump in rents related to the work 
+from home-related increase in demand for space.  The October CPI report suggests that 
+the lagging measure of sequential monthly official CPI shelter inflation--which captures 
+both new and continuing leases--has likely peaked too.  Although year-on-year shelter 
+inflation will likely rise through next spring as rents on continuing leases catch up to 
+higher market rates, it is set to slow thereafter. 
+Exhibit 7: Our US Jobs-Workers Gap Measure of Excess Labor Demand Is Trending Down; Nominal Wage Growth Is Slowing 
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+Jan-21
+May-21
+Sep-21
+Jan-22
+May-22
+Sep-22
+US Jobs-Workers Gap
+Jobs-Workers Gap: JOLTS Job Openings
+Jobs-Workers Gap: Alternative Job Openings
+Millions
+Millions
+Required by End-2023, GS Estimate
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Employment Cost Index* (Left)
+Average Hourly Earnings (Composition-Adj)** (Left)
+Monthly Wage Surveys*** (Right)
+Index
+Percent change
+*ECI wages and salaries private sector ex incentives (SA by Haver), qoq annual rate. **6m annual rate. ***Average of Dallas Fed manufacturing, Dallas Fed services, Richmond Fed manufacturing, 
+Richmond Fed services, NY Fed services (SA by GS), Kansas Fed services, and NFIB.  Where available, we average current and expected wage changes for each survey. Values before the introduction of 
+the more recent surveys are backcasted statistically. 
+Source: Haver Analytics, Linkup, Indeed, Goldman Sachs Global Investment Research
+16 November 2022
+  7
+Goldman Sachs
+Global Economics Analyst
+",reason cycl normal suppli chain rental hous market disinfl previous inflat episod offici exhibit ongo rotat servic spend heal suppli chain rebound inventori level downward pressur core price servic rent leas deceler sharpli time jump rent increas demand space octob cpi report suggest lag measur sequenti month offici cpi shelter inflat captur continu leas peak shelter inflat rise spring rent continu leas catch market rate set slow exhibit job worker gap measur excess labor demand trend nomin wage growth slow jan sep jan sep job worker gap job worker gap jolt job open job worker gap altern job open million million requir estim employ cost left averag hour earn composit left month wage survey percent chang eci wage salari sector incent haver qoq annual rate annual rate averag dalla fed manufactur dalla fed servic richmond fed manufactur richmond fed servic ny fed servic kansa fed servic nfib averag current expect wage survey valu introduct survey backcast statist haver analyt linkup global invest novemb global econom analyst,"['reason', 'cycle', 'normalization', 'supply', 'chains', 'rental', 'housing', 'markets', 'disinflation', 'previous', 'inflation', 'episodes', 'official', 'exhibit', 'ongoing', 'rotation', 'services', 'spending', 'healing', 'supply', 'chains', 'rebounding', 'inventory', 'levels', 'downward', 'pressure', 'core', 'prices', 'services', 'rents', 'leases', 'decelerated', 'sharply', 'time', 'jump', 'rents', 'increase', 'demand', 'space', 'october', 'cpi', 'report', 'suggests', 'lagging', 'measure', 'sequential', 'monthly', 'official', 'cpi', 'shelter', 'inflation', 'captures', 'continuing', 'leases', 'peaked', 'shelter', 'inflation', 'rise', 'spring', 'rents', 'continuing', 'leases', 'catch', 'market', 'rates', 'set', 'slow', 'exhibit', 'jobs', 'workers', 'gap', 'measure', 'excess', 'labor', 'demand', 'trending', 'nominal', 'wage', 'growth', 'slowing', 'jan', 'sep', 'jan', 'sep', 'jobs', 'workers', 'gap', 'jobs', 'workers', 'gap', 'jolts', 'job', 'openings', 'jobs', 'workers', 'gap', 'alternative', 'job', 'openings', 'millions', 'millions', 'required', 'estimate', 'employment', 'cost', 'left', 'average', 'hourly', 'earnings', 'composition', 'left', 'monthly', 'wage', 'surveys', 'percent', 'change', 'eci', 'wages', 'salaries', 'sector', 'incentives', 'haver', 'qoq', 'annual', 'rate', 'annual', 'rate', 'average', 'dallas', 'fed', 'manufacturing', 'dallas', 'fed', 'services', 'richmond', 'fed', 'manufacturing', 'richmond', 'fed', 'services', 'ny', 'fed', 'services', 'kansas', 'fed', 'services', 'nfib', 'average', 'current', 'expected', 'wage', 'survey', 'values', 'introduction', 'surveys', 'backcasted', 'statistically', 'haver', 'analytics', 'linkup', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.4137213145277662,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,8,"The third reason is that long-term inflation expectations remain well-anchored, especially 
+relative to the 1970s.  This is true for each of the available measures, namely those 
+based on 1) surveys of households, 2) surveys of economic forecasters, and 3) 
+inflation-protected bonds.  Measures of short-term inflation expectations remain 
+relatively high, but much of this probably reflects the spike in commodity prices and 
+should wane if commodity prices level off.  The fact that inflation has only been high for 
+a short and unusual pandemic period also suggests that elevated inflation is not 
+entrenched (Exhibit 9). 
+Taken together, we expect year-over-year core PCE inflation to decline from 5.1% in 
+September to 2.9% in December 2023  (Exhibit 10).  We expect supply-constrained 
+durable goods with still elevated margins, such as used cars, to drive nearly half of 
+the slowdown in overall core inflation.
+Exhibit 8: Disinflationary Impact of Normalizing Supply Chains and Rental Markets Still Has a Long Way to Go 
+0
+3
+6
+9
+12
+-20
+-10
+0
+10
+20
+30
+40
+50
+2017
+2018
+2019
+2020
+2021
+2022
+Apartment List: Asking
+Rents, SA by GS (Left)
+CPI: Rent of Primary
+Residence (Right)
+Percent change,
+monthly annual rate
+Percent change, 
+monthly annual rate
+-2
+-1
+0
+1
+2
+3
+4
+-2
+-1
+0
+1
+2
+3
+4
+2012
+2014
+2016
+2018
+2020
+2022
+Supplier Delivery Times, Average of Business Surveys
+Manufacturing Prices, Average of Business Surveys
+Z-Score
+Z-Score
+Supplier delivery times and manufacturing prices paid surveys are from ISM, S&P, ISM Chicago, NY Fed, Philadelphia Fed, Richmond Fed, Dallas Fed, and Kansas City Fed, as well as Creighton 
+University for supplier delivery times only. 
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+Exhibit 9: Anchored Long-Run Inflation Expectations Measures and a Short Period of High Inflation 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1979
+1984
+1989
+1994
+1999
+2004
+2009
+2014
+2019
+2024
+Percent
+Percent
+US Long-Run Inflation Expectations
+University of Michigan Survey, Next 5-10 Years
+Great 
+Inflation
+Great 
+Moderation
+Reopening
+Covid
+Average, 2000-2019
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+1970
+1980
+1990
+2000
+2010
+2020
+Percent
+Percent
+Share of Months in Prior 10 Years with 
+YoY Core PCE Above 2.5%
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+16 November 2022
+  8
+Goldman Sachs
+Global Economics Analyst
+",reason term inflat expect remain anchor relat true measur base survey household survey econom forecast inflat protect bond measur short term inflat expect remain reflect spike commod price wane commod price level inflat short unusu pandem period suggest elev inflat entrench exhibit expect core pce inflat declin septemb decemb exhibit expect suppli constrain durabl elev margin car drive slowdown core inflat exhibit impact normal suppli chain rental market apart list rent left cpi rent primari resid percent chang month annual rate percent chang month annual rate supplier deliveri time averag busi survey manufactur price averag busi survey score score supplier deliveri time manufactur price paid survey ism ism chicago ny fed philadelphia fed richmond fed dalla fed kansa citi fed creighton univers supplier deliveri time haver analyt global invest exhibit anchor inflat expect measur short period inflat percent percent inflat expect univers michigan survey inflat moder reopen covid averag percent percent share month prior yoy core pce haver analyt global invest novemb global econom analyst,"['reason', 'term', 'inflation', 'expectations', 'remain', 'anchored', 'relative', 'true', 'measures', 'based', 'surveys', 'households', 'surveys', 'economic', 'forecasters', 'inflation', 'protected', 'bonds', 'measures', 'short', 'term', 'inflation', 'expectations', 'remain', 'reflects', 'spike', 'commodity', 'prices', 'wane', 'commodity', 'prices', 'level', 'inflation', 'short', 'unusual', 'pandemic', 'period', 'suggests', 'elevated', 'inflation', 'entrenched', 'exhibit', 'expect', 'core', 'pce', 'inflation', 'decline', 'september', 'december', 'exhibit', 'expect', 'supply', 'constrained', 'durable', 'elevated', 'margins', 'cars', 'drive', 'slowdown', 'core', 'inflation', 'exhibit', 'impact', 'normalizing', 'supply', 'chains', 'rental', 'markets', 'apartment', 'list', 'rents', 'left', 'cpi', 'rent', 'primary', 'residence', 'percent', 'change', 'monthly', 'annual', 'rate', 'percent', 'change', 'monthly', 'annual', 'rate', 'supplier', 'delivery', 'times', 'average', 'business', 'surveys', 'manufacturing', 'prices', 'average', 'business', 'surveys', 'score', 'score', 'supplier', 'delivery', 'times', 'manufacturing', 'prices', 'paid', 'surveys', 'ism', 'ism', 'chicago', 'ny', 'fed', 'philadelphia', 'fed', 'richmond', 'fed', 'dallas', 'fed', 'kansas', 'city', 'fed', 'creighton', 'university', 'supplier', 'delivery', 'times', 'haver', 'analytics', 'global', 'investment', 'exhibit', 'anchored', 'inflation', 'expectations', 'measures', 'short', 'period', 'inflation', 'percent', 'percent', 'inflation', 'expectations', 'university', 'michigan', 'survey', 'inflation', 'moderation', 'reopening', 'covid', 'average', 'percent', 'percent', 'share', 'months', 'prior', 'yoy', 'core', 'pce', 'haver', 'analytics', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.3616369047619048,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,9,"One might assume that our relatively optimistic inflation forecast translates into a 
+relatively dovish Fed call.  But that assumption would be wrong.  The reason comes 
+back to the interplay between real income and financial conditions.  As real income 
+recovers, a negative FCI growth impulse is required to keep growth below potential and 
+continue rebalancing the labor market.  However, the negative FCI impulse on 
+sequential growth will likely diminish from its current drag of around 2pp annualized 
+because it depends on the change in, rather than the level of, financial conditions 
+(Exhibit 4, right panel).  As a result, and even under our relatively optimistic inflation 
+forecast, additional rate hikes of at least as much as markets are now pricing are likely 
+required to keep the labor market adjustment going.  Following the FCI easing over the 
+past month, we now expect an additional 125bp of Fed rate hikes (vs. 100bp previously) 
+with a downshift in the hiking pace to 50bp in December, and three smaller 25bp hikes 
+in February, March, and now also May.  Our new 5-5.25% peak funds rate is modestly 
+above market pricing (Exhibit 11). 
+Exhibit 10: Core PCE Inflation Will Likely Decline to 2.9% by End-2023 on Goods Disinflation and Slower 
+Shelter Inflation in H2  
+-1
+0
+1
+2
+3
+4
+5
+6
+-1
+0
+1
+2
+3
+4
+5
+6
+Jan-19
+Apr-19
+Jul-19
+Oct-19
+Jan-20
+Apr-20
+Jul-20
+Oct-20
+Jan-21
+Apr-21
+Jul-21
+Oct-21
+Jan-22
+Apr-22
+Jul-22
+Oct-22
+Jan-23
+Apr-23
+Jul-23
+Oct-23
+Jan-24
+Apr-24
+Jul-24
+Oct-24
+Supply-Constrained*
+Other Goods
+Travel
+Other Services
+Healthcare
+Shelter
+Percent change, year ago
+Percent change, year ago
+GS Forecast
+Contributions to Year-on-Year Core PCE Inflation
+* New, used, and rental cars, furniture, sporting equipment, household appliances, sports and recreational vehicles,
+and video, audio, photo, and info. equipment.
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+16 November 2022
+  9
+Goldman Sachs
+Global Economics Analyst
+",assum optimist inflat forecast translat dovish fed assumpt wrong reason interplay real incom financi condit real incom recov negat fci growth impuls requir growth potenti continu rebalanc labor market negat fci impuls sequenti growth diminish current drag annual depend chang level financi condit exhibit panel result optimist inflat forecast addit rate hike market price requir labor market adjust fci eas month expect addit bp fed rate hike bp downshift hike pace bp decemb bp hike februari march peak fund rate modest market price exhibit exhibit core pce inflat declin disinfl slower shelter inflat jan apr jul oct jan apr jul oct jan apr jul oct jan apr jul oct jan apr jul oct jan apr jul oct suppli constrain travel servic healthcar shelter percent chang percent chang forecast contribut core pce inflat rental car furnitur sport equip household applianc sport recreat vehicl video audio photo info equip haver analyt global invest novemb global econom analyst,"['assume', 'optimistic', 'inflation', 'forecast', 'translates', 'dovish', 'fed', 'assumption', 'wrong', 'reason', 'interplay', 'real', 'income', 'financial', 'conditions', 'real', 'income', 'recovers', 'negative', 'fci', 'growth', 'impulse', 'required', 'growth', 'potential', 'continue', 'rebalancing', 'labor', 'market', 'negative', 'fci', 'impulse', 'sequential', 'growth', 'diminish', 'current', 'drag', 'annualized', 'depends', 'change', 'level', 'financial', 'conditions', 'exhibit', 'panel', 'result', 'optimistic', 'inflation', 'forecast', 'additional', 'rate', 'hikes', 'markets', 'pricing', 'required', 'labor', 'market', 'adjustment', 'fci', 'easing', 'month', 'expect', 'additional', 'bp', 'fed', 'rate', 'hikes', 'bp', 'downshift', 'hiking', 'pace', 'bp', 'december', 'bp', 'hikes', 'february', 'march', 'peak', 'funds', 'rate', 'modestly', 'market', 'pricing', 'exhibit', 'exhibit', 'core', 'pce', 'inflation', 'decline', 'disinflation', 'slower', 'shelter', 'inflation', 'jan', 'apr', 'jul', 'oct', 'jan', 'apr', 'jul', 'oct', 'jan', 'apr', 'jul', 'oct', 'jan', 'apr', 'jul', 'oct', 'jan', 'apr', 'jul', 'oct', 'jan', 'apr', 'jul', 'oct', 'supply', 'constrained', 'travel', 'services', 'healthcare', 'shelter', 'percent', 'change', 'percent', 'change', 'forecast', 'contributions', 'core', 'pce', 'inflation', 'rental', 'cars', 'furniture', 'sporting', 'equipment', 'household', 'appliances', 'sports', 'recreational', 'vehicles', 'video', 'audio', 'photo', 'info', 'equipment', 'haver', 'analytics', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.34459049015500637,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,10,"Exhibit 11: We Expect 125bp of Additional Funds Rate Hikes and No Cuts in 2023 
+25bp
+50bp
+75bp
+75bp
+75bp
+75bp
+50bp
+54bp
+25bp
+33bp
+25bp 
+15bp
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+Mar May Jun
+Jul
+Sep Nov
+Dec
+Feb
+Mar
+May
+End-23
+Percent
+Percent
+Size of
+rate hike
+5.00-
+5.25%
+FOMC Estimate of Longer-Run Rate
+4.48%
+Actual
+GS Forecast
+Market Pricing
+2022
+2023
+Level
+25bp
+5bp
+Rate Hikes at FOMC Meetings
+Source: Bloomberg, Goldman Sachs Global Investment Research
+With a resilient labor market and still elevated inflation, we don't see any rate cuts in 
+2023 unless the economy enters recession after all.  In our no-recession forecast, the 
+Fed only implements a first gentle 25bp cut in 2024Q2.  This baseline of ""high rates for 
+longer"" would again illustrate how different this cycle is as the first Fed cut in the 
+median hiking cycle has historically come roughly six months after the last hike.  
+16 November 2022
+  10
+Goldman Sachs
+Global Economics Analyst
+",exhibit expect bp addit fund rate hike cut bp bp bp bp bp bp bp bp bp bp bp bp mar jun jul sep nov dec feb mar percent percent size rate hike fomc estim rate actual forecast market price level bp bp rate hike fomc meet bloomberg global invest resili labor market elev inflat rate cut economi enter recess recess forecast fed implement gentl bp cut baselin rate illustr cycl fed cut median hike cycl histor rough month hike novemb global econom analyst,"['exhibit', 'expect', 'bp', 'additional', 'funds', 'rate', 'hikes', 'cuts', 'bp', 'bp', 'bp', 'bp', 'bp', 'bp', 'bp', 'bp', 'bp', 'bp', 'bp', 'bp', 'mar', 'jun', 'jul', 'sep', 'nov', 'dec', 'feb', 'mar', 'percent', 'percent', 'size', 'rate', 'hike', 'fomc', 'estimate', 'rate', 'actual', 'forecast', 'market', 'pricing', 'level', 'bp', 'bp', 'rate', 'hikes', 'fomc', 'meetings', 'bloomberg', 'global', 'investment', 'resilient', 'labor', 'market', 'elevated', 'inflation', 'rate', 'cuts', 'economy', 'enters', 'recession', 'recession', 'forecast', 'fed', 'implements', 'gentle', 'bp', 'cut', 'baseline', 'rates', 'illustrate', 'cycle', 'fed', 'cut', 'median', 'hiking', 'cycle', 'historically', 'roughly', 'months', 'hike', 'november', 'global', 'economics', 'analyst']",0.3477777777777778,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,11,"A Mild Recession in Europe 
+In contrast to the US, the Euro area and the UK are probably in recession.  The reason 
+for this is the much bigger and more drawn-out increase in household energy bills, 
+which should boost headline inflation to peaks of 12% in the Euro area and 11% in the 
+UK, far higher than in the US (Exhibit 12, left panel).  
+In turn, high inflation is set to weigh on real income, consumption, and industrial 
+production.  We forecast further declines in real income of 1 1/2 % in the Euro area 
+through 2023Q1 and 3% in the UK through 2023Q2, before a pickup in H2 (Exhibit 12, 
+right panel).  The plunge in timely and forward-looking surveys of gas-intensive European 
+industries such as chemicals and metals also suggests that rising energy costs will 
+lower production (Exhibit 13).  As a result, we look for cumulative declines in real GDP of 
+0.7% in the Euro area (2022Q4-2023Q2) and 1.7% in the UK (2022Q3-2023Q2).  
+Exhibit 12: A Bigger Energy Shock in Europe Implies a Worse Outlook for Inflation and Real Income 
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+16 November 2022
+  11
+Goldman Sachs
+Global Economics Analyst
+",mild recess europ contrast euro recess reason bigger drawn increas household energi bill boost headlin inflat peak euro exhibit left panel inflat set weigh real incom consumpt industri product forecast declin real incom euro pickup exhibit panel plung time survey gas intens european industri chemic metal suggest rise energi cost product exhibit result cumul declin real gdp euro exhibit bigger energi shock europ impli wors inflat real incom haver analyt global invest novemb global econom analyst,"['mild', 'recession', 'europe', 'contrast', 'euro', 'recession', 'reason', 'bigger', 'drawn', 'increase', 'household', 'energy', 'bills', 'boost', 'headline', 'inflation', 'peaks', 'euro', 'exhibit', 'left', 'panel', 'inflation', 'set', 'weigh', 'real', 'income', 'consumption', 'industrial', 'production', 'forecast', 'declines', 'real', 'income', 'euro', 'pickup', 'exhibit', 'panel', 'plunge', 'timely', 'surveys', 'gas', 'intensive', 'european', 'industries', 'chemicals', 'metals', 'suggests', 'rising', 'energy', 'costs', 'production', 'exhibit', 'result', 'cumulative', 'declines', 'real', 'gdp', 'euro', 'exhibit', 'bigger', 'energy', 'shock', 'europe', 'implies', 'worse', 'inflation', 'real', 'income', 'haver', 'analytics', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.3881954887218044,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,12,"Exhibit 13: Surveys of Gas-Intensive European Industries Have Plunged 
+Source: Haver Analytics, Eurostat, Goldman Sachs Global Investment Research
+However, we don't expect a deep European downturn, barring a very cold winter that 
+imposes more severe energy rationing on the industrial sector in order to keep people 
+warm in their homes. 
+Already, Europe has cut Russian gas imports by 80% and total gas consumption by 
+20-25% without crushing aggregate activity.  In fact, most of the hard economic data (as 
+opposed to the surveys) continue to hold up remarkably well so far, with industrial 
+production moving sideways, real GDP still up in the Euro area in Q3 (though down 
+slightly in the UK), and labor markets holding up so far.
+We think the reason for this resilience is that household energy savings and substitution 
+to other energy sources have helped absorb the collapse in Russian gas imports.  Along 
+with mild weather, these savings have boosted gas storage, reduced TTF gas prices by 
+60% from their peak, and reduced downside risk from a very cold winter. 
+Moreover, Europe is likely to benefit from three similar post-pandemic sources of 
+resilience that are helping the US avoid recession altogether.  First, Exhibit 14 shows 
+that the rise in German production of chip-intensive items and cars--where pandemic 
+bottlenecks are still easing--has approximately offset the ongoing decline in 
+energy-intensive production.  
+16 November 2022
+  12
+Goldman Sachs
+Global Economics Analyst
+",exhibit survey gas intens european industri plung haver analyt eurostat global invest expect deep european downturn bar cold winter impos sever energi ration industri sector peopl warm home europ cut russian gas import total gas consumpt crush aggreg activ hard econom oppos survey continu hold remark industri product move sideway real gdp euro labor market hold reason resili household energi save substitut energi sourc help absorb collaps russian gas import mild weather save boost gas storag reduc ttf gas price peak reduc downsid risk cold winter europ benefit post pandem sourc resili help avoid recess altogeth exhibit rise german product chip intens item car pandem bottleneck eas offset ongo declin energi intens product novemb global econom analyst,"['exhibit', 'surveys', 'gas', 'intensive', 'european', 'industries', 'plunged', 'haver', 'analytics', 'eurostat', 'global', 'investment', 'expect', 'deep', 'european', 'downturn', 'barring', 'cold', 'winter', 'imposes', 'severe', 'energy', 'rationing', 'industrial', 'sector', 'people', 'warm', 'homes', 'europe', 'cut', 'russian', 'gas', 'imports', 'total', 'gas', 'consumption', 'crushing', 'aggregate', 'activity', 'hard', 'economic', 'opposed', 'surveys', 'continue', 'hold', 'remarkably', 'industrial', 'production', 'moving', 'sideways', 'real', 'gdp', 'euro', 'labor', 'markets', 'holding', 'reason', 'resilience', 'household', 'energy', 'savings', 'substitution', 'energy', 'sources', 'helped', 'absorb', 'collapse', 'russian', 'gas', 'imports', 'mild', 'weather', 'savings', 'boosted', 'gas', 'storage', 'reduced', 'ttf', 'gas', 'prices', 'peak', 'reduced', 'downside', 'risk', 'cold', 'winter', 'europe', 'benefit', 'post', 'pandemic', 'sources', 'resilience', 'helping', 'avoid', 'recession', 'altogether', 'exhibit', 'rise', 'german', 'production', 'chip', 'intensive', 'items', 'cars', 'pandemic', 'bottlenecks', 'easing', 'offset', 'ongoing', 'decline', 'energy', 'intensive', 'production', 'november', 'global', 'economics', 'analyst']",0.45191570881226056,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,13,"Second, any decline in the household saving rate would support consumer spending, as 
+happened in the US when real income plunged in early 2022.  Exhibit 15 points to room 
+in Europe for saving rates to fall and for consumer credit growth to pick up (although 
+likely by less than in the US because European lower-income households have relatively 
+limited excess savings).  Third, while the bulk of reopening gains are behind us, Europe 
+is still benefiting somewhat from a rebound in the service sector.   
+While near-term risks of a deep recession have receded somewhat and our commodity 
+strategists now look for a more limited rise in European gas prices next summer, we 
+don't expect GDP to rebound sharply in Europe once it exits a mild recession.  The main 
+reason is that energy prices will likely stay high until sufficient new energy supply and/or 
+Exhibit 14: The Easing in Pandemic Supply Constraints Has Roughly Offset the Decline in Energy-Intensive 
+German Industrial Production 
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+Jan-22
+Feb-22
+Mar-22
+Apr-22
+May-22
+Jun-22
+Jul-22
+Aug-22
+Sep-22
+Automotive Sector (Right)
+Other Sectors (Right)
+Gas-Intensive Sectors (Right)
+Chip-Intensive Sectors (Right)
+Total (Left)
+Percent change
+since Dec. 2019
+Percentage point
+contribution
+German Industrial Production
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+Exhibit 15: Room in Europe for the Saving Rate to Fall and Consumer Credit to Rise 
+2018
+2019
+2020
+2021
+2022
+-10
+-5
+0
+5
+10
+15
+20
+25
+-10
+-5
+0
+5
+10
+15
+20
+25
+Change in the Household Saving Rate 
+Since 2019Q4
+US
+UK
+Euro Area
+Percentage
+points
+Percentage
+points
+75
+80
+85
+90
+95
+100
+105
+110
+75
+80
+85
+90
+95
+100
+105
+110
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Consumer Credit
+US: Revolving Consumer Credit
+UK: Credit Card Lending
+Euro Area: Consumer Credit Up to 5 Years
+December 2019=100
+December 2019=100
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+16 November 2022
+  13
+Goldman Sachs
+Global Economics Analyst
+",declin household save rate support consum spend happen real incom plung exhibit europ save rate fall consum credit growth pick european incom household limit excess save bulk reopen gain europ benefit rebound servic sector term risk deep recess reced commod strategist limit rise european gas price summer expect gdp rebound sharpli europ exit mild recess main reason energi price stay suffici energi suppli exhibit eas pandem suppli constraint rough offset declin energi intens german industri product jan feb mar apr jun jul aug sep automot sector sector gas intens sector chip intens sector total left percent chang dec percentag contribut german industri product haver analyt global invest exhibit europ save rate fall consum credit rise chang household save rate euro percentag percentag consum credit revolv consum credit credit card lend euro consum credit decemb decemb haver analyt global invest novemb global econom analyst,"['decline', 'household', 'saving', 'rate', 'support', 'consumer', 'spending', 'happened', 'real', 'income', 'plunged', 'exhibit', 'europe', 'saving', 'rates', 'fall', 'consumer', 'credit', 'growth', 'pick', 'european', 'income', 'households', 'limited', 'excess', 'savings', 'bulk', 'reopening', 'gains', 'europe', 'benefiting', 'rebound', 'service', 'sector', 'term', 'risks', 'deep', 'recession', 'receded', 'commodity', 'strategists', 'limited', 'rise', 'european', 'gas', 'prices', 'summer', 'expect', 'gdp', 'rebound', 'sharply', 'europe', 'exits', 'mild', 'recession', 'main', 'reason', 'energy', 'prices', 'stay', 'sufficient', 'energy', 'supply', 'exhibit', 'easing', 'pandemic', 'supply', 'constraints', 'roughly', 'offset', 'decline', 'energy', 'intensive', 'german', 'industrial', 'production', 'jan', 'feb', 'mar', 'apr', 'jun', 'jul', 'aug', 'sep', 'automotive', 'sector', 'sectors', 'gas', 'intensive', 'sectors', 'chip', 'intensive', 'sectors', 'total', 'left', 'percent', 'change', 'dec', 'percentage', 'contribution', 'german', 'industrial', 'production', 'haver', 'analytics', 'global', 'investment', 'exhibit', 'europe', 'saving', 'rate', 'fall', 'consumer', 'credit', 'rise', 'change', 'household', 'saving', 'rate', 'euro', 'percentage', 'percentage', 'consumer', 'credit', 'revolving', 'consumer', 'credit', 'credit', 'card', 'lending', 'euro', 'consumer', 'credit', 'december', 'december', 'haver', 'analytics', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.3272156631247541,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,14,"major efficiency gains materialize.  Moreover, fiscal policy turns should turn into a drag 
+from the second half of 2023 onwards.   
+Incorporating both the resilience in incoming hard data and our less elevated path for 
+gas prices, we have nudged up our Euro area 2023 growth forecast to -0.1% (from 
+-0.4% previously).
+What about European core inflation?  Although commodities drove the initial headline 
+surge, price pressures have broadened significantly across core categories in both the 
+Euro area and the UK following upside inflation surprises (Exhibit 16, left panel).  In fact, 
+UK core price pressures are now the broadest across the G10, with a perfect storm of 
+an energy crisis (like continental Europe) and an overheated labor market (like the US).  
+Given this strong momentum, we expect Euro area core inflation to edge up further to a 
+peak of 5.3% year-over-year in December, before gradually declining to just above 3% 
+by end-2023 on goods disinflation.  In the UK, we think that core inflation is peaking 
+right around now and will also decline to 3% by end-2023.  
+Given reduced risks of deep recession and persistent inflationary pressures, we now 
+expect the ECB to hike through May with an additional 150bp of rate hikes to a peak 
+deposit rate of 3% (vs. 2.75% previously).  Along with the reduction in near-term 
+headline inflation pressures from gas prices, the emphasis on substantial rate hikes so 
+far increases our conviction that the ECB will step down the pace to 50bp in December, 
+in parallel with the Fed.  We maintain our forecast for a second 50bp hike in February 
+but, given the firmer demand outlook, now look for two additional smaller 25bp hikes at 
+the March and May meetings.  The risks around our peak 3% ECB rate are two-sided, 
+with upside risk from potentially more persistent core inflation and downside risk from 
+a deeper recession or a possible flare-up in sovereign risk in Italy.  Given the tight labor 
+market, high wage pressures, and firm inflation, we expect the BoE to hike Bank Rate 
+by an additional 150bp to a terminal rate of 4.5%. 
+Exhibit 16: Broad Core Price Pressures in Europe Imply Additional ECB and BoE Hikes to Peaks of 3% and 4.5%, Respectively  
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+16 November 2022
+  14
+Goldman Sachs
+Global Economics Analyst
+",major effici gain materi fiscal polici drag onward incorpor resili incom hard elev path gas price nudg euro growth forecast european core inflat commod drove initi headlin surg price pressur broaden core categori euro upsid inflat surpris exhibit left panel core price pressur broadest perfect storm energi crisi continent europ overh labor market strong momentum expect euro core inflat edg peak decemb gradual declin disinfl core inflat peak declin reduc risk deep recess persist inflationari pressur expect ecb hike addit bp rate hike peak deposit rate reduct term headlin inflat pressur gas price emphasi substanti rate hike increas convict ecb step pace bp decemb parallel fed maintain forecast bp hike februari firmer demand addit bp hike march meet risk peak ecb rate side upsid risk persist core inflat downsid risk deeper recess flare sovereign risk itali tight labor market wage pressur firm inflat expect boe hike rate addit bp termin rate exhibit broad core price pressur europ impli addit ecb boe hike peak haver analyt global invest novemb global econom analyst,"['major', 'efficiency', 'gains', 'materialize', 'fiscal', 'policy', 'drag', 'onwards', 'incorporating', 'resilience', 'incoming', 'hard', 'elevated', 'path', 'gas', 'prices', 'nudged', 'euro', 'growth', 'forecast', 'european', 'core', 'inflation', 'commodities', 'drove', 'initial', 'headline', 'surge', 'price', 'pressures', 'broadened', 'core', 'categories', 'euro', 'upside', 'inflation', 'surprises', 'exhibit', 'left', 'panel', 'core', 'price', 'pressures', 'broadest', 'perfect', 'storm', 'energy', 'crisis', 'continental', 'europe', 'overheated', 'labor', 'market', 'strong', 'momentum', 'expect', 'euro', 'core', 'inflation', 'edge', 'peak', 'december', 'gradually', 'declining', 'disinflation', 'core', 'inflation', 'peaking', 'decline', 'reduced', 'risks', 'deep', 'recession', 'persistent', 'inflationary', 'pressures', 'expect', 'ecb', 'hike', 'additional', 'bp', 'rate', 'hikes', 'peak', 'deposit', 'rate', 'reduction', 'term', 'headline', 'inflation', 'pressures', 'gas', 'prices', 'emphasis', 'substantial', 'rate', 'hikes', 'increases', 'conviction', 'ecb', 'step', 'pace', 'bp', 'december', 'parallel', 'fed', 'maintain', 'forecast', 'bp', 'hike', 'february', 'firmer', 'demand', 'additional', 'bp', 'hikes', 'march', 'meetings', 'risks', 'peak', 'ecb', 'rate', 'sided', 'upside', 'risk', 'persistent', 'core', 'inflation', 'downside', 'risk', 'deeper', 'recession', 'flare', 'sovereign', 'risk', 'italy', 'tight', 'labor', 'market', 'wage', 'pressures', 'firm', 'inflation', 'expect', 'boe', 'hike', 'rate', 'additional', 'bp', 'terminal', 'rate', 'exhibit', 'broad', 'core', 'price', 'pressures', 'europe', 'imply', 'additional', 'ecb', 'boe', 'hikes', 'peaks', 'haver', 'analytics', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.3287974987974988,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,15,"China's Bumpy Reopening 
+Our 2023 China outlook is a story of two halves with slow growth in the first half 
+followed by a more pronounced rebound in the second half as the economy reopens 
+(Exhibit 17).  
+We expect weak growth in Q4 and Q1 as the Zero Covid Policy (ZCP) likely stays in 
+place during the winter.  In fact, the recent sharp rise in cases led us to have a 
+significantly below-consensus Q4 estimate of 1.2% annualized.   
+Exhibit 17: Weak Growth Through H1; Rebound in H2  
+0
+2
+4
+6
+8
+10
+12
+0
+2
+4
+6
+8
+10
+12
+Q4
+Q1
+Q2
+Q3
+Q4
+2022
+2023
+GS
+Bloomberg Consensus
+Percent change,
+quarterly annual rate
+Percent change, 
+quarterly annual rate
+China Real GDP
+Source: Bloomberg, Goldman Sachs Global Investment Research
+Although the leadership has clearly signaled that it aims to exit ZCP, we do not expect 
+actual reopening to start until April.  The basic reason for this is that medical and 
+communication preparations will take time.  Less than 70% of the 60+ age group in 
+Mainland China are triple-vaccinated (Exhibit 18), and data from Hong Kong show that 
+the unvaccinated elderly remain at serious risk of severe outcomes.  As a result, China 
+will need to significantly ramp up its vaccination pace from the current 100k/day before 
+reopening can safely begin.   
+16 November 2022
+  15
+Goldman Sachs
+Global Economics Analyst
+",china bumpi reopen china stori half slow growth pronounc rebound economi reopen exhibit expect weak growth covid polici zcp stay winter sharp rise led consensus estim annual exhibit weak growth rebound bloomberg consensus percent chang quarter annual rate percent chang quarter annual rate china real gdp bloomberg global invest leadership signal aim exit zcp expect actual reopen start april basic reason medic communic prepar time age mainland china tripl vaccin exhibit hong kong unvaccin elder remain risk sever outcom result china ramp vaccin pace current day reopen safe novemb global econom analyst,"['china', 'bumpy', 'reopening', 'china', 'story', 'halves', 'slow', 'growth', 'pronounced', 'rebound', 'economy', 'reopens', 'exhibit', 'expect', 'weak', 'growth', 'covid', 'policy', 'zcp', 'stays', 'winter', 'sharp', 'rise', 'led', 'consensus', 'estimate', 'annualized', 'exhibit', 'weak', 'growth', 'rebound', 'bloomberg', 'consensus', 'percent', 'change', 'quarterly', 'annual', 'rate', 'percent', 'change', 'quarterly', 'annual', 'rate', 'china', 'real', 'gdp', 'bloomberg', 'global', 'investment', 'leadership', 'signaled', 'aims', 'exit', 'zcp', 'expect', 'actual', 'reopening', 'start', 'april', 'basic', 'reason', 'medical', 'communication', 'preparations', 'time', 'age', 'mainland', 'china', 'triple', 'vaccinated', 'exhibit', 'hong', 'kong', 'unvaccinated', 'elderly', 'remain', 'risk', 'severe', 'outcomes', 'result', 'china', 'ramp', 'vaccination', 'pace', 'current', 'day', 'reopening', 'safely', 'november', 'global', 'economics', 'analyst']",0.3795138888888889,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,16,"Despite our April reopening baseline, we forecast Q2 growth of just 2% annualized on 
+our assumption that reopening initially triggers an increase in infections that keeps 
+caution high.  Weak growth in East Asian economies such as South Korea, Taiwan, and 
+Hong Kong during the first quarter of exiting ZCP also supports our soft Q2 forecast.   
+In contrast, we look for a meaningful reopening growth boost in H2, which will likely 
+extend into 2024.  As ZCP is currently still subtracting about 4-5% from the level of 
+GDP, we see substantial room for a cyclical rebound as immunity levels rise and most 
+households learn to live with the virus.   
+Although clearly above consensus, our Q3 and Q4 forecasts of 10% and 6% annualized 
+are not spectacular relative to other international reopening experiences.  This is 
+because we expect a continued drag from Covid caution as well as other headwinds, 
+some cyclical and some more structural.  
+On the cyclical side, fiscal policy is set to tighten if the domestic economy rebounds, 
+and China's pandemic-related export boom should fade as global demand for tech, 
+housing, and Covid-related products slows further.  
+On the structural side, we see the contraction of the property sector and US chip export 
+restrictions as multi-year drags.  We estimate that the ongoing slide of the property 
+sector will subtract around -1 1/2 pp from growth next year as it continues to delever and 
+face demographic headwinds (Exhibit 19). 
+Exhibit 18: China Will Need to Ramp Up Vaccinations Before Reopening Can Safely Begin 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+5
+10
+15
+20
+25
+30
+35
+China
+HK
+Japan
+US
+China
+Germany
+US
+Indicators of Covid Health Risk
+Unvaccinated Elderly* (left)
+ICU Beds (right)
+Percent
+of population
+Beds per 100k 
+people
+*Mainland China (3 doses of Chinese vaccine), Hong Kong (2 doses of mRNA vaccine or 
+3 doses of  Chinese vaccine), Japan, Spain, and the US (2 doses of mRNA vaccine).
+0
+5
+10
+15
+20
+25
+0
+5
+10
+15
+20
+25
+Jan-2021
+Jun-2021
+Nov-2021
+Apr-2022
+Sep-2022
+Millions
+Millions
+per day
+Daily Covid-19 Vaccinations Administered in China
+(7-Day Moving Average)
+Source: NHC, Wind, Government of Hong Kong, Goldman Sachs Global Investment Research
+16 November 2022
+  16
+Goldman Sachs
+Global Economics Analyst
+",april reopen baselin forecast growth annual assumpt reopen initi trigger increas infect caution weak growth east asian economi south korea taiwan hong kong quarter exit zcp support soft forecast contrast meaning reopen growth boost extend zcp subtract level gdp substanti cyclic rebound immun level rise household learn live virus consensus forecast annual spectacular relat intern reopen experi expect continu drag covid caution headwind cyclic structur cyclic fiscal polici set tighten domest economi rebound china pandem export boom fade global demand tech hous covid product slow structur contract properti sector chip export restrict multi drag estim ongo slide properti sector subtract growth continu delev demograph headwind exhibit exhibit china ramp vaccin reopen safe china japan china germani indic covid health risk unvaccin elder left icu bed percent popul bed peopl mainland china dos chines vaccin hong kong dos mrna vaccin dos chines vaccin japan spain dos mrna vaccin jan jun nov apr sep million million day daili covid vaccin administ china day move averag nhc wind govern hong kong global invest novemb global econom analyst,"['april', 'reopening', 'baseline', 'forecast', 'growth', 'annualized', 'assumption', 'reopening', 'initially', 'triggers', 'increase', 'infections', 'caution', 'weak', 'growth', 'east', 'asian', 'economies', 'south', 'korea', 'taiwan', 'hong', 'kong', 'quarter', 'exiting', 'zcp', 'supports', 'soft', 'forecast', 'contrast', 'meaningful', 'reopening', 'growth', 'boost', 'extend', 'zcp', 'subtracting', 'level', 'gdp', 'substantial', 'cyclical', 'rebound', 'immunity', 'levels', 'rise', 'households', 'learn', 'live', 'virus', 'consensus', 'forecasts', 'annualized', 'spectacular', 'relative', 'international', 'reopening', 'experiences', 'expect', 'continued', 'drag', 'covid', 'caution', 'headwinds', 'cyclical', 'structural', 'cyclical', 'fiscal', 'policy', 'set', 'tighten', 'domestic', 'economy', 'rebounds', 'china', 'pandemic', 'export', 'boom', 'fade', 'global', 'demand', 'tech', 'housing', 'covid', 'products', 'slows', 'structural', 'contraction', 'property', 'sector', 'chip', 'export', 'restrictions', 'multi', 'drags', 'estimate', 'ongoing', 'slide', 'property', 'sector', 'subtract', 'growth', 'continues', 'delever', 'demographic', 'headwinds', 'exhibit', 'exhibit', 'china', 'ramp', 'vaccinations', 'reopening', 'safely', 'china', 'japan', 'china', 'germany', 'indicators', 'covid', 'health', 'risk', 'unvaccinated', 'elderly', 'left', 'icu', 'beds', 'percent', 'population', 'beds', 'people', 'mainland', 'china', 'doses', 'chinese', 'vaccine', 'hong', 'kong', 'doses', 'mrna', 'vaccine', 'doses', 'chinese', 'vaccine', 'japan', 'spain', 'doses', 'mrna', 'vaccine', 'jan', 'jun', 'nov', 'apr', 'sep', 'millions', 'millions', 'day', 'daily', 'covid', 'vaccinations', 'administered', 'china', 'day', 'moving', 'average', 'nhc', 'wind', 'government', 'hong', 'kong', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.29105699855699857,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,17,"We recently also estimated that the new US restrictions on exports of advanced chips 
+(and the equipment and software to produce them) to China will subtract about  1/4 pp 
+from China growth next year and 1.7% from the 2026 level of GDP, assuming US 
+policymakers are serious about implementation.  This reflects reduced production in 
+China of both chips and goods using advanced chips, such as smartphones and 
+computers.  
+The relatively muted rebound in aggregate demand--coupled with the relatively limited 
+rise in inflation during reopening in other Asian economies--also drives our benign 
+forecast for 2023 inflation and monetary policy.  Specifically, we expect core CPI to pick 
+up only slightly from 0.7% to 1.2% next year, and the policy rate to stay flat at just 2%.  
+Although we do see a sharper reopening boost in 2023H2 and 2024H1 than other 
+forecasters, our long-run China views remain structurally below consensus (Exhibit 20).  
+We estimate that much of the slowdown in actual China growth in recent years 
+corresponds to a slowdown in potential growth to only 4.2% in 2023.  We estimate that 
+trend growth will slow further to just above 3% over the next decade on weakness in 
+both demographics and productivity, and the long slide in the property market.  
+Exhibit 19: A Long Slide for China's Property Sector 
+-3
+-2
+-1
+0
+1
+2
+3
+-3
+-2
+-1
+0
+1
+2
+3
+2011
+2015
+2019
+2023
+2027
+Percentage
+points
+Percentage 
+points
+Construction
+Consumption
+Fiscal
+Real Estate Services
+Upstream Effects
+Total
+China: Housing Contribution to Annual GDP Growth
+0
+4
+8
+12
+16
+20
+24
+0
+4
+8
+12
+16
+20
+24
+2010
+2015
+2020
+2025
+2030
+2035
+2040
+2045
+Million
+Million
+Total
+Demand Sources:
+Property Investment
+Replacement
+Demographic*
+*Demographic demand sources include urbanization, population growth, and household 
+size growth. 
+New Apartments Needed Each Year in Urban China
+Source: Haver Analytics, Wind, Goldman Sachs Global Investment Research
+16 November 2022
+  17
+Goldman Sachs
+Global Economics Analyst
+",estim restrict export advanc chip equip softwar produc china subtract china growth level gdp assum policymak implement reflect reduc product china chip advanc chip smartphon comput mute rebound aggreg demand coupl limit rise inflat reopen asian economi drive benign forecast inflat monetari polici expect core cpi pick polici rate stay flat sharper reopen boost forecast china view remain structur consensus exhibit estim slowdown actual china growth correspond slowdown potenti growth estim trend growth slow decad weak demograph product slide properti market exhibit slide china properti sector percentag percentag construct consumpt fiscal real estat servic upstream effect total china hous contribut annual gdp growth total demand sourc properti invest replac demograph demograph demand sourc includ urban popul growth household size growth apart urban china haver analyt wind global invest novemb global econom analyst,"['estimated', 'restrictions', 'exports', 'advanced', 'chips', 'equipment', 'software', 'produce', 'china', 'subtract', 'china', 'growth', 'level', 'gdp', 'assuming', 'policymakers', 'implementation', 'reflects', 'reduced', 'production', 'china', 'chips', 'advanced', 'chips', 'smartphones', 'computers', 'muted', 'rebound', 'aggregate', 'demand', 'coupled', 'limited', 'rise', 'inflation', 'reopening', 'asian', 'economies', 'drives', 'benign', 'forecast', 'inflation', 'monetary', 'policy', 'expect', 'core', 'cpi', 'pick', 'policy', 'rate', 'stay', 'flat', 'sharper', 'reopening', 'boost', 'forecasters', 'china', 'views', 'remain', 'structurally', 'consensus', 'exhibit', 'estimate', 'slowdown', 'actual', 'china', 'growth', 'corresponds', 'slowdown', 'potential', 'growth', 'estimate', 'trend', 'growth', 'slow', 'decade', 'weakness', 'demographics', 'productivity', 'slide', 'property', 'market', 'exhibit', 'slide', 'china', 'property', 'sector', 'percentage', 'percentage', 'construction', 'consumption', 'fiscal', 'real', 'estate', 'services', 'upstream', 'effects', 'total', 'china', 'housing', 'contribution', 'annual', 'gdp', 'growth', 'total', 'demand', 'sources', 'property', 'investment', 'replacement', 'demographic', 'demographic', 'demand', 'sources', 'include', 'urbanization', 'population', 'growth', 'household', 'size', 'growth', 'apartments', 'urban', 'china', 'haver', 'analytics', 'wind', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.3488318054494526,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,18,"Exhibit 20: A 2023-2024 Pickup but a Long-Term Slide in China's Trend Growth 
+2
+3
+4
+5
+6
+2
+3
+4
+5
+6
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+China Real GDP Forecasts
+GS
+Consensus*
+Percent change,
+year ago
+Percent change, 
+year ago
+*Consensus is Bloomberg from 2022-2024 and Consensus Economics from 2025-2032.
+Source: Bloomberg, Consensus Economics, Goldman Sachs Global Investment Research
+16 November 2022
+  18
+Goldman Sachs
+Global Economics Analyst
+",exhibit pickup term slide china trend growth china real gdp forecast consensus percent chang percent chang consensus bloomberg consensus econom bloomberg consensus econom global invest novemb global econom analyst,"['exhibit', 'pickup', 'term', 'slide', 'china', 'trend', 'growth', 'china', 'real', 'gdp', 'forecasts', 'consensus', 'percent', 'change', 'percent', 'change', 'consensus', 'bloomberg', 'consensus', 'economics', 'bloomberg', 'consensus', 'economics', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.10000000000000002,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,19,"Pockets of Resilience in EM Early Hikers 
+A number of economies in Latin America as well as Central and Eastern Europe (CEE) 
+started hiking rates well before everyone else.  Among the nine EM early hikers, the 
+policy rate has increased by an average of over 800bp (Exhibit 21, left panel) while our 
+GS Financial Conditions Index (FCI) has tightened by an average of 450bp.
+1
+  Where are 
+these economies headed and what can we learn from their experience for the broader 
+global outlook? 
+While no early hiker has clearly achieved a soft landing yet, activity has generally held 
+up better than expected.  A majority of early hikers are probably still expanding, based 
+on GDP growth, PMIs, and labor market indicators.  In particular, unemployment rates 
+remain low in all economies, although they have edged up in several economies 
+(Exhibit 21, right panel).
+2
+  We have found that elevated job openings, reopening, and 
+strong private sector balance sheets--again unique characteristics of this different 
+cycle--help explain this resilience. 
+Encouragingly, sequential core inflation and wage growth have begun to moderate 
+across most early hikers, although they remain very high.  The moderation in core 
+inflation is most notable in Brazil, where we expect rate cuts to start in 2023Q2 and 
+growth to pick up back to a potential-like pace of 2% in the second half of the year 
+(Exhibit 22, left panel).   
+In contrast, the CEE economies are in a more difficult position.  This reflects CEE's 
+exposure to the surge in European gas prices, as well as continued high, broad, and in 
+the cases of Hungary and Poland still-rising inflation.  We therefore expect the Czech 
+and Polish central banks to resume their rate hike campaigns before long (Exhibit 22, 
+1
+We define an ""early hiker"" as a country under our coverage that began to increase the policy rate by 
+October 2021 with a cumulative increase in the first six months of at least 100bp.
+2
+Our classification suggests that Chile is likely in a mild recession, while the Czech Republic and Poland are 
+close calls.
+Exhibit 21: The Policy Rate Has Increased by 800bp Since March 2021 for the Average EM Early Hiker, but Unemployment Remains Low 
+5
+6
+7
+8
+9
+10
+5
+6
+7
+8
+9
+10
+Jul-19
+Jan-20
+Jul-20
+Jan-21
+Jul-21
+Jan-22
+Jul-22
+Percent
+Percent
+Unemployment Rate in Average EM Early Hiker
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Mar-21
+Jul-21
+Nov-21
+Mar-22
+Jul-22
+Nov-22
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Average EM Early Hiker
+US
+Basis points
+Basis points
+Change in the Policy Rate Since March 2021
+Note: EM early hikers are Brazil, Chile, Colombia, the Czech Republic, Hungary, Mexico, Peru, Poland, and Romania.
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+16 November 2022
+  19
+Goldman Sachs
+Global Economics Analyst
+",pocket resili em hiker economi latin america central eastern europ cee start hike rate em hiker polici rate increas averag bp exhibit left panel financi condit fci tighten averag bp economi head learn experi broader global hiker achiev soft land activ held expect major hiker expand base gdp growth pmis labor market indic unemploy rate remain economi edg economi exhibit panel elev job open reopen strong sector balanc sheet uniqu cycl explain resili encourag sequenti core inflat wage growth begun moder hiker remain moder core inflat notabl brazil expect rate cut start growth pick potenti pace exhibit left panel contrast cee economi difficult posit reflect cee exposur surg european gas price continu broad hungari poland rise inflat expect czech polish central bank resum rate hike campaign exhibit defin hiker countri coverag increas polici rate octob cumul increas month bp classif suggest chile mild recess czech republ poland close call exhibit polici rate increas bp march averag em hiker unemploy remain jul jan jul jan jul jan jul percent percent unemploy rate averag em hiker mar jul nov mar jul nov averag em hiker basi basi chang polici rate march note em hiker brazil chile colombia czech republ hungari mexico peru poland romania haver analyt global invest novemb global econom analyst,"['pockets', 'resilience', 'em', 'hikers', 'economies', 'latin', 'america', 'central', 'eastern', 'europe', 'cee', 'started', 'hiking', 'rates', 'em', 'hikers', 'policy', 'rate', 'increased', 'average', 'bp', 'exhibit', 'left', 'panel', 'financial', 'conditions', 'fci', 'tightened', 'average', 'bp', 'economies', 'headed', 'learn', 'experience', 'broader', 'global', 'hiker', 'achieved', 'soft', 'landing', 'activity', 'held', 'expected', 'majority', 'hikers', 'expanding', 'based', 'gdp', 'growth', 'pmis', 'labor', 'market', 'indicators', 'unemployment', 'rates', 'remain', 'economies', 'edged', 'economies', 'exhibit', 'panel', 'elevated', 'job', 'openings', 'reopening', 'strong', 'sector', 'balance', 'sheets', 'unique', 'cycle', 'explain', 'resilience', 'encouragingly', 'sequential', 'core', 'inflation', 'wage', 'growth', 'begun', 'moderate', 'hikers', 'remain', 'moderation', 'core', 'inflation', 'notable', 'brazil', 'expect', 'rate', 'cuts', 'start', 'growth', 'pick', 'potential', 'pace', 'exhibit', 'left', 'panel', 'contrast', 'cee', 'economies', 'difficult', 'position', 'reflects', 'cee', 'exposure', 'surge', 'european', 'gas', 'prices', 'continued', 'broad', 'hungary', 'poland', 'rising', 'inflation', 'expect', 'czech', 'polish', 'central', 'banks', 'resume', 'rate', 'hike', 'campaigns', 'exhibit', 'define', 'hiker', 'country', 'coverage', 'increase', 'policy', 'rate', 'october', 'cumulative', 'increase', 'months', 'bp', 'classification', 'suggests', 'chile', 'mild', 'recession', 'czech', 'republic', 'poland', 'close', 'calls', 'exhibit', 'policy', 'rate', 'increased', 'bp', 'march', 'average', 'em', 'hiker', 'unemployment', 'remains', 'jul', 'jan', 'jul', 'jan', 'jul', 'jan', 'jul', 'percent', 'percent', 'unemployment', 'rate', 'average', 'em', 'hiker', 'mar', 'jul', 'nov', 'mar', 'jul', 'nov', 'average', 'em', 'hiker', 'basis', 'basis', 'change', 'policy', 'rate', 'march', 'note', 'em', 'hikers', 'brazil', 'chile', 'colombia', 'czech', 'republic', 'hungary', 'mexico', 'peru', 'poland', 'romania', 'haver', 'analytics', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.3611857142857143,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,20,"right panel), and look for moderate declines in GDP in most CEE economies. 
+Overall, the resilience of activity in several EM early hikers so far supports our view that 
+the current high-inflation period does not need to end in deep recession.   
+Some Progress, But Still an Uncertain World 
+The key economic question for 2023 is whether central banks will be able to bring down 
+inflation to more acceptable levels without a recession, or at least without a deep 
+recession.  We are reasonably optimistic, but there are substantial risks to our view. 
+One risk is that inflation pressures simply remain pervasive enough that central banks 
+have no choice but to keep tightening aggressively.  If so, a recession might become 
+unavoidable, not just in Europe but also in the US.  The recent news flow has reduced 
+this risk slightly in the US, as the labor market continues to adjust and inflation has 
+begun to slow.  But the picture is not uniform.  Central banks in Europe and those EM 
+economies where inflation is still increasing may be forced into further tightening in an 
+environment of exchange rate depreciation and rising inflation expectations. 
+The other main risk is that underlying inflation does come down, but central banks are 
+late in recognizing the improvement because they are too focused on lagging indicators 
+of inflation such as CPI shelter inflation.  In the US, we have recently become a little less 
+concerned about this risk as well.  Fed officials have made it clear that they are not 
+exclusively focused on the CPI rent numbers but also on more leading indicators such 
+as asking rents on new leases, which have slowed sharply in recent months.  Moreover, 
+many central banks have either already slowed their hiking pace or signaled that they 
+will do so soon.  This reduces the risk of overtightening as it will allow for more time to 
+assess the impact of higher rates on the economy. 
+Beyond the core inflation dynamic, we remain concerned about political and geopolitical 
+Exhibit 22: Inflation and Policy Rates Are Set to Rise Further in CEE While We Expect Rate Cuts in Brazil from 2023Q2 Onwards 
+Note: Regional aggregates use market FX country weights. Dashed lines indicate GS forecasts. The aggregate policy rate for Latin America also excludes Ecuador. 
+Source: Haver Analytics, Goldman Sachs Global Investment Research
+16 November 2022
+  20
+Goldman Sachs
+Global Economics Analyst
+",panel moder declin gdp cee economi resili activ em hiker support view current inflat period deep recess progress uncertain key econom question central bank bring inflat accept level recess deep recess optimist substanti risk view risk inflat pressur simpli remain pervas central bank choic tighten aggress recess unavoid europ news flow reduc risk labor market continu adjust inflat begun slow pictur uniform central bank europ em economi inflat increas forc tighten environ exchang rate depreci rise inflat expect main risk under inflat central bank late recogn improv focus lag indic inflat cpi shelter inflat concern risk fed offici exclus focus cpi rent lead indic rent leas slow sharpli month central bank slow hike pace signal reduc risk overtighten time ass impact rate economi core inflat dynam remain concern polit geopolit exhibit inflat polici rate set rise cee expect rate cut brazil onward note region aggreg market countri weight dash line forecast aggreg polici rate latin america exclud ecuador haver analyt global invest novemb global econom analyst,"['panel', 'moderate', 'declines', 'gdp', 'cee', 'economies', 'resilience', 'activity', 'em', 'hikers', 'supports', 'view', 'current', 'inflation', 'period', 'deep', 'recession', 'progress', 'uncertain', 'key', 'economic', 'question', 'central', 'banks', 'bring', 'inflation', 'acceptable', 'levels', 'recession', 'deep', 'recession', 'optimistic', 'substantial', 'risks', 'view', 'risk', 'inflation', 'pressures', 'simply', 'remain', 'pervasive', 'central', 'banks', 'choice', 'tightening', 'aggressively', 'recession', 'unavoidable', 'europe', 'news', 'flow', 'reduced', 'risk', 'labor', 'market', 'continues', 'adjust', 'inflation', 'begun', 'slow', 'picture', 'uniform', 'central', 'banks', 'europe', 'em', 'economies', 'inflation', 'increasing', 'forced', 'tightening', 'environment', 'exchange', 'rate', 'depreciation', 'rising', 'inflation', 'expectations', 'main', 'risk', 'underlying', 'inflation', 'central', 'banks', 'late', 'recognizing', 'improvement', 'focused', 'lagging', 'indicators', 'inflation', 'cpi', 'shelter', 'inflation', 'concerned', 'risk', 'fed', 'officials', 'exclusively', 'focused', 'cpi', 'rent', 'leading', 'indicators', 'rents', 'leases', 'slowed', 'sharply', 'months', 'central', 'banks', 'slowed', 'hiking', 'pace', 'signaled', 'reduces', 'risk', 'overtightening', 'time', 'assess', 'impact', 'rates', 'economy', 'core', 'inflation', 'dynamic', 'remain', 'concerned', 'political', 'geopolitical', 'exhibit', 'inflation', 'policy', 'rates', 'set', 'rise', 'cee', 'expect', 'rate', 'cuts', 'brazil', 'onwards', 'note', 'regional', 'aggregates', 'market', 'country', 'weights', 'dashed', 'lines', 'forecasts', 'aggregate', 'policy', 'rate', 'latin', 'america', 'excludes', 'ecuador', 'haver', 'analytics', 'global', 'investment', 'november', 'global', 'economics', 'analyst']",0.3748369408369409,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,21,"shocks, which could affect the global economy via higher uncertainty, tighter financial 
+conditions, or negative effects on commodity supply.  Some of these risks have 
+diminished slightly as well.  The Italian, Brazilian, and US midterm elections have come 
+and gone without major market disruptions.  Spreads on Italian government debt have 
+diminished, Brazil may be headed toward a soft landing, and there is even a possibility 
+that the US debt limit--arguably the biggest potential source of market disruption 
+emanating from DC in 2023--will be resolved in the ""lame-duck"" session of Congress 
+between now and year-end 2022.  Moreover, the latest meeting between Presidents 
+Biden and Xi promises to defuse at least some of the tensions between the US and 
+China, which might also help to achieve a negotiated solution to the Russia-Ukraine war.  
+But there are still plenty of risks that could return us to the exceptionally volatile 
+environment of the first half of 2022.  So far, a settlement in the Russia-Ukraine war 
+does not seem close at hand, and the impact of the price cap on Russian oil is 
+uncertain.  The political instability in the Middle East--while far from a new feature of 
+the geopolitical order--also has the potential to deal another blow to energy markets at 
+a time when the supply-demand balance is already precarious.  Thus, our cautiously 
+optimistic global economic outlook remains fraught with substantial risks.  
+16 November 2022
+  21
+Goldman Sachs
+Global Economics Analyst
+",shock affect global economi uncertainti tighter financi condit negat effect commod suppli risk diminish italian brazilian midterm elect major market disrupt spread italian govern debt diminish brazil head soft land possibl debt limit arguabl biggest potenti market disrupt eman dc resolv lame duck session congress meet presid biden xi promis defus tension china achiev negoti solut russia ukrain war plenti risk return except volatil environ settlement russia ukrain war close hand impact price cap russian oil uncertain polit instabl middl east featur geopolit potenti deal blow energi market time suppli demand balanc precari cautious optimist global econom remain fraught substanti risk novemb global econom analyst,"['shocks', 'affect', 'global', 'economy', 'uncertainty', 'tighter', 'financial', 'conditions', 'negative', 'effects', 'commodity', 'supply', 'risks', 'diminished', 'italian', 'brazilian', 'midterm', 'elections', 'major', 'market', 'disruptions', 'spreads', 'italian', 'government', 'debt', 'diminished', 'brazil', 'headed', 'soft', 'landing', 'possibility', 'debt', 'limit', 'arguably', 'biggest', 'potential', 'market', 'disruption', 'emanating', 'dc', 'resolved', 'lame', 'duck', 'session', 'congress', 'meeting', 'presidents', 'biden', 'xi', 'promises', 'defuse', 'tensions', 'china', 'achieve', 'negotiated', 'solution', 'russia', 'ukraine', 'war', 'plenty', 'risks', 'return', 'exceptionally', 'volatile', 'environment', 'settlement', 'russia', 'ukraine', 'war', 'close', 'hand', 'impact', 'price', 'cap', 'russian', 'oil', 'uncertain', 'political', 'instability', 'middle', 'east', 'feature', 'geopolitical', 'potential', 'deal', 'blow', 'energy', 'markets', 'time', 'supply', 'demand', 'balance', 'precarious', 'cautiously', 'optimistic', 'global', 'economic', 'remains', 'fraught', 'substantial', 'risks', 'november', 'global', 'economics', 'analyst']",0.3788484848484848,16 11 2022,Goldman Sachs,global outlook,0
+16 11 2022_Goldman Sachs_global outlook,22,"Disclosure Appendix 
+Reg AC 
+We, Jan Hatzius, Daan Struyven, Yulia Zhestkova and Devesh Kodnani, hereby certify that all of the views expressed in this report accurately reflect our 
+personal views, which have not been influenced by considerations of the firm's business or client relationships. 
+Unless otherwise stated, the individuals listed on the cover page of this report are analysts in Goldman Sachs' Global Investment Research division. 
+Disclosures 
+Regulatory disclosures 
+Disclosures required by United States laws and regulations 
+See company-specific regulatory disclosures above for any of the following disclosures required as to companies referred to in this report: manager or 
+co-manager in a pending transaction; 1% or other ownership; compensation for certain services; types of client relationships; managed/co-managed 
+public offerings in prior periods; directorships; for equity securities, market making and/or specialist role. Goldman Sachs trades or may trade as a 
+principal in debt securities (or in related derivatives) of issuers discussed in this report.  
+The following are additional required disclosures: 
+Ownership and material conflicts of interest: 
+Goldman Sachs policy prohibits its analysts, 
+professionals reporting to analysts and members of their households from owning securities of any company in the analyst's area of coverage.  
+Analyst compensation: 
+ Analysts are paid in part based on the profitability of Goldman Sachs, which includes investment banking revenues. 
+ Analyst 
+as officer or director: 
+Goldman Sachs policy generally prohibits its analysts, persons reporting to analysts or members of their households from 
+serving as an officer, director or advisor of any company in the analyst's area of coverage.  
+Non-U.S. Analysts: 
+ Non-U.S. analysts may not be 
+associated persons of Goldman Sachs & Co. LLC and therefore may not be subject to FINRA Rule 2241 or FINRA Rule 2242 restrictions on 
+communications with subject company, public appearances and trading securities held by the analysts.  
+Additional disclosures required under the laws and regulations of jurisdictions other than the United States 
+The following disclosures are those required by the jurisdiction indicated, except to the extent already made above pursuant to United States laws and 
+regulations. 
+Australia: 
+Goldman Sachs Australia Pty Ltd and its affiliates are not authorised deposit-taking institutions (as that term is defined in the 
+Banking Act 1959 (Cth)) in Australia and do not provide banking services, nor carry on a banking business, in Australia. This research, and any access to 
+it, is intended only for ""wholesale clients"" within the meaning of the Australian Corporations Act, unless otherwise agreed by Goldman Sachs. In 
+producing research reports, members of the Global Investment Research Division of Goldman Sachs Australia may attend site visits and other 
+meetings hosted by the companies and other entities which are the subject of its research reports. In some instances the costs of such site visits or 
+meetings may be met in part or in whole by the issuers concerned if Goldman Sachs Australia considers it is appropriate and reasonable in the specific 
+circumstances relating to the site visit or meeting. To the extent that the contents of this document contains any financial product advice, it is general 
+advice only and has been prepared by Goldman Sachs without taking into account a client's objectives, financial situation or needs. A client should, 
+before acting on any such advice, consider the appropriateness of the advice having regard to the client's own objectives, financial situation and needs. 
+A copy of certain Goldman Sachs Australia and New Zealand disclosure of interests and a copy of Goldman Sachs' Australian Sell-Side Research 
+Independence Policy Statement are available at: https://www.goldmansachs.com/disclosures/australia-new-zealand/index.html.  
+Brazil: 
+Disclosure 
+information in relation to CVM Resolution n. 20 is available at https://www.gs.com/worldwide/brazil/area/gir/index.html. Where applicable, the 
+Brazil-registered analyst primarily responsible for the content of this research report, as defined in Article 20 of CVM Resolution n. 20, is the first author 
+named at the beginning of this report, unless indicated otherwise at the end of the text.  
+Canada: 
+This information is being provided to you for 
+information purposes only and is not, and under no circumstances should be construed as, an advertisement, offering or solicitation by Goldman Sachs 
+& Co. LLC for purchasers of securities in Canada to trade in any Canadian security. Goldman Sachs & Co. LLC is not registered as a dealer in any 
+jurisdiction in Canada under applicable Canadian securities laws and generally is not permitted to trade in Canadian securities and may be prohibited 
+from selling certain securities and products in certain jurisdictions in Canada. If you wish to trade in any Canadian securities or other products in 
+Canada please contact Goldman Sachs Canada Inc., an affiliate of The Goldman Sachs Group Inc., or another registered Canadian dealer.  
+Hong Kong: 
+Further information on the securities of covered companies referred to in this research may be obtained on request from Goldman Sachs (Asia) L.L.C.  
+India: 
+Further information on the subject company or companies referred to in this research may be obtained from Goldman Sachs (India) Securities 
+Private Limited, Research Analyst - SEBI Registration Number INH000001493, 951-A, Rational House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 
+400 025, India, Corporate Identity Number U74140MH2006FTC160634, Phone +91 22 6616 9000, Fax +91 22 6616 9001. Goldman Sachs may 
+beneficially own 1% or more of the securities (as such term is defined in clause 2 (h) the Indian Securities Contracts (Regulation) Act, 1956) of the 
+subject company or companies referred to in this research report.  
+Japan: 
+See below.  
+Korea: 
+This research, and any access to it, is intended only for 
+""professional investors"" within the meaning of the Financial Services and Capital Markets Act, unless otherwise agreed by Goldman Sachs. Further 
+information on the subject company or companies referred to in this research may be obtained from Goldman Sachs (Asia) L.L.C., Seoul Branch.  
+New 
+Zealand: 
+Goldman Sachs New Zealand Limited and its affiliates are neither ""registered banks"" nor ""deposit takers"" (as defined in the Reserve Bank of 
+New Zealand Act 1989) in New Zealand. This research, and any access to it, is intended for ""wholesale clients"" (as defined in the Financial Advisers Act 
+2008) unless otherwise agreed by Goldman Sachs. A copy of certain Goldman Sachs Australia and New Zealand disclosure of interests is available at: 
+https://www.goldmansachs.com/disclosures/australia-new-zealand/index.html.  
+Russia: 
+Research reports distributed in the Russian Federation are not 
+advertising as defined in the Russian legislation, but are information and analysis not having product promotion as their main purpose and do not 
+provide appraisal within the meaning of the Russian legislation on appraisal activity. Research reports do not constitute a personalized investment 
+recommendation as defined in Russian laws and regulations, are not addressed to a specific client, and are prepared without analyzing the financial 
+circumstances, investment profiles or risk profiles of clients. Goldman Sachs assumes no responsibility for any investment decisions that may be taken 
+by a client or any other person based on this research report.  
+Singapore: 
+Goldman Sachs (Singapore) Pte. (Company Number: 198602165W), which is 
+regulated by the Monetary Authority of Singapore, accepts legal responsibility for this research, and should be contacted with respect to any matters 
+arising from, or in connection with, this research.  
+Taiwan: 
+This material is for reference only and must not be reprinted without permission. Investors 
+should carefully consider their own investment risk. Investment results are the responsibility of the individual investor.  
+United Kingdom: 
+Persons who 
+would be categorized as retail clients in the United Kingdom, as such term is defined in the rules of the Financial Conduct Authority, should read this 
+research in conjunction with prior Goldman Sachs research on the covered companies referred to herein and should refer to the risk warnings that have 
+been sent to them by Goldman Sachs International. A copy of these risks warnings, and a glossary of certain financial terms used in this report, are 
+available from Goldman Sachs International on request.   
+European Union and United Kingdom: 
+Disclosure information in relation to Article 6 (2) of the European Commission Delegated Regulation (EU) 
+(2016/958) supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council (including as that Delegated Regulation is 
+implemented into United Kingdom domestic law and regulation following the United Kingdom's departure from the European Union and the European 
+Economic Area) with regard to regulatory technical standards for the technical arrangements for objective presentation of investment 
+recommendations or other information recommending or suggesting an investment strategy and for disclosure of particular interests or indications of 
+16 November 2022
+  22
+Goldman Sachs
+Global Economics Analyst
+",disclosur appendix reg ac jan hatzius daan struyven yulia zhestkova devesh kodnani certifi view express report accur reflect person view influenc consider firm busi client relationship state individu list cover report analyst global invest divis disclosur regulatori disclosur disclosur requir unit law regul compani specif regulatori disclosur disclosur requir compani refer report manag manag pend transact ownership compens servic type client relationship manag manag public offer prior period directorship equiti secur market specialist role trade trade princip debt secur deriv issuer discuss report addit requir disclosur ownership materi conflict polici prohibit analyst profession report analyst household own secur compani analyst coverag analyst compens analyst paid base profit includ invest bank revenu analyst offic director polici prohibit analyst person report analyst household serv offic director advisor compani analyst coverag analyst analyst person llc finra rule finra rule restrict communic compani public appear trade secur held analyst addit disclosur requir law regul jurisdict unit disclosur requir jurisdict extent pursuant unit law regul australia australia pti affili authoris deposit institut term defin bank cth australia provid bank servic carri bank busi australia access intend wholesal client mean australian corpor agre produc report global invest divis australia attend visit meet host compani entiti report instanc cost visit meet met issuer concern australia consid reason specif circumst relat visit meet extent content document financi product advic advic prepar account client object financi situat client act advic advic regard client object financi situat australia zealand disclosur australian sell independ polici statement brazil disclosur relat cvm resolut applic brazil regist analyst respons content report defin articl cvm resolut name report canada circumst constru advertis offer solicit llc purchas secur canada trade canadian secur llc regist dealer jurisdict canada applic canadian secur law permit trade canadian secur prohibit sell secur product jurisdict canada trade canadian secur product canada contact canada affili regist canadian dealer hong kong secur cover compani refer request asia india compani compani refer india secur limit analyst sebi registr inh ration hous appasaheb marath marg prabhadevi mumbai india corpor ident umhftc phone fax benefici secur term defin claus indian secur contract regul compani compani refer report japan korea access intend profession investor mean financi servic capit market agre compani compani refer asia seoul branch zealand zealand limit affili regist bank deposit taker defin reserv zealand zealand access intend wholesal client defin financi advis agre australia zealand disclosur russia report distribut russian feder advertis defin russian legisl analysi product promot main purpos provid apprais mean russian legisl apprais activ report constitut person invest recommend defin russian law regul address specif client prepar analyz financi circumst invest profil risk profil client assum respons invest decis client base report singapor singapor pte compani regul monetari author singapor accept legal respons contact respect matter aris connect taiwan materi refer reprint permiss investor care invest risk invest respons individu investor unit person categor retail client unit term defin rule financi conduct author read conjunct prior cover compani refer refer risk warn intern risk warn glossari financi term report intern request european union unit disclosur relat articl european commiss deleg regul eu supplement regul eu european parliament council includ deleg regul implement unit domest law regul unit departur european union european econom regard regulatori technic standard technic arrang object present invest recommend suggest invest strategi disclosur indic novemb global econom analyst,"['disclosure', 'appendix', 'reg', 'ac', 'jan', 'hatzius', 'daan', 'struyven', 'yulia', 'zhestkova', 'devesh', 'kodnani', 'certify', 'views', 'expressed', 'report', 'accurately', 'reflect', 'personal', 'views', 'influenced', 'considerations', 'firm', 'business', 'client', 'relationships', 'stated', 'individuals', 'listed', 'cover', 'report', 'analysts', 'global', 'investment', 'division', 'disclosures', 'regulatory', 'disclosures', 'disclosures', 'required', 'united', 'laws', 'regulations', 'company', 'specific', 'regulatory', 'disclosures', 'disclosures', 'required', 'companies', 'referred', 'report', 'manager', 'manager', 'pending', 'transaction', 'ownership', 'compensation', 'services', 'types', 'client', 'relationships', 'managed', 'managed', 'public', 'offerings', 'prior', 'periods', 'directorships', 'equity', 'securities', 'market', 'specialist', 'role', 'trades', 'trade', 'principal', 'debt', 'securities', 'derivatives', 'issuers', 'discussed', 'report', 'additional', 'required', 'disclosures', 'ownership', 'material', 'conflicts', 'policy', 'prohibits', 'analysts', 'professionals', 'reporting', 'analysts', 'households', 'owning', 'securities', 'company', 'analyst', 'coverage', 'analyst', 'compensation', 'analysts', 'paid', 'based', 'profitability', 'includes', 'investment', 'banking', 'revenues', 'analyst', 'officer', 'director', 'policy', 'prohibits', 'analysts', 'persons', 'reporting', 'analysts', 'households', 'serving', 'officer', 'director', 'advisor', 'company', 'analyst', 'coverage', 'analysts', 'analysts', 'persons', 'llc', 'finra', 'rule', 'finra', 'rule', 'restrictions', 'communications', 'company', 'public', 'appearances', 'trading', 'securities', 'held', 'analysts', 'additional', 'disclosures', 'required', 'laws', 'regulations', 'jurisdictions', 'united', 'disclosures', 'required', 'jurisdiction', 'extent', 'pursuant', 'united', 'laws', 'regulations', 'australia', 'australia', 'pty', 'affiliates', 'authorised', 'deposit', 'institutions', 'term', 'defined', 'banking', 'cth', 'australia', 'provide', 'banking', 'services', 'carry', 'banking', 'business', 'australia', 'access', 'intended', 'wholesale', 'clients', 'meaning', 'australian', 'corporations', 'agreed', 'producing', 'reports', 'global', 'investment', 'division', 'australia', 'attend', 'visits', 'meetings', 'hosted', 'companies', 'entities', 'reports', 'instances', 'costs', 'visits', 'meetings', 'met', 'issuers', 'concerned', 'australia', 'considers', 'reasonable', 'specific', 'circumstances', 'relating', 'visit', 'meeting', 'extent', 'contents', 'document', 'financial', 'product', 'advice', 'advice', 'prepared', 'account', 'client', 'objectives', 'financial', 'situation', 'client', 'acting', 'advice', 'advice', 'regard', 'client', 'objectives', 'financial', 'situation', 'australia', 'zealand', 'disclosure', 'australian', 'sell', 'independence', 'policy', 'statement', 'brazil', 'disclosure', 'relation', 'cvm', 'resolution', 'applicable', 'brazil', 'registered', 'analyst', 'responsible', 'content', 'report', 'defined', 'article', 'cvm', 'resolution', 'named', 'report', 'canada', 'circumstances', 'construed', 'advertisement', 'offering', 'solicitation', 'llc', 'purchasers', 'securities', 'canada', 'trade', 'canadian', 'security', 'llc', 'registered', 'dealer', 'jurisdiction', 'canada', 'applicable', 'canadian', 'securities', 'laws', 'permitted', 'trade', 'canadian', 'securities', 'prohibited', 'selling', 'securities', 'products', 'jurisdictions', 'canada', 'trade', 'canadian', 'securities', 'products', 'canada', 'contact', 'canada', 'affiliate', 'registered', 'canadian', 'dealer', 'hong', 'kong', 'securities', 'covered', 'companies', 'referred', 'request', 'asia', 'india', 'company', 'companies', 'referred', 'india', 'securities', 'limited', 'analyst', 'sebi', 'registration', 'inh', 'rational', 'house', 'appasaheb', 'marathe', 'marg', 'prabhadevi', 'mumbai', 'india', 'corporate', 'identity', 'umhftc', 'phone', 'fax', 'beneficially', 'securities', 'term', 'defined', 'clause', 'indian', 'securities', 'contracts', 'regulation', 'company', 'companies', 'referred', 'report', 'japan', 'korea', 'access', 'intended', 'professional', 'investors', 'meaning', 'financial', 'services', 'capital', 'markets', 'agreed', 'company', 'companies', 'referred', 'asia', 'seoul', 'branch', 'zealand', 'zealand', 'limited', 'affiliates', 'registered', 'banks', 'deposit', 'takers', 'defined', 'reserve', 'zealand', 'zealand', 'access', 'intended', 'wholesale', 'clients', 'defined', 'financial', 'advisers', 'agreed', 'australia', 'zealand', 'disclosure', 'russia', 'reports', 'distributed', 'russian', 'federation', 'advertising', 'defined', 'russian', 'legislation', 'analysis', 'product', 'promotion', 'main', 'purpose', 'provide', 'appraisal', 'meaning', 'russian', 'legislation', 'appraisal', 'activity', 'reports', 'constitute', 'personalized', 'investment', 'recommendation', 'defined', 'russian', 'laws', 'regulations', 'addressed', 'specific', 'client', 'prepared', 'analyzing', 'financial', 'circumstances', 'investment', 'profiles', 'risk', 'profiles', 'clients', 'assumes', 'responsibility', 'investment', 'decisions', 'client', 'based', 'report', 'singapore', 'singapore', 'pte', 'company', 'regulated', 'monetary', 'authority', 'singapore', 'accepts', 'legal', 'responsibility', 'contacted', 'respect', 'matters', 'arising', 'connection', 'taiwan', 'material', 'reference', 'reprinted', 'permission', 'investors', 'carefully', 'investment', 'risk', 'investment', 'responsibility', 'individual', 'investor', 'united', 'persons', 'categorized', 'retail', 'clients', 'united', 'term', 'defined', 'rules', 'financial', 'conduct', 'authority', 'read', 'conjunction', 'prior', 'covered', 'companies', 'referred', 'refer', 'risk', 'warnings', 'international', 'risks', 'warnings', 'glossary', 'financial', 'terms', 'report', 'international', 'request', 'european', 'union', 'united', 'disclosure', 'relation', 'article', 'european', 'commission', 'delegated', 'regulation', 'eu', 'supplementing', 'regulation', 'eu', 'european', 'parliament', 'council', 'including', 'delegated', 'regulation', 'implemented', 'united', 'domestic', 'law', 'regulation', 'united', 'departure', 'european', 'union', 'european', 'economic', 'regard', 'regulatory', 'technical', 'standards', 'technical', 'arrangements', 'objective', 'presentation', 'investment', 'recommending', 'suggesting', 'investment', 'strategy', 'disclosure', 'indications', 'november', 'global', 'economics', 'analyst']",0.3175066523690377,16 11 2022,Goldman Sachs,global outlook,1
+16 11 2022_Goldman Sachs_global outlook,23,"conflicts of interest is available at https://www.gs.com/disclosures/europeanpolicy.html which states the European Policy for Managing Conflicts of 
+Interest in Connection with Investment Research.   
+Japan: 
+Goldman Sachs Japan Co., Ltd. is a Financial Instrument Dealer registered with the Kanto Financial Bureau under registration number Kinsho 
+69, and a member of Japan Securities Dealers Association, Financial Futures Association of Japan and Type II Financial Instruments Firms Association. 
+Sales and purchase of equities are subject to commission pre-determined with clients plus consumption tax. See company-specific disclosures as to 
+any applicable disclosures required by Japanese stock exchanges, the Japanese Securities Dealers Association or the Japanese Securities Finance 
+Company.   
+Global product; distributing entities 
+The Global Investment Research Division of Goldman Sachs produces and distributes research products for clients of Goldman Sachs on a global basis. 
+Analysts based in Goldman Sachs offices around the world produce research on industries and companies, and research on macroeconomics, 
+currencies, commodities and portfolio strategy. This research is disseminated in Australia by Goldman Sachs Australia Pty Ltd (ABN 21 006 797 897); in 
+Brazil by Goldman Sachs do Brasil Corretora de Titulos e Valores Mobiliarios S.A.; Public Communication Channel Goldman Sachs Brazil: 0800 727 5764 
+and / or contatogoldmanbrasil@gs.com. Available Weekdays (except holidays), from 9am to 6pm. Canal de Comunicacao com o Publico Goldman Sachs 
+Brasil: 0800 727 5764 e/ou contatogoldmanbrasil@gs.com. Horario de funcionamento: segunda-feira a sexta-feira (exceto feriados), das 9h as 18h; in 
+Canada by Goldman Sachs & Co. LLC; in Hong Kong by Goldman Sachs (Asia) L.L.C.; in India by Goldman Sachs (India) Securities Private Ltd.; in Japan 
+by Goldman Sachs Japan Co., Ltd.; in the Republic of Korea by Goldman Sachs (Asia) L.L.C., Seoul Branch; in New Zealand by Goldman Sachs New 
+Zealand Limited; in Russia by OOO Goldman Sachs; in Singapore by Goldman Sachs (Singapore) Pte. (Company Number: 198602165W); and in the 
+United States of America by Goldman Sachs & Co. LLC. Goldman Sachs International has approved this research in connection with its distribution in 
+the United Kingdom.  
+Effective from the date of the United Kingdom's departure from the European Union and the European Economic Area (""Brexit Day"") the following 
+information with respect to distributing entities will apply: 
+Goldman Sachs International (""GSI""), authorised by the Prudential Regulation Authority (""PRA"") and regulated by the Financial Conduct Authority 
+(""FCA"") and the PRA, has approved this research in connection with its distribution in the United Kingdom. 
+European Economic Area:
+ GSI, authorised by the PRA and regulated by the FCA and the PRA, disseminates research in the following jurisdictions 
+within the European Economic Area: the Grand Duchy of Luxembourg, Italy, the Kingdom of Belgium, the Kingdom of Denmark, the Kingdom of 
+Norway, the Republic of Finland, the Republic of Cyprus and the Republic of Ireland; GS -Succursale de Paris (Paris branch) which, from Brexit Day, will 
+be authorised by the French Autorite de controle prudentiel et de resolution (""ACPR"") and regulated by the Autorite de controle prudentiel et de 
+resolution and the Autorite des marches financiers (""AMF"") disseminates research in France; GSI - Sucursal en Espana (Madrid branch) authorized in 
+Spain by the Comision Nacional del Mercado de Valores disseminates research in the Kingdom of Spain; GSI - Sweden Bankfilial (Stockholm branch) is 
+authorized by the SFSA as a ""third country branch"" in accordance with Chapter 4, Section 4 of the Swedish Securities and Market Act (Sw. lag 
+(2007:528) om vardepappersmarknaden) disseminates research in the Kingdom of Sweden; Goldman Sachs Bank Europe SE (""GSBE"") is a credit 
+institution incorporated in Germany and, within the Single Supervisory Mechanism, subject to direct prudential supervision by the European Central 
+Bank and in other respects supervised by German Federal Financial Supervisory Authority (Bundesanstalt fur Finanzdienstleistungsaufsicht, BaFin) and 
+Deutsche Bundesbank and disseminates research in the Federal Republic of Germany and those jurisdictions within the European Economic Area 
+where GSI is not authorised to disseminate research and additionally, GSBE, Copenhagen Branch filial af GSBE, Tyskland, supervised by the Danish 
+Financial Authority disseminates research in the Kingdom of Denmark; GSBE - Sucursal en Espana (Madrid branch) subject (to a limited extent) to local 
+supervision by the Bank of Spain disseminates research in the Kingdom of Spain;  GSBE - Succursale Italia (Milan branch) to the relevant applicable 
+extent, subject to local supervision by the Bank of Italy (Banca d'Italia) and the Italian Companies and Exchange Commission (Commissione Nazionale 
+per le Societa e la Borsa ""Consob"") disseminates research in Italy; GSBE - Succursale de Paris (Paris branch), supervised by the AMF and by the ACPR 
+disseminates research in France; and GSBE - Sweden Bankfilial (Stockholm branch), to a limited extent, subject to local supervision by the Swedish 
+Financial Supervisory Authority (Finansinpektionen) disseminates research in the Kingdom of Sweden.  
+General disclosures 
+This research is for our clients only. Other than disclosures relating to Goldman Sachs, this research is based on current public information that we 
+consider reliable, but we do not represent it is accurate or complete, and it should not be relied on as such. The information, opinions, estimates and 
+forecasts contained herein are as of the date hereof and are subject to change without prior notification. We seek to update our research as 
+appropriate, but various regulations may prevent us from doing so. Other than certain industry reports published on a periodic basis, the large majority 
+of reports are published at irregular intervals as appropriate in the analyst's judgment. 
+Goldman Sachs conducts a global full-service, integrated investment banking, investment management, and brokerage business. We have investment 
+banking and other business relationships with a substantial percentage of the companies covered by our Global Investment Research Division. 
+Goldman Sachs & Co. LLC, the United States broker dealer, is a member of SIPC (https://www.sipc.org).  
+Our salespeople, traders, and other professionals may provide oral or written market commentary or trading strategies to our clients and principal 
+trading desks that reflect opinions that are contrary to the opinions expressed in this research. Our asset management area, principal trading desks and 
+investing businesses may make investment decisions that are inconsistent with the recommendations or views expressed in this research. 
+We and our affiliates, officers, directors, and employees, will from time to time have long or short positions in, act as principal in, and buy or sell, the 
+securities or derivatives, if any, referred to in this research, unless otherwise prohibited by regulation or Goldman Sachs policy.  
+The views attributed to third party presenters at Goldman Sachs arranged conferences, including individuals from other parts of Goldman Sachs, do not 
+necessarily reflect those of Global Investment Research and are not an official view of Goldman Sachs. 
+Any third party referenced herein, including any salespeople, traders and other professionals or members of their household, may have positions in the 
+products mentioned that are inconsistent with the views expressed by analysts named in this report. 
+This research is focused on investment themes across markets, industries and sectors. It does not attempt to distinguish between the prospects or 
+performance of, or provide analysis of, individual companies within any industry or sector we describe. 
+Any trading recommendation in this research relating to an equity or credit security or securities within an industry or sector is reflective of the 
+investment theme being discussed and is not a recommendation of any such security in isolation. 
+This research is not an offer to sell or the solicitation of an offer to buy any security in any jurisdiction where such an offer or solicitation would be 
+illegal. It does not constitute a personal recommendation or take into account the particular investment objectives, financial situations, or needs of 
+individual clients. Clients should consider whether any advice or recommendation in this research is suitable for their particular circumstances and, if 
+appropriate, seek professional advice, including tax advice. The price and value of investments referred to in this research and the income from them 
+may fluctuate. Past performance is not a guide to future performance, future returns are not guaranteed, and a loss of original capital may occur. 
+Fluctuations in exchange rates could have adverse effects on the value or price of, or income derived from, certain investments.  
+16 November 2022
+  23
+Goldman Sachs
+Global Economics Analyst
+",conflict european polici manag conflict connect invest japan japan financi instrument dealer regist kanto financi bureau registr kinsho japan secur dealer associ financi futur associ japan type financi instrument firm associ sale purchas equiti commiss pre determin client consumpt tax compani specif disclosur applic disclosur requir japanes stock exchang japanes secur dealer associ japanes secur financ compani global product distribut entiti global invest divis produc distribut product client global basi analyst base offic produc industri compani macroeconom currenc commod portfolio strategi dissemin australia australia pti abn brazil brasil corretora titulo valor mobiliario public communic channel brazil weekday holiday canal comunicacao publico brasil ou horario funcionamento segunda feira sexta feira exceto feriado da canada llc hong kong asia india india secur japan japan republ korea asia seoul branch zealand zealand limit russia singapor singapor pte compani unit america llc intern approv connect distribut unit effect unit departur european union european econom brexit day respect distribut entiti appli intern gsi authoris prudenti regul author pra regul financi conduct author fca pra approv connect distribut unit european econom gsi authoris pra regul fca pra dissemin jurisdict european econom grand duchi luxembourg itali belgium denmark norway republ finland republ cyprus republ ireland succursal pari pari branch brexit day authoris french autorit control prudentiel resolut acpr regul autorit control prudentiel resolut autorit de march financi amf dissemin franc gsi sucurs en espana madrid branch author spain comis nacion del mercado valor dissemin spain gsi sweden bankfili stockholm branch author sfsa countri branch chapter swedish secur market sw lag dissemin sweden europ gsbe credit institut incorpor germani singl supervisori mechan direct prudenti supervis european central respect supervis german feder financi supervisori author bundesanstalt fur bafin deutsch bundesbank dissemin feder republ germani jurisdict european econom gsi authoris dissemin addit gsbe copenhagen branch filial gsbe tyskland supervis danish financi author dissemin denmark gsbe sucurs en espana madrid branch limit extent local supervis spain dissemin spain gsbe succursal italia milan branch relev applic extent local supervis itali banca italia italian compani exchang commiss commission nazional le societa borsa consob dissemin itali gsbe succursal pari pari branch supervis amf acpr dissemin franc gsbe sweden bankfili stockholm branch limit extent local supervis swedish financi supervisori author dissemin sweden disclosur client disclosur relat base current public reliabl repres accur complet reli opinion estim forecast contain hereof chang prior notif seek updat regul prevent industri report publish period basi major report publish irregular interv analyst judgment conduct global servic integr invest bank invest manag brokerag busi invest bank busi relationship substanti percentag compani cover global invest divis llc unit broker dealer sipc salesperson trader profession provid oral written market commentari trade strategi client princip trade desk reflect opinion contrari opinion express asset manag princip trade desk invest busi invest decis inconsist view express affili offic director employe time time short posit princip sell secur deriv refer prohibit regul polici view attribut parti present arrang confer includ individu reflect global invest offici view parti referenc includ salesperson trader profession household posit product mention inconsist view express analyst name report focus invest theme market industri sector attempt distinguish prospect perform provid analysi individu compani industri sector trade recommend relat equiti credit secur secur industri sector reflect invest theme discuss recommend secur isol offer sell solicit offer secur jurisdict offer solicit illeg constitut person recommend account invest object financi situat individu client client advic recommend suitabl circumst seek profession advic includ tax advic price invest refer incom fluctuat perform guid futur perform futur return guarante loss origin capit occur fluctuat exchang rate advers effect price incom deriv invest novemb global econom analyst,"['conflicts', 'european', 'policy', 'managing', 'conflicts', 'connection', 'investment', 'japan', 'japan', 'financial', 'instrument', 'dealer', 'registered', 'kanto', 'financial', 'bureau', 'registration', 'kinsho', 'japan', 'securities', 'dealers', 'association', 'financial', 'futures', 'association', 'japan', 'type', 'financial', 'instruments', 'firms', 'association', 'sales', 'purchase', 'equities', 'commission', 'pre', 'determined', 'clients', 'consumption', 'tax', 'company', 'specific', 'disclosures', 'applicable', 'disclosures', 'required', 'japanese', 'stock', 'exchanges', 'japanese', 'securities', 'dealers', 'association', 'japanese', 'securities', 'finance', 'company', 'global', 'product', 'distributing', 'entities', 'global', 'investment', 'division', 'produces', 'distributes', 'products', 'clients', 'global', 'basis', 'analysts', 'based', 'offices', 'produce', 'industries', 'companies', 'macroeconomics', 'currencies', 'commodities', 'portfolio', 'strategy', 'disseminated', 'australia', 'australia', 'pty', 'abn', 'brazil', 'brasil', 'corretora', 'titulos', 'valores', 'mobiliarios', 'public', 'communication', 'channel', 'brazil', 'weekdays', 'holidays', 'canal', 'comunicacao', 'publico', 'brasil', 'ou', 'horario', 'funcionamento', 'segunda', 'feira', 'sexta', 'feira', 'exceto', 'feriados', 'das', 'canada', 'llc', 'hong', 'kong', 'asia', 'india', 'india', 'securities', 'japan', 'japan', 'republic', 'korea', 'asia', 'seoul', 'branch', 'zealand', 'zealand', 'limited', 'russia', 'singapore', 'singapore', 'pte', 'company', 'united', 'america', 'llc', 'international', 'approved', 'connection', 'distribution', 'united', 'effective', 'united', 'departure', 'european', 'union', 'european', 'economic', 'brexit', 'day', 'respect', 'distributing', 'entities', 'apply', 'international', 'gsi', 'authorised', 'prudential', 'regulation', 'authority', 'pra', 'regulated', 'financial', 'conduct', 'authority', 'fca', 'pra', 'approved', 'connection', 'distribution', 'united', 'european', 'economic', 'gsi', 'authorised', 'pra', 'regulated', 'fca', 'pra', 'disseminates', 'jurisdictions', 'european', 'economic', 'grand', 'duchy', 'luxembourg', 'italy', 'belgium', 'denmark', 'norway', 'republic', 'finland', 'republic', 'cyprus', 'republic', 'ireland', 'succursale', 'paris', 'paris', 'branch', 'brexit', 'day', 'authorised', 'french', 'autorite', 'controle', 'prudentiel', 'resolution', 'acpr', 'regulated', 'autorite', 'controle', 'prudentiel', 'resolution', 'autorite', 'des', 'marches', 'financiers', 'amf', 'disseminates', 'france', 'gsi', 'sucursal', 'en', 'espana', 'madrid', 'branch', 'authorized', 'spain', 'comision', 'nacional', 'del', 'mercado', 'valores', 'disseminates', 'spain', 'gsi', 'sweden', 'bankfilial', 'stockholm', 'branch', 'authorized', 'sfsa', 'country', 'branch', 'chapter', 'swedish', 'securities', 'market', 'sw', 'lag', 'disseminates', 'sweden', 'europe', 'gsbe', 'credit', 'institution', 'incorporated', 'germany', 'single', 'supervisory', 'mechanism', 'direct', 'prudential', 'supervision', 'european', 'central', 'respects', 'supervised', 'german', 'federal', 'financial', 'supervisory', 'authority', 'bundesanstalt', 'fur', 'bafin', 'deutsche', 'bundesbank', 'disseminates', 'federal', 'republic', 'germany', 'jurisdictions', 'european', 'economic', 'gsi', 'authorised', 'disseminate', 'additionally', 'gsbe', 'copenhagen', 'branch', 'filial', 'gsbe', 'tyskland', 'supervised', 'danish', 'financial', 'authority', 'disseminates', 'denmark', 'gsbe', 'sucursal', 'en', 'espana', 'madrid', 'branch', 'limited', 'extent', 'local', 'supervision', 'spain', 'disseminates', 'spain', 'gsbe', 'succursale', 'italia', 'milan', 'branch', 'relevant', 'applicable', 'extent', 'local', 'supervision', 'italy', 'banca', 'italia', 'italian', 'companies', 'exchange', 'commission', 'commissione', 'nazionale', 'le', 'societa', 'borsa', 'consob', 'disseminates', 'italy', 'gsbe', 'succursale', 'paris', 'paris', 'branch', 'supervised', 'amf', 'acpr', 'disseminates', 'france', 'gsbe', 'sweden', 'bankfilial', 'stockholm', 'branch', 'limited', 'extent', 'local', 'supervision', 'swedish', 'financial', 'supervisory', 'authority', 'disseminates', 'sweden', 'disclosures', 'clients', 'disclosures', 'relating', 'based', 'current', 'public', 'reliable', 'represent', 'accurate', 'complete', 'relied', 'opinions', 'estimates', 'forecasts', 'contained', 'hereof', 'change', 'prior', 'notification', 'seek', 'update', 'regulations', 'prevent', 'industry', 'reports', 'published', 'periodic', 'basis', 'majority', 'reports', 'published', 'irregular', 'intervals', 'analyst', 'judgment', 'conducts', 'global', 'service', 'integrated', 'investment', 'banking', 'investment', 'management', 'brokerage', 'business', 'investment', 'banking', 'business', 'relationships', 'substantial', 'percentage', 'companies', 'covered', 'global', 'investment', 'division', 'llc', 'united', 'broker', 'dealer', 'sipc', 'salespeople', 'traders', 'professionals', 'provide', 'oral', 'written', 'market', 'commentary', 'trading', 'strategies', 'clients', 'principal', 'trading', 'desks', 'reflect', 'opinions', 'contrary', 'opinions', 'expressed', 'asset', 'management', 'principal', 'trading', 'desks', 'investing', 'businesses', 'investment', 'decisions', 'inconsistent', 'views', 'expressed', 'affiliates', 'officers', 'directors', 'employees', 'time', 'time', 'short', 'positions', 'principal', 'sell', 'securities', 'derivatives', 'referred', 'prohibited', 'regulation', 'policy', 'views', 'attributed', 'party', 'presenters', 'arranged', 'conferences', 'including', 'individuals', 'reflect', 'global', 'investment', 'official', 'view', 'party', 'referenced', 'including', 'salespeople', 'traders', 'professionals', 'household', 'positions', 'products', 'mentioned', 'inconsistent', 'views', 'expressed', 'analysts', 'named', 'report', 'focused', 'investment', 'themes', 'markets', 'industries', 'sectors', 'attempt', 'distinguish', 'prospects', 'performance', 'provide', 'analysis', 'individual', 'companies', 'industry', 'sector', 'trading', 'recommendation', 'relating', 'equity', 'credit', 'security', 'securities', 'industry', 'sector', 'reflective', 'investment', 'theme', 'discussed', 'recommendation', 'security', 'isolation', 'offer', 'sell', 'solicitation', 'offer', 'security', 'jurisdiction', 'offer', 'solicitation', 'illegal', 'constitute', 'personal', 'recommendation', 'account', 'investment', 'objectives', 'financial', 'situations', 'individual', 'clients', 'clients', 'advice', 'recommendation', 'suitable', 'circumstances', 'seek', 'professional', 'advice', 'including', 'tax', 'advice', 'price', 'investments', 'referred', 'income', 'fluctuate', 'performance', 'guide', 'future', 'performance', 'future', 'returns', 'guaranteed', 'loss', 'original', 'capital', 'occur', 'fluctuations', 'exchange', 'rates', 'adverse', 'effects', 'price', 'income', 'derived', 'investments', 'november', 'global', 'economics', 'analyst']",0.25152145589038793,16 11 2022,Goldman Sachs,global outlook,1
+16 11 2022_Goldman Sachs_global outlook,24,"Certain transactions, including those involving futures, options, and other derivatives, give rise to substantial risk and are not suitable for all investors. 
+Investors should review current options and futures disclosure documents which are available from Goldman Sachs sales representatives or at 
+https://www.theocc.com/about/publications/character-risks.jsp and 
+https://www.fiadocumentation.org/fia/regulatory-disclosures_1/fia-uniform-futures-and-options-on-futures-risk-disclosures-booklet-pdf-version-2018. 
+Transaction costs may be significant in option strategies calling for multiple purchase and sales of options such as spreads. Supporting documentation 
+will be supplied upon request.  
+Differing Levels of Service provided by Global Investment Research:
+ The level and types of services provided to you by the Global Investment 
+Research division of GS may vary as compared to that provided to internal and other external clients of GS, depending on various factors including your 
+individual preferences as to the frequency and manner of receiving communication, your risk profile and investment focus and perspective (e.g., 
+marketwide, sector specific, long term, short term), the size and scope of your overall client relationship with GS, and legal and regulatory constraints.  
+As an example, certain clients may request to receive notifications when research on specific securities is published, and certain clients may request 
+that specific data underlying analysts' fundamental analysis available on our internal client websites be delivered to them electronically through data 
+feeds or otherwise. No change to an analyst's fundamental research views (e.g., ratings, price targets, or material changes to earnings estimates for 
+equity securities), will be communicated to any client prior to inclusion of such information in a research report broadly disseminated through electronic 
+publication to our internal client websites or through other means, as necessary, to all clients who are entitled to receive such reports. 
+All research reports are disseminated and available to all clients simultaneously through electronic publication to our internal client websites. Not all 
+research content is redistributed to our clients or available to third-party aggregators, nor is Goldman Sachs responsible for the redistribution of our 
+research by third party aggregators. For research, models or other data related to one or more securities, markets or asset classes (including related 
+services) that may be available to you, please contact your GS representative or go to https://research.gs.com. 
+Disclosure information is also available at https://www.gs.com/research/hedge.html or from Research Compliance, 200 West Street, New York, NY 
+10282. 
+(c) 2022 Goldman Sachs.
+ 
+No part of this material may be (i) copied, photocopied or duplicated in any form by any means or (ii) redistributed without the prior written 
+consent of The Goldman Sachs Group, Inc. 
+ 
+16 November 2022
+  24
+Goldman Sachs
+Global Economics Analyst
+",transact includ involv futur option deriv rise substanti risk suitabl investor investor review current option futur disclosur document sale transact cost option strategi call multipl purchas sale option spread support document suppli request differ level servic global invest level type servic global invest divis vari compar intern extern client depend factor includ individu prefer frequenc manner receiv communic risk profil invest focus perspect marketwid sector specif term short term size scope client relationship legal regulatori constraint client request receiv notif specif secur publish client request specif under analyst fundament analysi intern client websit deliv electron feed chang analyst fundament view rate price target materi earn estim equiti secur communic client prior inclus report broad dissemin electron public intern client websit client entitl receiv report report dissemin client simultan electron public intern client websit content redistribut client parti aggreg respons redistribut parti aggreg model secur market asset class includ servic contact repres disclosur complianc west street york ny materi copi photocopi duplic form redistribut prior written consent novemb global econom analyst,"['transactions', 'including', 'involving', 'futures', 'options', 'derivatives', 'rise', 'substantial', 'risk', 'suitable', 'investors', 'investors', 'review', 'current', 'options', 'futures', 'disclosure', 'documents', 'sales', 'transaction', 'costs', 'option', 'strategies', 'calling', 'multiple', 'purchase', 'sales', 'options', 'spreads', 'supporting', 'documentation', 'supplied', 'request', 'differing', 'levels', 'service', 'global', 'investment', 'level', 'types', 'services', 'global', 'investment', 'division', 'vary', 'compared', 'internal', 'external', 'clients', 'depending', 'factors', 'including', 'individual', 'preferences', 'frequency', 'manner', 'receiving', 'communication', 'risk', 'profile', 'investment', 'focus', 'perspective', 'marketwide', 'sector', 'specific', 'term', 'short', 'term', 'size', 'scope', 'client', 'relationship', 'legal', 'regulatory', 'constraints', 'clients', 'request', 'receive', 'notifications', 'specific', 'securities', 'published', 'clients', 'request', 'specific', 'underlying', 'analysts', 'fundamental', 'analysis', 'internal', 'client', 'websites', 'delivered', 'electronically', 'feeds', 'change', 'analyst', 'fundamental', 'views', 'ratings', 'price', 'targets', 'material', 'earnings', 'estimates', 'equity', 'securities', 'communicated', 'client', 'prior', 'inclusion', 'report', 'broadly', 'disseminated', 'electronic', 'publication', 'internal', 'client', 'websites', 'clients', 'entitled', 'receive', 'reports', 'reports', 'disseminated', 'clients', 'simultaneously', 'electronic', 'publication', 'internal', 'client', 'websites', 'content', 'redistributed', 'clients', 'party', 'aggregators', 'responsible', 'redistribution', 'party', 'aggregators', 'models', 'securities', 'markets', 'asset', 'classes', 'including', 'services', 'contact', 'representative', 'disclosure', 'compliance', 'west', 'street', 'york', 'ny', 'material', 'copied', 'photocopied', 'duplicated', 'form', 'redistributed', 'prior', 'written', 'consent', 'november', 'global', 'economics', 'analyst']",0.3183610660173161,16 11 2022,Goldman Sachs,global outlook,1

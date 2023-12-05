@@ -1,0 +1,310 @@
+1 : CARDINAL
+july 29 2022 : DATE
+fed : ORG
+75bps : CARDINAL
+2 25 : DATE
+fed : ORG
+fed : ORG
+september : DATE
+fed : ORG
+year : DATE
+fed : ORG
+2 25 : CARDINAL
+just five months : DATE
+the second half of the year : DATE
+half : CARDINAL
+fed : ORG
+jerome powell : PERSON
+us : GPE
+treasury : ORG
+janet yellen : PERSON
+almost 400 : CARDINAL
+jobs month : DATE
+bloomberg fed : ORG
+july 22 2022 : DATE
+this week 75 : DATE
+year : DATE
+fed : ORG
+jerome powell : PERSON
+july 27 2022 : DATE
+0 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+july 22 2022 : DATE
+july 29 2022 : DATE
+2 : CARDINAL
+july 29 2022 : DATE
+july : DATE
+us : GPE
+europe : LOC
+german : NORP
+june 2020 : DATE
+us : GPE
+second consecutive quarter : DATE
+375 000 : CARDINAL
+the second quarter : DATE
+the first half of the year : DATE
+second quarter : DATE
+july 28 2022 : DATE
+july 2022 : DATE
+china : GPE
+june 2022 : DATE
+ccc bb : PERSON
+0 : CARDINAL
+10 20 : DATE
+2019 2020 : DATE
+2022 : DATE
+united states : GPE
+united kingdom euro area : ORG
+china : GPE
+50 : CARDINAL
+month earlier : DATE
+1 2 : CARDINAL
+1 4 : CARDINAL
+1 8 : CARDINAL
+2 0 : CARDINAL
+2 2 : CARDINAL
+2 4 : CARDINAL
+2 0 : CARDINAL
+2 5 : CARDINAL
+3 0 : CARDINAL
+3 5 : CARDINAL
+4 0 : CARDINAL
+4 5 : DATE
+20 : CARDINAL
+3 : CARDINAL
+july 29 2022 : DATE
+fed : ORG
+2 : CARDINAL
+july 2022 : DATE
+75bps : DATE
+june 2022 75bps : DATE
+2022 50bps : DATE
+march 2022 25bps : DATE
+monthly : DATE
+november 2021 : DATE
+early march : DATE
+june : DATE
+monthly : DATE
+95bn : ORDINAL
+60bn 35bn : DATE
+us treasury : ORG
+half : CARDINAL
+the first three months of runoff 30bn : DATE
+17 : CARDINAL
+37 : CARDINAL
+50bps : CARDINAL
+september : DATE
+25bps : CARDINAL
+0 : CARDINAL
+july 2022 50bps : DATE
+first : ORDINAL
+2011 : DATE
+july 1 2022 : DATE
+at least the end of 2024 : DATE
+july 21 : DATE
+65 : CARDINAL
+50bps : CARDINAL
+september : DATE
+two : CARDINAL
+25bps : CARDINAL
+october : DATE
+december : DATE
+dovish 
+boe bank : PERSON
+1 25 : CARDINAL
+june 2022 25bps : DATE
+2022 25bps march 2022 25bps : DATE
+february 2022 : DATE
+25bps 
+december 2021 15bps : DATE
+february 2022 : DATE
+30 : CARDINAL
+boe : ORG
+1 75 : CARDINAL
+september : DATE
+0 10 : CARDINAL
+january 2016 : DATE
+10 year : DATE
+jgb yield : PERSON
+0 : CARDINAL
+25bp : CARDINAL
+january 2021 : DATE
+etfs : ORG
+japanese : NORP
+12tn : ORDINAL
+180bn : GPE
+annual : DATE
+20tn : ORDINAL
+the end of march : DATE
+135 : CARDINAL
+2022 : DATE
+2023 : DATE
+4 : CARDINAL
+10 year : DATE
+july 29 2022 : DATE
+july 28 2022 : DATE
+july 28 : DATE
+2022 : DATE
+5 : CARDINAL
+goldman sachs asset management : ORG
+us : GPE
+united kingdom : GPE
+the united kingdom : GPE
+goldman sachs asset management : ORG
+the united kingdom : GPE
+european : NORP
+goldman sachs bank : ORG
+europe : LOC
+gsbe gsbe : PERSON
+germany : GPE
+the european union : ORG
+the european central bank : ORG
+german : NORP
+für : ORG
+deutsche bundesbank : ORG
+switzerland : GPE
+goldman sachs bank ag zürich any future contractual : ORG
+goldman sachs bank ag : ORG
+switzerland : GPE
+swiss : NORP
+asia pacific : LOC
+asia : LOC
+japan : GPE
+hong kong : GPE
+singapore : GPE
+malaysia : GPE
+hong kong : GPE
+goldman sachs asset : ORG
+hong kong : GPE
+singapore : GPE
+goldman sachs asset management singapore pte ltd company : ORG
+number 201329851h : DATE
+malaysia : GPE
+malaysia : GPE
+880767w : DATE
+australia pty ltd : ORG
+41 006 : CARDINAL
+099 : CARDINAL
+681 : CARDINAL
+228948 : DATE
+2001 : DATE
+australia : GPE
+2001 : DATE
+australia : GPE
+the corporations act 2001 : LAW
+2001 : DATE
+gsi : ORG
+the us securities and exchange commission : ORG
+australian : NORP
+gsi : ORG
+gsi : ORG
+the prudential regulation authority : ORG
+australian : NORP
+gsi gsami gsco : PERSON
+australian : NORP
+australia : GPE
+australian : NORP
+gsi gsami : PERSON
+australia : GPE
+03 1099 : DATE
+03 1100 : CARDINAL
+911a 2 : PERSON
+australian : NORP
+228948 : DATE
+6 : CARDINAL
+6d 2 : CARDINAL
+7 9 : DATE
+canada : GPE
+goldman sachs asset management : ORG
+canada : GPE
+manitoba : GPE
+manitoba : GPE
+japan : GPE
+japan : GPE
+article 2 : LAW
+31 : CARDINAL
+cambodia : GPE
+singapore pte ltd : ORG
+the securities and exchange commission : ORG
+cambodia : GPE
+singapore pte ltd : ORG
+vietnam : GPE
+singapore pte ltd : ORG
+vietnam : EVENT
+brazil : GPE
+brazil : GPE
+brazil : GPE
+brazilian : NORP
+brazil : GPE
+third : ORDINAL
+goldman sachs asset management : ORG
+colombian : NORP
+colombia : GPE
+colombian : NORP
+2555 : DATE
+2010 : DATE
+colombia : GPE
+colombian : NORP
+kuwait : GPE
+kuwait : GPE
+1990 : DATE
+kuwaiti government agency : ORG
+kuwait : GPE
+kuwait : GPE
+kuwait : GPE
+kuwait : GPE
+qatar : GPE
+qatar : GPE
+qatar : GPE
+qatar : GPE
+qatar : GPE
+saudi arabia : GPE
+saudi arabia : GPE
+gssa gssa : PERSON
+saudi arabia : GPE
+united aram : GPE
+the united arab : GPE
+south africa : GPE
+the financial services board of south africa : ORG
+colombia : GPE
+colombian : NORP
+1 : CARDINAL
+goldman sachs asset management : ORG
+2 : CARDINAL
+7 : CARDINAL
+el propósito el efecto de iniciar : GPE
+adquisición de un : PERSON
+financieros : DATE
+del mercado de valores : PERSON
+dicha oferta promoción se : PERSON
+2555 : DATE
+2010 : DATE
+de promoción de : PERSON
+al recibir : ORG
+decida contactara goldman sachs asset : ORG
+colombia : GPE
+promoción publicidad : PERSON
+los residentes colombianos : ORG
+1 : CARDINAL
+la recepción de esta : PERSON
+servicios de goldman sachs asset : ORG
+2 : CARDINAL
+recibiendoningunaoferta : GPE
+financieros : PERSON
+del mercado de : PERSON
+utilizadapara cualquierpropósito : PERSON
+los productos de goldman sachs asset management la contrataciónde : ORG
+del destinatariode : PERSON
+european : NORP
+european : NORP
+fed : ORG
+european : NORP
+central bank ecb bank of england boe bank : ORG
+japan : GPE
+2022 : DATE
+285876 : CARDINAL
+07 2022 1641660 : DATE
+1646425 : DATE

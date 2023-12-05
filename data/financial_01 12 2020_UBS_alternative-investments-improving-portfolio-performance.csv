@@ -1,0 +1,2965 @@
+file_name,page_num,subjectivity_score,date,bank,title,topic,text,tokens,clean_text
+01 12 2020_UBS_alternative-investments-improving-portfolio-performance,1,0.55,01 12 2020,UBS,alternative-investments-improving-portfolio-performance,0,"For marketing purposes
+For professional / qualified / 
+institutional clients and investors only
+December 2020
+Alternative 
+Investments
+Improving portfolio performance
+ | UBS Asset Management
+Louis D. Finney
+, Co-Head of Strategic Asset Allocation Modeling
+Michele Gambera
+, Co-Head of Strategic Asset Allocation Modeling
+ 2
+ 3
+Table of contents
+Page
+1
+Introduction
+4
+1.1
+Who invests in alternatives
+1.2
+Market size
+1.3
+Historic risk and return: Alternatives and traditional asset classes
+1.4
+The liquidity risk premium and appraised versus economic risk
+2
+Real Estate
+11
+2.1
+Real estate performance
+3
+Private Equity
+14
+3.1
+Cash flows and the J-curve
+3.2
+Performance
+3.3
+Private credit
+3.4
+Natural resources, energy and timber/farmland
+4
+Infrastructure
+21
+4.1
+Cash flow characteristics of infrastructure funds
+4.2
+Performance
+5
+Hedge Funds
+23
+5.1
+Hedge fund performance
+6
+Commodities
+25
+6.1
+Gold
+6.2
+Commodities and gold as inflation hedges
+6.3
+Summary
+7
+Integration with traditional asset classes
+28
+7.1
+Formulating return and risk expectations
+7.2
+Managing cash flows
+7.3
+Implementation and practical issues
+8
+Summary
+31
+9
+References
+32
+ 4
+1. Introduction
+"" How are investors adjusting their allocation to alternatives, 
+and what are the results? In this paper we will look at 
+the size and variety of alternative investment categories, 
+expected returns and risk, and how investors can 
+incorporate them into their portfolios.""
+The last 30 years have seen a steady growth and acceptance 
+of alternative asset classes in institutional portfolios as 
+investors seek diversified sources of income and return. These 
+asset classes are sometimes called illiquid or private asset 
+classes because one important characteristic is that they are 
+not publicly listed in markets or no active dealer market exists. 
+Past success of these asset classes, continuous innovation, 
+and the ongoing low interest rate environment are the main 
+drivers of this growth.
+One way to divide the alternative universe is into private 
+capital investments and other strategic investments. Within 
+private capital there are real estate, private equity, private 
+debt, and infrastructure and natural resource investments. 
+The two strategic investment categories that we consider are 
+hedge funds and commodities.
+The largest sectors of the alternatives world are private equity, 
+real estate and hedge funds with private debt gradually 
+getting more attention and fund flows. 
+One characteristic of alternatives is that these assets classes 
+are far more difficult to implement. Except for commodities, 
+there are no low-cost index funds. They require higher levels 
+of oversight and management than those offered in the public 
+markets. Additionally, due to the closed-end nature of many 
+of the investments, continuous search costs are necessary, 
+thus requiring either sophisticated staffs to build and maintain 
+these portfolios or high out-sourcing costs. Hedge funds 
+require a high degree of active management both at the fund 
+level and the total portfolio level.
+How are investors adjusting their allocation to alternatives, 
+and what are the results? In this paper we will look at the size 
+and variety of alternative investment categories, expected 
+returns and risk, and how investors can incorporate them into 
+their portfolios.
+There are many ways to classify alternatives. Like the public 
+markets, there are equity funds and debt funds, but what 
+really distinguishes them from the public markets is their 
+liquidity, which ranges from illiquid investments requiring a 
+years-long commitment to markets with near daily liquidity.
+Exhibit 1: The alternative assets universe
+Illiquid
+Growth
+Debt
+Other
+Mostly closed-end funds with few if any transactions at NAV.
+Performance measures: IRRs, DPIs, PMEs.
+Analytic tools:  Cash flow models with contributions and 
+distributions.
+ - Traditional private equity 
+Venture capital, buyout, 
+growth
+ - Infrastructure
+ - Real estate 
+Opportunistic, value-added
+ - Distressed
+ - Private credit/direct 
+lending
+ - Mezzanine
+ - Mortgage
+ - Infrastructure
+ - Some hedge funds
+Semi-liquid
+Growth
+Debt
+Other
+Mostly open-end funds with some transactions at NAV. 
+Quarterly liquidity available, queues possible.
+Preformance measures: TWRR from appraised NAVs.
+Analytic tools: Mean variance somewhat helpful.
+ - Core real estate
+ - Mortgage
+ - Leveraged loans
+ - Most hedge funds
+Very liquid
+Growth
+Debt
+Other
+Market pricing, near daily liquidity.
+Performance measures: TWRR on market transactions.
+Analytic tools: Mean variance very helpful.
+ - Commodities
+ - Liquid hedge fund 
+strategies
+ 5
+Because of illiquidity, many of these asset classes don't have 
+actual transactions to assess short term performance. Instead, 
+they rely on net-asset-values (NAVs) based on appraisals, 
+which can distort short run performance. For long term 
+performance, these asset classes rely on cash flows with 
+the traditional measure being the internal-rate-of-return 
+(IRR). Other measures such as the Public Market Equivalent 
+(PME) are gaining attention. Right now, it is still very difficult 
+to obtain good measures of risk in these asset classes to 
+compare to traditional asset classes.
+Another feature of alternatives is the almost exclusive reliance 
+on active management. Commodities are the only alternative 
+asset class that can run systematic or passive strategies at low 
+cost. This adds on an additional layer of risk in these asset 
+classes: manager performance.
+By and large, the historic performance of alternatives has been 
+in line with expectations with return and risk profiles that 
+can help investors build better portfolios. Going forward, we 
+expect more muted returns, in part due to the current market 
+conditions that we see in the public markets (low interest 
+rates and potentially stretched valuations in equities), but also 
+because of the enormous amounts of capital that has flown 
+into these sectors.
+1.1. Who invests in alternatives?
+At the institutional level, we see four groups of major 
+investors into alternatives: large public funds, endowments, 
+growth-oriented sovereign wealth funds and family offices.
+The most aggressive users are US university endowments, 
+some with allocations as high as 60%. Yale University started 
+this trend in the 1980s and is now over 75% invested in 
+alternatives. It is the norm to see 40% to 60% allocations 
+to alternatives in large endowments. Global family offices 
+allocated an average 37% to a variety of alternatives 
+according to a recent survey
+1
+. Mega funds like large public 
+pension plans and sovereign wealth funds typically allocate 
+15% to 25% to alternatives and are considering increasing 
+their alternatives allocation.
+Private (corporate) defined benefit pension plans in the US are 
+smaller players in alternatives as they are gradually adopting 
+liability-driven investing. In the defined contribution market, 
+historically US plans have been negligible players, but recent 
+regulation encourages some innovation. Superannuation 
+funds in Australia have been more receptive to alternatives, 
+but still have very small allocations. In aggregate, the 
+insurance market is huge, so even small allocations of 1% 
+means they are significant players, but they tend to focus on 
+real estate and debt funds and shy away from private equity 
+and hedge funds. Statutory reserve requirements in the 
+insurance industry make meaningful allocations to alternatives 
+problematic for general accounts. 
+Exhibit 2: Alternatives allocations by sample investors
+Type
+Public pension plans
+Sovereign wealth fund
+University endowment
+Global family office
+Entity
+CalPERS
+GIC (Singapore)
+Yale University
+121 surveyed
+Size (in billions USD)
+355.8
+>100
+30
+1.6 (average)
+Date
+March 2020
+March 2020
+June 2019
+May 2020
+Allocation (%)
+ 
+ 
+ 
+ 
+Equities
+49
+30
+17
+29
+Fixed income & Cash
+31
+50
+7
+30
+Other
+-
+- 
+- 
+6
+Alternatives
+ 
+ 
+ 
+ 
+Private equity
+8
+13
+38
+16
+Infrastructure
+-
+-
+-
+-
+Real estate/real assets
+13
+7
+10
+14
+Natural resources
+-
+-
+6
+-
+Hedge funds
+-
+-
+23
+5
+Commodities
+-
+-
+-
+-
+Alternatives as % of portfolio
+20
+20
+77
+35
+1 The Global Family Office Report 2020, UBS Global Wealth Management, July 2020.
+ 6
+1.2. Market size 
+We look at several measures when we estimate the size 
+and opportunity set of the alternative market. We have to 
+combine various types of data often with different dates and 
+some of which will overlap with the public markets (hedge 
+funds, for example), and others which are based on fund 
+level data, not security level data (which can also overlap with 
+market measures).  Thus, getting an estimate of the size of the 
+alternative universe is not easy.
+First, we look at the public equity and fixed income markets. 
+As of June 2020, we estimate the size of the public equity 
+market at USD 53 trillion and the fixed income market at 
+USD62.9 trillion, which gives a total of about USD116 trillion 
+of public assets of debt and equity. Additionally, for December 
+2019 we have estimates of USD9.55 trillion of direct real 
+estate assets and about USD3.0 trillion held in gold. To this 
+opportunity set, we can add the closed-end funds of private 
+assets (private equity, private debt, infrastructure and natural 
+resources) of about USD4.8 trillion.
+Thus, we define the Base Market as the sum of the public 
+assets, direct real estate and closed-end funds, which is 
+approximately USD134 trillion.
+We now add in hedge funds, and open-end real estate 
+and commodity funds. But hedge funds are generally 
+using existing public assets and real estate funds consist 
+of existing real estate investments; thus, we are technically 
+double counting the opportunity set when we include them. 
+Commodity funds, which we estimate to be about USD250 
+billion are another nuance to deal with.
+Exhibit 3: The opportunity set for institutional investors (in USD billions)
+Base 
+market
+Additional 
+strategies
+Dry 
+powder
+ 
+1
+% of base 
+market
+ 
+2
+Public Equities
+3
+52,956
+-
+-
+39.5%
+Public fixed income
+4
+63,929
+-
+-
+47.6%
+Private Real Estate
+5
+9,553
+-
+-
+7.1%
+Hedge funds
+6
+-
+3,177
+-
+2.4%
+Commodities
+7
+-
+250
+-
+0.2%
+Gold
+8
+3,000
+-
+-
+2.2%
+Closed-End Funds
+1
+Private Equity
+3,202
+1,534
+2.4%
+Infrastructure
+420
+223
+0.3%
+Private debt
+576
+269
+0.4%
+Natural resources 
+557
+256
+0.4%
+Real estate 
+-
+704
+364
+0.5%
+Total
+9
+134,193
+4,131
+2,646
+103.1%
+Total alternatives
+Private Real Estate
+-
+-
+9,553
+-
+Hedge Funds
+-
+-
+3,177
+-
+Commodities
+-
+-
+250
+-
+Gold
+-
+-
+3,000
+-
+Private Equity
+-
+-
+3,202
+-
+Infrastructure
+-
+-
+420
+-
+Private Debt
+-
+-
+576
+-
+Natural Resources
+-
+-
+557
+-
+Total
+-
+-
+20,735
+15.5%
+1  Preqin data, Dec 2019
+2   Percentage of Base Market or Additional 
+Strategies to Total of Base Markets
+3  FTSE World, June 2020
+4  Bloomberg Barclays Multiverse June 2020
+5  MSCI IPS data December 2019
+6  HFRI June 2020
+7  UBS AM estimate
+8  World Gold Council, Jan 2020
+9   Due to additional funds and overlaps, 
+total will be be greater than 100%
+ 7
+Still we can compare the total size of the alternative 
+marketplace of by adding in the Base Market alternatives with 
+the hedge funds and commodity funds, and real estate funds.
+In aggregate we estimate the size of the alternative market for 
+institutional investors to be about USD20.7 trillion or about 
+15.5% of the Base Market. Other measures of market size are 
+fundraising and committed cash that has not been called (aka 
+- dry powder). There is a huge amount of dry powder in this 
+segment - USD2.6 trillion. 
+Another measure of the market is the amount of fund raising. 
+As shown in Exhibit 4, fundraising is highly cyclical, rising 
+rapidly in bull markets and dropping in the aftermath of bear 
+markets.
+Traditionally, the private credit markets consisted of 
+mezzanine, distressed debt and real estate mortgages. In 
+the last dozen years, the biggest growth in the private debt 
+market is in direct lending, driven by post-financial crisis bank 
+lending restrictions and attractive returns. It has gone from 
+years of below USD1 billion in fundraising in early 2000s to 
+years of USD25 billion (peak of USD59 billion in 2017).
+Exhibit 4: Fundraising by year
+0
+200
+400
+600
+800
+1000
+1200
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2020
+1
+2019
+2018
+Private Equity
+Fund Raising in USD billions
+Real Estate
+Private Debt
+Infrastructure
+Natural Resources
+1 Year to date as of 30 August 2020
+Source: Preqin
+ 8
+1.3  Historic risk and return: 
+Alternatives and traditional asset classes
+Exhibit 5 presents historical performance statistics of some 
+major traditional and alternative assets. These statistics convey 
+some of the important relationships in alternative investments. 
+* Private equity is expected to have a higher return than 
+public equities. The differential here is over 4% and volatility 
+reflects appraised value volatility, not economic risk of 
+illiquidity and leverage. This 4% premium is supported by 
+comparing median IRRs with 6-year rolling performance of 
+equity markets.
+* Unlevered property has a return and risk between stocks 
+and bonds.
+* Not shown, but as this sector leverages up (e.g., in 
+opportunistic funds), the returns and risks approach 
+equities.
+* A diversified portfolio of hedge funds has bond-like 
+volatility and bond-like return and a beta around 0.3 to the 
+equity market.
+* Commodities have equity-like volatility, returns around cash 
+and a low, but positive correlation with equities.
+However, we need to be careful how we interpret these 
+performance numbers. Estimating alternatives performance 
+is complicated by what is called 'stale pricing,' the slow 
+adjustment of appraised valuations embedded in the net asset 
+value (NAV). The result is that the volatility based on NAVs - 
+especially those that do not trade - is lower than what the 
+market (or economic) volatility would be based on market 
+transactions. There are also issues about survivor-bias and 
+selection-bias in the indices because fund managers are not 
+required to disclose their returns publicly.
+Exhibit 5: Summary statistics: 1Q 1994-1Q2020
+Private 
+Equity
+Real 
+Estate
+Hedge 
+Funds
+Comm- 
+odities
+T-Bills
+10-year 
+Treasury
+S&P 
+500
+Estimates based on quarterly returns
+Geometric Return
+13.7
+9.2
+4.3
+1.2
+2.3
+5.4
+8.9
+Arithmetic Return
+13.6
+8.9
+4.5
+2.7
+2.3
+5.6
+9.9
+Standard Deviation
+10.1
+4.1
+7.0
+16.7
+1.0
+8.2
+16.1
+Quarterly Serial Correlation
+0.35
+0.85
+0.19
+0.16
+0.98
+-0.01
+0.01
+Equity correlation
+0.77
+0.20
+0.72
+0.30
+0.03
+-0.48
+1.00
+Equity beta
+0.48
+0.05
+0.31
+0.31
+0.00
+-0.24
+1.00
+Skew
+-0.6
+-2.9
+-0.7
+-0.9
+0.3
+0.7
+-0.7
+Kurtosis
+2.4
+11.8
+3.2
+2.0
+-1.5
+0.7
+0.7
+Estimates based on annual returns
+Standard Deviation
+14.8
+7.5
+8.3
+18.0
+2.0
+7.2
+17.3
+Annual Serial Correlation
+0.20
+0.35
+-0.12
+-0.01
+0.85
+-0.21
+0.20
+Equity Correlation
+0.80
+0.28
+0.65
+0.29
+0.10
+-0.34
+1.00
+Equity Beta
+0.68
+0.13
+0.31
+0.29
+0.01
+-0.14
+1.00
+Skew
+-0.7
+-2.4
+-0.1
+-0.4
+0.3
+0.0
+-0.7
+Data 
+Private Equity
+Property
+Hedge Funds
+Commod
+T-Bills
+10-yr Treasury
+S&P 500
+Cambridge Associates US Private Equity
+NCREIF Property
+HFRI Fund of Funds Composite USD
+Bloomberg Commodity TR USD
+FTSE Treasury Bill 1 Mon USD
+BBgBarc US Trsy Bellwethers 10Y TR USD
+S&P 500 TR USD
+Source: Morningstar Direct. Analysis by UBS Asset Management. Data as of 30 June 2020.
+ 9
+To get a sense of how large this impact could be, we provide 
+two estimates of volatility and serial correlation for alternatives 
+over the last 26 years: one based on quarterly data and one 
+based on rolling annual estimates.
+Note that the serial correlations based on quarterly data are 
+quite high, especially for property. We believe this is a sign 
+of stale pricing. Cash has a different serial correlation issue 
+as central banks have large control over these yields and 
+subsequent returns. When we simply look at annual data, 
+serial correlation declines.
+Once we move to annual estimates, we have notable increases 
+in the volatility of private equity (from 10.1% to 14.8%), 
+unlevered property (4.1% to 7.5%) and hedge funds (7.0% to 
+8.3%). We believe annual estimates provide clearer insight, 
+but still don't reflect all the risks associated with alternatives.
+Additional items to consider are the equity correlation and 
+equity beta. When adjusted to the annual level, we see private 
+equity having an equity correlation rising from 0.77 to 0.80 
+and equity betas rise from 0.48 to 0.68.
+Real estate exhibits a similar pattern in relationship to equities, 
+though more muted. The quarterly data shows a lower 
+correlation than the annual data (0.20 compared to 0.28) and 
+equity beta increases from 0.05 to 0.13.
+These historic performance numbers give a good showing 
+of the relationship for returns, but not for risks. In particular, 
+because of the stale pricing problems, we believe that the 
+volatility of real estate and private equity underestimate the 
+true risks of these investments. We estimate an 'economic' 
+risk as opposed to NAV volatility. Hedge fund volatility 
+is a different issue, as the market is far more liquid and 
+competitive than the high growth era of the late 1990s and 
+early 2000s. 
+Exhibit 6: Return and risk: 1994-2020
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+0
+2
+4
+6
+8
+10
+12
+14
+16
+10-year Treasury
+Hedge Funds
+Real Estate
+Cash
+S&P500
+Commodities
+Standard deviation %
+Arithmetic return %
+Private Equity
+Data provided by Morningstar Direct
+Analysis by UBS Asset Management. As of 30 June 2020.
+ 10
+1.4.  The liquidity risk premium and appraised versus 
+economic risk
+Compensation for illiquidity is one of the rationales for 
+higher expected returns in alternative investments. From the 
+demand side, by giving up the option to sell at the investor's 
+convenience, the investor is meant to be rewarded with higher 
+cash flows. 
+However, demand for a premium must be supplied by some 
+economic mechanism and it is these economic risks that 
+we should be measuring and managing, not the appraised 
+ones. There are many mechanisms through which alternative 
+managers can create these transformations, especially when 
+aided by explicit rules limiting when pay-outs can occur 
+(thus, eliminating market pricing as well as panic selling by 
+investors). The most obvious way to model this transformation 
+mechanism is simple leverage in the equity or fixed income 
+markets without the constraint of margin management. Other 
+methods are to take on maturity mismatches or substitute 
+with higher levels of credit risk. A final mechanism may be 
+used of various option writing strategies that can produce 
+high Sharpe ratios in the short and intermediate run, but have 
+tremendous downside risk when tail-events happen.
+We believe that the economic measure of risk is most 
+important for investors. This economic risk will include 
+underlying exposures (leverage, credit) as well as the indirect 
+costs of illiquidity. 
+We also provide estimates of appraised volatility, as investors 
+will be interested in how volatile the reported funds and total 
+portfolio will be
+1
+.
+1  In fact, a few academics are skeptical of any real advantage of private assets and allege that the true appeal is the lower reported volatility. 
+See Ilmanen et. al. 2020.
+ 11
+2. Real estate
+Even though it has features of both equity and fixed income, 
+private real estate
+1
+ behaves differently than these asset 
+classes. It starts with the contractual nature of real estate, 
+which is always a tangible asset (physical ownership of land 
+or buildings), while corporate ownership can consist of non-
+tangible capital such as patents and software. This limits the 
+potential scalability of real estate compared to equities. 
+The historical experience of real estate in the US is quite good. 
+As Exhibit 6 shows, unlevered institutional real estate has had 
+equity like-returns over the long run. Volatility - admittedly 
+distorted by the appraisal process, but getting better - is quite 
+low. We don't expect such stellar performance going forward, 
+but even with lower returns and higher volatility, real estate 
+clearly deserves strong consideration in portfolios.
+One empirical advantage of real estate is its historically low 
+correlation with equities - around 0.2 to 0.3 - and it has at 
+times had its own distinct cycle. We can easily find periods 
+where equities behave quite differently, namely the real 
+estate bust of the 1980s and the tech bust of the early 2000s. 
+On the other hand, both real estate and equities had large 
+declines around the Global Financial Crisis (GFC).
+An additional feature of the private real estate market and its 
+vehicle structure is that it allows the use of leverage to improve 
+the return profile. This leverage would be difficult for individual 
+investors, but can be effectively implemented and managed by 
+professionals. As we move up in leverage, we see smaller fund 
+sizes and greater concentration in speculative ventures. 
+At the most basic level, all existing commercial property 
+could be available for purchase, but in practice, only part of 
+the market is actually investable by institutional investors. 
+When estimating the size of the real estate market, we 
+look at the market at two levels. The broadest measure is 
+basic property market as measured by the MSCI IPS data. In 
+practice, however, most institutional investors access the real 
+estate market through actively managed funds
+2
+. In turn, these 
+actively managed funds can be divided into two classes: open-
+ended (or evergreen) funds and close-ended funds, which 
+have a planned time horizon in which to return all assets to 
+investors.
+In practice, real estate is highly dependent on location and 
+property type and diversified portfolios focus on balancing 
+these bets. Typical property types are office, apartments, 
+retail, and industrial. Another distinct feature of real estate is 
+the different measures of valuation than equity. Real estate 
+focuses on capitalization rates, which is more similar to a yield 
+(or inverted P/E ratio) and price per square foot, for example. 
+Real estate's illiquid nature makes all buying and selling 
+a negotiated process. It reinforces the long-term view of 
+investing. Investors in the most liquid vehicles (core funds) 
+should expect that it may take several quarters to sell 
+properties and redeem the fund's holdings. Value-added 
+and opportunistic investors will have to go to the secondary 
+market to sell their shares.
+Exhibit 7: The real estate cycle is distinct from equities
+Cumulative returns
+Period
+Real
+Estate
+S&P500
+RE down, 
+equities up
+Sep 1990 - Jun 1993
+-11.3
+46.5
+RE up, 
+equities down
+Mar 2000 - Sep 2002
+21.6
+-43.8
+Both down
+Global financial crisis*
+-37.8
+-45.8
+* For equities this is measured from Sept 2007 to March 2009
+ 
+For real estate this is measued from June 2008 to Dec 2009
+ 
+Real estate: NCREIF ODCE Index
+Source: Morningstar Direct. Analysis by UBS Asset Management
+Exhibit 8:
+Size of the private real estate market
+Type
+Source
+Size in billions 
+Dec 2019
+Direct
+MSCI Global Annual Property Index
+NCREIF National Property Index
+9,553
+659
+Open-end
+NCREIF Open-End Diversified 
+Core Equity
+176.4
+Funds
+NCREIF Open-End Equity
+232.7
+Size of closed-end real estate market
+Leverage
+AUM 
+Dec 2019
+Dry Powder 
+Sep 2019
+Core/Core Plus Funds
+15%-25%
+118.1
+45.8
+Value-added funds
+25%-40%
+176.4
+176.4
+Opportunistic funds
+40%+
+232.7
+232.7
+Debt
+128.7
+60.8
+Other
+48.1
+24.3
+Total Closed End
+704.0
+540.0
+Source: Preqin
+1  We clarify that we are talking about private real estate as opposed to 
+public real estate expressed in the REIT market. REITs behave more like 
+a small cap value stock: they have equity-like volatility (around 17% to 
+19%) and are part of many equity indices. Separating out REITs as an 
+asset class raises a problem of potential double counting.
+2  Some investors do invest directly without funds. We don't have good 
+measures of the extent and size of this market. 
+ 12
+2.1. Real estate performance
+When we look at performance of the real estate market 
+we need to differentiate between the open-end and the 
+closed-end markets. The best estimate of the basic real estate 
+market in the US is the National Property Index (NPI), which 
+represents unlevered property as reported by institutional 
+investors. The performance of this unlevered property index is 
+quite good on a NAV basis (i.e. appraised value). The returns 
+since 1994 have been 9.2% with a standard deviation of 
+7.5%, as measured through annualized returns.
+When we move into the performance of open ended funds, 
+the Open Diversified Core Equity (ODCE) from NCREIF is most 
+common benchmark and performs in line with the NPI. In the 
+last few years the ODCE index has had a higher return than 
+the NPI. We note that in down markets for real estate, the 
+ODCE index has underperformed. 
+For the performance of the closed-end sector, we look at 
+the IRRs of three groups: 1) Core and Core Plus Funds, 2) 
+Value-Added Funds, and 3) Opportunistic Funds. With one 
+exception, the performance is in line with what we expect: 
+riskier funds have higher IRRs. However, at the highest level of 
+risk, the Opportunistic funds performs slightly below Value-
+Added funds. 
+Other observations about real estate performance:
+- ODCE: The effect of leverage is noticeable on the downside 
+and upside for the ODCE set of funds. In the latest bull 
+market (2010-2015), these funds provided a return 1.3% 
+above the unlevered benchmark net-of-fees. In the brief 
+down market (2004-2007), they underperformed by -3.9%. 
+- This is consistent with the negative skewness between the 
+indices. Note that the ODCE has a larger negative skewness 
+coefficient than the NPI. 
+- For closed-end funds, Core and Value-Added funds have 
+performed as expected, with both sectors doing quite well 
+at times. Opportunistic funds have struggled to keep up 
+with Value-added funds, but have beaten ODCE and Core 
+funds. The real outlier may be Value-Added funds with 
+strong performance in each time period.
+- The funds subsequent performance follows the market 
+performance by a one-year to 18-month lag. This makes sense 
+as closed-end funds are locked into the subsequent few years 
+of performance as capital gets called and redistributed. 
+Exhibit 9: Real estate median IRRs and performance
+Median IRR and subsequent 5-yr performance
+-5
+0
+5
+10
+15
+20
+25
+30
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+NPI
+ODCE
+CorePlus
+Value-added
+Opportunistic
+2014
+2013
+2012
+2017
+2016
+2015
+2011
+2010
+2009
+2008
+Median IRR, 5-yr annualized return
+Source: Morningstar direct and Preqin. Analysis by UBS Asset Management. 31 December 2016.
+ 13
+The historic data suggest:
+- Core managers should earn a premium over unlevered 
+real estate.
+- Value-Added and Opportunistic funds earn a further 
+premium, but is has been inconsistent.
+In a sense, private real estate trades off positive skewness for 
+steadier income and moderate capital appreciation that should 
+be more correlated with inflation.
+1
+ This is supported by statistics 
+in the performance in Exhibit 6 real estate has the most negative 
+skewness of any of the asset classes as well as the highest 
+kurtosis for both the quarterly and annual estimates. The 
+inflation correlation is slightly better than other asset classes. 
+In summary, we see that real estate offers a different return 
+profile than equities and bonds. Without leverage, they 
+offer steady income with modest price appreciation; thus, 
+capping upside moves, and leaving some significant downside 
+risk. More aggressive strategies offer returns that approach 
+equities, but with commensurate risk.
+Exhibit 10: 5-year estimates of performance
+Direct or Open-end
+Closed-end funds
+Period
+Series
+Direct NPI
+Core ODCE
+Core-Plus
+Value Added
+Opportunistic
+Full 15-years
+Average
+2
+8.9
+8.2
+10.3
+12.7
+11.9
+2001-2015
+Differcence over NPI
+-
+-0.7
+1.4
+3.7
+3.0
+Pre-GFC
+Average
+2
+4.1
+0.3
+7.6
+1.4
+1.7
+2005-2006
+Differcence over NPI
+-
+-3.9
+3.4
+-2.7
+-2.4
+Post-GFC
+Average
+2
+10.5
+11.8
+12.3
+16.0
+14.6
+2009-2015
+Differcence over NPI
+-
+1.3
+1.8
+5.5
+4.1
+2 For NPI and ODCE, the data are the average of the rolling 5-year returns starting at the beginning of the year and ending 5-years later.
+  
+ 
+For the closed end funds, they are the median IRR by vintage year from Preqin database.
+Source: Morningstar direct and Preqin.  Analysis by UBS Asset Management.
+Real estate performance:
+2001 - 2015
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Post Global Financial Crisis
+Pre Global Financial Crisis
+Full period
+Direct
+Average 5-yr perforamnce, Median IRRs
+Core
+Core-Plus
+Value-added
+Opportunistic
+Source: Morningstar direct and Preqin. Analysis by UBS Asset Management. 31 December 2016.
+1  However, the negative skewness could be a relic of the appraisal process. The data is very limited, but indices based purely on transactions don't show 
+the negative skewness (and of course have much higher volatility). It could be that in the appraisal process, gains are gradually written up over years, 
+while losses are written down over a matter of quarters. 
+ 14
+3. Private equity
+Given the track record shown in Exhibit 6, it is no surprise 
+that interest in private equity has boomed. Most private 
+equity investors are satisfied with their portfolios and we 
+expect slight increases in allocation by investors in the coming 
+decade.
+Private equity encompasses a large number of strategies and 
+niche markets. It can broadly be broken into three groups: 
+return-oriented strategies, debt strategies, and natural 
+resource strategies. Within return-oriented strategies, we 
+have the traditional buyout and venture cap funds with a new 
+category of growth funds. Within debt, we have distressed 
+debt, mezzanine and direct lending (private credit). Natural 
+resource funds include energy specific projects, timberland 
+and farmland and aim to provide better inflation protection.
+Buyout funds aim to buy poorly run public companies, take 
+them private, restructure them and then spin them off for 
+large profits. Historically, they have a controversial reputation 
+since the public targets often have entrenched management 
+or other stake-holders that resist change. Under private 
+ownership, management is relieved of public disclosure 
+requirements and can focus on restructuring the firm (both 
+on a capital and strategic plan basis). For leveraged buyouts, 
+the use of debt within their holdings further enhances the 
+potential return. More recently, the criticism has turned to 
+the excessive use of debt that leaves these firms vulnerable to 
+downturns.
+Venture capital investing looks to invest in completely new 
+firms and ideas with markets. The failure rate can be quite 
+high (well over 50%), but all it takes are a few 'home-runs' to 
+produce extraordinary returns.
+Many funds now focus on growth strategies. These strategies 
+provide additional financing, management and governance 
+assistance to propel an existing business onto the next stage. 
+Unlike buyout funds which sometimes has a confrontational 
+strategy with existing management of target companies, 
+growth strategies work with existing management. Growth 
+funds look for companies that are small and proven to be led 
+by talented entrepreneurs. They provide them with capital 
+and expertise to expand rapidly and secure larger market 
+share. Buyout funds typical involve significant management 
+changes and reorientation of business strategy. This growth 
+category is a mix of late-stage venture and limited buyout of 
+management. 
+Sometimes the credit vehicles of the private markets are 
+combined with the buy-out, growth and venture capital funds 
+in the definition of private equity. These credit niches of the 
+private equity market are:
+- Distressed investing. Distressed investing focuses on 
+purchasing debt of companies in or near default and 
+negotiating new structures. Given the low quality of the 
+debt held by these funds, we expect near equity return 
+from them, offset by high costs and delayed payoffs from 
+litigation and negotiation in the bankruptcy process 
+- Mezzanine financing. Mezzanine financing is junior debt 
+financing and should command a premium to compensate 
+for its lower status on the capital stack. They can include 
+warrants which add an equity-like upside option to the 
+returns. Thus, it is a sort of convertible bond, but applied to 
+private sector companies and outside some Securities and 
+Exchange Commission (SEC) registration.
+- Direct lending/private credit. Although it has always existed, 
+this sector boomed after the GFC as banks had to retreat in 
+lending that serviced smaller companies and family business 
+that urgently needed capital and were willing to pay higher 
+interest rates. It has now become a standard part of the 
+alternatives universe with explicit allocation targets at the 
+sub-asset class level by some large institutional investors.
+Finally, another subsector of the broad private asset class is 
+natural resources: Investments dedicated to specific segments 
+of energy, timber and farmland. Many investors have carved 
+out a 'Real Asset' or 'Inflation-protection' category in their 
+SAA and this type of natural resource fund can be a major 
+component.
+1
+3.1. Cash flows and the J-curve
+One of the unique features of private equity investing and 
+closed-end funds is the cash flow nature of the investment. 
+This has important implications in building and maintaining 
+allocations to private capital.
+When general partners launch a fund, they target a size and 
+market niche and begin fund raising. The fund-raising cycle is 
+finding investors (limited partners) to make current and future 
+cash flows. These limited partners make a commitment to the 
+fund and sign agreements about investing money into the 
+fund. Over time, these commitments are called (capital calls) 
+1 This real asset category would also include real estate, inflation-indexed bonds and commodities. 
+ 15
+as needed by the general partners and typically are done over 
+a three-year cycle, though in many cases the remaining calls 
+can take many years to be finished.
+For example a USD100 million fund with a 10-year life span. 
+Initially, limited partners put in 10.5% or USD10.5 million 
+into the fund. Over subsequent years the remaining USD89.5 
+million is put in with the vast majority done by the fourth year. 
+Payouts don't occur until year 2 (USD4 million), but increase 
+rapidly with the success of the fund and peak in year 6 at 
+USD33 million. 
+If we look at a graph of cash flows and net cash flows, we can 
+see the J-curve, which refers to the net cash flows in the first 
+five years. This is one of the features of private asset investing: 
+negative cash flows in the initial years with little to no positive 
+returns and a rapid reversal into positive cash flows if successful. 
+It means that funds cannot be evaluated in the first few years. 
+We use six years as the standard for evaluating private equity 
+(which is about how long it takes to build a mature portfolio).
+These net cash flows determine the internal rate of return 
+(IRR). In this case, the cash flows provide an 11.6% internal 
+rate of return. The total distributions are USD146 million, 
+which based on USD100 million of contributions, produces a 
+Distribution-to-Paid-In (DPI) ratio of 1.46.
+Typically, the contributions are done within three to four years, 
+though in some cases the final few percent of calls can take 
+much longer and are netted against distributions. The typical 
+'cash-weighted time of contributions' is about 2.5 years. Most 
+funds extend their life beyond 10-years. (The ideal case is a 
+10-year payout partnership with a one-year wind down of final 
+assets.) A few funds have lasted 20 years or more.
+Performance is greatly affected by the year the fund started 
+- the vintage year. This shouldn't be surprising as the 
+performance of public equities is also dependent on the time 
+period selected. One of the efforts in private investing is to 
+manage vintage year diversification. Unlike public markets, 
+where one can invest in an open-ended or evergreen vehicle, 
+private assets require constant recycling of assets and impose 
+high research and oversight costs.
+At the fund level, there are several measures of fund 
+performance. The most cited number is the 
+Internal-rate-of-return (IRR). The IRR is cash flow weighted 
+return and is calculated differently than the standard time-
+weighted rate of return used for public assets. There can be a 
+large discrepancy of gross IRR and net IRR due to fees.
+Other measures that investors focus on are distributions to 
+paid-in (DPI). This is simply the ratio of cumulative distributions 
+to cumulative capital committed (which does not consider 
+compounding of interest). A similar metric is the Net Multiple, 
+which adjusts for fees. Finally, there is the private market 
+equivalent (PME). The PME simply compares the performance 
+of the cash flows if they had been invested in the public 
+market instead of the particular partnership of portfolio of 
+partnerships. The result is a ratio of added (or detracted) value 
+compared to the market.
+Cash flows: The J-curve
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+3
+4
+5
+6
+7
+8
+9
+11
+10
+2
+1
+Contributions
+0
+Cash fow in millions USD
+Net cash
+Distributions
+Source: Preqin. Analysis by UBS Asset Management. 30 June 2020.
+Exhibit 11: Cash flows in millions USD
+Year
+Contributions
+Distributions
+Net cash flow
+0
+-10.5
+0.00
+-10.50
+1
+-16.5
+0.00
+-16.50
+2
+-23.5
+4.00
+-19.50
+3
+-27.5
+7.00
+-20.50
+4
+-18.5
+17.00
+-1.50
+5
+-3.5
+32.00
+28.50
+6
+0.0
+33.00
+33.00
+7
+0.0
+27.00
+27.00
+8
+0.0
+20.00
+20.00
+9
+0.0
+4.00
+4.00
+10
+0.0
+2.00
+2.00
+11
+0.0
+0.01
+0.01
+Key metrics
+IRR
+11.6%
+DPI
+1.46
+Source: Preqin. Analysis by UBS Asset Management. 30 June 2020.
+ 16
+3.2. Performance
+Historic performance bears out the higher return for private 
+equity over public equities. As this simple comparison of IRRs 
+by vintage years and subsequent six-year performance of the 
+S&P 500 shows, the median private equity fund outperformed 
+the public equity market by 5.5% per year. The strongest 
+period was the late 1990s during the tech boom with an 
+8.2% outperformance, but the mid-2000s also had strong 
+performance relative to the S&P 500. 
+However, after 2007 the performance has been lower and the 
+vintage 2008 year particularly struggled. When we take the 
+average premium of the last 10 years of data with six years 
+of history, we get an average premium of 2.1% - near the 
+2.0% premium that is the rule-of-thumb when thinking about 
+private equity.
+Exhibit 12a: Median net IRRs of private equity funds and subsequent 6-yr S&P 500 returns
+-5
+0
+5
+10
+15
+20
+25
+30
+2001
+1999
+1997
+1995
+1993
+1991
+1989
+Median
+S&P
+2015
+2013
+2011
+2017
+2009
+2007
+2005
+2003
+Internal Rate-of-Return (%)
+Source: Preqin. Analysis by UBS Asset Management. 31 December 2019.
+Exhibit 12b: Premium of IRRs of private equity funds and subsequent 6-yr S&P 500 returns
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+2001
+1999
+1997
+1995
+1993
+1991
+1989
+Average premium since 1989: 5.5%
+Average premium since 2004: 2.1%
+2015
+2013
+2011
+2017
+2009
+2007
+2005
+2003
+Internal Rate-of-Return (%)
+Source: Preqin. Analysis by UBS Asset Management. 31 December 2019.
+ 17
+Another feature of private equity is a huge disparity of 
+performance, much larger than seen in traditional public 
+equity portfolios. Exhibit 13 shows the wide range between 
+the 75th and 25th percentile IRRs by vintage year, a spread 
+which averaged 17.5%.  
+Like the equity market, timing is important. Early 1990s funds 
+that jumped into internet and tech stocks have the highest 
+returns. However, 1999 and 2000 vintages did poorly as 
+they invested into a declining and consolidating market. The 
+illiquid nature of private equity makes timing the market 
+near impossible, as capital calls can force investors to invest 
+in funds with shaky prospects once commitments are made 
+unless they want to risk their opportunity to invest in the 
+future. 
+Although we see private equity doing better than the public 
+markets, we don't have any good comparable risk measures 
+between the two asset classes, so risk-adjusted performance 
+is very hard to assess.
+Exhibit 13: Net IRRs of private equity funds
+-10
+0
+10
+20
+30
+40
+50
+2001
+1999
+1997
+1995
+1993
+1991
+1989
+Median
+75%
+2015
+2013
+2011
+2017
+2009
+2007
+2005
+2003
+Internal Rate-of-Return (%)
+25%
+Source: Preqin. 31 December 2017.
+ 18
+3.3. Private credit
+There have always been credit aspects to the private equity 
+space: mezzanine financing and distressed debt, but a 
+different niche has emerged in the last 12 years: direct 
+lending. According to the Preqin database, direct lending 
+funds in 2006 totaled around USD1.0 billion and rose to 
+USD59.8 billion by 2017. 
+When banking regulation after the GFC tightened up capital 
+requirements, this left a market gap and non-bank pools 
+have capital have stepped in. These tend to focus more 
+on niche markets such as smaller, family-owned or single 
+entrepreneur enterprises that have become stretched due 
+to tax issues, mismatches of assets and liabilities, and other 
+unique circumstances. The other hallmark of these funds is 
+immediacy. These borrowers typically have enough assets, but 
+need a large amount of cash to refinance, make tax payments, 
+and settle family splits or similar large cash outflows. Because 
+of the immediacy needs and potential risks, private credit 
+funds can charge very high interest rates and generate equity-
+like returns at times.
+Exhibit 14a: Private debt median IRRs and US high yield yield-to-worst by vintage year
+0
+5
+10
+15
+20
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+IRR Median
+US High Yield yield-to-worst 
+2015
+2018
+2013
+2011
+2017
+2010
+2014
+2012
+2019
+2009
+2008
+2016
+2007
+Median IRR, Yield-to-worst
+Source: Preqin, Bloomberg Barclays. 31 December 2019.
+Exhibit 14b: Premium of median IRR over high yield yield-to-worst by vintage year
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+Average premium: 0.7%
+Premium by vintage year
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+2015
+2018
+2013
+2011
+2017
+2010
+2014
+2012
+2019
+2009
+2008
+2016
+2007
+Source: Preqin, Bloomberg Barclays. 31 December 2019.
+ 19
+We find that the performance of private debt funds is similar 
+to high yield. When we chart the vintage year IRRs of private 
+debt funds we see that they track the beginning of the year 
+yield-to-worst of the high yield market (with no default rates 
+added, which normally depress returns by 200 basis points 
+or so). With default rates added, we expect the actual return 
+of high yield to be lower, so private debt does have a higher 
+return than high yield due to better collateral.
+As can be seen in Exhibit 14, the premium of median private 
+debt IRRs compared to the yield-to-worst has averaged 0.7% 
+over this time period. Although steady in the last few years, we 
+note that the periods of substantial underperformance coincide 
+with years of turmoil for the high-yield market (2008, 2003).
+3.4. Natural resources, energy and timber/farmland
+Several major investors have carved out specific allocations 
+to natural resource-related projects: oil & gas development, 
+renewable alternatives, pipelines, timber and farmland. This 
+carve-out is often a significant part of a 'Real Asset' category, 
+which is expected to do well in inflationary or commodity-
+driven markets. After fundraising and investment peaked in 
+2014 amid high oil prices, investment in this sector has declined 
+and the orientation is shifting. Energy and natural resource 
+plays like some other types of alternatives involve physical 
+assets, but unlike real estate, they seem to undergo larger and 
+more frequent cycles. 
+When we look at the performance of natural resource funds in 
+the Preqin database, we see outstanding performance in 2002 
+and 2003 vintages - no surprise as energy prices boomed and 
+peaked in mid-2008. However, since then the median IRRs have 
+been well below the aggregate group of private equity funds, 
+reflecting the downtrend in oil prices since their peak.
+Despite the performance gap, there is still considerable interest 
+in natural resource investing and recent fundraising has partially 
+recovered from its 2015 lows. We expect the natural resource 
+sector to continue to be a small component of the overall 
+alternative portfolios. 
+For convenience, we include timber and farmland investments 
+in this category, although they can clearly cross over into real 
+estate just as well. There was an investment boom in timber 
+the mid-2000s and several major institutional investors invested 
+significantly in this area. Unfortunately, it has performed poorly 
+and caused headaches for several prominent investors (see 
+Harvard articles). We expect a handful of dedicated efforts, but 
+nowhere near the interest seen in the 2000s.
+Exhibit 15: Median IRRs: Natural resources (energy) and private equity
+0
+5
+10
+15
+20
+25
+30
+35
+40
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+Natural Resources
+All Private Equity
+2015
+2014
+2013
+2017
+2016
+2012
+2011
+2010
+2009
+Median IRR
+Source: Preqin. 31 December 2017.
+ 20
+Exhibit 16: Return and Risk: June 1994-June 2020
+Year
+Timber
+Farmland
+S&P 500
+Annualized Quarterly Data
+Geometric Return
+7.2
+11.3
+9.8
+Arithmetic Return
+7.1
+11.0
+10.8
+Standard Deviation
+5.0
+6.2
+16.6
+Serial Correlation
+0.23
+0.01
+-0.04
+Equity correlation
+0.03
+0.11
+1.00
+Equity beta
+0.01
+0.04
+1.00
+Inflation Correlation
+-0.18
+-0.39
+0.07
+Annual Averages
+Arithmetic Return
+7.4
+11.6
+11.3
+Standard Deviation
+6.7
+7.0
+17.3
+Serial Correlation
+0.51
+0.66
+0.18
+Equity correlation
+0.24
+0.01
+1.0
+Equity beta
+0.10
+0.01
+1.0
+Inflation Correlation
+0.03
+0.34
+-0.20
+Timber 
+NCREIF Timberland
+Farmland 
+NCREIF Farmland
+S&P 500 
+S&P 500 TR USD
+Source:  Data from Morninstar Direct. 
+Analysis by UBS Asset Management. 30 June 2020.
+Exhibit 16: Return and Risk: Last 10-years through J
+Year
+Timber
+Farml
+Annualized Quarterly Data
+Geometric Return
+4.4
+Arithmetic Return
+4.4
+Standard Deviation
+3.0
+Serial Correlation
+0.18
+Equity correlation
+0.05
+Equity beta
+0.01
+Inflation Correlation
+-0.49
+-
+Annual Averages
+4.4
+Arithmetic Return
+3.8
+Standard Deviation
+0.54
+Serial Correlation
+0.26
+Equity correlation
+0.11
+Equity beta
+-0.48
+-
+Inflation Correlation
+0.03
+une 2020
+and
+S&P 500
+10.9
+14.0
+10.6
+14.4
+4.7
+14.8
+0.12
+-0.42
+0.22
+1.00
+0.07
+1.00
+0.49
+0.07
+11.1
+13.2
+5.3
+9.3
+0.75
+-0.20
+0.31
+1.0
+0.19
+1.0
+0.07
+0.26
+0.34
+-0.20
+As of December 2019, the NCREIF Timberland National 
+Property Index was based on USD23.2 billion of assets and the 
+NCREIF Farmland NPI was based on USD11.4 billion of assets. 
+Here are some summary statistics as it compares to real estate 
+and equities.
+First, the returns from timber are disappointing (the 10-year 
+return through June 2020 is just 4.4%). Second, as seen in 
+other analysis, the standard deviations from annual estimates 
+are higher than the quarterly estimates showing smoother 
+returns. Third, despite the limited quality of the data, the equity 
+correlation and beta coefficients indicate that these asset 
+classes may have some diversification potential. However, the 
+size of the market questions the ability to scale these sub-asset 
+classes. We expect them to remain niche sectors and only a 
+very small part of total portfolios.
+Finally, we find conflicting signals about relationship of 
+timberland and farmland to inflation. Using quarterly data, 
+we find a consistent negative correlation. However, when we 
+look at annual data, we find a modest positive correlation 
+(though reversed in the last 10 years). In contrast, real estate 
+as measured by the NCREIF Property Index shows a relatively 
+consistent positive correlation with inflation in both annual 
+and quarterly terms. For timberland and farmland, we are 
+inclined to believe the annual results that show a slight positive 
+correlation. We assume that the lagged appraisal process 
+distorts some of the relationships that only show up in longer 
+term estimates.
+ 21
+4. Infrastructure
+Infrastructure funds invest in large capital projects and often 
+have a 'public-private' perspective. Like private equity, these 
+projects have long time horizons, typically longer. But they 
+have aspects of real estate as well since they involve physical 
+(tangible) capital and should be more resilient in inflationary 
+environments.
+Infrastructure, like private equity, is a cash flow investment 
+strategy, but there are substantive differences in the type of 
+investment, payout period, and expected performance that 
+is distinguished from 'traditional' private equity. Moreover, 
+infrastructure is fundamentally different in they are always 
+physical, capital intensive projects, not software or services. 
+They have large up-front capital costs, longer but steadier 
+payout periods, and an element of government involvement 
+because of the public nature of the investment. In a sense, 
+they are a 'low beta' private equity investment.
+Consequently, infrastructure has a different profile than 
+private equities and real estate. 
+Types of projects that infrastructure funds invest in are:
+- Port construction, maintenance, and expansion
+- Airports 
+- Energy related: grids, power construction
+- Tollways
+Infrastructure first appeared in the early 2000s and has 
+become a standard part of private asset portfolios. In 
+addition, like real estate, the category has refined into sub-
+strategies of core, value-added and opportunistic investing 
+depending on the amount of leverage, riskiness of the 
+projects and concentration risk.
+4.1. Cash flow characteristics of infrastructure funds
+The three distinguishing characteristics of infrastructure funds 
+compared to standard private equity funds are the longer 
+duration, greater stability of cash flows, and lower expected 
+IRRs. Infrastructure funds have a longer expected time 
+horizon: 12 to 15 years versus 10 for private equity. 
+Here is a typical cash flow profile of an infrastructure fund.
+Exhibit 17: Cash flows: The J-curve
+-30
+-20
+-10
+0
+10
+20
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16
+2
+1
+Contributions
+0
+Cash fow in millions USD
+Net cash
+Distributions
+Source: UBS Asset Management. 30 June 2020.
+For this fund, we have an IRR of 8.1%. Although the 
+contribution period is similar to the private equity about (2.4 
+year average contribution period), the time weighted cash 
+flow payout is much larger (8.0 years versus 5.9 years). 
+ 22
+4.2. Performance
+We don't have a long history of infrastructure performance, 
+as the asset class started in the late 1990s and early 2000s 
+and the data is sparse for these early years. Contrary to 
+other private asset classes, there is no generally accepted 
+performance index for infrastructure (either equity or debt). By 
+the late 2000s, we get enough funds for reasonable analysis. 
+As seen in Exhibit 18, the median IRRs for infrastructure are 
+always below those of PE by an average of 3.8% and the 
+subsequent 6-year return of the S&P 500 (3.7% for the 2008-
+2013 time period). Despite the horrendous start in 2008 and 
+2009, the S&P 500 performs exceptionally well in this time 
+period. A more appropriate comparison might be with global 
+equities.
+Infrastructure offers a diversified set of cash flows for long 
+term investors and behaves differently than private equity. 
+We expect this asset class to continue to grow in size and 
+become more heterogeneous in offerings. Because of the 
+public/private nature of the investment, we expect returns to 
+be steadier with some downside protection for low leveraged 
+projects and similar caps on upside gains.
+Exhibit 18: Median IRRs: Private equity and infrastructure
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+Infrastructure
+Private Equity
+2017
+2016
+2015
+Median IRR
+S&P 6-year return
+Source: Preqin, Morningstar Direct. 31 December 2019.
+ 23
+5. Hedge Funds
+Strictly speaking hedge funds are not an asset class, but 
+a set of active strategies. They are applied in two ways: 
+1) strategically, as an asset class, and 2) as a source of 
+independent alpha that is embedded into other asset classes. 
+Either way, they can play a large enough role in portfolio 
+construction that they merit considerable attention. Most 
+aggregate statistics clearly indicate that the performance of 
+hedge funds is different from stocks and bonds. 
+Hedge funds encompass a wide variety of strategies. They can 
+be very concentrated with some funds holding a handful of 
+leveraged bets or they can involve high-trading strategies that 
+try to squeeze small margins in thousands of transactions a day. 
+Since we are focusing on strategic asset allocation, we look 
+at what portfolios of hedge funds produce, not individual 
+performance or performance of sub-sectors. This starts with 
+looking at the track record of broad indices and fund-of-fund 
+indices and extrapolating to what investors should expect. 
+Building a well-constructed portfolio amid the thousands of 
+hedge funds requires a lot of specific knowledge about the 
+opportunities and how the cycle over time. 
+5.1. Hedge fund performance
+The data show two distinct periods for hedge funds. The 
+growth phase was from the mid-1990s through the GFC. 
+Returns were excellent with outstanding Sharpe ratios 
+for whole groups of funds. The growth rates of assets in 
+management between 2000 and 2007 was 21%, but slipped 
+to 10% per year in the 2008 to 2017 level, peaking at around 
+USD3.2 trillion, a level that the industry has hovered around 
+since.
+Hedge fund performance over the last 25 years has two 
+distinct periods. The growth period from the early 1990s to 
+the GFC was very strong, as performance in some categories 
+exceeded equities, but with much lower volatility, producing 
+outstanding Sharpe ratios. However, after the GFC the 
+character of performance changed with much lower returns 
+and a decline in the Sharpe ratios. 
+In Exhibit 19, we present the performance of hedge funds 
+and focus on performance of broad indices and fund-of-fund 
+performance. Along with long term performance, we look at 
+the latest 10 years and well as performance prior to the GFC. 
+We still have to be careful about interpreting the performance 
+of hedge funds. While we consider the returns accurate over 
+the long time horizon, there are concerns about stale-pricing 
+distorting the NAVs and hence, the reported volatility over 
+time (though we do note that the serial correlations at the 
+quarterly level don't support these concerns). Additionally, 
+there are always issues about survivor bias and reporting bias 
+for fund based indices.
+1
+ In the Appendix, we provide data 
+about the performance of specific sub-sectors of the hedge 
+fund market as categorized by different index providers.
+1 See Getmansky, Lo and Makarov (2004) for a fuller discussion of serial correlation, survivor bias and reporting bias in these estimates
+ 24
+Exhibit 19: The performance of various broad hedge fund indices
+CISDM
+Hedge Fund Research Indexes (HFRI)
+Credit Suisse
+Equal-Wght
+Composite
+FoF
+Diversified
+FoF
+Composite
+Fund Wght
+Composite
+FoF
+Diversified
+FoF
+Conserv
+FoF
+Mkt Def
+FoF
+Strategic
+HF
+Index
+Cash
+10-yr
+Treas
+S&P
+500
+From March 1994
+to June 2020
+Geometric Return
+8.7
+5.5
+4.8
+7.3
+4.6
+4.5
+5.1
+5.2
+7.4
+2.3
+5.6
+9.8
+Arithmetic Return
+8.9
+5.5
+4.9
+7.5
+4.8
+4.6
+5.1
+5.6
+7.5
+2.2
+5.8
+10.8
+Standard Deviation
+8.9
+5.7
+7.1
+8.4
+7.1
+5.3
+5.2
+9.9
+7.6
+1.0
+8.0
+16.5
+Serial Correlation
+0.10
+0.16
+0.13
+0.07
+0.11
+0.26
+0.15
+0.09
+0.16
+0.98
+-0.03
+-0.05
+Equity Correlation
+0.81
+0.69
+0.72
+0.83
+0.70
+0.70
+0.20
+0.74
+0.70
+0.01
+-0.50
+1.00
+Equity Beta
+0.44
+0.24
+0.31
+0.42
+0.30
+0.22
+0.06
+0.45
+0.33
+0.00
+-0.24
+1.00
+Sharpe Ratio
+0.74
+0.57
+0.38
+0.63
+0.36
+0.44
+0.54
+0.34
+0.69
+0.00
+0.45
+0.52
+Last 10-years: June 
+2010 to June 2020
+Geometric Return
+4.7
+3.4
+2.8
+3.7
+2.9
+2.6
+0.7
+3.1
+3.8
+0.6
+4.5
+14.0
+Arithmetic Return
+4.9
+3.4
+2.9
+3.9
+3.0
+2.6
+0.8
+3.3
+3.9
+0.6
+4.7
+14.4
+Standard Deviation
+7.2
+4.1
+5.8
+7.1
+5.3
+4.2
+3.9
+7.8
+5.6
+0.4
+7.6
+14.8
+Serial Correlation
+-0.3
+-0.3
+-0.3
+-0.3
+-0.3
+-0.2
+-0.1
+-0.4
+-0.2
+0.9
+0.0
+-0.4
+Equity Correlation
+0.92
+0.83
+0.91
+0.94
+0.90
+0.89
+0.50
+0.90
+0.91
+-0.14
+-0.57
+1.00
+Equity Beta
+0.45
+0.23
+0.35
+0.45
+0.32
+0.26
+0.13
+0.47
+0.34
+0.00
+-0.29
+1.00
+Sharpe Ratio
+0.60
+0.70
+0.41
+0.48
+0.46
+0.49
+0.05
+0.36
+0.60
+0.00
+0.55
+0.93
+Pre-GFC: March 1994 
+to December 2007
+Geometric Return
+13.3
+8.8
+8.3
+11.7
+7.8
+7.8
+8.8
+9.2
+11.8
+3.8
+6.2
+11.0
+Arithmetic Return
+13.0
+8.7
+8.2
+11.6
+7.8
+7.6
+8.7
+9.5
+11.6
+3.8
+6.3
+11.8
+Standard Deviation
+8.4
+5.5
+6.6
+7.9
+7.0
+4.0
+5.3
+10.3
+7.3
+0.8
+7.3
+15.3
+Serial Correlation
+0.0
+0.1
+0.1
+0.0
+0.1
+0.3
+0.1
+0.1
+0.1
+1.0
+0.0
+-0.1
+Equity Correlation
+0.76
+0.61
+0.59
+0.79
+0.57
+0.54
+0.11
+0.64
+0.58
+0.07
+-0.36
+1.00
+Equity Beta
+0.42
+0.22
+0.25
+0.41
+0.26
+0.14
+0.04
+0.43
+0.28
+0.00
+-0.17
+1.00
+Sharpe Ratio
+1.10
+0.88
+0.68
+0.98
+0.58
+0.97
+0.92
+0.55
+1.06
+0.00
+0.35
+0.52
+CISDM Equal-Wght Composite 
+CISDM EW Hedge Fund USD
+CISDM FoF Diversified 
+CISDM Fund of Funds Diverfd USD
+HFRI FoF Composite 
+HFRI Fund of Funds Composite USD
+HFRI Fund Wght Composite 
+HFRI Fund Weighted Composite USD
+HFRI FoF Diversified 
+HFRI FOF Diversified USD
+HFRI FoF Conserv 
+HFRI FOF Conservative USD
+HFRI FoF Mkt Def 
+HFRI FOF Market Defensive USD
+HFRI FoF Strategic 
+HFRI FOF Strategic USD
+Crediti Suisse HF Index 
+Credit Suisse Hedge Fund USD
+Cash 
+FTSE Treasury Bill 1 Mon USD
+10-yr Treasury 
+BBgBarc US Trsy Bellwethers 10Y TR USD
+S&P 500 
+S&P 500 TR USD
+Source: Data provided by Morningstar Direct.  Analysis by UBS Asset Management.
+Observations:
+- Long run Sharpe ratios for hedge funds are in line with equities 
+and treasuries. Performance prior to the GFC was very strong 
+with ratios across the board better than equities and bonds. 
+In the last ten years, the ratios have been lower, especially 
+compared to stocks and bonds. Stocks and bonds had a stellar 
+decade in the 2010s, so the hurdle was quite high.
+- Returns have declined over time. High single digit returns 
+prior to the GFC or better are the norm prior to the GFC, but 
+low single digit returns in the last ten years. In excess returns 
+(i.e. returns over cash), the differences are much smaller. 
+- Volatility has declined over time. 
+- Correlation to equities and beta are higher post-GFC.
+When we look at hedge funds as an asset class, we believe 
+that well-diversified portfolios can achieve volatilities around 
+4% to 6% with equity betas around 0.25 to 0.3. The returns 
+will likely remain low which given the low yield environment 
+means net returns around 3.5% to 4.5%. Higher return 
+targets will require more concentrated portfolios and higher 
+risks. We would expect such strategies to have a higher 
+correlation with equities.
+We need to also acknowledge that hedge funds can also 
+be alpha diversifiers and can be combined with other asset 
+classes that exhibit low information ratios. Such approaches 
+lead to revision of alpha and tracking error estimates for these 
+portfolios. Skillful selection of such funds should improve 
+overall portfolio performance.
+ 25
+6. Commodities
+Dedicated commodity exposures for institutional investors 
+started in the late 1980s and early 1990s. The performance 
+of oil in the 1970s and early 1990s suggested both strong 
+inflation protection and a negative correlation with equities 
+and fixed income; thus, they could be very valuable in real 
+terms with outstanding diversification benefits. Additionally, 
+these high returns from back-tests made the asset class look 
+promising from a return perspective as well. With concerns 
+about 'running out of resources' future returns had a large 
+scarcity premium. 
+Unfortunately, in practice, commodity prices declined in 
+the 1990s and inflation ticked downward, disappointing 
+commodity investors. Rising oil and food prices in the mid-
+2000s revived interest, as did another mini-boom in the 
+early part of the 2010s. However, in hindsight, these look 
+like classic bubbles and the subsequent busts quickly wiped 
+out years of gains. We note that oil prices (oil is the largest 
+component of several indices) today are still over 50% below 
+their peaks reached in the summer of 2008. Of course, the 
+drop looks worse in real terms.
+Consequently, the performance of the long-only commodity 
+indices based on rolling-futures contracts has been more than 
+disappointing. Returns are negative in real terms. Volatility 
+is about what has been expected (near equities), and have 
+a positive correlation with equities. This last fact greatly 
+weakens the case for a strategic allocation to commodities. In 
+the active space with commodity trading advisors (CTAs), the 
+returns have been underwhelming as well.
+Various efforts at rationalizing a premium for long-only 
+commodities investors have been put forward: imbalances 
+between hedging by suppliers and users of commodities, 
+insurance premiums inherent in the market, ever growing 
+scarcity in commodities, etc. The skeptical view of 
+commodities has questioned any premium (spot commodity 
+prices have been decreasing in real terms for hundreds of 
+years). Moreover, to access this asset class, investors must 
+manage a portfolio of futures or swap contracts and their roll 
+over time. Investing through such contracts means that there 
+are three components to returns:
+- Collateral return: The return on Treasury bills for the period. 
+Index performance assumes 100% collateralization.
+1
+ 
+- Price return: The return from the spot price at maturity 
+versus the contracted forward price at the commencement 
+of the contract.
+- Roll return: The return from converting from a maturing 
+contract and rolling into a new contract. Erb and Campbell 
+(2015) categorize this as part of the 'income' return for 
+commodities. Rownenhoorst and Gorton propose that the 
+return from roll yields declined after the 1990s.
+Thus, actual returns can at times be quite different from 
+movements in spot prices and are sensitive to supply and 
+demand for hedging and speculation. At the end of a 
+contract, futures prices must be reconciled against spot prices, 
+and therefore physical demand and supply of commodities 
+matter. While short term firms have rather inelastic demand 
+because, for example, if they have a natural gas-powered 
+plant, they will not need any other fuel but natural gas. Over 
+the longer run, as the plant becomes obsolete, it will be 
+replaced by whatever energy source is relatively cheaper. So 
+in the medium and long term, competitive pressures will push 
+energy and other commodity prices down.
+1  In practice, managers invest only 10% or so in collateral and invest the remainder in higher yielding instruments. Thus, they are overlaying the 
+exposure with some duration and credit risk. 
+ 26
+Exhibit 20: Commodity and gold returns: 1991 to June 2020
+0
+100
+200
+300
+400
+500
+2004
+2002
+Oil and Commodities
+peak in 2008
+Gold at peaks
+seen in 2011
+2000
+1998
+1996
+1994
+1992
+Bloomberg Commodity TR USD
+Gold
+2010
+2008
+2006
+2016
+2014
+2012
+2020
+2018
+Value: Dec 1991=100
+Source: Bloomberg. 30 June 2020.
+We model commodities starting with cash returns because 
+the pricing of financial futures contracts involves Treasury bill 
+yields. The relationship between spot and future prices are not 
+stable and are based on storage costs and perishability factors 
+interacting with interest rates and supply and demand factors.
+As Exhibit 20 shows, commodity prices peaked in mid-2008 
+and crashed precipitously into 2009. Investors in the two most 
+prominent indices (the Bloomberg Commodity Index and 
+the S&P Commodity Index) have not recovered to their 2008 
+peaks. Gold, however, kept rising in the post GFC era and hit 
+a peak in 2010 before plummeting in 2012. Gold has had a 
+recent rally, piquing some renewed interest in the asset class.  
+Investors approach the commodities market in two ways: 
+through passive funds that match an established index 
+or through active trading with CTAs (Commodity Trading 
+Advisors). We estimate the investment in commodities 
+by institutional investors is very small relative to the 
+overall market. ETFs and mutual funds in the US are only 
+USD10 billion, collective investment trusts as measured 
+by Morningstar are about USD6.4 billion, and the Preqin 
+database has another USD61 billion in CTA funds. Outside the 
+US this is a more attractive asset class, so add in dedicated 
+allocations by non-US investors and this is probably no more 
+than USD250 billion. When compared to the USD110 trillion 
+that UBS measures for total investable assets, this is probably 
+between 0.2% and 0.3% of the market. 
+Exhibit 21: Commodity and traditional returns
+Year
+S&P GSCI
+Commodity
+Bloomberg
+Commodity
+Gold
+Cash 1 Mo 
+T-Bills
+10-yr
+Treasury
+S&P
+500
+US CPI
+Inflation
+Since 1991
+Geometric Return
+-1.3
+1.1
+5.3
+2.4
+6.0
+10.1
+1.5
+Arithmetic Return
+1.0
+2.2
+6.3
+2.4
+6.1
+10.8
+2.1
+Standard Deviation
+21.3
+14.5
+15.3
+0.6
+7.0
+14.4
+1.3
+Equity correlation
+0.29
+0.33
+-0.02
+0.02
+-0.18
+1.00
+0.03
+Inflation Correlation
+0.35
+0.26
+0.04
+0.15
+-0.22
+0.03
+1.00
+Last 10 Years 
+(June 2010 through June 2020)
+Geometric Return
+-8.5
+-5.8
+3.6
+0.6
+4.5
+14.0
+1.7
+Arithmetic Return
+-6.5
+-5.0
+4.8
+0.6
+4.6
+14.1
+1.7
+Standard Deviation
+21.3
+14.1
+16.0
+0.2
+6.4
+13.4
+1.0
+Equity correlation
+0.55
+0.55
+0.08
+-0.10
+-0.45
+1.00
+0.02
+Inflation Correlation
+0.33
+0.22
+0.04
+0.05
+-0.11
+0.02
+1.00
+S&P GSCI 
+S&P GSCI TR USD
+Bloomberg 
+Bloomberg Commodity TR USD
+Gold 
+LBMA Gold Price AM USD
+Cash 
+FTSE Treasury Bill 1 Mon USD
+10-year Treasury 
+BBgBarc US Trsy Bellwethers 10Y TR USD
+S&P 500 
+S&P 500 TR USD
+Inflation 
+IA SBBI US Inflation
+Source: Morningstar Direct. Analysis by UBS Asset Management.
+ 27
+Exhibit 22: Gold and real yields: 2006-2020
+0
+500
+1000
+1500
+2000
+2500
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+Gold (lhs)
+Real yield (inverted) (lhs)
+2015
+2014
+2013
+2018
+2017
+2016
+2020
+2019
+Gold price - USD per ounce
+10-yr US TIPS Yield
+3.5
+2.5
+1.5
+0.5
+-0.5
+-1.5
+Source: Bloomberg. 30 September 2020.
+6.1. Gold
+Gold is one of the assets with the longest history and has 
+played an enormous role in finance. However, with the 
+constraints of gold-based currencies, national governments 
+have moved to fiat currencies and don't promise any support 
+in terms of gold.
+Gold clearly behaves differently from other commodities. As 
+the chart above shows, gold tracked the broad commodities 
+index into the global financial crisis, but diverted thereafter, 
+continuing upward and doubling in value afterwards while 
+commodities dropped.
+Some argue that gold is not a commodity, but a currency. 
+Some central banks do maintain positions in gold. The US 
+dollar was unpegged to gold in 1972. We think that central 
+bank purchases which are not always publicly announced have 
+a material effect on gold price dynamics.
+We do see a better case for gold over commodities in the 
+historic data: higher returns, lower volatility, and a near-zero 
+correlation with equities.
+6.2. Commodities and gold as inflation hedges
+One rationale for holding commodities and gold is that 
+they provide protection against inflation. The historic data 
+do indicate that commodities as reflected in the two major 
+indices are correlated with inflation as measured by the US 
+Consumer Price Index. 
+However, this is only a partial hedge. As services become a 
+larger part of the economy and manufacturing declines, we 
+would expect commodities to have a lower impact in overall 
+CPI. The correlation of commodities to inflation is rather 
+modest, ranging from around 0.1 to 0.4 depending on how it 
+is measured.
+Gold has demonstrated a mixed reaction to inflation. It 
+performs well both in increases of unexpected inflation and 
+large moves downward in inflation. 
+In sum, we agree that gold has its own cycle and idiosyncratic 
+elements to it. Should inflation break out above the current 
+level of expectations (2.0%) for developed economies, we 
+would expect gold to do well and offer some of the best 
+returns available in a rising inflation environment.
+6.3. Summary
+The recent performance of commodities has seriously dented 
+passive commodities' attractiveness as a strategic asset class 
+for institutional investors. Low inflation, the negative real 
+return and positive correlation with equities has been strong 
+headwinds for commodities. 
+The most compelling case for commodities is that global 
+growth kicks back to a higher gear and the supply chains 
+lag behind demand. Many of these commodities - like 
+natural resources and infrastructure - require a large capital 
+commitment and several years before extraction is done. A 
+rising cost-pressure inflation world could cause equities and 
+bonds slump in relative terms.
+Also, there is a case for commodities for some investors 
+from a holistic perspective. Countries that are resource-light 
+such Korea or Taiwan or companies that are sensitive to 
+commodities like transportation or steel may want to hold 
+some commodity exposure to reduce overall risk. An airline or 
+cruise line, for example, may want to add commodities in their 
+portfolio to hedge oil risk for the overall organization. 
+ 28
+7. Integration with traditional asset classes
+Ultimately, investors need to blend traditional and alternative 
+asset classes into a strategic asset allocation. The standard 
+tool for SAA work - mean-variance analysis - works well 
+with traditional assets, but runs into difficulties when applied 
+to cash flow oriented investments. For cash flow assets, we 
+must work with appraised assets with NAVs that don't reflect 
+any sort of market transactions. Thus, NAV based volatility 
+measures appear smoothed and underestimate actual 
+volatility. 
+Further compounding the issue, these cash flow asset classes 
+cannot be managed through market transactions, but through 
+commitment schedules that require the investor provide 
+the liquidity to the general partner. This means a lagged 
+adjustment to changing market events (which in turn is why 
+fundraising is so cyclical).
+Our approach is to develop two measures: appraised volatility 
+and economic risk. The economic risk reflects the underlying, 
+unsmoothed risk inherent in these investments. Investors 
+should be aware of both measures.
+7.1. Formulating return and risk expectations
+Since alternatives cover a wide array of investment opportunities 
+with different economic rationales, we need to use a wide array 
+of approaches to formulate prospective returns.
+To model real estate, we start with expected unlevered 
+property returns and then adjust for leverage. Basic property 
+has an income component and a price return component. 
+Historically, in the US the income component for the NPI 
+has been around 4% to 5%. With inflation around 2.0% 
+and a small real appreciation (after maintenance and capital 
+improvements) of 0.3%, we currently estimate that unlevered 
+property has a net return of 5.5%. When we adjust for fees, 
+alpha and leverage, we get returns that begin approach long 
+run equity returns: in the 6.2% range.
+Our approach to setting private equity assumptions uses a 
+multi-factor capital-asset pricing model type of approach 
+and assigns higher betas to the relative public equities 
+and additional idiosyncratic risk.
+1
+ When we include some 
+mezzanine financing and special situations, we estimate that 
+a private equity portfolio would have economic risks around 
+24% compared to our volatility of 15.0% to 16.0% for global 
+equity portfolios.
+As discussed in Section 3.3, our analysis finds that 
+private debt funds appear to track the high yield market. 
+Consequently, we model private debt related to the high yield 
+market with a spread of about 80 basis points relative to the 
+prevailing yield-to-worst. 
+Exhibit 23: Return and risk assumptions: USD Terms
+September 2020
+Asset Class
+5-yr
+Expected 
+Return
+Economic
+Risk
+Appraised
+Volatility
+USD Cash
+0.3%
+1.3%
+-
+Intermediate Global IG Fixed Income
+0.4%
+2.6%
+-
+Global Investment Grade Fixed Income
+0.0%
+5.5%
+-
+Global Equities Unhedged
+7.2%
+16.0%
+-
+Global High Yield Hedged
+3.0%
+10.5%
+-
+Global Private Equity Unhedged
+9.5%
+24.5%
+15.0%
+Global Infrastructure (Equity) Unhedged
+6.2%
+14.0%
+8.0%
+Global Core Real Estate Unhedged
+6.2%
+12.6%
+7.2%
+Hedge Funds (Hedged)
+4.0%
+4.3%
+-
+Note:  Expected returns are geometrc. We develop 5-year expected returns in the capital markets based on current market markets and our expectations 
+of inflation, growth and the path of interest rates. We then overlay our assessment of fair value and the reversion and how quickly the market will 
+react.  From here we extrapolate to the different sectors of the capital markets. Global Equity, Private Equity, Infrastructure, and Core Real Estate 
+are assumed to be unhedged. Cash, fixed income and hedge funds are assumed to be hedged.
+Source: UBS Asset Management. 30 September 2020.
+1  See Korteweg (2018) for a good summary of the academic literature. Researchers find that buy-out funds have betas relative to public markets ranging 
+from 1.0 to as high as 3.0. Venture capital funds have lower betas, but much higher idiosyncratic risk.
+ 29
+Like real estate, we view infrastructure as a hybrid of equity 
+and fixed income. The median IRR for infrastructure funds 
+by vintage year has been consistently below that of private 
+equity by an average of 3.9%. Consequently, one simple 
+approach is simply to discount the return to private equity by 
+an appropriate amount and set economic risk appropriate for 
+such risk-bearing. This gives us net returns around 6.2% - 
+similar to real estate, but with a different risk profile. 
+We rely on a combination of historic relationships and basic 
+heuristics to model hedge funds. As noted in the review of 
+historic performance, fund-of-fund composites of hedge 
+funds returns in the last 10-years have been about 2.5% to 
+3.8% above cash with equity betas around 0.30. 
+We believe that the prospect for hedge funds is encouraging. 
+With low interest rates and low credit spreads across the 
+world, the costs of borrowing are extremely low. This 
+leverages the alpha opportunity set for all sorts of hedge 
+funds - long-short, market neutral and macros funds - 
+and previously unprofitable trades now look attractive. 
+Additionally, the steeper yield curve offers all sorts of 
+opportunities in fixed income such as carry trades and roll 
+return. This low borrowing cost environment should last for a 
+few years, as central banks have indicated high thresholds for 
+any rise in short term rates.  
+Another boost for hedge funds may be greater dispersion of 
+returns, which will benefit strategies like equity long/short and 
+relative. Additional tailwinds are fits of volatility and regime 
+changes. These will allow trading-oriented macro managers 
+to exploit uncorrelated trades opportunities.  It is synchronous 
+moves in markets and within markets that don't allow hedge 
+fund managers to apply their winners versus losers investment 
+approach.
+Finally, after moving sideways for a few years and a decline in 
+the number of hedge funds, the industry is starting to regain 
+momentum. We see positive cash flows as investors rebalance 
+from the high equity returns and low government bond yields. 
+Alternative investments that offer steady income or steady 
+NAVs increases will be very attractive.  
+Commodities are a hard asset class to model. We have no 
+demand-side or supply-side model to lean on as a starting 
+point. Our only piece of financial theory is that since these are 
+futures contracts, the contracts will price in the opportunity 
+cost of fully collateralized positions; thus, we expect a cash 
+return plus a highly idiosyncratic element.
+Investors are ultimately interested in net-of-fee performance 
+and we need to assess both the fees and expected alpha 
+from alternative investments. Because of the research costs 
+and expertise needed to implement alternative portfolios, 
+the management fees are extremely high compared to what 
+is seen in public assets classes. The 2 and 20 model remains 
+the norm in private equity. Investors have pushed back on the 
+some of the GP friendly terms in the contracts, so the implicit 
+costs are not as large as they used to be, but the top line 2 
+and 20 is still the prevalent form of investing.
+When we apply some representative allocations to the types 
+of funds in Exhibit 2, we see that even in economic terms, the 
+Sharpe ratios are substantially better than the standard 60% 
+global equities/40% global investment grade income. The 
+appraised volatility is lower, as anticipated. The lower volatility 
+for the very aggressive university endowment is substantial: 
+from 14.1% to 9.9%.
+As can be seen, the appraised volatilities of real estate, private 
+equity, and infrastructure make them highly attractive relative 
+to public asset classes. Instead by projecting economic risk we 
+move these asset classes more in line with the overall return 
+and risk trade-off we expect in the capital markets.
+Exhibit 24: Prospective 5-year Performance in USD Terms
+September 2020
+Public
+Pension
+Plan
+Sovereign
+Wealth
+Fund
+University
+Endowment
+Global
+Family
+Office
+Standard
+60/40
+5-yr Expected Geometric Return
+5.3%
+4.7%
+7.2%
+5.3%
+4.5%
+Economic Risk
+11.3%
+10.0%
+14.1%
+10.3%
+10.5%
+Sharpe Ratio
+0.50
+0.49
+0.56
+0.54
+0.46
+Appraised Volatility
+10.0%
+8.6%
+9.9%
+8.3%
+10.5%
+Source: UBS Asset Management. 30 September 2020.
+ 30
+7.2. Managing cash flows
+Along with adjusting for volatility to assess the trade-offs in 
+return and risk, investors must grapple with the management 
+of the commitment schedule for the cash flow alternatives 
+(as well as gates and queues that occur with the semi-liquid 
+asset classes). This means understanding the relationship 
+between commitments and NAVs. If NAVs typically show 
+only small premiums over cumulative contributions (I.e. they 
+are marked at cost), we can use the projected contributions 
+to estimate the amount of commitments necessary to reach 
+target NAV levels. For example, in the cash flow figures given 
+in Exhibit 11, we estimate that investors should have uncalled 
+commitments around 55% of the targeted NAV the private 
+equity portfolio. Thus, if a plan has a target of USD100 million 
+in private equity, this plan should have about USD55 million of 
+uncalled commitments.
+7.3. Implementation and practical issues
+It is one thing to design a strategic asset allocation with 
+alternatives; it is another to implement them. They require 
+a larger staff than other asset classes and a quick decision-
+making structure. Co-commitment programs require yet more 
+additional staff.
+One element of staffing is legal review and monitoring of 
+terms. The private nature of most of alternative assets means 
+that there are few standard contractual terms. Issues are 
+constantly arising - allocation of expenses, incentive and 
+base-fee formulas, use of subscriptions lines of credit, and co-
+investment terms - that demand expert legal evaluation.
+Moreover, it requires a balance of process in governance, due 
+diligence with nimble decision-making, which can be difficult 
+when there are multiple stakeholders and public oversight. 
+Perhaps that is why the endowment community has been 
+so successful in implementing alternative portfolios: quick 
+decision-making structures with wide authority given to the 
+CIO to implement as attractive deals come along.
+Small investors have several disadvantages and must out-
+source some of the implementation and management. 
+Minimum sizes and large search costs make it difficulty in 
+achieving significant diversification not only cross-sectional, 
+but across vintage years as well. Thus, they have large 
+concentration risk as there is wide variation in results across 
+funds. 
+Investors often look at alternative investments searching 
+for an immediate bump in return; however, the j-curve for 
+many of the private capital assets means that the superior 
+returns are delayed for a few years (about 5 to 7 years) until a 
+portfolio matures and begins returning distributions. Investors 
+can accelerate this by going in the secondary market, but they 
+are also time-consuming, resource-intensive efforts which can 
+still take many months to compete.
+Another thorny problem in alternative investments is 
+benchmarking and assessing performance. The cash flow 
+nature of private equity, infrastructure and other closed-
+end funds means that it can several years to build mature 
+portfolios and move to target allocations. Proper assessment 
+of performance is very dependent on adjusting for vintage 
+year performance and even then, this is compounded by the 
+lag in data reporting and the fact that it can take five to ten 
+years to assess whether a fund was a success. Hedge funds 
+are another area with huge benchmarking concerns. Often 
+investors sent a simple benchmark related to cash rates (T-Bills 
++ 4%, for example) with volatility and correlation targets. 
+Small investors are at a disadvantage in implementing 
+alternative investments. First, they cannot afford the staff and 
+expertise necessary, but additionally, given the 'lumpy' nature 
+of the minimum investment size, it can be difficult to build 
+properly diversified portfolios.
+One area that we expect more innovation is in vehicle design 
+that will allow these smaller investors - and potentially even 
+retail investors - access to these markets. 
+ 31
+8. Summary
+The alternatives market has evolved over the last 30 years 
+and has gained wide acceptance with investors. What was 
+once obscure and mysterious, it now standard for many 
+institutional investors. We now have enough experience to 
+understand how they perform and react in different market 
+environments.
+The primary rationale for alternatives is their ability to improve 
+the risk/reward relationship for investors - certainly on an 
+appraised basis, but on an economic basis as well. Going 
+forward, we believe that returns will be lower than their 
+historic averages - but this is generally true of the public 
+markets as well, particularly fixed income. The diversification 
+benefit will remain and we continue to see more evolution 
+and innovation in the marketplace.
+One big caveat for many investors is implementation. 
+Alternatives require higher levels of oversight and 
+management than those offered in the public markets. The 
+search and due diligence costs are high due to the closed-
+end and/or private nature of many of the investments. These 
+portfolios require sophisticated staffs to build and maintain 
+these portfolios, or high out-sourcing costs.
+ 32
+9. References
+Erb, Claude B., Harvey, Campbell R., ""Conquering 
+Misconceptions about Commodity Futures Investing"", 
+Financial Analyst Journal
+, forthcoming. 
+Getmansky, Mila; Lo, Andrew W., and Makarov, Igor, 2004, 
+""An Econometric Model of Serial Correlation and Illiquidity in 
+Hedge Fund Returns:, 
+Journal of Financial Economics
+, Vol 73, 
+Issue 3, December, pp 529-609.
+Ilmanen, Antti; Chandra, Swati; and McQuinn, Nicholas, 
+""Demystifying Illiquid Assets: Expected Returns for Private 
+Equity"", 
+Journal of Alternative Investments
+, Winter 2020, 
+Volume 22, Issue 3.
+Korteweg, Arthur, 2018, ""Risk Adjustment in Private Equity 
+Returns"", Working paper, University of Southern California 
+Marshall School of Business.
+ 33
+","['marketing', 'professional', 'qualified', 'institutional', 'clients', 'investors', 'december', 'alternative', 'investments', 'improving', 'portfolio', 'performance', 'ubs', 'asset', 'management', 'louis', 'finney', 'head', 'strategic', 'asset', 'allocation', 'modeling', 'michele', 'gambera', 'head', 'strategic', 'asset', 'allocation', 'modeling', 'table', 'contents', 'introduction', 'invests', 'alternatives', 'market', 'size', 'historic', 'risk', 'return', 'alternatives', 'traditional', 'asset', 'classes', 'liquidity', 'risk', 'premium', 'appraised', 'economic', 'risk', 'real', 'estate', 'real', 'estate', 'performance', 'equity', 'cash', 'flows', 'curve', 'performance', 'credit', 'natural', 'resources', 'energy', 'timber', 'farmland', 'infrastructure', 'cash', 'flow', 'infrastructure', 'funds', 'performance', 'hedge', 'funds', 'hedge', 'fund', 'performance', 'commodities', 'gold', 'commodities', 'gold', 'inflation', 'hedges', 'summary', 'integration', 'traditional', 'asset', 'classes', 'formulating', 'return', 'risk', 'expectations', 'managing', 'cash', 'flows', 'implementation', 'practical', 'issues', 'summary', 'references', 'introduction', 'investors', 'adjusting', 'allocation', 'alternatives', 'paper', 'size', 'variety', 'alternative', 'investment', 'categories', 'expected', 'returns', 'risk', 'investors', 'incorporate', 'portfolios', 'steady', 'growth', 'acceptance', 'alternative', 'asset', 'classes', 'institutional', 'portfolios', 'investors', 'seek', 'diversified', 'sources', 'income', 'return', 'asset', 'classes', 'called', 'illiquid', 'asset', 'classes', 'characteristic', 'publicly', 'listed', 'markets', 'active', 'dealer', 'market', 'exists', 'success', 'asset', 'classes', 'continuous', 'innovation', 'ongoing', 'rate', 'environment', 'main', 'drivers', 'growth', 'divide', 'alternative', 'universe', 'capital', 'investments', 'strategic', 'investments', 'capital', 'real', 'estate', 'equity', 'debt', 'infrastructure', 'natural', 'resource', 'investments', 'strategic', 'investment', 'categories', 'hedge', 'funds', 'commodities', 'largest', 'sectors', 'alternatives', 'equity', 'real', 'estate', 'hedge', 'funds', 'debt', 'gradually', 'attention', 'fund', 'flows', 'characteristic', 'alternatives', 'assets', 'classes', 'difficult', 'implement', 'commodities', 'cost', 'funds', 'require', 'levels', 'oversight', 'management', 'offered', 'public', 'markets', 'additionally', 'closed', 'nature', 'investments', 'continuous', 'search', 'costs', 'requiring', 'sophisticated', 'staffs', 'build', 'maintain', 'portfolios', 'sourcing', 'costs', 'hedge', 'funds', 'require', 'degree', 'active', 'management', 'fund', 'level', 'total', 'portfolio', 'level', 'investors', 'adjusting', 'allocation', 'alternatives', 'paper', 'size', 'variety', 'alternative', 'investment', 'categories', 'expected', 'returns', 'risk', 'investors', 'incorporate', 'portfolios', 'classify', 'alternatives', 'public', 'markets', 'equity', 'funds', 'debt', 'funds', 'distinguishes', 'public', 'markets', 'liquidity', 'ranges', 'illiquid', 'investments', 'requiring', 'commitment', 'markets', 'daily', 'liquidity', 'exhibit', 'alternative', 'assets', 'universe', 'illiquid', 'growth', 'debt', 'closed', 'funds', 'transactions', 'nav', 'performance', 'measures', 'irrs', 'dpis', 'pmes', 'analytic', 'tools', 'cash', 'flow', 'models', 'contributions', 'distributions', 'traditional', 'equity', 'venture', 'capital', 'buyout', 'growth', 'infrastructure', 'real', 'estate', 'opportunistic', 'distressed', 'credit', 'direct', 'lending', 'mezzanine', 'mortgage', 'infrastructure', 'hedge', 'funds', 'semi', 'liquid', 'growth', 'debt', 'funds', 'transactions', 'nav', 'quarterly', 'liquidity', 'queues', 'preformance', 'measures', 'twrr', 'appraised', 'navs', 'analytic', 'tools', 'variance', 'helpful', 'core', 'real', 'estate', 'mortgage', 'leveraged', 'loans', 'hedge', 'funds', 'liquid', 'growth', 'debt', 'market', 'pricing', 'daily', 'liquidity', 'performance', 'measures', 'twrr', 'market', 'transactions', 'analytic', 'tools', 'variance', 'helpful', 'commodities', 'liquid', 'hedge', 'fund', 'strategies', 'illiquidity', 'asset', 'classes', 'actual', 'transactions', 'assess', 'short', 'term', 'performance', 'rely', 'asset', 'values', 'navs', 'based', 'appraisals', 'distort', 'short', 'performance', 'term', 'performance', 'asset', 'classes', 'rely', 'cash', 'flows', 'traditional', 'measure', 'internal', 'rate', 'return', 'irr', 'measures', 'public', 'market', 'equivalent', 'pme', 'gaining', 'attention', 'difficult', 'measures', 'risk', 'asset', 'classes', 'compare', 'traditional', 'asset', 'classes', 'feature', 'alternatives', 'exclusive', 'reliance', 'active', 'management', 'commodities', 'alternative', 'asset', 'class', 'systematic', 'passive', 'strategies', 'cost', 'adds', 'additional', 'layer', 'risk', 'asset', 'classes', 'manager', 'performance', 'historic', 'performance', 'alternatives', 'expectations', 'return', 'risk', 'profiles', 'investors', 'build', 'portfolios', 'expect', 'muted', 'returns', 'current', 'market', 'conditions', 'public', 'markets', 'rates', 'stretched', 'valuations', 'equities', 'enormous', 'amounts', 'capital', 'flown', 'sectors', 'invests', 'alternatives', 'institutional', 'level', 'major', 'investors', 'alternatives', 'public', 'funds', 'endowments', 'growth', 'oriented', 'sovereign', 'wealth', 'funds', 'family', 'offices', 'aggressive', 'users', 'university', 'endowments', 'allocations', 'yale', 'university', 'started', 'trend', 'invested', 'alternatives', 'norm', 'allocations', 'alternatives', 'endowments', 'global', 'family', 'offices', 'allocated', 'average', 'variety', 'alternatives', 'survey', 'mega', 'funds', 'public', 'pension', 'plans', 'sovereign', 'wealth', 'funds', 'typically', 'allocate', 'alternatives', 'increasing', 'alternatives', 'allocation', 'corporate', 'defined', 'benefit', 'pension', 'plans', 'players', 'alternatives', 'gradually', 'adopting', 'liability', 'driven', 'investing', 'defined', 'contribution', 'market', 'historically', 'plans', 'negligible', 'players', 'regulation', 'encourages', 'innovation', 'superannuation', 'funds', 'australia', 'receptive', 'alternatives', 'allocations', 'aggregate', 'insurance', 'market', 'huge', 'allocations', 'players', 'tend', 'focus', 'real', 'estate', 'debt', 'funds', 'shy', 'equity', 'hedge', 'funds', 'statutory', 'reserve', 'requirements', 'insurance', 'industry', 'meaningful', 'allocations', 'alternatives', 'problematic', 'accounts', 'exhibit', 'alternatives', 'allocations', 'sample', 'investors', 'type', 'public', 'pension', 'plans', 'sovereign', 'wealth', 'fund', 'university', 'endowment', 'global', 'family', 'office', 'entity', 'calpers', 'gic', 'singapore', 'yale', 'university', 'surveyed', 'size', 'billions', 'usd', 'average', 'march', 'march', 'june', 'allocation', 'equities', 'fixed', 'income', 'cash', 'alternatives', 'equity', 'infrastructure', 'real', 'estate', 'real', 'assets', 'natural', 'resources', 'hedge', 'funds', 'commodities', 'alternatives', 'portfolio', 'global', 'family', 'office', 'report', 'ubs', 'global', 'wealth', 'management', 'july', 'market', 'size', 'measures', 'estimate', 'size', 'opportunity', 'set', 'alternative', 'market', 'combine', 'types', 'dates', 'overlap', 'public', 'markets', 'hedge', 'funds', 'based', 'fund', 'level', 'security', 'level', 'overlap', 'market', 'measures', 'estimate', 'size', 'alternative', 'universe', 'easy', 'public', 'equity', 'fixed', 'income', 'markets', 'june', 'estimate', 'size', 'public', 'equity', 'market', 'usd', 'fixed', 'income', 'market', 'usd', 'total', 'usd', 'public', 'assets', 'debt', 'equity', 'additionally', 'december', 'estimates', 'usd', 'direct', 'real', 'estate', 'assets', 'usd', 'held', 'gold', 'opportunity', 'set', 'add', 'closed', 'funds', 'assets', 'equity', 'debt', 'infrastructure', 'natural', 'resources', 'usd', 'define', 'base', 'market', 'sum', 'public', 'assets', 'direct', 'real', 'estate', 'closed', 'funds', 'usd', 'add', 'hedge', 'funds', 'real', 'estate', 'commodity', 'funds', 'hedge', 'funds', 'existing', 'public', 'assets', 'real', 'estate', 'funds', 'consist', 'existing', 'real', 'estate', 'investments', 'technically', 'double', 'counting', 'opportunity', 'set', 'include', 'commodity', 'funds', 'estimate', 'usd', 'nuance', 'deal', 'exhibit', 'opportunity', 'set', 'institutional', 'investors', 'usd', 'billions', 'base', 'market', 'additional', 'strategies', 'dry', 'powder', 'base', 'market', 'public', 'equities', 'public', 'fixed', 'income', 'real', 'estate', 'hedge', 'funds', 'commodities', 'gold', 'closed', 'funds', 'equity', 'infrastructure', 'debt', 'natural', 'resources', 'real', 'estate', 'total', 'total', 'alternatives', 'real', 'estate', 'hedge', 'funds', 'commodities', 'gold', 'equity', 'infrastructure', 'debt', 'natural', 'resources', 'total', 'preqin', 'dec', 'percentage', 'base', 'market', 'additional', 'strategies', 'total', 'base', 'markets', 'ftse', 'june', 'bloomberg', 'barclays', 'multiverse', 'june', 'msci', 'ips', 'december', 'hfri', 'june', 'ubs', 'estimate', 'gold', 'council', 'jan', 'additional', 'funds', 'overlaps', 'total', 'compare', 'total', 'size', 'alternative', 'marketplace', 'adding', 'base', 'market', 'alternatives', 'hedge', 'funds', 'commodity', 'funds', 'real', 'estate', 'funds', 'aggregate', 'estimate', 'size', 'alternative', 'market', 'institutional', 'investors', 'usd', 'base', 'market', 'measures', 'market', 'size', 'fundraising', 'committed', 'cash', 'called', 'aka', 'dry', 'powder', 'huge', 'dry', 'powder', 'segment', 'usd', 'measure', 'market', 'fund', 'raising', 'exhibit', 'fundraising', 'highly', 'cyclical', 'rising', 'rapidly', 'bull', 'markets', 'dropping', 'aftermath', 'bear', 'markets', 'traditionally', 'credit', 'markets', 'consisted', 'mezzanine', 'distressed', 'debt', 'real', 'estate', 'mortgages', 'dozen', 'biggest', 'growth', 'debt', 'market', 'direct', 'lending', 'driven', 'post', 'financial', 'crisis', 'lending', 'restrictions', 'attractive', 'returns', 'usd', 'fundraising', 'usd', 'peak', 'usd', 'exhibit', 'fundraising', 'equity', 'fund', 'raising', 'usd', 'billions', 'real', 'estate', 'debt', 'infrastructure', 'natural', 'resources', 'august', 'preqin', 'historic', 'risk', 'return', 'alternatives', 'traditional', 'asset', 'classes', 'exhibit', 'historical', 'performance', 'statistics', 'major', 'traditional', 'alternative', 'assets', 'statistics', 'convey', 'relationships', 'alternative', 'investments', 'equity', 'expected', 'return', 'public', 'equities', 'differential', 'volatility', 'reflects', 'appraised', 'volatility', 'economic', 'risk', 'illiquidity', 'leverage', 'premium', 'supported', 'comparing', 'median', 'irrs', 'rolling', 'performance', 'equity', 'markets', 'unlevered', 'property', 'return', 'risk', 'stocks', 'bonds', 'sector', 'leverages', 'opportunistic', 'funds', 'returns', 'risks', 'approach', 'equities', 'diversified', 'portfolio', 'hedge', 'funds', 'bond', 'volatility', 'bond', 'return', 'beta', 'equity', 'market', 'commodities', 'equity', 'volatility', 'returns', 'cash', 'positive', 'correlation', 'equities', 'careful', 'interpret', 'performance', 'estimating', 'alternatives', 'performance', 'complicated', 'called', 'stale', 'pricing', 'slow', 'adjustment', 'appraised', 'valuations', 'embedded', 'asset', 'nav', 'result', 'volatility', 'based', 'navs', 'trade', 'market', 'economic', 'volatility', 'based', 'market', 'transactions', 'issues', 'survivor', 'bias', 'selection', 'bias', 'indices', 'fund', 'managers', 'required', 'disclose', 'returns', 'publicly', 'exhibit', 'summary', 'statistics', 'equity', 'real', 'estate', 'hedge', 'funds', 'comm', 'odities', 'bills', 'treasury', 'estimates', 'based', 'quarterly', 'returns', 'geometric', 'return', 'arithmetic', 'return', 'standard', 'deviation', 'quarterly', 'serial', 'correlation', 'equity', 'correlation', 'equity', 'beta', 'skew', 'kurtosis', 'estimates', 'based', 'annual', 'returns', 'standard', 'deviation', 'annual', 'serial', 'correlation', 'equity', 'correlation', 'equity', 'beta', 'skew', 'equity', 'property', 'hedge', 'funds', 'commod', 'bills', 'yr', 'treasury', 'cambridge', 'associates', 'equity', 'ncreif', 'property', 'hfri', 'fund', 'funds', 'composite', 'usd', 'bloomberg', 'commodity', 'usd', 'ftse', 'treasury', 'mon', 'usd', 'bbgbarc', 'trsy', 'bellwethers', 'usd', 'usd', 'morningstar', 'direct', 'analysis', 'ubs', 'asset', 'management', 'june', 'sense', 'impact', 'provide', 'estimates', 'volatility', 'serial', 'correlation', 'alternatives', 'based', 'quarterly', 'based', 'rolling', 'annual', 'estimates', 'note', 'serial', 'correlations', 'based', 'quarterly', 'property', 'sign', 'stale', 'pricing', 'cash', 'serial', 'correlation', 'issue', 'central', 'banks', 'control', 'yields', 'subsequent', 'returns', 'simply', 'annual', 'serial', 'correlation', 'declines', 'annual', 'estimates', 'notable', 'increases', 'volatility', 'equity', 'unlevered', 'property', 'hedge', 'funds', 'annual', 'estimates', 'provide', 'clearer', 'insight', 'reflect', 'risks', 'alternatives', 'additional', 'items', 'equity', 'correlation', 'equity', 'beta', 'adjusted', 'annual', 'level', 'equity', 'equity', 'correlation', 'rising', 'equity', 'betas', 'rise', 'real', 'estate', 'exhibits', 'pattern', 'relationship', 'equities', 'muted', 'quarterly', 'correlation', 'annual', 'compared', 'equity', 'beta', 'increases', 'historic', 'performance', 'relationship', 'returns', 'risks', 'stale', 'pricing', 'volatility', 'real', 'estate', 'equity', 'underestimate', 'true', 'risks', 'investments', 'estimate', 'economic', 'risk', 'opposed', 'nav', 'volatility', 'hedge', 'fund', 'volatility', 'issue', 'market', 'liquid', 'competitive', 'growth', 'era', 'late', 'exhibit', 'return', 'risk', 'treasury', 'hedge', 'funds', 'real', 'estate', 'cash', 'commodities', 'standard', 'deviation', 'arithmetic', 'return', 'equity', 'morningstar', 'direct', 'analysis', 'ubs', 'asset', 'management', 'june', 'liquidity', 'risk', 'premium', 'appraised', 'economic', 'risk', 'compensation', 'illiquidity', 'rationales', 'expected', 'returns', 'alternative', 'investments', 'demand', 'option', 'sell', 'investor', 'convenience', 'investor', 'meant', 'rewarded', 'cash', 'flows', 'demand', 'premium', 'supplied', 'economic', 'mechanism', 'economic', 'risks', 'measuring', 'managing', 'appraised', 'mechanisms', 'alternative', 'managers', 'create', 'aided', 'explicit', 'rules', 'limiting', 'pay', 'outs', 'occur', 'eliminating', 'market', 'pricing', 'panic', 'selling', 'investors', 'obvious', 'model', 'transformation', 'mechanism', 'simple', 'leverage', 'equity', 'fixed', 'income', 'markets', 'constraint', 'margin', 'management', 'methods', 'maturity', 'mismatches', 'substitute', 'levels', 'credit', 'risk', 'final', 'mechanism', 'option', 'writing', 'strategies', 'produce', 'sharpe', 'ratios', 'short', 'intermediate', 'tremendous', 'downside', 'risk', 'tail', 'events', 'happen', 'economic', 'measure', 'risk', 'investors', 'economic', 'risk', 'include', 'underlying', 'exposures', 'leverage', 'credit', 'indirect', 'costs', 'illiquidity', 'provide', 'estimates', 'appraised', 'volatility', 'investors', 'volatile', 'reported', 'funds', 'total', 'portfolio', 'academics', 'skeptical', 'real', 'advantage', 'assets', 'allege', 'true', 'appeal', 'reported', 'volatility', 'ilmanen', 'real', 'estate', 'features', 'equity', 'fixed', 'income', 'real', 'estate', 'behaves', 'asset', 'classes', 'starts', 'contractual', 'nature', 'real', 'estate', 'tangible', 'asset', 'physical', 'ownership', 'land', 'buildings', 'corporate', 'ownership', 'consist', 'tangible', 'capital', 'patents', 'software', 'limits', 'potential', 'scalability', 'real', 'estate', 'compared', 'equities', 'historical', 'experience', 'real', 'estate', 'exhibit', 'unlevered', 'institutional', 'real', 'estate', 'equity', 'returns', 'volatility', 'admittedly', 'distorted', 'appraisal', 'process', 'expect', 'stellar', 'performance', 'returns', 'volatility', 'real', 'estate', 'deserves', 'strong', 'consideration', 'portfolios', 'empirical', 'advantage', 'real', 'estate', 'historically', 'correlation', 'equities', 'times', 'distinct', 'cycle', 'easily', 'periods', 'equities', 'behave', 'real', 'estate', 'bust', 'tech', 'bust', 'hand', 'real', 'estate', 'equities', 'declines', 'global', 'financial', 'crisis', 'gfc', 'additional', 'feature', 'real', 'estate', 'market', 'vehicle', 'structure', 'leverage', 'improve', 'return', 'profile', 'leverage', 'difficult', 'individual', 'investors', 'effectively', 'implemented', 'managed', 'professionals', 'leverage', 'fund', 'sizes', 'concentration', 'speculative', 'ventures', 'basic', 'level', 'existing', 'commercial', 'property', 'purchase', 'practice', 'market', 'investable', 'institutional', 'investors', 'estimating', 'size', 'real', 'estate', 'market', 'market', 'levels', 'broadest', 'measure', 'basic', 'property', 'market', 'measured', 'msci', 'ips', 'practice', 'institutional', 'investors', 'access', 'real', 'estate', 'market', 'actively', 'managed', 'funds', 'actively', 'managed', 'funds', 'divided', 'classes', 'evergreen', 'funds', 'close', 'funds', 'planned', 'time', 'horizon', 'return', 'assets', 'investors', 'practice', 'real', 'estate', 'highly', 'dependent', 'location', 'property', 'type', 'diversified', 'portfolios', 'focus', 'balancing', 'bets', 'typical', 'property', 'types', 'office', 'apartments', 'retail', 'industrial', 'distinct', 'feature', 'real', 'estate', 'measures', 'valuation', 'equity', 'real', 'estate', 'focuses', 'capitalization', 'rates', 'yield', 'inverted', 'ratio', 'price', 'square', 'foot', 'real', 'estate', 'illiquid', 'nature', 'buying', 'selling', 'negotiated', 'process', 'reinforces', 'term', 'view', 'investing', 'investors', 'liquid', 'vehicles', 'core', 'funds', 'expect', 'quarters', 'sell', 'properties', 'redeem', 'fund', 'holdings', 'opportunistic', 'investors', 'secondary', 'market', 'sell', 'shares', 'exhibit', 'real', 'estate', 'cycle', 'distinct', 'equities', 'cumulative', 'returns', 'period', 'real', 'estate', 'equities', 'sep', 'jun', 'equities', 'mar', 'sep', 'global', 'financial', 'crisis', 'equities', 'measured', 'sept', 'march', 'real', 'estate', 'measued', 'june', 'dec', 'real', 'estate', 'ncreif', 'odce', 'morningstar', 'direct', 'analysis', 'ubs', 'asset', 'management', 'exhibit', 'size', 'real', 'estate', 'market', 'type', 'size', 'billions', 'dec', 'direct', 'msci', 'global', 'annual', 'property', 'ncreif', 'national', 'property', 'ncreif', 'diversified', 'core', 'equity', 'funds', 'ncreif', 'equity', 'size', 'closed', 'real', 'estate', 'market', 'leverage', 'aum', 'dec', 'dry', 'powder', 'sep', 'core', 'core', 'funds', 'funds', 'opportunistic', 'funds', 'debt', 'total', 'closed', 'preqin', 'clarify', 'talking', 'real', 'estate', 'opposed', 'public', 'real', 'estate', 'expressed', 'reit', 'market', 'reits', 'behave', 'cap', 'stock', 'equity', 'volatility', 'equity', 'indices', 'separating', 'reits', 'asset', 'class', 'raises', 'potential', 'double', 'counting', 'investors', 'invest', 'funds', 'measures', 'extent', 'size', 'market', 'real', 'estate', 'performance', 'performance', 'real', 'estate', 'market', 'differentiate', 'closed', 'markets', 'estimate', 'basic', 'real', 'estate', 'market', 'national', 'property', 'npi', 'represents', 'unlevered', 'property', 'reported', 'institutional', 'investors', 'performance', 'unlevered', 'property', 'nav', 'basis', 'appraised', 'returns', 'standard', 'deviation', 'measured', 'annualized', 'returns', 'performance', 'funds', 'diversified', 'core', 'equity', 'odce', 'ncreif', 'common', 'benchmark', 'performs', 'npi', 'odce', 'return', 'npi', 'note', 'markets', 'real', 'estate', 'odce', 'underperformed', 'performance', 'closed', 'sector', 'irrs', 'core', 'core', 'funds', 'funds', 'opportunistic', 'funds', 'exception', 'performance', 'expect', 'riskier', 'funds', 'irrs', 'level', 'risk', 'opportunistic', 'funds', 'performs', 'funds', 'observations', 'real', 'estate', 'performance', 'odce', 'leverage', 'noticeable', 'downside', 'upside', 'odce', 'set', 'funds', 'bull', 'market', 'funds', 'return', 'unlevered', 'benchmark', 'fees', 'market', 'underperformed', 'consistent', 'negative', 'skewness', 'indices', 'note', 'odce', 'larger', 'negative', 'skewness', 'coefficient', 'npi', 'closed', 'funds', 'core', 'funds', 'performed', 'expected', 'sectors', 'times', 'opportunistic', 'funds', 'struggled', 'funds', 'beaten', 'odce', 'core', 'funds', 'real', 'outlier', 'funds', 'strong', 'performance', 'time', 'period', 'funds', 'subsequent', 'performance', 'market', 'performance', 'month', 'lag', 'sense', 'closed', 'funds', 'locked', 'subsequent', 'performance', 'capital', 'called', 'redistributed', 'exhibit', 'real', 'estate', 'median', 'irrs', 'performance', 'median', 'irr', 'subsequent', 'yr', 'performance', 'npi', 'odce', 'coreplus', 'opportunistic', 'median', 'irr', 'yr', 'annualized', 'return', 'morningstar', 'direct', 'preqin', 'analysis', 'ubs', 'asset', 'management', 'december', 'historic', 'core', 'managers', 'earn', 'premium', 'unlevered', 'real', 'estate', 'opportunistic', 'funds', 'earn', 'premium', 'inconsistent', 'sense', 'real', 'estate', 'trades', 'positive', 'skewness', 'steadier', 'income', 'moderate', 'capital', 'appreciation', 'correlated', 'inflation', 'supported', 'statistics', 'performance', 'exhibit', 'real', 'estate', 'negative', 'skewness', 'asset', 'classes', 'kurtosis', 'quarterly', 'annual', 'estimates', 'inflation', 'correlation', 'asset', 'classes', 'summary', 'real', 'estate', 'offers', 'return', 'profile', 'equities', 'bonds', 'leverage', 'offer', 'steady', 'income', 'modest', 'price', 'appreciation', 'capping', 'upside', 'moves', 'leaving', 'downside', 'risk', 'aggressive', 'strategies', 'offer', 'returns', 'approach', 'equities', 'commensurate', 'risk', 'exhibit', 'estimates', 'performance', 'direct', 'closed', 'funds', 'period', 'series', 'direct', 'npi', 'core', 'odce', 'core', 'opportunistic', 'average', 'differcence', 'npi', 'pre', 'gfc', 'average', 'differcence', 'npi', 'post', 'gfc', 'average', 'differcence', 'npi', 'npi', 'odce', 'average', 'rolling', 'returns', 'starting', 'closed', 'funds', 'median', 'irr', 'vintage', 'preqin', 'database', 'morningstar', 'direct', 'preqin', 'analysis', 'ubs', 'asset', 'management', 'real', 'estate', 'performance', 'post', 'global', 'financial', 'crisis', 'pre', 'global', 'financial', 'crisis', 'period', 'direct', 'average', 'yr', 'perforamnce', 'median', 'irrs', 'core', 'core', 'opportunistic', 'morningstar', 'direct', 'preqin', 'analysis', 'ubs', 'asset', 'management', 'december', 'negative', 'skewness', 'relic', 'appraisal', 'process', 'limited', 'indices', 'based', 'purely', 'transactions', 'negative', 'skewness', 'volatility', 'appraisal', 'process', 'gains', 'gradually', 'written', 'losses', 'written', 'matter', 'quarters', 'equity', 'track', 'record', 'exhibit', 'surprise', 'equity', 'boomed', 'equity', 'investors', 'satisfied', 'portfolios', 'expect', 'slight', 'increases', 'allocation', 'investors', 'coming', 'decade', 'equity', 'encompasses', 'strategies', 'niche', 'markets', 'broadly', 'broken', 'return', 'oriented', 'strategies', 'debt', 'strategies', 'natural', 'resource', 'strategies', 'return', 'oriented', 'strategies', 'traditional', 'buyout', 'venture', 'cap', 'funds', 'category', 'growth', 'funds', 'debt', 'distressed', 'debt', 'mezzanine', 'direct', 'lending', 'credit', 'natural', 'resource', 'funds', 'include', 'energy', 'specific', 'projects', 'timberland', 'farmland', 'aim', 'provide', 'inflation', 'protection', 'buyout', 'funds', 'aim', 'public', 'companies', 'restructure', 'spin', 'profits', 'historically', 'controversial', 'reputation', 'public', 'targets', 'entrenched', 'management', 'stake', 'holders', 'resist', 'change', 'ownership', 'management', 'relieved', 'public', 'disclosure', 'requirements', 'focus', 'restructuring', 'firm', 'capital', 'strategic', 'plan', 'basis', 'leveraged', 'buyouts', 'debt', 'holdings', 'enhances', 'potential', 'return', 'criticism', 'excessive', 'debt', 'leaves', 'firms', 'vulnerable', 'downturns', 'venture', 'capital', 'investing', 'invest', 'completely', 'firms', 'ideas', 'markets', 'failure', 'rate', 'takes', 'runs', 'produce', 'extraordinary', 'returns', 'funds', 'focus', 'growth', 'strategies', 'strategies', 'provide', 'additional', 'financing', 'management', 'governance', 'assistance', 'propel', 'existing', 'business', 'stage', 'buyout', 'funds', 'strategy', 'existing', 'management', 'target', 'companies', 'growth', 'strategies', 'existing', 'management', 'growth', 'funds', 'companies', 'proven', 'led', 'talented', 'entrepreneurs', 'provide', 'capital', 'expertise', 'expand', 'rapidly', 'secure', 'larger', 'market', 'share', 'buyout', 'funds', 'typical', 'involve', 'management', 'reorientation', 'business', 'strategy', 'growth', 'category', 'mix', 'late', 'stage', 'venture', 'limited', 'buyout', 'management', 'credit', 'vehicles', 'markets', 'combined', 'growth', 'venture', 'capital', 'funds', 'definition', 'equity', 'credit', 'niches', 'equity', 'market', 'distressed', 'investing', 'distressed', 'investing', 'focuses', 'purchasing', 'debt', 'companies', 'default', 'negotiating', 'structures', 'quality', 'debt', 'held', 'funds', 'expect', 'equity', 'return', 'offset', 'costs', 'delayed', 'payoffs', 'litigation', 'negotiation', 'bankruptcy', 'process', 'mezzanine', 'financing', 'mezzanine', 'financing', 'junior', 'debt', 'financing', 'command', 'premium', 'compensate', 'status', 'capital', 'stack', 'include', 'warrants', 'add', 'equity', 'upside', 'option', 'returns', 'sort', 'convertible', 'bond', 'applied', 'sector', 'companies', 'securities', 'exchange', 'commission', 'registration', 'direct', 'lending', 'credit', 'existed', 'sector', 'boomed', 'gfc', 'banks', 'retreat', 'lending', 'serviced', 'companies', 'family', 'business', 'urgently', 'capital', 'pay', 'rates', 'standard', 'alternatives', 'universe', 'explicit', 'allocation', 'targets', 'asset', 'class', 'level', 'institutional', 'investors', 'finally', 'subsector', 'broad', 'asset', 'class', 'natural', 'resources', 'investments', 'dedicated', 'specific', 'segments', 'energy', 'timber', 'farmland', 'investors', 'carved', 'real', 'asset', 'inflation', 'protection', 'category', 'saa', 'type', 'natural', 'resource', 'fund', 'major', 'component', 'cash', 'flows', 'curve', 'unique', 'features', 'equity', 'investing', 'closed', 'funds', 'cash', 'flow', 'nature', 'investment', 'implications', 'building', 'maintaining', 'allocations', 'capital', 'partners', 'launch', 'fund', 'target', 'size', 'market', 'niche', 'fund', 'raising', 'fund', 'raising', 'cycle', 'finding', 'investors', 'limited', 'partners', 'current', 'future', 'cash', 'flows', 'limited', 'partners', 'commitment', 'fund', 'sign', 'agreements', 'investing', 'money', 'fund', 'time', 'commitments', 'called', 'capital', 'calls', 'real', 'asset', 'category', 'include', 'real', 'estate', 'inflation', 'indexed', 'bonds', 'commodities', 'partners', 'typically', 'cycle', 'remaining', 'calls', 'finished', 'usd', 'fund', 'life', 'span', 'initially', 'limited', 'partners', 'usd', 'fund', 'subsequent', 'remaining', 'usd', 'vast', 'majority', 'fourth', 'payouts', 'occur', 'usd', 'increase', 'rapidly', 'success', 'fund', 'peak', 'usd', 'graph', 'cash', 'flows', 'cash', 'flows', 'curve', 'refers', 'cash', 'flows', 'features', 'asset', 'investing', 'negative', 'cash', 'flows', 'initial', 'positive', 'returns', 'rapid', 'reversal', 'positive', 'cash', 'flows', 'successful', 'funds', 'evaluated', 'standard', 'evaluating', 'equity', 'takes', 'build', 'mature', 'portfolio', 'cash', 'flows', 'determine', 'internal', 'rate', 'return', 'irr', 'cash', 'flows', 'provide', 'internal', 'rate', 'return', 'total', 'distributions', 'usd', 'based', 'usd', 'contributions', 'produces', 'distribution', 'paid', 'dpi', 'ratio', 'typically', 'contributions', 'final', 'percent', 'calls', 'netted', 'distributions', 'typical', 'cash', 'weighted', 'time', 'contributions', 'funds', 'extend', 'life', 'ideal', 'payout', 'partnership', 'wind', 'final', 'assets', 'funds', 'lasted', 'performance', 'greatly', 'fund', 'started', 'vintage', 'surprising', 'performance', 'public', 'equities', 'dependent', 'time', 'period', 'selected', 'efforts', 'investing', 'manage', 'vintage', 'public', 'markets', 'invest', 'evergreen', 'vehicle', 'assets', 'require', 'constant', 'recycling', 'assets', 'impose', 'oversight', 'costs', 'fund', 'level', 'measures', 'fund', 'performance', 'cited', 'internal', 'rate', 'return', 'irr', 'irr', 'cash', 'flow', 'weighted', 'return', 'calculated', 'standard', 'time', 'weighted', 'rate', 'return', 'public', 'assets', 'discrepancy', 'gross', 'irr', 'irr', 'fees', 'measures', 'investors', 'focus', 'distributions', 'paid', 'dpi', 'simply', 'ratio', 'cumulative', 'distributions', 'cumulative', 'capital', 'committed', 'compounding', 'metric', 'multiple', 'adjusts', 'fees', 'finally', 'market', 'equivalent', 'pme', 'pme', 'simply', 'compares', 'performance', 'cash', 'flows', 'invested', 'public', 'market', 'partnership', 'portfolio', 'partnerships', 'result', 'ratio', 'detracted', 'compared', 'market', 'cash', 'flows', 'curve', 'contributions', 'cash', 'fow', 'millions', 'usd', 'cash', 'distributions', 'preqin', 'analysis', 'ubs', 'asset', 'management', 'june', 'exhibit', 'cash', 'flows', 'millions', 'usd', 'contributions', 'distributions', 'cash', 'flow', 'key', 'metrics', 'irr', 'dpi', 'preqin', 'analysis', 'ubs', 'asset', 'management', 'june', 'performance', 'historic', 'performance', 'bears', 'return', 'equity', 'public', 'equities', 'simple', 'comparison', 'irrs', 'vintage', 'subsequent', 'performance', 'median', 'equity', 'fund', 'outperformed', 'public', 'equity', 'market', 'strongest', 'period', 'late', 'tech', 'boom', 'outperformance', 'mid', 'strong', 'performance', 'relative', 'performance', 'vintage', 'struggled', 'average', 'premium', 'history', 'average', 'premium', 'premium', 'rule', 'thumb', 'thinking', 'equity', 'exhibit', 'median', 'irrs', 'equity', 'funds', 'subsequent', 'yr', 'returns', 'median', 'internal', 'rate', 'return', 'preqin', 'analysis', 'ubs', 'asset', 'management', 'december', 'exhibit', 'premium', 'irrs', 'equity', 'funds', 'subsequent', 'yr', 'returns', 'average', 'premium', 'average', 'premium', 'internal', 'rate', 'return', 'preqin', 'analysis', 'ubs', 'asset', 'management', 'december', 'feature', 'equity', 'huge', 'disparity', 'performance', 'larger', 'traditional', 'public', 'equity', 'portfolios', 'exhibit', 'wide', 'range', 'percentile', 'irrs', 'vintage', 'spread', 'averaged', 'equity', 'market', 'timing', 'funds', 'jumped', 'internet', 'tech', 'stocks', 'returns', 'vintages', 'invested', 'declining', 'consolidating', 'market', 'illiquid', 'nature', 'equity', 'timing', 'market', 'impossible', 'capital', 'calls', 'force', 'investors', 'invest', 'funds', 'shaky', 'prospects', 'commitments', 'risk', 'opportunity', 'invest', 'future', 'equity', 'public', 'markets', 'comparable', 'risk', 'measures', 'asset', 'classes', 'risk', 'adjusted', 'performance', 'hard', 'assess', 'exhibit', 'irrs', 'equity', 'funds', 'median', 'internal', 'rate', 'return', 'preqin', 'december', 'credit', 'credit', 'aspects', 'equity', 'space', 'mezzanine', 'financing', 'distressed', 'debt', 'niche', 'emerged', 'direct', 'lending', 'preqin', 'database', 'direct', 'lending', 'funds', 'totaled', 'usd', 'rose', 'usd', 'banking', 'regulation', 'gfc', 'tightened', 'capital', 'requirements', 'left', 'market', 'gap', 'pools', 'capital', 'stepped', 'tend', 'focus', 'niche', 'markets', 'family', 'owned', 'single', 'entrepreneur', 'enterprises', 'stretched', 'tax', 'issues', 'mismatches', 'assets', 'liabilities', 'unique', 'circumstances', 'hallmark', 'funds', 'immediacy', 'borrowers', 'typically', 'assets', 'cash', 'refinance', 'tax', 'payments', 'settle', 'family', 'splits', 'cash', 'outflows', 'immediacy', 'potential', 'risks', 'credit', 'funds', 'charge', 'rates', 'generate', 'equity', 'returns', 'times', 'exhibit', 'debt', 'median', 'irrs', 'yield', 'yield', 'worst', 'vintage', 'irr', 'median', 'yield', 'yield', 'worst', 'median', 'irr', 'yield', 'worst', 'preqin', 'bloomberg', 'barclays', 'december', 'exhibit', 'premium', 'median', 'irr', 'yield', 'yield', 'worst', 'vintage', 'average', 'premium', 'premium', 'vintage', 'preqin', 'bloomberg', 'barclays', 'december', 'performance', 'debt', 'funds', 'yield', 'chart', 'vintage', 'irrs', 'debt', 'funds', 'track', 'yield', 'worst', 'yield', 'market', 'default', 'rates', 'depress', 'returns', 'basis', 'default', 'rates', 'expect', 'actual', 'return', 'yield', 'debt', 'return', 'yield', 'collateral', 'exhibit', 'premium', 'median', 'debt', 'irrs', 'compared', 'yield', 'worst', 'averaged', 'time', 'period', 'steady', 'note', 'periods', 'substantial', 'coincide', 'turmoil', 'yield', 'market', 'natural', 'resources', 'energy', 'timber', 'farmland', 'major', 'investors', 'carved', 'specific', 'allocations', 'natural', 'resource', 'projects', 'oil', 'gas', 'development', 'renewable', 'alternatives', 'pipelines', 'timber', 'farmland', 'carve', 'real', 'asset', 'category', 'expected', 'inflationary', 'commodity', 'driven', 'markets', 'fundraising', 'investment', 'peaked', 'oil', 'prices', 'investment', 'sector', 'declined', 'orientation', 'shifting', 'energy', 'natural', 'resource', 'plays', 'types', 'alternatives', 'involve', 'physical', 'assets', 'real', 'estate', 'undergo', 'larger', 'frequent', 'cycles', 'performance', 'natural', 'resource', 'funds', 'preqin', 'database', 'outstanding', 'performance', 'vintages', 'surprise', 'energy', 'prices', 'boomed', 'peaked', 'mid', 'median', 'irrs', 'aggregate', 'equity', 'funds', 'reflecting', 'downtrend', 'oil', 'prices', 'peak', 'performance', 'gap', 'considerable', 'natural', 'resource', 'investing', 'fundraising', 'partially', 'recovered', 'lows', 'expect', 'natural', 'resource', 'sector', 'continue', 'component', 'alternative', 'portfolios', 'convenience', 'include', 'timber', 'farmland', 'investments', 'category', 'cross', 'real', 'estate', 'investment', 'boom', 'timber', 'mid', 'major', 'institutional', 'investors', 'invested', 'performed', 'caused', 'headaches', 'prominent', 'investors', 'harvard', 'articles', 'expect', 'handful', 'dedicated', 'efforts', 'exhibit', 'median', 'irrs', 'natural', 'resources', 'energy', 'equity', 'natural', 'resources', 'equity', 'median', 'irr', 'preqin', 'december', 'exhibit', 'return', 'risk', 'june', 'june', 'timber', 'farmland', 'annualized', 'quarterly', 'geometric', 'return', 'arithmetic', 'return', 'standard', 'deviation', 'serial', 'correlation', 'equity', 'correlation', 'equity', 'beta', 'inflation', 'correlation', 'annual', 'averages', 'arithmetic', 'return', 'standard', 'deviation', 'serial', 'correlation', 'equity', 'correlation', 'equity', 'beta', 'inflation', 'correlation', 'timber', 'ncreif', 'timberland', 'farmland', 'ncreif', 'farmland', 'usd', 'morninstar', 'direct', 'analysis', 'ubs', 'asset', 'management', 'june', 'exhibit', 'return', 'risk', 'timber', 'farml', 'annualized', 'quarterly', 'geometric', 'return', 'arithmetic', 'return', 'standard', 'deviation', 'serial', 'correlation', 'equity', 'correlation', 'equity', 'beta', 'inflation', 'correlation', 'annual', 'averages', 'arithmetic', 'return', 'standard', 'deviation', 'serial', 'correlation', 'equity', 'correlation', 'equity', 'beta', 'inflation', 'correlation', 'une', 'december', 'ncreif', 'timberland', 'national', 'property', 'based', 'usd', 'assets', 'ncreif', 'farmland', 'npi', 'based', 'usd', 'assets', 'summary', 'statistics', 'compares', 'real', 'estate', 'equities', 'returns', 'timber', 'disappointing', 'return', 'june', 'analysis', 'standard', 'deviations', 'annual', 'estimates', 'quarterly', 'estimates', 'smoother', 'returns', 'limited', 'quality', 'equity', 'correlation', 'beta', 'coefficients', 'asset', 'classes', 'potential', 'size', 'market', 'questions', 'ability', 'scale', 'asset', 'classes', 'expect', 'remain', 'niche', 'sectors', 'total', 'portfolios', 'finally', 'conflicting', 'signals', 'relationship', 'timberland', 'farmland', 'inflation', 'quarterly', 'consistent', 'negative', 'correlation', 'annual', 'modest', 'positive', 'correlation', 'reversed', 'contrast', 'real', 'estate', 'measured', 'ncreif', 'property', 'consistent', 'positive', 'correlation', 'inflation', 'annual', 'quarterly', 'terms', 'timberland', 'farmland', 'inclined', 'annual', 'slight', 'positive', 'correlation', 'assume', 'lagged', 'appraisal', 'process', 'distorts', 'relationships', 'term', 'estimates', 'infrastructure', 'infrastructure', 'funds', 'invest', 'capital', 'projects', 'public', 'perspective', 'equity', 'projects', 'time', 'horizons', 'typically', 'aspects', 'real', 'estate', 'involve', 'physical', 'tangible', 'capital', 'resilient', 'inflationary', 'environments', 'infrastructure', 'equity', 'cash', 'flow', 'investment', 'strategy', 'substantive', 'differences', 'type', 'investment', 'payout', 'period', 'expected', 'performance', 'distinguished', 'traditional', 'equity', 'infrastructure', 'fundamentally', 'physical', 'capital', 'intensive', 'projects', 'software', 'services', 'capital', 'costs', 'steadier', 'payout', 'periods', 'element', 'government', 'involvement', 'public', 'nature', 'investment', 'sense', 'beta', 'equity', 'investment', 'infrastructure', 'profile', 'equities', 'real', 'estate', 'types', 'projects', 'infrastructure', 'funds', 'invest', 'port', 'construction', 'maintenance', 'expansion', 'airports', 'energy', 'grids', 'power', 'construction', 'tollways', 'infrastructure', 'appeared', 'standard', 'asset', 'portfolios', 'addition', 'real', 'estate', 'category', 'refined', 'strategies', 'core', 'opportunistic', 'investing', 'depending', 'leverage', 'riskiness', 'projects', 'concentration', 'risk', 'cash', 'flow', 'infrastructure', 'funds', 'distinguishing', 'infrastructure', 'funds', 'compared', 'standard', 'equity', 'funds', 'duration', 'stability', 'cash', 'flows', 'expected', 'irrs', 'infrastructure', 'funds', 'expected', 'time', 'horizon', 'equity', 'typical', 'cash', 'flow', 'profile', 'infrastructure', 'fund', 'exhibit', 'cash', 'flows', 'curve', 'contributions', 'cash', 'fow', 'millions', 'usd', 'cash', 'distributions', 'ubs', 'asset', 'management', 'june', 'fund', 'irr', 'contribution', 'period', 'equity', 'average', 'contribution', 'period', 'time', 'weighted', 'cash', 'flow', 'payout', 'larger', 'performance', 'history', 'infrastructure', 'performance', 'asset', 'class', 'started', 'late', 'sparse', 'contrary', 'asset', 'classes', 'accepted', 'performance', 'infrastructure', 'equity', 'debt', 'late', 'funds', 'reasonable', 'analysis', 'exhibit', 'median', 'irrs', 'infrastructure', 'average', 'subsequent', 'return', 'time', 'period', 'horrendous', 'start', 'performs', 'exceptionally', 'time', 'period', 'comparison', 'global', 'equities', 'infrastructure', 'offers', 'diversified', 'set', 'cash', 'flows', 'term', 'investors', 'behaves', 'equity', 'expect', 'asset', 'class', 'continue', 'grow', 'size', 'heterogeneous', 'offerings', 'public', 'nature', 'investment', 'expect', 'returns', 'steadier', 'downside', 'protection', 'leveraged', 'projects', 'caps', 'upside', 'gains', 'exhibit', 'median', 'irrs', 'equity', 'infrastructure', 'infrastructure', 'equity', 'median', 'irr', 'return', 'preqin', 'morningstar', 'direct', 'december', 'hedge', 'funds', 'strictly', 'speaking', 'hedge', 'funds', 'asset', 'class', 'set', 'active', 'strategies', 'applied', 'strategically', 'asset', 'class', 'independent', 'alpha', 'embedded', 'asset', 'classes', 'play', 'role', 'portfolio', 'construction', 'merit', 'considerable', 'attention', 'aggregate', 'statistics', 'performance', 'hedge', 'funds', 'stocks', 'bonds', 'hedge', 'funds', 'encompass', 'wide', 'variety', 'strategies', 'concentrated', 'funds', 'holding', 'handful', 'leveraged', 'bets', 'involve', 'trading', 'strategies', 'squeeze', 'margins', 'thousands', 'transactions', 'day', 'focusing', 'strategic', 'asset', 'allocation', 'portfolios', 'hedge', 'funds', 'produce', 'individual', 'performance', 'performance', 'sectors', 'starts', 'track', 'record', 'broad', 'indices', 'fund', 'fund', 'indices', 'extrapolating', 'investors', 'expect', 'building', 'constructed', 'portfolio', 'thousands', 'hedge', 'funds', 'requires', 'lot', 'specific', 'knowledge', 'opportunities', 'cycle', 'time', 'hedge', 'fund', 'performance', 'distinct', 'periods', 'hedge', 'funds', 'growth', 'phase', 'mid', 'gfc', 'returns', 'excellent', 'outstanding', 'sharpe', 'ratios', 'funds', 'growth', 'rates', 'assets', 'management', 'slipped', 'level', 'peaking', 'usd', 'level', 'industry', 'hovered', 'hedge', 'fund', 'performance', 'distinct', 'periods', 'growth', 'period', 'gfc', 'strong', 'performance', 'categories', 'exceeded', 'equities', 'volatility', 'producing', 'outstanding', 'sharpe', 'ratios', 'gfc', 'character', 'performance', 'changed', 'returns', 'decline', 'sharpe', 'ratios', 'exhibit', 'performance', 'hedge', 'funds', 'focus', 'performance', 'broad', 'indices', 'fund', 'fund', 'performance', 'term', 'performance', 'performance', 'prior', 'gfc', 'careful', 'interpreting', 'performance', 'hedge', 'funds', 'returns', 'accurate', 'time', 'horizon', 'concerns', 'stale', 'pricing', 'distorting', 'navs', 'reported', 'volatility', 'time', 'note', 'serial', 'correlations', 'quarterly', 'level', 'support', 'concerns', 'additionally', 'issues', 'survivor', 'bias', 'reporting', 'bias', 'fund', 'based', 'indices', 'appendix', 'provide', 'performance', 'specific', 'sectors', 'hedge', 'fund', 'market', 'categorized', 'providers', 'getmansky', 'lo', 'makarov', 'fuller', 'discussion', 'serial', 'correlation', 'survivor', 'bias', 'reporting', 'bias', 'estimates', 'exhibit', 'performance', 'broad', 'hedge', 'fund', 'indices', 'cisdm', 'hedge', 'fund', 'indexes', 'hfri', 'credit', 'suisse', 'equal', 'wght', 'composite', 'fof', 'diversified', 'fof', 'composite', 'fund', 'wght', 'composite', 'fof', 'diversified', 'fof', 'conserv', 'fof', 'mkt', 'def', 'fof', 'strategic', 'hf', 'cash', 'yr', 'treas', 'march', 'june', 'geometric', 'return', 'arithmetic', 'return', 'standard', 'deviation', 'serial', 'correlation', 'equity', 'correlation', 'equity', 'beta', 'sharpe', 'ratio', 'june', 'june', 'geometric', 'return', 'arithmetic', 'return', 'standard', 'deviation', 'serial', 'correlation', 'equity', 'correlation', 'equity', 'beta', 'sharpe', 'ratio', 'pre', 'gfc', 'march', 'december', 'geometric', 'return', 'arithmetic', 'return', 'standard', 'deviation', 'serial', 'correlation', 'equity', 'correlation', 'equity', 'beta', 'sharpe', 'ratio', 'cisdm', 'equal', 'wght', 'composite', 'cisdm', 'ew', 'hedge', 'fund', 'usd', 'cisdm', 'fof', 'diversified', 'cisdm', 'fund', 'funds', 'diverfd', 'usd', 'hfri', 'fof', 'composite', 'hfri', 'fund', 'funds', 'composite', 'usd', 'hfri', 'fund', 'wght', 'composite', 'hfri', 'fund', 'weighted', 'composite', 'usd', 'hfri', 'fof', 'diversified', 'hfri', 'fof', 'diversified', 'usd', 'hfri', 'fof', 'conserv', 'hfri', 'fof', 'conservative', 'usd', 'hfri', 'fof', 'mkt', 'def', 'hfri', 'fof', 'market', 'defensive', 'usd', 'hfri', 'fof', 'strategic', 'hfri', 'fof', 'strategic', 'usd', 'crediti', 'suisse', 'hf', 'credit', 'suisse', 'hedge', 'fund', 'usd', 'cash', 'ftse', 'treasury', 'mon', 'usd', 'yr', 'treasury', 'bbgbarc', 'trsy', 'bellwethers', 'usd', 'usd', 'morningstar', 'direct', 'analysis', 'ubs', 'asset', 'management', 'observations', 'sharpe', 'ratios', 'hedge', 'funds', 'equities', 'treasuries', 'performance', 'prior', 'gfc', 'strong', 'ratios', 'board', 'equities', 'bonds', 'ratios', 'compared', 'stocks', 'bonds', 'stocks', 'bonds', 'stellar', 'decade', 'hurdle', 'returns', 'declined', 'time', 'single', 'digit', 'returns', 'prior', 'gfc', 'norm', 'prior', 'gfc', 'single', 'digit', 'returns', 'excess', 'returns', 'returns', 'cash', 'differences', 'volatility', 'declined', 'time', 'correlation', 'equities', 'beta', 'post', 'gfc', 'hedge', 'funds', 'asset', 'class', 'diversified', 'portfolios', 'achieve', 'volatilities', 'equity', 'betas', 'returns', 'remain', 'yield', 'environment', 'returns', 'return', 'targets', 'require', 'concentrated', 'portfolios', 'risks', 'expect', 'strategies', 'correlation', 'equities', 'acknowledge', 'hedge', 'funds', 'alpha', 'diversifiers', 'combined', 'asset', 'classes', 'exhibit', 'ratios', 'approaches', 'lead', 'revision', 'alpha', 'tracking', 'error', 'estimates', 'portfolios', 'skillful', 'selection', 'funds', 'improve', 'portfolio', 'performance', 'commodities', 'dedicated', 'commodity', 'exposures', 'institutional', 'investors', 'started', 'late', 'performance', 'oil', 'suggested', 'strong', 'inflation', 'protection', 'negative', 'correlation', 'equities', 'fixed', 'income', 'valuable', 'real', 'terms', 'outstanding', 'benefits', 'additionally', 'returns', 'tests', 'asset', 'class', 'promising', 'return', 'perspective', 'concerns', 'running', 'resources', 'future', 'returns', 'scarcity', 'premium', 'practice', 'commodity', 'prices', 'declined', 'inflation', 'ticked', 'downward', 'disappointing', 'commodity', 'investors', 'rising', 'oil', 'food', 'prices', 'mid', 'revived', 'mini', 'boom', 'hindsight', 'classic', 'bubbles', 'subsequent', 'busts', 'wiped', 'gains', 'note', 'oil', 'prices', 'oil', 'largest', 'component', 'indices', 'peaks', 'reached', 'summer', 'drop', 'worse', 'real', 'terms', 'performance', 'commodity', 'indices', 'based', 'rolling', 'futures', 'contracts', 'disappointing', 'returns', 'negative', 'real', 'terms', 'volatility', 'expected', 'equities', 'positive', 'correlation', 'equities', 'greatly', 'weakens', 'strategic', 'allocation', 'commodities', 'active', 'space', 'commodity', 'trading', 'advisors', 'ctas', 'returns', 'underwhelming', 'efforts', 'rationalizing', 'premium', 'commodities', 'investors', 'imbalances', 'hedging', 'suppliers', 'users', 'commodities', 'insurance', 'premiums', 'inherent', 'market', 'growing', 'scarcity', 'commodities', 'skeptical', 'view', 'commodities', 'questioned', 'premium', 'spot', 'commodity', 'prices', 'decreasing', 'real', 'terms', 'hundreds', 'access', 'asset', 'class', 'investors', 'manage', 'portfolio', 'futures', 'swap', 'contracts', 'roll', 'time', 'investing', 'contracts', 'components', 'returns', 'collateral', 'return', 'return', 'treasury', 'bills', 'period', 'performance', 'assumes', 'price', 'return', 'return', 'spot', 'price', 'maturity', 'contracted', 'price', 'commencement', 'contract', 'roll', 'return', 'return', 'converting', 'maturing', 'contract', 'rolling', 'contract', 'erb', 'campbell', 'categorize', 'income', 'return', 'commodities', 'rownenhoorst', 'gorton', 'propose', 'return', 'roll', 'yields', 'declined', 'actual', 'returns', 'times', 'movements', 'spot', 'prices', 'sensitive', 'supply', 'demand', 'hedging', 'speculation', 'contract', 'futures', 'prices', 'reconciled', 'spot', 'prices', 'physical', 'demand', 'supply', 'commodities', 'matter', 'short', 'term', 'firms', 'inelastic', 'demand', 'natural', 'gas', 'powered', 'plant', 'fuel', 'natural', 'gas', 'plant', 'obsolete', 'replaced', 'energy', 'cheaper', 'medium', 'term', 'competitive', 'pressures', 'push', 'energy', 'commodity', 'prices', 'practice', 'managers', 'invest', 'collateral', 'invest', 'remainder', 'yielding', 'instruments', 'overlaying', 'exposure', 'duration', 'credit', 'risk', 'exhibit', 'commodity', 'gold', 'returns', 'june', 'oil', 'commodities', 'peak', 'gold', 'peaks', 'bloomberg', 'commodity', 'usd', 'gold', 'dec', 'bloomberg', 'june', 'model', 'commodities', 'starting', 'cash', 'returns', 'pricing', 'financial', 'futures', 'contracts', 'involves', 'treasury', 'yields', 'relationship', 'spot', 'future', 'prices', 'stable', 'based', 'storage', 'costs', 'perishability', 'factors', 'interacting', 'rates', 'supply', 'demand', 'factors', 'exhibit', 'commodity', 'prices', 'peaked', 'mid', 'crashed', 'precipitously', 'investors', 'prominent', 'indices', 'bloomberg', 'commodity', 'commodity', 'recovered', 'peaks', 'gold', 'rising', 'post', 'gfc', 'era', 'hit', 'peak', 'plummeting', 'gold', 'rally', 'piquing', 'renewed', 'asset', 'class', 'investors', 'approach', 'commodities', 'market', 'passive', 'funds', 'match', 'established', 'active', 'trading', 'ctas', 'commodity', 'trading', 'advisors', 'estimate', 'investment', 'commodities', 'institutional', 'investors', 'relative', 'market', 'etfs', 'mutual', 'funds', 'usd', 'collective', 'investment', 'trusts', 'measured', 'morningstar', 'usd', 'preqin', 'database', 'usd', 'cta', 'funds', 'attractive', 'asset', 'class', 'add', 'dedicated', 'allocations', 'investors', 'usd', 'compared', 'usd', 'ubs', 'measures', 'total', 'investable', 'assets', 'market', 'exhibit', 'commodity', 'traditional', 'returns', 'gsci', 'commodity', 'bloomberg', 'commodity', 'gold', 'cash', 'bills', 'yr', 'treasury', 'cpi', 'inflation', 'geometric', 'return', 'arithmetic', 'return', 'standard', 'deviation', 'equity', 'correlation', 'inflation', 'correlation', 'june', 'june', 'geometric', 'return', 'arithmetic', 'return', 'standard', 'deviation', 'equity', 'correlation', 'inflation', 'correlation', 'gsci', 'gsci', 'usd', 'bloomberg', 'bloomberg', 'commodity', 'usd', 'gold', 'lbma', 'gold', 'price', 'usd', 'cash', 'ftse', 'treasury', 'mon', 'usd', 'treasury', 'bbgbarc', 'trsy', 'bellwethers', 'usd', 'usd', 'inflation', 'ia', 'sbbi', 'inflation', 'morningstar', 'direct', 'analysis', 'ubs', 'asset', 'management', 'exhibit', 'gold', 'real', 'yields', 'gold', 'lhs', 'real', 'yield', 'inverted', 'lhs', 'gold', 'price', 'usd', 'ounce', 'yr', 'tips', 'yield', 'bloomberg', 'september', 'gold', 'gold', 'assets', 'history', 'played', 'enormous', 'role', 'finance', 'constraints', 'gold', 'based', 'currencies', 'national', 'governments', 'moved', 'fiat', 'currencies', 'promise', 'support', 'terms', 'gold', 'gold', 'behaves', 'commodities', 'chart', 'gold', 'tracked', 'broad', 'commodities', 'global', 'financial', 'crisis', 'diverted', 'continuing', 'upward', 'doubling', 'commodities', 'dropped', 'argue', 'gold', 'commodity', 'currency', 'central', 'banks', 'maintain', 'positions', 'gold', 'dollar', 'unpegged', 'gold', 'central', 'purchases', 'publicly', 'announced', 'material', 'gold', 'price', 'dynamics', 'gold', 'commodities', 'historic', 'returns', 'volatility', 'correlation', 'equities', 'commodities', 'gold', 'inflation', 'hedges', 'rationale', 'holding', 'commodities', 'gold', 'provide', 'protection', 'inflation', 'historic', 'commodities', 'reflected', 'major', 'indices', 'correlated', 'inflation', 'measured', 'consumer', 'price', 'partial', 'hedge', 'services', 'larger', 'economy', 'manufacturing', 'declines', 'expect', 'commodities', 'impact', 'cpi', 'correlation', 'commodities', 'inflation', 'modest', 'ranging', 'depending', 'measured', 'gold', 'demonstrated', 'mixed', 'reaction', 'inflation', 'performs', 'increases', 'unexpected', 'inflation', 'moves', 'downward', 'inflation', 'sum', 'agree', 'gold', 'cycle', 'idiosyncratic', 'elements', 'inflation', 'break', 'current', 'level', 'expectations', 'developed', 'economies', 'expect', 'gold', 'offer', 'returns', 'rising', 'inflation', 'environment', 'summary', 'performance', 'commodities', 'dented', 'passive', 'commodities', 'attractiveness', 'strategic', 'asset', 'class', 'institutional', 'investors', 'inflation', 'negative', 'real', 'return', 'positive', 'correlation', 'equities', 'strong', 'headwinds', 'commodities', 'compelling', 'commodities', 'global', 'growth', 'kicks', 'gear', 'supply', 'chains', 'lag', 'demand', 'commodities', 'natural', 'resources', 'infrastructure', 'require', 'capital', 'commitment', 'extraction', 'rising', 'cost', 'pressure', 'inflation', 'equities', 'bonds', 'slump', 'relative', 'terms', 'commodities', 'investors', 'holistic', 'perspective', 'countries', 'resource', 'light', 'korea', 'taiwan', 'companies', 'sensitive', 'commodities', 'transportation', 'steel', 'hold', 'commodity', 'exposure', 'reduce', 'risk', 'airline', 'cruise', 'add', 'commodities', 'portfolio', 'hedge', 'oil', 'risk', 'organization', 'integration', 'traditional', 'asset', 'classes', 'ultimately', 'investors', 'blend', 'traditional', 'alternative', 'asset', 'classes', 'strategic', 'asset', 'allocation', 'standard', 'tool', 'saa', 'variance', 'analysis', 'traditional', 'assets', 'runs', 'difficulties', 'applied', 'cash', 'flow', 'oriented', 'investments', 'cash', 'flow', 'assets', 'appraised', 'assets', 'navs', 'reflect', 'sort', 'market', 'transactions', 'nav', 'based', 'volatility', 'measures', 'smoothed', 'underestimate', 'actual', 'volatility', 'compounding', 'issue', 'cash', 'flow', 'asset', 'classes', 'managed', 'market', 'transactions', 'commitment', 'schedules', 'require', 'investor', 'provide', 'liquidity', 'partner', 'lagged', 'adjustment', 'changing', 'market', 'events', 'fundraising', 'cyclical', 'approach', 'develop', 'measures', 'appraised', 'volatility', 'economic', 'risk', 'economic', 'risk', 'reflects', 'underlying', 'unsmoothed', 'risk', 'inherent', 'investments', 'investors', 'aware', 'measures', 'formulating', 'return', 'risk', 'expectations', 'alternatives', 'cover', 'wide', 'array', 'investment', 'opportunities', 'economic', 'rationales', 'wide', 'array', 'approaches', 'formulate', 'prospective', 'returns', 'model', 'real', 'estate', 'start', 'expected', 'unlevered', 'property', 'returns', 'adjust', 'leverage', 'basic', 'property', 'income', 'component', 'price', 'return', 'component', 'historically', 'income', 'component', 'npi', 'inflation', 'real', 'appreciation', 'maintenance', 'capital', 'improvements', 'estimate', 'unlevered', 'property', 'return', 'adjust', 'fees', 'alpha', 'leverage', 'returns', 'approach', 'equity', 'returns', 'range', 'approach', 'setting', 'equity', 'assumptions', 'multi', 'factor', 'capital', 'asset', 'pricing', 'model', 'type', 'approach', 'assigns', 'betas', 'relative', 'public', 'equities', 'additional', 'idiosyncratic', 'risk', 'include', 'mezzanine', 'financing', 'special', 'situations', 'estimate', 'equity', 'portfolio', 'economic', 'risks', 'compared', 'volatility', 'global', 'equity', 'portfolios', 'discussed', 'analysis', 'debt', 'funds', 'track', 'yield', 'market', 'model', 'debt', 'yield', 'market', 'spread', 'basis', 'relative', 'prevailing', 'yield', 'worst', 'exhibit', 'return', 'risk', 'assumptions', 'usd', 'terms', 'september', 'asset', 'class', 'yr', 'expected', 'return', 'economic', 'risk', 'appraised', 'volatility', 'usd', 'cash', 'intermediate', 'global', 'ig', 'fixed', 'income', 'global', 'investment', 'grade', 'fixed', 'income', 'global', 'equities', 'unhedged', 'global', 'yield', 'hedged', 'global', 'equity', 'unhedged', 'global', 'infrastructure', 'equity', 'unhedged', 'global', 'core', 'real', 'estate', 'unhedged', 'hedge', 'funds', 'hedged', 'note', 'expected', 'returns', 'geometrc', 'develop', 'expected', 'returns', 'capital', 'markets', 'based', 'current', 'market', 'markets', 'expectations', 'inflation', 'growth', 'path', 'rates', 'overlay', 'assessment', 'fair', 'reversion', 'market', 'react', 'extrapolate', 'sectors', 'capital', 'markets', 'global', 'equity', 'equity', 'infrastructure', 'core', 'real', 'estate', 'assumed', 'unhedged', 'cash', 'fixed', 'income', 'hedge', 'funds', 'assumed', 'hedged', 'ubs', 'asset', 'management', 'september', 'korteweg', 'summary', 'academic', 'literature', 'researchers', 'funds', 'betas', 'relative', 'public', 'markets', 'ranging', 'venture', 'capital', 'funds', 'betas', 'idiosyncratic', 'risk', 'real', 'estate', 'view', 'infrastructure', 'hybrid', 'equity', 'fixed', 'income', 'median', 'irr', 'infrastructure', 'funds', 'vintage', 'consistently', 'equity', 'average', 'simple', 'approach', 'simply', 'discount', 'return', 'equity', 'set', 'economic', 'risk', 'risk', 'bearing', 'returns', 'real', 'estate', 'risk', 'profile', 'rely', 'combination', 'historic', 'relationships', 'basic', 'heuristics', 'model', 'hedge', 'funds', 'review', 'historic', 'performance', 'fund', 'fund', 'composites', 'hedge', 'funds', 'returns', 'cash', 'equity', 'betas', 'prospect', 'hedge', 'funds', 'encouraging', 'rates', 'credit', 'spreads', 'costs', 'borrowing', 'extremely', 'leverages', 'alpha', 'opportunity', 'set', 'sorts', 'hedge', 'funds', 'short', 'market', 'neutral', 'macros', 'funds', 'unprofitable', 'trades', 'attractive', 'additionally', 'steeper', 'yield', 'curve', 'offers', 'sorts', 'opportunities', 'fixed', 'income', 'carry', 'trades', 'roll', 'return', 'borrowing', 'cost', 'environment', 'central', 'banks', 'thresholds', 'rise', 'short', 'term', 'rates', 'boost', 'hedge', 'funds', 'dispersion', 'returns', 'benefit', 'strategies', 'equity', 'short', 'relative', 'additional', 'tailwinds', 'fits', 'volatility', 'regime', 'trading', 'oriented', 'macro', 'managers', 'exploit', 'uncorrelated', 'trades', 'opportunities', 'synchronous', 'moves', 'markets', 'markets', 'hedge', 'fund', 'managers', 'apply', 'winners', 'losers', 'investment', 'approach', 'finally', 'moving', 'sideways', 'decline', 'hedge', 'funds', 'industry', 'starting', 'regain', 'momentum', 'positive', 'cash', 'flows', 'investors', 'rebalance', 'equity', 'returns', 'government', 'bond', 'yields', 'alternative', 'investments', 'offer', 'steady', 'income', 'steady', 'navs', 'increases', 'attractive', 'commodities', 'hard', 'asset', 'class', 'model', 'demand', 'supply', 'model', 'lean', 'starting', 'piece', 'financial', 'theory', 'futures', 'contracts', 'contracts', 'price', 'opportunity', 'cost', 'collateralized', 'positions', 'expect', 'cash', 'return', 'highly', 'idiosyncratic', 'element', 'investors', 'ultimately', 'fee', 'performance', 'assess', 'fees', 'expected', 'alpha', 'alternative', 'investments', 'costs', 'expertise', 'implement', 'alternative', 'portfolios', 'management', 'fees', 'extremely', 'compared', 'public', 'assets', 'classes', 'model', 'remains', 'norm', 'equity', 'investors', 'pushed', 'friendly', 'terms', 'contracts', 'implicit', 'costs', 'prevalent', 'form', 'investing', 'apply', 'representative', 'allocations', 'types', 'funds', 'exhibit', 'economic', 'terms', 'sharpe', 'ratios', 'standard', 'global', 'equities', 'global', 'investment', 'grade', 'income', 'appraised', 'volatility', 'anticipated', 'volatility', 'aggressive', 'university', 'endowment', 'substantial', 'appraised', 'volatilities', 'real', 'estate', 'equity', 'infrastructure', 'highly', 'attractive', 'relative', 'public', 'asset', 'classes', 'projecting', 'economic', 'risk', 'asset', 'classes', 'return', 'risk', 'trade', 'expect', 'capital', 'markets', 'exhibit', 'prospective', 'performance', 'usd', 'terms', 'september', 'public', 'pension', 'plan', 'sovereign', 'wealth', 'fund', 'university', 'endowment', 'global', 'family', 'office', 'standard', 'yr', 'expected', 'geometric', 'return', 'economic', 'risk', 'sharpe', 'ratio', 'appraised', 'volatility', 'ubs', 'asset', 'management', 'september', 'managing', 'cash', 'flows', 'adjusting', 'volatility', 'assess', 'trade', 'offs', 'return', 'risk', 'investors', 'grapple', 'management', 'commitment', 'schedule', 'cash', 'flow', 'alternatives', 'gates', 'queues', 'occur', 'semi', 'liquid', 'asset', 'classes', 'understanding', 'relationship', 'commitments', 'navs', 'navs', 'typically', 'premiums', 'cumulative', 'contributions', 'marked', 'cost', 'projected', 'contributions', 'estimate', 'commitments', 'reach', 'target', 'nav', 'levels', 'cash', 'flow', 'figures', 'exhibit', 'estimate', 'investors', 'uncalled', 'commitments', 'targeted', 'nav', 'equity', 'portfolio', 'plan', 'target', 'usd', 'equity', 'plan', 'usd', 'uncalled', 'commitments', 'implementation', 'practical', 'issues', 'design', 'strategic', 'asset', 'allocation', 'alternatives', 'implement', 'require', 'larger', 'staff', 'asset', 'classes', 'quick', 'decision', 'structure', 'commitment', 'programs', 'require', 'additional', 'staff', 'element', 'staffing', 'legal', 'review', 'monitoring', 'terms', 'nature', 'alternative', 'assets', 'standard', 'contractual', 'terms', 'issues', 'constantly', 'arising', 'allocation', 'expenses', 'incentive', 'base', 'fee', 'formulas', 'subscriptions', 'lines', 'credit', 'investment', 'terms', 'demand', 'expert', 'legal', 'evaluation', 'requires', 'balance', 'process', 'governance', 'diligence', 'nimble', 'decision', 'difficult', 'multiple', 'stakeholders', 'public', 'oversight', 'endowment', 'community', 'successful', 'implementing', 'alternative', 'portfolios', 'quick', 'decision', 'structures', 'wide', 'authority', 'cio', 'implement', 'attractive', 'deals', 'investors', 'disadvantages', 'implementation', 'management', 'minimum', 'sizes', 'search', 'costs', 'difficulty', 'achieving', 'cross', 'sectional', 'vintage', 'concentration', 'risk', 'wide', 'variation', 'funds', 'investors', 'alternative', 'investments', 'searching', 'bump', 'return', 'curve', 'capital', 'assets', 'superior', 'returns', 'delayed', 'portfolio', 'matures', 'returning', 'distributions', 'investors', 'accelerate', 'secondary', 'market', 'time', 'consuming', 'resource', 'intensive', 'efforts', 'months', 'compete', 'thorny', 'alternative', 'investments', 'benchmarking', 'assessing', 'performance', 'cash', 'flow', 'nature', 'equity', 'infrastructure', 'closed', 'funds', 'build', 'mature', 'portfolios', 'target', 'allocations', 'proper', 'assessment', 'performance', 'dependent', 'adjusting', 'vintage', 'performance', 'compounded', 'lag', 'reporting', 'assess', 'fund', 'success', 'hedge', 'funds', 'huge', 'benchmarking', 'concerns', 'investors', 'simple', 'benchmark', 'cash', 'rates', 'bills', 'volatility', 'correlation', 'targets', 'investors', 'disadvantage', 'implementing', 'alternative', 'investments', 'afford', 'staff', 'expertise', 'additionally', 'lumpy', 'nature', 'minimum', 'investment', 'size', 'difficult', 'build', 'properly', 'diversified', 'portfolios', 'expect', 'innovation', 'vehicle', 'design', 'investors', 'retail', 'investors', 'access', 'markets', 'summary', 'alternatives', 'market', 'evolved', 'gained', 'wide', 'acceptance', 'investors', 'obscure', 'mysterious', 'standard', 'institutional', 'investors', 'experience', 'understand', 'perform', 'react', 'market', 'environments', 'primary', 'rationale', 'alternatives', 'ability', 'improve', 'risk', 'reward', 'relationship', 'investors', 'appraised', 'basis', 'economic', 'basis', 'returns', 'historic', 'averages', 'true', 'public', 'markets', 'fixed', 'income', 'benefit', 'remain', 'continue', 'evolution', 'innovation', 'marketplace', 'caveat', 'investors', 'implementation', 'alternatives', 'require', 'levels', 'oversight', 'management', 'offered', 'public', 'markets', 'search', 'diligence', 'costs', 'closed', 'nature', 'investments', 'portfolios', 'require', 'sophisticated', 'staffs', 'build', 'maintain', 'portfolios', 'sourcing', 'costs', 'references', 'erb', 'claude', 'harvey', 'campbell', 'conquering', 'misconceptions', 'commodity', 'futures', 'investing', 'financial', 'analyst', 'journal', 'forthcoming', 'getmansky', 'mila', 'lo', 'andrew', 'makarov', 'igor', 'econometric', 'model', 'serial', 'correlation', 'illiquidity', 'hedge', 'fund', 'returns', 'journal', 'financial', 'economics', 'issue', 'december', 'ilmanen', 'antti', 'chandra', 'swati', 'mcquinn', 'nicholas', 'demystifying', 'illiquid', 'assets', 'expected', 'returns', 'equity', 'journal', 'alternative', 'investments', 'winter', 'volume', 'issue', 'korteweg', 'arthur', 'risk', 'adjustment', 'equity', 'returns', 'paper', 'university', 'southern', 'california', 'marshall', 'school', 'business']",market profession qualifi institut client investor decemb altern invest improv portfolio perform ub asset manag loui finney head strateg asset alloc model michel gambera head strateg asset alloc model  tabl content introduct invest altern market size histor risk return altern tradit asset class liquid risk premium apprais econom risk real estat real estat perform equiti cash flow curv perform credit natur resourc energi timber farmland infrastructur cash flow infrastructur fund perform hedg fund hedg fund perform commod gold commod gold inflat hedg summari integr tradit asset class formul return risk expect manag cash flow implement practic issu summari refer introduct investor adjust alloc altern paper size varieti altern invest categori expect return risk investor incorpor portfolio steadi growth accept altern asset class institut portfolio investor seek diversifi sourc incom return asset class call illiquid asset class characterist public list market activ dealer market exist success asset class continu innov ongo rate environ main driver growth divid altern univers capit invest strateg invest capit real estat equiti debt infrastructur natur resourc invest strateg invest categori hedg fund commod largest sector altern equiti real estat hedg fund debt gradual attent fund flow characterist altern asset class difficult implement commod cost fund requir level oversight manag offer public market addit close natur invest continu search cost requir sophist staff build maintain portfolio sourc cost hedg fund requir degre activ manag fund level total portfolio level investor adjust alloc altern paper size varieti altern invest categori expect return risk investor incorpor portfolio classifi altern public market equiti fund debt fund distinguish public market liquid rang illiquid invest requir commit market daili liquid exhibit altern asset univers illiquid growth debt close fund transact nav perform measur irr dpis pmes analyt tool cash flow model contribut distribut tradit equiti ventur capit buyout growth infrastructur real estat opportunist distress credit direct lend mezzanin mortgag infrastructur hedg fund semi liquid growth debt fund transact nav quarter liquid queue preform measur twrr apprais nav analyt tool varianc help core real estat mortgag leverag loan hedg fund liquid growth debt market price daili liquid perform measur twrr market transact analyt tool varianc help commod liquid hedg fund strategi illiquid asset class actual transact ass short term perform reli asset valu nav base apprais distort short perform term perform asset class reli cash flow tradit measur intern rate return irr measur public market equival pme gain attent difficult measur risk asset class compar tradit asset class featur altern exclus relianc activ manag commod altern asset class systemat passiv strategi cost add addit layer risk asset class manag perform histor perform altern expect return risk profil investor build portfolio expect mute return current market condit public market rate stretch valuat equiti enorm amount capit flown sector invest altern institut level major investor altern public fund endow growth orient sovereign wealth fund famili offic aggress user univers endow alloc yale univers start trend invest altern norm alloc altern endow global famili offic alloc averag varieti altern survey mega fund public pension plan sovereign wealth fund typic alloc altern increas altern alloc corpor defin benefit pension plan player altern gradual adopt liabil driven invest defin contribut market histor plan neglig player regul encourag innov superannu fund australia recept altern alloc aggreg insur market huge alloc player tend focus real estat debt fund shi equiti hedg fund statutori reserv requir insur industri meaning alloc altern problemat account exhibit altern alloc sampl investor type public pension plan sovereign wealth fund univers endow global famili offic entiti calper gic singapor yale univers survey size billion usd averag march march june alloc equiti fix incom cash altern equiti infrastructur real estat real asset natur resourc hedg fund commod altern portfolio global famili offic report ub global wealth manag juli market size measur estim size opportun set altern market combin type date overlap public market hedg fund base fund level secur level overlap market measur estim size altern univers easi public equiti fix incom market june estim size public equiti market usd fix incom market usd total usd public asset debt equiti addit decemb estim usd direct real estat asset usd held gold opportun set add close fund asset equiti debt infrastructur natur resourc usd defin base market sum public asset direct real estat close fund usd add hedg fund real estat commod fund hedg fund exist public asset real estat fund consist exist real estat invest technic doubl count opportun set includ commod fund estim usd nuanc deal exhibit opportun set institut investor usd billion base market addit strategi dri powder base market public equiti public fix incom real estat hedg fund commod gold close fund equiti infrastructur debt natur resourc real estat total total altern real estat hedg fund commod gold equiti infrastructur debt natur resourc total preqin dec percentag base market addit strategi total base market ftse june bloomberg barclay multivers june msci ip decemb hfri june ub estim gold council jan addit fund overlap total compar total size altern marketplac ad base market altern hedg fund commod fund real estat fund aggreg estim size altern market institut investor usd base market measur market size fundrais commit cash call aka dri powder huge dri powder segment usd measur market fund rais exhibit fundrais high cyclic rise rapid bull market drop aftermath bear market tradit credit market consist mezzanin distress debt real estat mortgag dozen biggest growth debt market direct lend driven post financi crisi lend restrict attract return usd fundrais usd peak usd exhibit fundrais equiti fund rais usd billion real estat debt infrastructur natur resourc august preqin histor risk return altern tradit asset class exhibit histor perform statist major tradit altern asset statist convey relationship altern invest equiti expect return public equiti differenti volatil reflect apprais volatil econom risk illiquid leverag premium support compar median irr roll perform equiti market unlev properti return risk stock bond sector leverag opportunist fund return risk approach equiti diversifi portfolio hedg fund bond volatil bond return beta equiti market commod equiti volatil return cash posit correl equiti care interpret perform estim altern perform complic call stale price slow adjust apprais valuat embed asset nav result volatil base nav trade market econom volatil base market transact issu survivor bias select bias index fund manag requir disclos return public exhibit summari statist equiti real estat hedg fund comm oditi bill treasuri estim base quarter return geometr return arithmet return standard deviat quarter serial correl equiti correl equiti beta skew kurtosi estim base annual return standard deviat annual serial correl equiti correl equiti beta skew equiti properti hedg fund commod bill yr treasuri cambridg associ equiti ncreif properti hfri fund fund composit usd bloomberg commod usd ftse treasuri mon usd bbgbarc trsi bellweth usd usd morningstar direct analysi ub asset manag june sens impact provid estim volatil serial correl altern base quarter base roll annual estim note serial correl base quarter properti sign stale price cash serial correl issu central bank control yield subsequ return simpli annual serial correl declin annual estim notabl increas volatil equiti unlev properti hedg fund annual estim provid clearer insight reflect risk altern addit item equiti correl equiti beta adjust annual level equiti equiti correl rise equiti beta rise real estat exhibit pattern relationship equiti mute quarter correl annual compar equiti beta increas histor perform relationship return risk stale price volatil real estat equiti underestim true risk invest estim econom risk oppos nav volatil hedg fund volatil issu market liquid competit growth era late exhibit return risk treasuri hedg fund real estat cash commod standard deviat arithmet return equiti morningstar direct analysi ub asset manag june liquid risk premium apprais econom risk compens illiquid rational expect return altern invest demand option sell investor conveni investor meant reward cash flow demand premium suppli econom mechan econom risk measur manag apprais mechan altern manag creat aid explicit rule limit pay out occur elimin market price panic sell investor obvious model transform mechan simpl leverag equiti fix incom market constraint margin manag method matur mismatch substitut level credit risk final mechan option write strategi produc sharp ratio short intermedi tremend downsid risk tail event happen econom measur risk investor econom risk includ under exposur leverag credit indirect cost illiquid provid estim apprais volatil investor volatil report fund total portfolio academ skeptic real advantag asset alleg true appeal report volatil ilmanen real estat featur equiti fix incom real estat behav asset class start contractu natur real estat tangibl asset physic ownership land build corpor ownership consist tangibl capit patent softwar limit potenti scalabl real estat compar equiti histor experi real estat exhibit unlev institut real estat equiti return volatil admit distort apprais process expect stellar perform return volatil real estat deserv strong consider portfolio empir advantag real estat histor correl equiti time distinct cycl easili period equiti behav real estat bust tech bust hand real estat equiti declin global financi crisi gfc addit featur real estat market vehicl structur leverag improv return profil leverag difficult individu investor effect implement manag profession leverag fund size concentr specul ventur basic level exist commerci properti purchas practic market invest institut investor estim size real estat market market level broadest measur basic properti market measur msci ip practic institut investor access real estat market activ manag fund activ manag fund divid class evergreen fund close fund plan time horizon return asset investor practic real estat high depend locat properti type diversifi portfolio focus balanc bet typic properti type offic apart retail industri distinct featur real estat measur valuat equiti real estat focus capit rate yield invert ratio price squar foot real estat illiquid natur buy sell negoti process reinforc term view invest investor liquid vehicl core fund expect quarter sell properti redeem fund hold opportunist investor secondari market sell share exhibit real estat cycl distinct equiti cumul return period real estat equiti sep jun equiti mar sep global financi crisi equiti measur sept march real estat measu june dec real estat ncreif odc morningstar direct analysi ub asset manag exhibit size real estat market type size billion dec direct msci global annual properti ncreif nation properti ncreif diversifi core equiti fund ncreif equiti size close real estat market leverag aum dec dri powder sep core core fund fund opportunist fund debt total close preqin clarifi talk real estat oppos public real estat express reit market reit behav cap stock equiti volatil equiti index separ reit asset class rais potenti doubl count investor invest fund measur extent size market real estat perform perform real estat market differenti close market estim basic real estat market nation properti npi repres unlev properti report institut investor perform unlev properti nav basi apprais return standard deviat measur annual return perform fund diversifi core equiti odc ncreif common benchmark perform npi odc return npi note market real estat odc underperform perform close sector irr core core fund fund opportunist fund except perform expect riskier fund irr level risk opportunist fund perform fund observ real estat perform odc leverag notic downsid upsid odc set fund bull market fund return unlev benchmark fee market underperform consist negat skew index note odc larger negat skew coeffici npi close fund core fund perform expect sector time opportunist fund struggl fund beaten odc core fund real outlier fund strong perform time period fund subsequ perform market perform month lag sens close fund lock subsequ perform capit call redistribut exhibit real estat median irr perform median irr subsequ yr perform npi odc coreplus opportunist median irr yr annual return morningstar direct preqin analysi ub asset manag decemb histor core manag earn premium unlev real estat opportunist fund earn premium inconsist sens real estat trade posit skew steadier incom moder capit appreci correl inflat support statist perform exhibit real estat negat skew asset class kurtosi quarter annual estim inflat correl asset class summari real estat offer return profil equiti bond leverag offer steadi incom modest price appreci cap upsid move leav downsid risk aggress strategi offer return approach equiti commensur risk exhibit estim perform direct close fund period seri direct npi core odc core opportunist averag differc npi pre gfc averag differc npi post gfc averag differc npi npi odc averag roll return start close fund median irr vintag preqin databas morningstar direct preqin analysi ub asset manag real estat perform post global financi crisi pre global financi crisi period direct averag yr perforamnc median irr core core opportunist morningstar direct preqin analysi ub asset manag decemb negat skew relic apprais process limit index base pure transact negat skew volatil apprais process gain gradual written loss written matter quarter equiti track record exhibit surpris equiti boom equiti investor satisfi portfolio expect slight increas alloc investor come decad equiti encompass strategi nich market broad broken return orient strategi debt strategi natur resourc strategi return orient strategi tradit buyout ventur cap fund categori growth fund debt distress debt mezzanin direct lend credit natur resourc fund includ energi specif project timberland farmland aim provid inflat protect buyout fund aim public compani restructur spin profit histor controversi reput public target entrench manag stake holder resist chang ownership manag reliev public disclosur requir focus restructur firm capit strateg plan basi leverag buyout debt hold enhanc potenti return critic excess debt leaf firm vulner downturn ventur capit invest invest complet firm idea market failur rate take run produc extraordinari return fund focus growth strategi strategi provid addit financ manag govern assist propel exist busi stage buyout fund strategi exist manag target compani growth strategi exist manag growth fund compani proven led talent entrepreneur provid capit expertis expand rapid secur larger market share buyout fund typic involv manag reorient busi strategi growth categori mix late stage ventur limit buyout manag credit vehicl market combin growth ventur capit fund definit equiti credit nich equiti market distress invest distress invest focus purchas debt compani default negoti structur qualiti debt held fund expect equiti return offset cost delay payoff litig negoti bankruptci process mezzanin financ mezzanin financ junior debt financ command premium compens status capit stack includ warrant add equiti upsid option return sort convert bond appli sector compani secur exchang commiss registr direct lend credit exist sector boom gfc bank retreat lend servic compani famili busi urgent capit pay rate standard altern univers explicit alloc target asset class level institut investor final subsector broad asset class natur resourc invest dedic specif segment energi timber farmland investor carv real asset inflat protect categori saa type natur resourc fund major compon cash flow curv uniqu featur equiti invest close fund cash flow natur invest implic build maintain alloc capit partner launch fund target size market nich fund rais fund rais cycl find investor limit partner current futur cash flow limit partner commit fund sign agreement invest money fund time commit call capit call real asset categori includ real estat inflat index bond commod partner typic cycl remain call finish usd fund life span initi limit partner usd fund subsequ remain usd vast major fourth payout occur usd increas rapid success fund peak usd graph cash flow cash flow curv refer cash flow featur asset invest negat cash flow initi posit return rapid revers posit cash flow success fund evalu standard evalu equiti take build matur portfolio cash flow determin intern rate return irr cash flow provid intern rate return total distribut usd base usd contribut produc distribut paid dpi ratio typic contribut final percent call net distribut typic cash weight time contribut fund extend life ideal payout partnership wind final asset fund last perform great fund start vintag surpris perform public equiti depend time period select effort invest manag vintag public market invest evergreen vehicl asset requir constant recycl asset impos oversight cost fund level measur fund perform cite intern rate return irr irr cash flow weight return calcul standard time weight rate return public asset discrep gross irr irr fee measur investor focus distribut paid dpi simpli ratio cumul distribut cumul capit commit compound metric multipl adjust fee final market equival pme pme simpli compar perform cash flow invest public market partnership portfolio partnership result ratio detract compar market cash flow curv contribut cash fow million usd cash distribut preqin analysi ub asset manag june exhibit cash flow million usd contribut distribut cash flow key metric irr dpi preqin analysi ub asset manag june perform histor perform bear return equiti public equiti simpl comparison irr vintag subsequ perform median equiti fund outperform public equiti market strongest period late tech boom outperform mid strong perform relat perform vintag struggl averag premium histori averag premium premium rule thumb think equiti exhibit median irr equiti fund subsequ yr return median intern rate return preqin analysi ub asset manag decemb exhibit premium irr equiti fund subsequ yr return averag premium averag premium intern rate return preqin analysi ub asset manag decemb featur equiti huge dispar perform larger tradit public equiti portfolio exhibit wide rang percentil irr vintag spread averag equiti market time fund jump internet tech stock return vintag invest declin consolid market illiquid natur equiti time market imposs capit call forc investor invest fund shaki prospect commit risk opportun invest futur equiti public market compar risk measur asset class risk adjust perform hard ass exhibit irr equiti fund median intern rate return preqin decemb credit credit aspect equiti space mezzanin financ distress debt nich emerg direct lend preqin databas direct lend fund total usd rose usd bank regul gfc tighten capit requir left market gap pool capit step tend focus nich market famili own singl entrepreneur enterpris stretch tax issu mismatch asset liabil uniqu circumst hallmark fund immediaci borrow typic asset cash refin tax payment settl famili split cash outflow immediaci potenti risk credit fund charg rate generat equiti return time exhibit debt median irr yield yield worst vintag irr median yield yield worst median irr yield worst preqin bloomberg barclay decemb exhibit premium median irr yield yield worst vintag averag premium premium vintag preqin bloomberg barclay decemb perform debt fund yield chart vintag irr debt fund track yield worst yield market default rate depress return basi default rate expect actual return yield debt return yield collater exhibit premium median debt irr compar yield worst averag time period steadi note period substanti coincid turmoil yield market natur resourc energi timber farmland major investor carv specif alloc natur resourc project oil gas develop renew altern pipelin timber farmland carv real asset categori expect inflationari commod driven market fundrais invest peak oil price invest sector declin orient shift energi natur resourc play type altern involv physic asset real estat undergo larger frequent cycl perform natur resourc fund preqin databas outstand perform vintag surpris energi price boom peak mid median irr aggreg equiti fund reflect downtrend oil price peak perform gap consider natur resourc invest fundrais partial recov low expect natur resourc sector continu compon altern portfolio conveni includ timber farmland invest categori cross real estat invest boom timber mid major institut investor invest perform caus headach promin investor harvard articl expect hand dedic effort exhibit median irr natur resourc energi equiti natur resourc equiti median irr preqin decemb exhibit return risk june june timber farmland annual quarter geometr return arithmet return standard deviat serial correl equiti correl equiti beta inflat correl annual averag arithmet return standard deviat serial correl equiti correl equiti beta inflat correl timber ncreif timberland farmland ncreif farmland usd morninstar direct analysi ub asset manag june exhibit return risk timber farml annual quarter geometr return arithmet return standard deviat serial correl equiti correl equiti beta inflat correl annual averag arithmet return standard deviat serial correl equiti correl equiti beta inflat correl une decemb ncreif timberland nation properti base usd asset ncreif farmland npi base usd asset summari statist compar real estat equiti return timber disappoint return june analysi standard deviat annual estim quarter estim smoother return limit qualiti equiti correl beta coeffici asset class potenti size market question abil scale asset class expect remain nich sector total portfolio final conflict signal relationship timberland farmland inflat quarter consist negat correl annual modest posit correl revers contrast real estat measur ncreif properti consist posit correl inflat annual quarter term timberland farmland inclin annual slight posit correl assum lag apprais process distort relationship term estim infrastructur infrastructur fund invest capit project public perspect equiti project time horizon typic aspect real estat involv physic tangibl capit resili inflationari environ infrastructur equiti cash flow invest strategi substant differ type invest payout period expect perform distinguish tradit equiti infrastructur fundament physic capit intens project softwar servic capit cost steadier payout period element govern involv public natur invest sens beta equiti invest infrastructur profil equiti real estat type project infrastructur fund invest port construct mainten expans airport energi grid power construct tollway infrastructur appear standard asset portfolio addit real estat categori refin strategi core opportunist invest depend leverag riski project concentr risk cash flow infrastructur fund distinguish infrastructur fund compar standard equiti fund durat stabil cash flow expect irr infrastructur fund expect time horizon equiti typic cash flow profil infrastructur fund exhibit cash flow curv contribut cash fow million usd cash distribut ub asset manag june fund irr contribut period equiti averag contribut period time weight cash flow payout larger perform histori infrastructur perform asset class start late spars contrari asset class accept perform infrastructur equiti debt late fund reason analysi exhibit median irr infrastructur averag subsequ return time period horrend start perform except time period comparison global equiti infrastructur offer diversifi set cash flow term investor behav equiti expect asset class continu grow size heterogen offer public natur invest expect return steadier downsid protect leverag project cap upsid gain exhibit median irr equiti infrastructur infrastructur equiti median irr return preqin morningstar direct decemb hedg fund strict speak hedg fund asset class set activ strategi appli strateg asset class independ alpha embed asset class play role portfolio construct merit consider attent aggreg statist perform hedg fund stock bond hedg fund encompass wide varieti strategi concentr fund hold hand leverag bet involv trade strategi squeez margin thousand transact day focus strateg asset alloc portfolio hedg fund produc individu perform perform sector start track record broad index fund fund index extrapol investor expect build construct portfolio thousand hedg fund requir lot specif knowledg opportun cycl time hedg fund perform distinct period hedg fund growth phase mid gfc return excel outstand sharp ratio fund growth rate asset manag slip level peak usd level industri hover hedg fund perform distinct period growth period gfc strong perform categori exceed equiti volatil produc outstand sharp ratio gfc charact perform chang return declin sharp ratio exhibit perform hedg fund focus perform broad index fund fund perform term perform perform prior gfc care interpret perform hedg fund return accur time horizon concern stale price distort nav report volatil time note serial correl quarter level support concern addit issu survivor bias report bias fund base index appendix provid perform specif sector hedg fund market categor provid getmanski lo makarov fuller discuss serial correl survivor bias report bias estim exhibit perform broad hedg fund index cisdm hedg fund index hfri credit suiss equal wght composit fof diversifi fof composit fund wght composit fof diversifi fof conserv fof mkt def fof strateg hf cash yr trea march june geometr return arithmet return standard deviat serial correl equiti correl equiti beta sharp ratio june june geometr return arithmet return standard deviat serial correl equiti correl equiti beta sharp ratio pre gfc march decemb geometr return arithmet return standard deviat serial correl equiti correl equiti beta sharp ratio cisdm equal wght composit cisdm ew hedg fund usd cisdm fof diversifi cisdm fund fund diverfd usd hfri fof composit hfri fund fund composit usd hfri fund wght composit hfri fund weight composit usd hfri fof diversifi hfri fof diversifi usd hfri fof conserv hfri fof conserv usd hfri fof mkt def hfri fof market defens usd hfri fof strateg hfri fof strateg usd crediti suiss hf credit suiss hedg fund usd cash ftse treasuri mon usd yr treasuri bbgbarc trsi bellweth usd usd morningstar direct analysi ub asset manag observ sharp ratio hedg fund equiti treasuri perform prior gfc strong ratio board equiti bond ratio compar stock bond stock bond stellar decad hurdl return declin time singl digit return prior gfc norm prior gfc singl digit return excess return return cash differ volatil declin time correl equiti beta post gfc hedg fund asset class diversifi portfolio achiev volatil equiti beta return remain yield environ return return target requir concentr portfolio risk expect strategi correl equiti acknowledg hedg fund alpha diversifi combin asset class exhibit ratio approach lead revis alpha track error estim portfolio skill select fund improv portfolio perform commod dedic commod exposur institut investor start late perform oil suggest strong inflat protect negat correl equiti fix incom valuabl real term outstand benefit addit return test asset class promis return perspect concern run resourc futur return scarciti premium practic commod price declin inflat tick downward disappoint commod investor rise oil food price mid reviv mini boom hindsight classic bubbl subsequ bust wipe gain note oil price oil largest compon index peak reach summer drop wors real term perform commod index base roll futur contract disappoint return negat real term volatil expect equiti posit correl equiti great weaken strateg alloc commod activ space commod trade advisor ctas return underwhelm effort ration premium commod investor imbal hedg supplier user commod insur premium inher market grow scarciti commod skeptic view commod question premium spot commod price decreas real term hundr access asset class investor manag portfolio futur swap contract roll time invest contract compon return collater return return treasuri bill period perform assum price return return spot price matur contract price commenc contract roll return return convert matur contract roll contract erb campbel categor incom return commod rownenhoorst gorton propos return roll yield declin actual return time movement spot price sensit suppli demand hedg specul contract futur price reconcil spot price physic demand suppli commod matter short term firm inelast demand natur gas power plant fuel natur gas plant obsolet replac energi cheaper medium term competit pressur push energi commod price practic manag invest collater invest remaind yield instrument overlay exposur durat credit risk exhibit commod gold return june oil commod peak gold peak bloomberg commod usd gold dec bloomberg june model commod start cash return price financi futur contract involv treasuri yield relationship spot futur price stabl base storag cost perish factor interact rate suppli demand factor exhibit commod price peak mid crash precipit investor promin index bloomberg commod commod recov peak gold rise post gfc era hit peak plummet gold ralli piqu renew asset class investor approach commod market passiv fund match establish activ trade ctas commod trade advisor estim invest commod institut investor relat market etf mutual fund usd collect invest trust measur morningstar usd preqin databas usd cta fund attract asset class add dedic alloc investor usd compar usd ub measur total invest asset market exhibit commod tradit return gsci commod bloomberg commod gold cash bill yr treasuri cpi inflat geometr return arithmet return standard deviat equiti correl inflat correl june june geometr return arithmet return standard deviat equiti correl inflat correl gsci gsci usd bloomberg bloomberg commod usd gold lbma gold price usd cash ftse treasuri mon usd treasuri bbgbarc trsi bellweth usd usd inflat ia sbbi inflat morningstar direct analysi ub asset manag exhibit gold real yield gold lh real yield invert lh gold price usd ounc yr tip yield bloomberg septemb gold gold asset histori play enorm role financ constraint gold base currenc nation govern move fiat currenc promis support term gold gold behav commod chart gold track broad commod global financi crisi divert continu upward doubl commod drop argu gold commod currenc central bank maintain posit gold dollar unpeg gold central purchas public announc materi gold price dynam gold commod histor return volatil correl equiti commod gold inflat hedg rational hold commod gold provid protect inflat histor commod reflect major index correl inflat measur consum price partial hedg servic larger economi manufactur declin expect commod impact cpi correl commod inflat modest rang depend measur gold demonstr mix reaction inflat perform increas unexpect inflat move downward inflat sum agre gold cycl idiosyncrat element inflat break current level expect develop economi expect gold offer return rise inflat environ summari perform commod dent passiv commod attract strateg asset class institut investor inflat negat real return posit correl equiti strong headwind commod compel commod global growth kick gear suppli chain lag demand commod natur resourc infrastructur requir capit commit extract rise cost pressur inflat equiti bond slump relat term commod investor holist perspect countri resourc light korea taiwan compani sensit commod transport steel hold commod exposur reduc risk airlin cruis add commod portfolio hedg oil risk organ integr tradit asset class ultim investor blend tradit altern asset class strateg asset alloc standard tool saa varianc analysi tradit asset run difficulti appli cash flow orient invest cash flow asset apprais asset nav reflect sort market transact nav base volatil measur smooth underestim actual volatil compound issu cash flow asset class manag market transact commit schedul requir investor provid liquid partner lag adjust chang market event fundrais cyclic approach develop measur apprais volatil econom risk econom risk reflect under unsmooth risk inher invest investor awar measur formul return risk expect altern cover wide array invest opportun econom rational wide array approach formul prospect return model real estat start expect unlev properti return adjust leverag basic properti incom compon price return compon histor incom compon npi inflat real appreci mainten capit improv estim unlev properti return adjust fee alpha leverag return approach equiti return rang approach set equiti assumpt multi factor capit asset price model type approach assign beta relat public equiti addit idiosyncrat risk includ mezzanin financ special situat estim equiti portfolio econom risk compar volatil global equiti portfolio discuss analysi debt fund track yield market model debt yield market spread basi relat prevail yield worst exhibit return risk assumpt usd term septemb asset class yr expect return econom risk apprais volatil usd cash intermedi global ig fix incom global invest grade fix incom global equiti unhedg global yield hedg global equiti unhedg global infrastructur equiti unhedg global core real estat unhedg hedg fund hedg note expect return geometrc develop expect return capit market base current market market expect inflat growth path rate overlay assess fair revers market react extrapol sector capit market global equiti equiti infrastructur core real estat assum unhedg cash fix incom hedg fund assum hedg ub asset manag septemb korteweg summari academ literatur research fund beta relat public market rang ventur capit fund beta idiosyncrat risk real estat view infrastructur hybrid equiti fix incom median irr infrastructur fund vintag consist equiti averag simpl approach simpli discount return equiti set econom risk risk bear return real estat risk profil reli combin histor relationship basic heurist model hedg fund review histor perform fund fund composit hedg fund return cash equiti beta prospect hedg fund encourag rate credit spread cost borrow extrem leverag alpha opportun set sort hedg fund short market neutral macro fund unprofit trade attract addit steeper yield curv offer sort opportun fix incom carri trade roll return borrow cost environ central bank threshold rise short term rate boost hedg fund dispers return benefit strategi equiti short relat addit tailwind fit volatil regim trade orient macro manag exploit uncorrel trade opportun synchron move market market hedg fund manag appli winner loser invest approach final move sideway declin hedg fund industri start regain momentum posit cash flow investor rebal equiti return govern bond yield altern invest offer steadi incom steadi nav increas attract commod hard asset class model demand suppli model lean start piec financi theori futur contract contract price opportun cost collater posit expect cash return high idiosyncrat element investor ultim fee perform ass fee expect alpha altern invest cost expertis implement altern portfolio manag fee extrem compar public asset class model remain norm equiti investor push friend term contract implicit cost preval form invest appli repres alloc type fund exhibit econom term sharp ratio standard global equiti global invest grade incom apprais volatil anticip volatil aggress univers endow substanti apprais volatil real estat equiti infrastructur high attract relat public asset class project econom risk asset class return risk trade expect capit market exhibit prospect perform usd term septemb public pension plan sovereign wealth fund univers endow global famili offic standard yr expect geometr return econom risk sharp ratio apprais volatil ub asset manag septemb manag cash flow adjust volatil ass trade off return risk investor grappl manag commit schedul cash flow altern gate queue occur semi liquid asset class understand relationship commit nav nav typic premium cumul contribut mark cost project contribut estim commit reach target nav level cash flow figur exhibit estim investor uncal commit target nav equiti portfolio plan target usd equiti plan usd uncal commit implement practic issu design strateg asset alloc altern implement requir larger staff asset class quick decis structur commit program requir addit staff element staf legal review monitor term natur altern asset standard contractu term issu constant aris alloc expens incent base fee formula subscript line credit invest term demand expert legal evalu requir balanc process govern dilig nimbl decis difficult multipl stakehold public oversight endow communiti success implement altern portfolio quick decis structur wide author cio implement attract deal investor disadvantag implement manag minimum size search cost difficulti achiev cross section vintag concentr risk wide variat fund investor altern invest search bump return curv capit asset superior return delay portfolio matur return distribut investor acceler secondari market time consum resourc intens effort month compet thorni altern invest benchmark assess perform cash flow natur equiti infrastructur close fund build matur portfolio target alloc proper assess perform depend adjust vintag perform compound lag report ass fund success hedg fund huge benchmark concern investor simpl benchmark cash rate bill volatil correl target investor disadvantag implement altern invest afford staff expertis addit lumpi natur minimum invest size difficult build proper diversifi portfolio expect innov vehicl design investor retail investor access market summari altern market evolv gain wide accept investor obscur mysteri standard institut investor experi understand perform react market environ primari rational altern abil improv risk reward relationship investor apprais basi econom basi return histor averag true public market fix incom benefit remain continu evolut innov marketplac caveat investor implement altern requir level oversight manag offer public market search dilig cost close natur invest portfolio requir sophist staff build maintain portfolio sourc cost refer erb claud harvey campbel conquer misconcept commod futur invest financi analyst journal forthcom getmanski mila lo andrew makarov igor econometr model serial correl illiquid hedg fund return journal financi econom issu decemb ilmanen antti chandra swati mcquinn nichola demystifi illiquid asset expect return equiti journal altern invest winter volum issu korteweg arthur risk adjust equiti return paper univers southern california marshal school busi 

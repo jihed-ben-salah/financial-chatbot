@@ -1,0 +1,220 @@
+1 : CARDINAL
+goldman sachs asset management : ORG
+november 2022 : DATE
+views¹ : ORG
+1 : CARDINAL
+2022 : DATE
+gir : ORG
+1 8 : CARDINAL
+2023 : DATE
+us : GPE
+europe : LOC
+china : GPE
+2 : CARDINAL
+china : GPE
+19 : CARDINAL
+3 : CARDINAL
+2023 : DATE
+cbs : ORG
+us : GPE
+gir : ORG
+5 : CARDINAL
+2023 : DATE
+uk : GPE
+3 00 : DATE
+4 : CARDINAL
+ukraine : GPE
+china : GPE
+5 : CARDINAL
+2023 : DATE
+6 : CARDINAL
+ems : ORG
+brazil : GPE
+korea : GPE
+7 : CARDINAL
+cb policy paths : ORG
+1h 2023 : DATE
+8 : CARDINAL
+europe : LOC
+9 : CARDINAL
+us : GPE
+10 : CARDINAL
+years : DATE
+10 : CARDINAL
+2023 : DATE
+10 : CARDINAL
+2023 : DATE
+european : NORP
+japanese : NORP
+euro area : ORG
+asia : LOC
+japanese : NORP
+chinese : NORP
+3 : CARDINAL
+12 : CARDINAL
+12 : CARDINAL
+6 : CARDINAL
+europe : LOC
+441 390 : CARDINAL
+2 1 : CARDINAL
+asia pacific : LOC
+494 : CARDINAL
+11 3 : CARDINAL
+2018 2000 : DATE
+10 year : DATE
+3 : CARDINAL
+10 year : DATE
+2 0 : DATE
+10 year : DATE
+0 : CARDINAL
+3 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+0 : CARDINAL
+1 04 : CARDINAL
+0 : CARDINAL
+0 9 
+pound : TIME
+0 : CARDINAL
+139 : CARDINAL
+155 : CARDINAL
+140 : CARDINAL
+83 : CARDINAL
+115 : CARDINAL
+110 : CARDINAL
+5 : CARDINAL
+1750 1850 : DATE
+4 : CARDINAL
+2 : CARDINAL
+10 : CARDINAL
+2023 : DATE
+1federal reserve bank : ORG
+2international : CARDINAL
+3transportation : CARDINAL
+4mortgage bankers association : MONEY
+5bureau : CARDINAL
+6university : CARDINAL
+7 9goldman : CARDINAL
+8goldman : CARDINAL
+9bloomberg : ORG
+november 21 2022 : DATE
+2023 : DATE
+year : DATE
+next year : DATE
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+171 : CARDINAL
+the beginning of 20221 : DATE
+hours : TIME
+hours : TIME
+1 5 : QUANTITY
+40mm : QUANTITY
+jobs2 : ORG
+17x : DATE
+20203 : DATE
+only 2 : CARDINAL
+today : DATE
+25 : CARDINAL
+20114 : DATE
+30 : CARDINAL
+2021 : DATE
+services5 : PERSON
+60 : CARDINAL
+seven consecutive months : DATE
+morale6 : ORG
+3q 80 : CARDINAL
+500 : CARDINAL
+at least 10 : CARDINAL
+this year : DATE
+harvesting7 : PERSON
+this year : DATE
+2022 : DATE
+daily : DATE
+1 31 : DATE
+negative days : DATE
+1 14 : CARDINAL
+this year : DATE
+annual : DATE
+france8 : PERSON
+laggard year ago 25 : DATE
+today : DATE
+japan : GPE
+5 : CARDINAL
+debt8 : PRODUCT
+90th : ORDINAL
+the past ten years : DATE
+5 5x : CARDINAL
+today : DATE
+earlier this year : DATE
+100 : CARDINAL
+6 2 : CARDINAL
+2 7 : DATE
+3 : CARDINAL
+10 : CARDINAL
+2023 : DATE
+1 : CARDINAL
+november 2022 : DATE
+2 : CARDINAL
+1 5 : CARDINAL
+11 28 2022 : CARDINAL
+1 : CARDINAL
+10 year : DATE
+2 year : DATE
+the european central bank : ORG
+fed : ORG
+the federal reserve 
+fx : ORG
+year end : DATE
+2 : CARDINAL
+october 31 2022 : DATE
+20 day : DATE
+november 20 2022 : DATE
+500 : CARDINAL
+september 30 2022 : DATE
+daily : DATE
+500 : CARDINAL
+daily : DATE
+1932 : DATE
+the msci ac asia pacific : ORG
+japan : GPE
+4 : CARDINAL
+5 : CARDINAL
+8 : CARDINAL
+the asia pacific region : LOC
+500 : CARDINAL
+500 : CARDINAL
+500 : CARDINAL
+europe : LOC
+600 : CARDINAL
+europe : LOC
+1800 : CARDINAL
+tokyo : GPE
+the tokyo stock exchange : ORG
+first : ORDINAL
+the 10 year : DATE
+treasury : ORG
+us treasury : ORG
+10 years : DATE
+the university of michigan : ORG
+monthly : DATE
+4 : CARDINAL
+10 : CARDINAL
+2023 : DATE
+10 year : DATE
+the united states government : ORG
+goldman sachs asset management : ORG
+2022 : CARDINAL
+299697 otu 1709288 date : DATE
+first : ORDINAL
+december 1 2022 : DATE
+800 312 : CARDINAL
+888 : CARDINAL
+1151 : DATE
+800 559 : CARDINAL
+866 473 8637 : CARDINAL
+800 : CARDINAL
+2550 : CARDINAL
+212 : CARDINAL
+8157 : DATE
+mpdec2022 : GPE

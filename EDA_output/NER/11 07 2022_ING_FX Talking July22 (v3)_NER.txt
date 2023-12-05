@@ -1,0 +1,922 @@
+fx talking july 2022 
+ 1 
+ 
+ : ORG
+chris : PERSON
+chris : PERSON
+july 2022 : DATE
+july 2022 : DATE
+2 : CARDINAL
+10 : CARDINAL
+0 95 : CARDINAL
+175bp : ORDINAL
+swedish : NORP
+summer : DATE
+the 
+yen : ORG
+the swiss franc : ORG
+the swiss national bank : ORG
+this summer : DATE
+south african : NORP
+brazilian : NORP
+october : DATE
+asia : LOC
+korean : NORP
+indonesian : NORP
+fx : ORG
+1 : CARDINAL
+133 : CARDINAL
+1 20 : CARDINAL
+3 : CARDINAL
+132 : CARDINAL
+1 22 : CARDINAL
+6 : CARDINAL
+128 : CARDINAL
+1 26 : CARDINAL
+12 : CARDINAL
+pln 
+ : PERSON
+1 : CARDINAL
+87 : CARDINAL
+3 : CARDINAL
+0 86 : DATE
+24 : CARDINAL
+70 : CARDINAL
+6 : CARDINAL
+0 86 : DATE
+4 65 : DATE
+12 : CARDINAL
+60 : CARDINAL
+1 : CARDINAL
+20 : CARDINAL
+3 : CARDINAL
+6 : CARDINAL
+70 : CARDINAL
+12 : CARDINAL
+6 20 : DATE
+6 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+12 : CARDINAL
+0 : CARDINAL
+13 : CARDINAL
+50 : CARDINAL
+4 : CARDINAL
+15 100 : CARDINAL
+4 jan 15 100 : DATE
+july 2022 : DATE
+3 : CARDINAL
+1 0133 : CARDINAL
+europe : LOC
+america : GPE
+10 : CARDINAL
+10 fall : DATE
+25bp : ORDINAL
+this summer : DATE
+0 : CARDINAL
+98 50bp : DATE
+fed : ORG
+0 95 
+ don : QUANTITY
+this summer : DATE
+fed : ORG
+mkt : ORG
+1 : CARDINAL
+chris : PERSON
+chris : PERSON
+136 97 : CARDINAL
+one : CARDINAL
+this summer : DATE
+135 : CARDINAL
+10 year : DATE
+3 50 : CARDINAL
+july 21st : DATE
+mkt : ORG
+1 : CARDINAL
+136 : CARDINAL
+68 : CARDINAL
+3 : CARDINAL
+132 : CARDINAL
+128 : CARDINAL
+134 : CARDINAL
+63 : CARDINAL
+12 : CARDINAL
+126 : CARDINAL
+131 : CARDINAL
+93 : CARDINAL
+chris : PERSON
+chris : PERSON
+bank of england : ORG
+1 1971 : DATE
+11 : CARDINAL
+october : DATE
+50bp : ORDINAL
+august 4th : DATE
+summer : DATE
+1 17 : CARDINAL
+1 14 : CARDINAL
+15 : CARDINAL
+the year : DATE
+september : DATE
+this autumn : DATE
+mkt : ORG
+1 : CARDINAL
+chris : PERSON
+chris : PERSON
+july 2022 : DATE
+4 : CARDINAL
+138 : CARDINAL
+79 : CARDINAL
+european : NORP
+germany : GPE
+russian : NORP
+german : NORP
+175bp : ORDINAL
+summer : DATE
+132 : CARDINAL
+mkt : ORG
+1 : CARDINAL
+136 : CARDINAL
+81 : CARDINAL
+3 : CARDINAL
+139 : CARDINAL
+77 : CARDINAL
+6 : CARDINAL
+138 : CARDINAL
+43 12 : DATE
+141 : CARDINAL
+137 : CARDINAL
+42 : CARDINAL
+chris : PERSON
+chris : PERSON
+0 8465 : DATE
+uk : GPE
+august : DATE
+0 8300 : CARDINAL
+1 00 : CARDINAL
+this summer : DATE
+85 86 : DATE
+brussels : GPE
+september : DATE
+mkt : ORG
+1 : CARDINAL
+8479 : DATE
+0 86 : DATE
+6 : CARDINAL
+0 86 : DATE
+8549 12 : DATE
+87 : CARDINAL
+chris : PERSON
+chris : PERSON
+0 9929 
+ 
+ last month : DATE
+50bp : ORDINAL
+last month : DATE
+4 5 : CARDINAL
+year : DATE
+1 00 : CARDINAL
+september : DATE
+mkt : ORG
+1 : CARDINAL
+0 98 : DATE
+9930 3 : DATE
+0 97 : DATE
+9928 6 : DATE
+0 96 : DATE
+9919 12 : DATE
+0 98 : DATE
+9896 : CARDINAL
+chris : PERSON
+chris : PERSON
+july 2022 : DATE
+5 : CARDINAL
+10 30 : CARDINAL
+the coming weeks : DATE
+the year : DATE
+2023 : DATE
+100bp : CARDINAL
+year end : DATE
+10 00 : CARDINAL
+the end of the year : DATE
+mkt : ORG
+1 : CARDINAL
+10 40 : DATE
+10 : CARDINAL
+10 15 : DATE
+9 80 : DATE
+9 40 : DATE
+10 49 : CARDINAL
+10 72 : DATE
+50bp : ORDINAL
+september : DATE
+25bp : DATE
+european : NORP
+3q : CARDINAL
+4q : CARDINAL
+10 20 : CARDINAL
+mkt : ORG
+1 : CARDINAL
+10 85 : DATE
+10 30 : DATE
+9 90 : DATE
+4414 : CARDINAL
+zero : CARDINAL
+june : DATE
+first : ORDINAL
+2014 : DATE
+this fall : DATE
+mkt : ORG
+1 : CARDINAL
+7 44 : DATE
+7 4411 3 : DATE
+7 : CARDINAL
+6 : CARDINAL
+7 45 : DATE
+7 4346 : DATE
+july 2022 : DATE
+6 : CARDINAL
+1 2991 : DATE
+north america : LOC
+75bp : ORDINAL
+july : DATE
+mkt : ORG
+1 : CARDINAL
+1 31 1 2992 : DATE
+6812 : CARDINAL
+50bp : ORDINAL
+fx : ORG
+summer : DATE
+china : GPE
+beijing : GPE
+66 : CARDINAL
+67 : CARDINAL
+the coming weeks : DATE
+year end : DATE
+mkt : ORG
+1 : CARDINAL
+6814 3 : DATE
+0 : CARDINAL
+6818 : DATE
+6 : CARDINAL
+0 71 : DATE
+6822 12 : DATE
+0 73 : DATE
+6813 : DATE
+0 6166 : DATE
+50bp : ORDINAL
+july : DATE
+new zealand : GPE
+2009 : DATE
+2q22 : CARDINAL
+august : DATE
+the end of the year 
+  : DATE
+1 10 : CARDINAL
+0 6000 : CARDINAL
+mkt : ORG
+1 : CARDINAL
+6165 : DATE
+3 : CARDINAL
+62 : CARDINAL
+6 : CARDINAL
+0 64 : DATE
+6155 : DATE
+12 : CARDINAL
+0 66 : DATE
+6143 : CARDINAL
+july 2022 : DATE
+7 : CARDINAL
+eur pln 
+nbp : PERSON
+4 : CARDINAL
+50bp : ORDINAL
+july : DATE
+75bp : ORDINAL
+8 5 : CARDINAL
+europe : LOC
+eur pln : PERSON
+5 : CARDINAL
+russian : NORP
+poland : GPE
+eur pln : PERSON
+4 60 : CARDINAL
+mkt : ORG
+1 : CARDINAL
+4 87 : DATE
+8210 : DATE
+4 65 4 9726 12 : DATE
+5 : CARDINAL
+1308 : DATE
+407 : CARDINAL
+51 : CARDINAL
+417 : CARDINAL
+july : DATE
+9 75 : CARDINAL
+400 : CARDINAL
+brussels : GPE
+second : ORDINAL
+cee : ORG
+1h23 : CARDINAL
+mkt : ORG
+1 : CARDINAL
+400 : CARDINAL
+411 : CARDINAL
+42 : CARDINAL
+385 : CARDINAL
+419 : ORG
+64 : CARDINAL
+6 : CARDINAL
+380 : CARDINAL
+432 : CARDINAL
+96 : CARDINAL
+12 : CARDINAL
+458 45 : CARDINAL
+peter virovacz : PERSON
+eur czk : PERSON
+koruna : GPE
+24 65 : DATE
+czech national bank : ORG
+fx : ORG
+24 75 : CARDINAL
+5 8 : CARDINAL
+the end of april 
+  : DATE
+the fourth quarter : DATE
+the koruna 
+source refinitiv ing : FAC
+mkt : ORG
+1 : CARDINAL
+24 8 : DATE
+24 5 : DATE
+26 34 : DATE
+july 2022 : DATE
+8 : CARDINAL
+eur ron 
+ : PERSON
+4 : CARDINAL
+9441 : CARDINAL
+100bp : CARDINAL
+15 : CARDINAL
+at least the end of this year : DATE
+romania : GPE
+mkt : ORG
+1 : CARDINAL
+4 : CARDINAL
+9774 : CARDINAL
+5 : CARDINAL
+5 1638 12 : DATE
+5 05 : DATE
+3884 : CARDINAL
+one : CARDINAL
+7 5175 : DATE
+the end of june : DATE
+the european union : ORG
+20th : ORDINAL
+january 2023 : DATE
+july : DATE
+two : CARDINAL
+fx : ORG
+euro : ORG
+7 5345 : CARDINAL
+fx : ORG
+mkt : ORG
+1 : CARDINAL
+3 : CARDINAL
+6 : CARDINAL
+7 54 : DATE
+12 : CARDINAL
+7 : DATE
+117 35 : CARDINAL
+25bp to 2 75 : DATE
+july : DATE
+117 50 : CARDINAL
+the beginning of 
+june : DATE
+fx : ORG
+mkt : ORG
+1 : CARDINAL
+117 : CARDINAL
+117 : CARDINAL
+117 : CARDINAL
+123 : CARDINAL
+july 2022 : DATE
+9 : CARDINAL
+month : DATE
+61 38 : DATE
+month : DATE
+2nd half of the month : DATE
+rub1 2 tr 20 : PRODUCT
+summer : DATE
+20 30bn per month : DATE
+fx : ORG
+fx : ORG
+mkt : ORG
+1 : CARDINAL
+65 00 : DATE
+62 : DATE
+56 : CARDINAL
+65 00 : DATE
+65 00 : DATE
+12 : CARDINAL
+70 00 : DATE
+84 38 : DATE
+29 : CARDINAL
+russian : NORP
+the end of the year : DATE
+russian : NORP
+mkt : ORG
+1 : CARDINAL
+30 : CARDINAL
+32 : CARDINAL
+6 : CARDINAL
+29 50 : DATE
+24 : CARDINAL
+27 : CARDINAL
+38 18 : CARDINAL
+465 11 : CARDINAL
+june july : DATE
+kazakhstan russia : ORG
+cpc : ORG
+80 : CARDINAL
+kazakhstan : GPE
+monthly : DATE
+4 4 3 : CARDINAL
+5 : CARDINAL
+4 : CARDINAL
+110 120 : CARDINAL
+2 : CARDINAL
+russia : GPE
+450 500 : CARDINAL
+usa eu : ORG
+china : GPE
+mkt : ORG
+1 : CARDINAL
+480 : CARDINAL
+10 : CARDINAL
+480 : CARDINAL
+470 : CARDINAL
+87 12 : CARDINAL
+480 : CARDINAL
+80 : CARDINAL
+fx : ORG
+july 2022 : DATE
+10 : CARDINAL
+17 32 : CARDINAL
+late april : DATE
+fx : ORG
+mkt : ORG
+1 : CARDINAL
+17 45 : DATE
+17 : CARDINAL
+18 35 : DATE
+19 90 : DATE
+90 12 : DATE
+22 : CARDINAL
+26 : CARDINAL
+16 : CARDINAL
+june : DATE
+brazil : GPE
+south africa : GPE
+this summer : DATE
+18 : CARDINAL
+fed : ORG
+10 : CARDINAL
+50bp : ORDINAL
+4 75 : CARDINAL
+6 5 : CARDINAL
+6 00 : DATE
+year end : DATE
+mkt : ORG
+1 : CARDINAL
+17 50 : DATE
+18 00 : DATE
+17 75 : DATE
+17 25 : DATE
+17 51 : CARDINAL
+chris : PERSON
+chris : PERSON
+3 4843 : DATE
+3 50 : CARDINAL
+fx : ORG
+last month : DATE
+50bp : ORDINAL
+2 50 : DATE
+early next year : DATE
+israeli : NORP
+5 this year : DATE
+all year : DATE
+mkt : ORG
+1 : CARDINAL
+3 40 : DATE
+3 10 : DATE
+chris : PERSON
+chris : PERSON
+july 2022 : DATE
+11 : CARDINAL
+5 2551 : DATE
+10 : CARDINAL
+the last month : DATE
+brazil : GPE
+early year : DATE
+china : GPE
+50bp : ORG
+last month : DATE
+13 25 : CARDINAL
+august : DATE
+12 : CARDINAL
+300bp : ORG
+capitol hill : ORG
+mkt : ORG
+1 : CARDINAL
+6 : CARDINAL
+5 : DATE
+5359 : DATE
+5 80 : DATE
+5 : CARDINAL
+7717 : DATE
+chris : PERSON
+chris : PERSON
+mxn 
+banxico : PERSON
+20 54 : CARDINAL
+june : DATE
+early august : DATE
+fed : ORG
+50bp : ORDINAL
+july 27th : DATE
+fed : ORG
+20 : CARDINAL
+this month : DATE
+mexico : GPE
+bbb p : ORG
+4 : CARDINAL
+brazil : GPE
+21 00 : DATE
+20 00 : DATE
+mkt : ORG
+1 : CARDINAL
+20 50 : DATE
+25 : CARDINAL
+20 25 : DATE
+chris : PERSON
+chris : PERSON
+974 11 : CARDINAL
+the chilean peso usd clp : ORG
+20 : CARDINAL
+fx : ORG
+45bn : ORDINAL
+june : DATE
+fx : ORG
+9 : DATE
+june : DATE
+10 : CARDINAL
+4th : ORDINAL
+mkt : ORG
+1 : CARDINAL
+980 : CARDINAL
+06 : CARDINAL
+15 : CARDINAL
+1000 1009 : DATE
+77 12 : CARDINAL
+950 1036 90 : DATE
+chris : PERSON
+chris : PERSON
+july 2022 : DATE
+12 : CARDINAL
+asia : LOC
+6 7137 : DATE
+this month : DATE
+15 july : DATE
+the quarter : DATE
+us : GPE
+chinese : NORP
+chinese : NORP
+mkt : ORG
+1 : CARDINAL
+6 68 : DATE
+3 : CARDINAL
+7053 6 : DATE
+6932 12 : DATE
+6 20 : DATE
+iris : PERSON
+iris pang : FAC
+asia : LOC
+79 42 : CARDINAL
+early 2021 : DATE
+us : GPE
+the coming quarters : DATE
+50bp : ORDINAL
+mkt : ORG
+1 : CARDINAL
+80 00 : DATE
+65 : CARDINAL
+79 00 : DATE
+12 : CARDINAL
+81 : CARDINAL
+robert carnell : PERSON
+asia : LOC
+idr 
+idr slides : PERSON
+14972 : DATE
+june : DATE
+2022 : DATE
+indonesia : GPE
+mkt : ORG
+1 : CARDINAL
+14981 : DATE
+3m 14950 15006 : DATE
+14570 15098 : DATE
+nicholas mapa : ORG
+asia : LOC
+asia : LOC
+july 2022 : DATE
+13 : CARDINAL
+1320 : DATE
+1304 65 : DATE
+last 
+month : DATE
+korea : GPE
+50bp : ORG
+13 july : DATE
+june : DATE
+fed : ORG
+the end of the month 
+  : DATE
+korea : GPE
+the first half of this year : DATE
+mkt : ORG
+1 : CARDINAL
+39 : CARDINAL
+1310 1302 : DATE
+1291 : DATE
+70 : CARDINAL
+robert carnell : PERSON
+asia : LOC
+php 
+php : PERSON
+56 : CARDINAL
+year : DATE
+june : DATE
+last june : DATE
+25bp : DATE
+mkt : ORG
+1 : CARDINAL
+56 : DATE
+07 : CARDINAL
+56 : DATE
+54 : DATE
+56 : CARDINAL
+28 : CARDINAL
+12 : CARDINAL
+53 85 : DATE
+nicholas mapa : ORG
+asia : LOC
+july 2022 : DATE
+14 : CARDINAL
+1 4013 : DATE
+june : DATE
+fed : ORG
+multi year : DATE
+singapore : GPE
+october : DATE
+mkt : ORG
+1 : CARDINAL
+1 : CARDINAL
+1 37 1 : DATE
+3984 : DATE
+nicholas mapa : ORG
+asia : LOC
+29 83 : CARDINAL
+taiwan : GPE
+taiwan central bank : ORG
+september : DATE
+12 5bp : DATE
+europe : LOC
+taiwan : GPE
+taiwan : GPE
+mkt : ORG
+1 : CARDINAL
+29 80 : DATE
+29 : CARDINAL
+79 : CARDINAL
+29 : CARDINAL
+29 : CARDINAL
+69 : CARDINAL
+6 : CARDINAL
+29 : CARDINAL
+29 : CARDINAL
+47 : CARDINAL
+12 : CARDINAL
+28 : CARDINAL
+29 01 : DATE
+iris pang : ORG
+iris pang : FAC
+asia : LOC
+july 2022 : DATE
+15 : CARDINAL
+1 : CARDINAL
+12 : CARDINAL
+1 : CARDINAL
+12 : CARDINAL
+fx : ORG
+135 : CARDINAL
+66 : CARDINAL
+60 : DATE
+24 : DATE
+137 : CARDINAL
+133 : CARDINAL
+132 : CARDINAL
+128 : CARDINAL
+126 : CARDINAL
+85 : CARDINAL
+86 : CARDINAL
+86 : CARDINAL
+87 : CARDINAL
+1 : CARDINAL
+1 29 : CARDINAL
+0 99 : CARDINAL
+98 : CARDINAL
+0 : CARDINAL
+97 : CARDINAL
+96 : CARDINAL
+0 : CARDINAL
+98 : CARDINAL
+0 : CARDINAL
+98 : CARDINAL
+96 : CARDINAL
+92 : CARDINAL
+89 : CARDINAL
+88 : CARDINAL
+10 : CARDINAL
+80 : CARDINAL
+9 40 : QUANTITY
+10 17 : DATE
+10 72 : DATE
+10 : CARDINAL
+05 : CARDINAL
+7 : CARDINAL
+7 : CARDINAL
+7 : CARDINAL
+7 : CARDINAL
+7 460 : CARDINAL
+7 : CARDINAL
+66 : CARDINAL
+1 : CARDINAL
+1 : CARDINAL
+1 : CARDINAL
+1 : CARDINAL
+1 : CARDINAL
+1 : CARDINAL
+0 68 : DATE
+0 : CARDINAL
+67 : CARDINAL
+69 : CARDINAL
+0 : CARDINAL
+71 : CARDINAL
+73 : CARDINAL
+1 : CARDINAL
+0 62 : DATE
+60 : CARDINAL
+62 : CARDINAL
+64 : CARDINAL
+66 : CARDINAL
+4 : CARDINAL
+4 : CARDINAL
+87 : CARDINAL
+4 : CARDINAL
+4 72 : DATE
+11 : CARDINAL
+5 : DATE
+400 : CARDINAL
+00 : CARDINAL
+385 : CARDINAL
+00 : CARDINAL
+402 : CARDINAL
+392 : CARDINAL
+367 : CARDINAL
+352 321 : CARDINAL
+24 65 : DATE
+24 : CARDINAL
+0 : CARDINAL
+21 9 : DATE
+4 : CARDINAL
+4 : CARDINAL
+95 : CARDINAL
+4 : CARDINAL
+95 : CARDINAL
+4 : CARDINAL
+95 : CARDINAL
+5 : CARDINAL
+4 : CARDINAL
+71 : CARDINAL
+58 : CARDINAL
+7 52 : CARDINAL
+7 : DATE
+7 : CARDINAL
+6 : CARDINAL
+117 4 : CARDINAL
+115 : CARDINAL
+2 : CARDINAL
+9 : CARDINAL
+108 : CARDINAL
+9 : DATE
+105 : CARDINAL
+64 40 : DATE
+3 : CARDINAL
+61 38 65 : DATE
+70 : CARDINAL
+29 : CARDINAL
+30 1 31 : DATE
+9 : CARDINAL
+29 : CARDINAL
+29 : CARDINAL
+50 : CARDINAL
+29 : CARDINAL
+50 : CARDINAL
+29 : CARDINAL
+50 : CARDINAL
+470 : CARDINAL
+504 : CARDINAL
+0 : CARDINAL
+6 : CARDINAL
+465 : CARDINAL
+480 : CARDINAL
+480 : CARDINAL
+17 : CARDINAL
+24 : CARDINAL
+17 32 : DATE
+17 : CARDINAL
+22 : CARDINAL
+15 : CARDINAL
+17 : CARDINAL
+17 : CARDINAL
+3 : CARDINAL
+68 : CARDINAL
+3 : CARDINAL
+3 48 : DATE
+5 : CARDINAL
+5 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+20 : CARDINAL
+7 : CARDINAL
+20 54 : DATE
+1050 1080 1064 : DATE
+950 
+asia 
+eur : PRODUCT
+6 80 : CARDINAL
+6 71 : DATE
+6 : CARDINAL
+6 : DATE
+15181 15555 : DATE
+15962 16318 : DATE
+14973 15250 : DATE
+14950 14780 14570 : DATE
+80 : CARDINAL
+6 : CARDINAL
+79 : CARDINAL
+80 : CARDINAL
+50 : CARDINAL
+79 : CARDINAL
+1322 1346 : DATE
+1376 1382 1389 usd krw : DATE
+1304 1320 : DATE
+1310 1280 1240 : DATE
+56 : CARDINAL
+57 : CARDINAL
+1 : CARDINAL
+58 5 : DATE
+60 : CARDINAL
+56 : CARDINAL
+56 : CARDINAL
+55 : DATE
+53 85 : DATE
+30 : CARDINAL
+4 : CARDINAL
+9 : CARDINAL
+32 : CARDINAL
+0 usd twd : QUANTITY
+7 : CARDINAL
+6 : CARDINAL
+july 2022 : DATE
+16 : CARDINAL
+the dutch central bank : ORG
+the european central bank : ORG
+dutch : NORP
+the dutch authority : ORG
+netherlands : GPE
+33031431 : DATE
+the united kingdom : GPE
+bank v london : ORG
+bank v london : ORG
+the prudential regulation authority : ORG
+the prudential regulation authority : ORG
+uk : GPE
+bank v london : ORG
+8 10 : DATE
+london : GPE
+6da : GPE
+nyse : ORG
+the united states : GPE

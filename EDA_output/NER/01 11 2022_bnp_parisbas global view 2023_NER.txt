@@ -1,0 +1,671 @@
+v s m n : ORG
+2 : CARDINAL
+2023 : DATE
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+16 : CARDINAL
+19 : CARDINAL
+22 : CARDINAL
+25 : CARDINAL
+28 : CARDINAL
+china : GPE
+31 : CARDINAL
+2 : CARDINAL
+bhandari : PERSON
+daniel morris : ORG
+alexander bernhardt 
+global : PERSON
+edward lees : PERSON
+vincent nichols 
+investment specialist 
+chi lo 
+senior : PERSON
+karen : PERSON
+2 : CARDINAL
+2022 : DATE
+60 : CARDINAL
+40 : CARDINAL
+october : DATE
+60 40 : CARDINAL
+its worst year : DATE
+second : ORDINAL
+almost 30 year : DATE
+60 40 : CARDINAL
+recent years : DATE
+the japanese yen : ORG
+ukraine : GPE
+europe : LOC
+years : DATE
+sino : NORP
+taiwan : GPE
+zero : CARDINAL
+zero : CARDINAL
+zero : CARDINAL
+2 : CARDINAL
+2023 : DATE
+china : GPE
+china : GPE
+europe : LOC
+china : GPE
+zero : CARDINAL
+chinese : NORP
+europe : LOC
+europe : LOC
+zero : CARDINAL
+china : GPE
+europe : LOC
+us : GPE
+the third quarter of 2023 : DATE
+china : GPE
+winter : DATE
+europe : LOC
+us : GPE
+china : GPE
+us : GPE
+2023 : DATE
+daniel morris : ORG
+3 : CARDINAL
+the end of 2023 : DATE
+average1 : ORG
+1 : CARDINAL
+the us federal reserve : ORG
+european : NORP
+nearly usd 400 billion : MONEY
+1 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 
+2000 2005 : DATE
+2010 2015 2020 : DATE
+august 2022 : DATE
+paribas : ORG
+1 : CARDINAL
+november 2022 : DATE
+v s m n : ORG
+2 : CARDINAL
+europe : LOC
+the 1970s : DATE
+2 : CARDINAL
+10 : CARDINAL
+2019 : DATE
+2 : CARDINAL
+2024 : DATE
+uk : GPE
+germany : GPE
+200 billion : CARDINAL
+italian : NORP
+4 : CARDINAL
+40 : CARDINAL
+2022 : DATE
+2023 : DATE
+europe : LOC
+2 : CARDINAL
+the 1970s : DATE
+12 5 : CARDINAL
+25 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+800 : CARDINAL
+1600 : DATE
+12 5 : CARDINAL
+25 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+800 : CARDINAL
+1600 : CARDINAL
+20 : CARDINAL
+70 : CARDINAL
+100 : CARDINAL
+2019 : DATE
+100 : CARDINAL
+1973 : DATE
+100 : CARDINAL
+2019 : DATE
+months : DATE
+21 oct 2022 : DATE
+bloomberg bnp paribas : PERSON
+2 : CARDINAL
+two : CARDINAL
+chinese : NORP
+2022 : DATE
+zero : CARDINAL
+2023 : DATE
+china : GPE
+mrna : GPE
+communist party : ORG
+congress : ORG
+party congress speech : ORG
+china : GPE
+us : GPE
+europe : LOC
+6 : CARDINAL
+us : GPE
+china : GPE
+3 2 : CARDINAL
+3 : CARDINAL
+china : GPE
+us : GPE
+year : DATE
+year : DATE
+0 4 : CARDINAL
+6 6 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+us : GPE
+sept 2022 : DATE
+bnp paribas : ORG
+2 : CARDINAL
+november 2022 : DATE
+v s m n : ORG
+2022 : DATE
+an extraordinary year : DATE
+half : CARDINAL
+many decades : DATE
+60 : CARDINAL
+40 : CARDINAL
+20 : CARDINAL
+late october : DATE
+9 10 : CARDINAL
+the last 50 odd years : DATE
+2008 : DATE
+14 : CARDINAL
+2022 : DATE
+asia : LOC
+europe : LOC
+2022 : DATE
+one : CARDINAL
+2023 : DATE
+2022 : DATE
+europe : LOC
+maya bhandari 
+global : PERSON
+i v s m n : PRODUCT
+2 : CARDINAL
+3 : CARDINAL
+1 : CARDINAL
+three month : DATE
+1 5 : CARDINAL
+0 5 : CARDINAL
+0 0 : CARDINAL
+0 5 : CARDINAL
+1 0 : CARDINAL
+1 5 : CARDINAL
+2 0 : CARDINAL
+2 5 : CARDINAL
+0 5 : CARDINAL
+0 0 : CARDINAL
+0 5 : CARDINAL
+1 0 : CARDINAL
+1 5 : CARDINAL
+2 0 : CARDINAL
+2 5 : CARDINAL
+3 0 
+2005 : DATE
+2015 2020 : DATE
+5 year 5 year : DATE
+25 oct 2022 : DATE
+bloomberg bnp paribas : PERSON
+2022 : DATE
+one : CARDINAL
+today : DATE
+three : CARDINAL
+2023 : DATE
+1 : CARDINAL
+the us federal reserve : ORG
+2 : CARDINAL
+3 : CARDINAL
+china : GPE
+russia : GPE
+us : GPE
+europe : LOC
+2023 : DATE
+fed : ORG
+fed : ORG
+3 : CARDINAL
+2022 : DATE
+2 year : DATE
+march : DATE
+fed : ORG
+three years : DATE
+1 5 to 5 : CARDINAL
+just six months five year : DATE
+five years : DATE
+50 year : DATE
+us : GPE
+europe year ago : DATE
+1 50 and 1 25 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+europe : LOC
+mid 2023 : DATE
+2022 : DATE
+2 : CARDINAL
+0 000 : CARDINAL
+0 025 : CARDINAL
+0 050 : CARDINAL
+0 075 : CARDINAL
+0 100 : CARDINAL
+0 125 : CARDINAL
+0 150 : CARDINAL
+25 : CARDINAL
+50 : CARDINAL
+75 : CARDINAL
+100 : CARDINAL
+125 : CARDINAL
+150 : CARDINAL
+175 : CARDINAL
+200 : CARDINAL
+2011 2013 : DATE
+2021 : DATE
+5 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+24 oct 2022 : DATE
+1 4 9 : DATE
+fed : ORG
+v s m n : ORG
+european : NORP
+one : CARDINAL
+2020 : DATE
+european : NORP
+around 10 : CARDINAL
+five year : DATE
+eight : CARDINAL
+second : ORDINAL
+2022 : DATE
+europe : LOC
+us : GPE
+three million : CARDINAL
+2023 : DATE
+300 000 : CARDINAL
+400bp : FAC
+the summer of 2021 : DATE
+europe : LOC
+ukraine : GPE
+3 : CARDINAL
+twelve month : DATE
+10 90th : DATE
+15 years : DATE
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+japan : GPE
+china : GPE
+24 oct 2022 : DATE
+bloomberg bnp paribas : PERSON
+3 : CARDINAL
+europe : LOC
+china : GPE
+japan : GPE
+2022 : DATE
+january 2022 : DATE
+2022 : DATE
+2023 : DATE
+asia : LOC
+us : GPE
+2023 : DATE
+china : GPE
+taiwan : GPE
+4 : CARDINAL
+30 : CARDINAL
+20 : CARDINAL
+10 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+30 : CARDINAL
+20 : CARDINAL
+10 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+msci usa nasdaq : PERSON
+100 : CARDINAL
+europe : LOC
+msci emu msci : PERSON
+msci japan : PERSON
+msci : PERSON
+24 oct 2022 : DATE
+bloomberg bnp paribas : PERSON
+3 : CARDINAL
+2022 : DATE
+10 november 2022 : DATE
+more than 50 year : DATE
+five year five year : DATE
+us : GPE
+2023 : DATE
+us : GPE
+the end of 2023 : DATE
+1 : CARDINAL
+2023 : DATE
+1 : CARDINAL
+november 2022 : DATE
+alexander bernhardt 
+global : PERSON
+early 2005 : DATE
+united nations : ORG
+kofi annan : PERSON
+only few years later : DATE
+ten : CARDINAL
+quarters or years : DATE
+2005 : DATE
+2005 : DATE
+v s m n : ORG
+more than usd 100 trillion : CARDINAL
+six : CARDINAL
+50 : CARDINAL
+2015 : DATE
+more than 500 1 : CARDINAL
+the past 20 years : DATE
+before 2004 : DATE
+1 : CARDINAL
+2021 : DATE
+one : CARDINAL
+more than 270 : CARDINAL
+some usd 61 trillion : MONEY
+zero : CARDINAL
+2050 : DATE
+zero : CARDINAL
+2 : CARDINAL
+2 : CARDINAL
+zero : CARDINAL
+43 : CARDINAL
+zero : CARDINAL
+273 : CARDINAL
+zero : CARDINAL
+v s m n : ORG
+3 : CARDINAL
+edward lees : PERSON
+4 0 : CARDINAL
+3d : CARDINAL
+4 0 : CARDINAL
+england : GPE
+between 1760 and 1860 : DATE
+second : ORDINAL
+us : GPE
+the 1850s : DATE
+the early 2000s : DATE
+second : ORDINAL
+4 0 : CARDINAL
+1 : CARDINAL
+fourth : ORDINAL
+1st 1760 1860 : DATE
+2nd 1850s 1914 : DATE
+3rd 1969 2000s : DATE
+4th : ORDINAL
+4 : CARDINAL
+zero : CARDINAL
+the next decade : DATE
+4 0 : CARDINAL
+the next 10 to 20 years : DATE
+3 : CARDINAL
+vincent nichols 
+investment specialist : PERSON
+2023 : DATE
+2022 : DATE
+today : DATE
+2023 1 : DATE
+2 : CARDINAL
+gartner : ORG
+5 : CARDINAL
+2023 : CARDINAL
+one : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+next twelve month : DATE
+north american : NORP
+6x : CARDINAL
+2013 2018 : DATE
+32 : CARDINAL
+five year : DATE
+1 5 : CARDINAL
+6 : CARDINAL
+the us federal reserve : ORG
+1 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+north american : NORP
+3 : CARDINAL
+12 : CARDINAL
+13 : CARDINAL
+14 : CARDINAL
+12 : CARDINAL
+13 : DATE
+2020 2021 2022 : DATE
+5 : CARDINAL
+2013 2019 : DATE
+25 oct 2022 : DATE
+paribas : ORG
+3 : CARDINAL
+4 : CARDINAL
+the sino us trade war : ORG
+5 : CARDINAL
+three plus year : DATE
+the next three years : DATE
+first : ORDINAL
+the next two years : DATE
+three plus year : DATE
+1 : CARDINAL
+china : GPE
+chi lo 
+senior : PERSON
+china : GPE
+sino : NORP
+2018 : DATE
+asia : LOC
+china : GPE
+asia : LOC
+third : ORDINAL
+19 : CARDINAL
+asia : LOC
+asia : LOC
+asia : LOC
+china : GPE
+firstly : ORDINAL
+sino : NORP
+620 billion : MONEY
+june 2018 : DATE
+801 billion : MONEY
+august 2022 : DATE
+china : GPE
+chinese : NORP
+january 2020 : DATE
+secondly : ORDINAL
+asian : NORP
+china : GPE
+the last six years : DATE
+1 : CARDINAL
+asean : NORP
+china : GPE
+asean : NORP
+china : GPE
+1 : CARDINAL
+china : GPE
+asean : NORP
+19 : CARDINAL
+asean : NORP
+2 : CARDINAL
+china : GPE
+china : GPE
+china : GPE
+us : GPE
+china : GPE
+2016 : DATE
+1 : CARDINAL
+asean : NORP
+brunei cambodia : FAC
+indonesia : GPE
+malaysia : GPE
+myanmar : GPE
+singapore : GPE
+thailand : GPE
+vietnam : GPE
+1 : CARDINAL
+china : GPE
+4 quarter : DATE
+100 : CARDINAL
+50 : CARDINAL
+0 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+300 : CARDINAL
+350 : CARDINAL
+1999 2001 2004 2006 : DATE
+2009 2012 2014 2017 2019 2022 : DATE
+october 2022 : DATE
+v s m n : ORG
+asean : NORP
+china : GPE
+40 : CARDINAL
+only 10 few years ago : DATE
+asean : NORP
+china : GPE
+asean : NORP
+china : GPE
+china : GPE
+china : GPE
+asia : LOC
+china : GPE
+china : GPE
+china : GPE
+asia : LOC
+china : GPE
+beijing : GPE
+asia : LOC
+china : GPE
+asia : LOC
+china : GPE
+asia : LOC
+china : GPE
+middle kingdom : GPE
+2 : CARDINAL
+asean : NORP
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+160 : CARDINAL
+180 : CARDINAL
+200 : CARDINAL
+1980 1983 1986 1989 1992 1995 1998 2001 2004 : DATE
+2010 2013 2016 2019 : DATE
+october 2022 : DATE
+v s m n : ORG
+almost usd 10 trillion : QUANTITY
+13 : CARDINAL
+14 year : DATE
+the past decade : DATE
+every year : DATE
+2011 : DATE
+v s m n : ORG
+1 : CARDINAL
+the european union : ORG
+zero : CARDINAL
+2050 : CARDINAL
+1 : CARDINAL
+european : NORP
+24 : CARDINAL
+23 : CARDINAL
+21 : CARDINAL
+16 : CARDINAL
+7 : CARDINAL
+4 : CARDINAL
+4 : CARDINAL
+1 : CARDINAL
+january 2022 : DATE
+v s m n : ORG
+the next few decades : DATE
+paris : GPE
+the past 10 years : DATE
+two : CARDINAL
+europe : LOC
+5 : CARDINAL
+v s m : ORG
+3 : CARDINAL
+bnp paribas asset management indices : ORG
+bloomberg ticker : PERSON
+2013 2014 2015 : DATE
+2020 2021 2022 : DATE
+21 : CARDINAL
+36 : CARDINAL
+9 : CARDINAL
+5 : CARDINAL
+4 : CARDINAL
+0 1 : DATE
+0 : CARDINAL
+7 : CARDINAL
+0 : CARDINAL
+6 : CARDINAL
+31 october 2022 : DATE
+v s m n : ORG
+3 : CARDINAL
+november 2022 : DATE
+bnpp am : PERSON
+france : GPE
+1 boulevard : CARDINAL
+75009 : DATE
+paris : GPE
+france : GPE
+paris : GPE
+319 378 832 : CARDINAL
+96002 : DATE
+1 : CARDINAL
+2 : CARDINAL
+the united states : GPE
+the united states securities act : GPE
+1933 : DATE
+kiid : PERSON
+eu : GPE
+daniel morris : ORG
+andrew craig : PERSON
+bnp paribas : ORG
+bnpp am : PERSON
+november 2022 : DATE

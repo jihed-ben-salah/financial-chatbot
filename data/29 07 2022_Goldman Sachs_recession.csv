@@ -1,0 +1,598 @@
+file_name,page_num,text,clean_text,tokens,subjectivity_score,date,bank,title,topic
+29 07 2022_Goldman Sachs_recession,1,"Fixed Income
+MUSIN
+GS
+FIXED INCOME
+Goldman Sachs Asset Management
+1
+July 29, 2022
+POLICY PICTURE
+The Fed appears to have concluded the ""expeditious"" 
+phase of its tightening cycle, delivering a 75bps rate hike to 
+take the policy rate to their own neutral estimate of 2.25-
+2.5%. Markets responded favourably in anticipation of a 
+slower pace of tightening ahead (see Chart) given a loss of 
+growth momentum, emerging signs of easing inflation 
+pressures and the Fed's emphasis on data dependence 
+going forward (see quote). 
+Overall, we think the outlook for Fed policy has turned more 
+balanced. We expect a further rate increase in September, 
+with the hike increment being guided by key data releases 
+such as the employment cost index, PCE inflation and 
+measures of consumer inflation expectations. Thereafter, 
+we think signs of softening in both the labour market and 
+inflation outturns could see the Fed pause to assess the 
+impact of this year's rapid tightening. After all, the Fed has 
+raised rates by 2.25% in just five months.  
+Notwithstanding the growing accumulation of evidence on 
+weaker growth prospects for the second half of the year, 
+policymakers appear to be retaining a glass-half-full 
+assessment of the economy. During the post-meeting 
+press 
+conference
+ Fed Chair Jerome Powell said he does not 
+think the US is currently in recession as ""there are just too 
+many areas of the economy that are performing too well."" 
+Meanwhile, US Treasury Secretary Janet Yellen highlighted 
+the creation of almost 400,000 jobs a month ""is not a 
+recession"" and that a recession would require a ""broad-
+based weakening of the economy"" which is inconsistent 
+with recent data. 
+Past performance does not guarantee future results, which may vary. The economic and market forecasts presented herein are for informational purposes as of the date of this presentation. There 
+can be no assurance that the forecasts will be achieved. Please see additional disclosures at the end of this presentation.
+Pullback in monetary tightening expectations 
+Source: Goldman Sachs Asset Management, Macrobond, Bloomberg. Fed pricing as of July 
+22, 2022  is adjusted to reflect this week's 75 basis points increase. 
+Market-implied pricing for further rate changes by year-end (basis points)
+We've been saying we would move expeditiously to get 
+to the range of neutral. And I think we've done that 
+now. While another unusually large increase could be 
+appropriate at our next meeting, that is a decision that 
+will depend on the data we get between now and 
+then.""
+Fed Chair Jerome Powell's Press Conference
+July 27 2022 
+0
+50
+100
+150
+200
+Fed
+BoE
+ECB
+As of July 22, 2022
+As of July 29, 2022
+",fix incom musin fix incom asset manag juli polici pictur fed appear conclud expediti phase tighten cycl deliv bps rate hike polici rate neutral estim market respond favour anticip slower pace tighten chart loss growth momentum emerg sign eas inflat pressur fed emphasi depend quot fed polici balanc expect rate increas septemb hike increment guid key releas employ cost pce inflat measur consum inflat expect sign soften labour market inflat outturn fed paus ass impact rapid tighten fed rais rate month grow accumul evid weaker growth prospect policymak retain glass assess economi post meet press confer fed chair jerom powel recess economi perform treasuri secretari janet yellen highlight creation job month recess recess requir broad base weaken economi inconsist perform guarante futur vari econom market forecast inform present assur forecast achiev addit disclosur present pullback monetari tighten expect asset manag macrobond bloomberg fed price juli adjust reflect week basi increas market impli price rate basi expediti rang neutral unusu increas meet decis depend fed chair jerom powel press confer juli fed boe ecb juli juli,"['fixed', 'income', 'musin', 'fixed', 'income', 'asset', 'management', 'july', 'policy', 'picture', 'fed', 'appears', 'concluded', 'expeditious', 'phase', 'tightening', 'cycle', 'delivering', 'bps', 'rate', 'hike', 'policy', 'rate', 'neutral', 'estimate', 'markets', 'responded', 'favourably', 'anticipation', 'slower', 'pace', 'tightening', 'chart', 'loss', 'growth', 'momentum', 'emerging', 'signs', 'easing', 'inflation', 'pressures', 'fed', 'emphasis', 'dependence', 'quote', 'fed', 'policy', 'balanced', 'expect', 'rate', 'increase', 'september', 'hike', 'increment', 'guided', 'key', 'releases', 'employment', 'cost', 'pce', 'inflation', 'measures', 'consumer', 'inflation', 'expectations', 'signs', 'softening', 'labour', 'market', 'inflation', 'outturns', 'fed', 'pause', 'assess', 'impact', 'rapid', 'tightening', 'fed', 'raised', 'rates', 'months', 'growing', 'accumulation', 'evidence', 'weaker', 'growth', 'prospects', 'policymakers', 'retaining', 'glass', 'assessment', 'economy', 'post', 'meeting', 'press', 'conference', 'fed', 'chair', 'jerome', 'powell', 'recession', 'economy', 'performing', 'treasury', 'secretary', 'janet', 'yellen', 'highlighted', 'creation', 'jobs', 'month', 'recession', 'recession', 'require', 'broad', 'based', 'weakening', 'economy', 'inconsistent', 'performance', 'guarantee', 'future', 'vary', 'economic', 'market', 'forecasts', 'informational', 'presentation', 'assurance', 'forecasts', 'achieved', 'additional', 'disclosures', 'presentation', 'pullback', 'monetary', 'tightening', 'expectations', 'asset', 'management', 'macrobond', 'bloomberg', 'fed', 'pricing', 'july', 'adjusted', 'reflect', 'week', 'basis', 'increase', 'market', 'implied', 'pricing', 'rate', 'basis', 'expeditiously', 'range', 'neutral', 'unusually', 'increase', 'meeting', 'decision', 'depend', 'fed', 'chair', 'jerome', 'powell', 'press', 'conference', 'july', 'fed', 'boe', 'ecb', 'july', 'july']",0.35870181405895696,29 07 2022,Goldman Sachs,recession,0
+29 07 2022_Goldman Sachs_recession,2,"Fixed Income
+MUSIN
+GS
+Goldman Sachs Asset Management
+2
+FIXED INCOME
+July 29, 2022
+MACRO AT A GLANCE
+Economic data has turned more mixed and is not 
+consistently supportive of rapid monetary tightening. For 
+example, flash composite PMI readings for July were in 
+contractionary territory in the US and Euro Area (see 
+Chart). Weakness on the services side of the economy 
+likely reflects the cost-of-living crisis and indicates the post-
+Omicron rebound is behind us. 
+In Europe, high inflation continues to weigh on sentiment 
+with the German ifo Business Climate index falling to its 
+lowest level since June 2020. Meanwhile, the US economy 
+experienced its second consecutive quarter of negative 
+GDP growth. With nonfarm payroll growth averaging 
+375,000 during the second quarter and GDP data subject to 
+revisions, we do not think the economy was in a recession 
+in the first half of the year, however, we acknowledge risks 
+are building. 
+NAVIGATING FIXED INCOME
+A ""bad news is good news"" dynamic has emerged whereby 
+signs of slowing growth and easing inflation pressures 
+provides some relief for markets due to reduced risks of 
+policy overtightening. That said, within fixed income 
+sectors, bouts of weakness in lower-quality bonds reflects 
+growing growth concerns (see Chart). 
+We used recent strength in high yield corporate credit as an 
+opening to scale back our exposure. Overall, we remain 
+overweight corporate bonds given continued 
+strength in 
+corporate balance sheet positions
+. However, we are 
+mindful of downbeat signals from second quarter earnings 
+releases, including signs of slowing consumer demand 
+owing to inflation pressures. 
+Past performance does not guarantee future results, which may vary. The economic and market forecasts presented herein are for informational purposes as of the date of this presentation. There 
+can be no assurance that the forecasts will be achieved. Please see additional disclosures at the end of this presentation.
+Lower-quality weakness reflects growth concerns
+Source: Macrobond, ICE-BAML, Goldman Sachs Asset Management. As of July 28, 2022.
+Survey says...we are heading towards a recession
+Source: Goldman Sachs Asset Management, Haver Analytics. As of July 2022 for all 
+economies, with the exception of China which is as of June 2022.
+Composite PMI Index  
+CCC/BB and CCC/B spread ratios for the USD and EUR market
+0
+10
+20
+30
+40
+50
+60
+70
+80
+2019
+2020
+2021
+2022
+United States
+United Kingdom
+Euro Area
+China
+A reading below 50 indicates 
+contracting activity relative
+to a month earlier
+1.2
+1.4
+1.6
+1.8
+2.0
+2.2
+2.4
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+'20
+'21
+'22
+CCC Rated & Lower/BB Rated (left)
+CCC Rated & Lower/B Rated (right)
+CCC Rated & Lower 
+underperformance 
+",fix incom musin asset manag fix incom juli macro glanc econom mix consist support rapid monetari tighten flash composit pmi read juli contractionari territori euro chart weak servic economi reflect cost live crisi post omicron rebound europ inflat continu weigh sentiment german ifo busi climat fall lowest level june economi experienc consecut quarter negat gdp growth nonfarm payrol growth averag quarter gdp revis economi recess acknowledg risk build navig fix incom bad news news dynam emerg sign slow growth eas inflat pressur relief market reduc risk polici overtighten fix incom sector bout weak qualiti bond reflect grow growth concern chart strength yield corpor credit scale exposur remain overweight corpor bond continu strength corpor balanc sheet posit mind downbeat signal quarter earn releas includ sign slow consum demand inflat pressur perform guarante futur vari econom market forecast inform present assur forecast achiev addit disclosur present qualiti weak reflect growth concern macrobond ice baml asset manag juli survey head recess asset manag haver analyt juli economi except china june composit pmi spread ratio usd eur market unit unit euro china read contract activ relat month earlier rate rate left rate rate rate,"['fixed', 'income', 'musin', 'asset', 'management', 'fixed', 'income', 'july', 'macro', 'glance', 'economic', 'mixed', 'consistently', 'supportive', 'rapid', 'monetary', 'tightening', 'flash', 'composite', 'pmi', 'readings', 'july', 'contractionary', 'territory', 'euro', 'chart', 'weakness', 'services', 'economy', 'reflects', 'cost', 'living', 'crisis', 'post', 'omicron', 'rebound', 'europe', 'inflation', 'continues', 'weigh', 'sentiment', 'german', 'ifo', 'business', 'climate', 'falling', 'lowest', 'level', 'june', 'economy', 'experienced', 'consecutive', 'quarter', 'negative', 'gdp', 'growth', 'nonfarm', 'payroll', 'growth', 'averaging', 'quarter', 'gdp', 'revisions', 'economy', 'recession', 'acknowledge', 'risks', 'building', 'navigating', 'fixed', 'income', 'bad', 'news', 'news', 'dynamic', 'emerged', 'signs', 'slowing', 'growth', 'easing', 'inflation', 'pressures', 'relief', 'markets', 'reduced', 'risks', 'policy', 'overtightening', 'fixed', 'income', 'sectors', 'bouts', 'weakness', 'quality', 'bonds', 'reflects', 'growing', 'growth', 'concerns', 'chart', 'strength', 'yield', 'corporate', 'credit', 'scale', 'exposure', 'remain', 'overweight', 'corporate', 'bonds', 'continued', 'strength', 'corporate', 'balance', 'sheet', 'positions', 'mindful', 'downbeat', 'signals', 'quarter', 'earnings', 'releases', 'including', 'signs', 'slowing', 'consumer', 'demand', 'inflation', 'pressures', 'performance', 'guarantee', 'future', 'vary', 'economic', 'market', 'forecasts', 'informational', 'presentation', 'assurance', 'forecasts', 'achieved', 'additional', 'disclosures', 'presentation', 'quality', 'weakness', 'reflects', 'growth', 'concerns', 'macrobond', 'ice', 'baml', 'asset', 'management', 'july', 'survey', 'heading', 'recession', 'asset', 'management', 'haver', 'analytics', 'july', 'economies', 'exception', 'china', 'june', 'composite', 'pmi', 'spread', 'ratios', 'usd', 'eur', 'market', 'united', 'united', 'euro', 'china', 'reading', 'contracting', 'activity', 'relative', 'month', 'earlier', 'rated', 'rated', 'left', 'rated', 'rated', 'rated']",0.2982205513784461,29 07 2022,Goldman Sachs,recession,0
+29 07 2022_Goldman Sachs_recession,3,"MUSIN
+GS
+FIXED INCOME
+Goldman Sachs Asset Management
+3
+CENTRAL BANK SNAPSHOT
+Source: Goldman Sachs Asset Management. As of July 29, 2022. The economic and market forecasts presented herein are for informational purposes as of the date of this presentation. There 
+can be no assurance that the forecasts will be achieved. Please see additional disclosures at the end of this presentation.
+Interest Rate Policy
+Balance Sheet Policy
+Outlook
+Our outlook 
+relative to 
+market-implied 
+pricing
+Fed
+Federal funds rate: 
+2.25%-2.50% 
+Last changed: 
+July 2022 (+75bps)
+Prior changes:
+June 2022 (+75bps)
+May 2022 (+50bps)
+March 2022 (+25bps)
+Started reducing the monthly pace of its net asset 
+purchases in November 2021 and ended net 
+additional purchases of Treasuries and agency MBS 
+in early March. Balance sheet runoff begins in June; 
+an eventual monthly cap will be set at $95bn--split 
+$60bn-$35bn between US Treasury and mortgage-
+backed securities (MBS)--and the caps will initially be 
+set at half of those levels for the first three months of 
+runoff ($30bn UST-$17.5bn MBS).
+Balance sheet size: 37% of GDP
+We expect a 50bps rate 
+hike in September 
+followed by a reversion 
+to 25bps rate hikes. 
+Slightly hawkish
+ECB
+Deposit facility rate: 
+0.0%
+Last changed: 
+July 2022 
+(+50bps), the first hike 
+since 2011
+The ECB will end net APP purchases from July 1, 
+2022. Reinvestments under the PEPP will continue 
+until at least the end of 2024. On July 21, the ECB 
+announced a new anti-fragmentation tool, the 
+Transmission Protection Instrument (TPI), used to 
+ensure monetary policy is transmitted smoothly across 
+all euro area countries. 
+Balance sheet size: 65% of 
+GDP
+We expect a 50bps hike 
+in September and two 
+further 25bps rate hikes 
+at the October and 
+December meetings. 
+Slightly dovish 
+BoE
+Bank Rate: 
+1.25% 
+Last changed: 
+June 2022 (+25bps)
+Prior changes:
+May 2022 (+25bps)
+March 2022 (+25bps)
+February 2022
+(+25bps)
+December 2021 
+(+15bps)
+BoE members voted in February 2022 to begin to 
+reduce the stock of UK government bond purchases 
+by ceasing to reinvest maturing assets, as well as to 
+begin to reduce the stock of sterling non-financial 
+investment grade corporate bond purchases by 
+ceasing to reinvest maturing assets and by a program 
+of corporate bond sales. 
+Balance sheet size: 30% of GDP
+We think the BoE will 
+hike rates further to 
+1.75% before pausing its 
+hiking cycle. 
+We expect the BoE to
+commence bond sales at 
+their September 
+meeting. 
+Slightly dovish
+BoJ
+Policy deposit rate: 
+-0.10% 
+Last changed: 
+January 2016, when 
+the Bank introduced its 
+negative interest rate 
+policy (NIRP) 
+10-year JGB yield 
+target: ~0%, with 
+tolerance band of -
+/+25bp (yield curve 
+control policy)
+The Bank voted in January 2021 to purchase ETFs 
+and Japanese REITs as necessary with upper limits of 
+~Y=12tn and ~Y=180bn, respectively, on annual paces of 
+increase in their outstanding amounts, as well as to 
+purchase commercial paper and corporate bonds with 
+an upper limit on the outstanding amount of ~Y=20tn in 
+total until the end of March.
+Balance sheet size: 135% of GDP
+We expect unchanged 
+policies through 2022 but 
+see scope for a rate hike 
+in 2023.
+Slightly dovish
+",musin fix incom asset manag central snapshot asset manag juli econom market forecast inform present assur forecast achiev addit disclosur present rate polici balanc sheet polici relat market impli price fed feder fund rate chang juli bps prior june bps bps march bps start reduc month pace asset purchas novemb addit purchas treasuri agenc mb march balanc sheet runoff june eventu month cap set split treasuri mortgag secur mb cap initi set level month runoff ust mb balanc sheet size gdp expect bps rate hike septemb revers bps rate hike hawkish ecb deposit facil rate chang juli bps hike ecb app purchas juli reinvest pepp continu juli ecb announc anti fragment tool transmiss protect instrument tpi ensur monetari polici transmit smooth euro countri balanc sheet size gdp expect bps hike septemb bps rate hike octob decemb meet dovish boe rate chang june bps prior bps march bps februari bps decemb bps boe vote februari reduc stock govern bond purchas ceas reinvest matur asset reduc stock sterl financi invest grade corpor bond purchas ceas reinvest matur asset program corpor bond sale balanc sheet size gdp boe hike rate paus hike cycl expect boe commenc bond sale septemb meet dovish boj polici deposit rate chang januari introduc negat rate polici nirp jgb yield target toler band bp yield curv control polici vote januari purchas etf japanes reit upper limit annual pace increas outstand amount purchas commerci paper corpor bond upper limit outstand total march balanc sheet size gdp expect unchang polici scope rate hike dovish,"['musin', 'fixed', 'income', 'asset', 'management', 'central', 'snapshot', 'asset', 'management', 'july', 'economic', 'market', 'forecasts', 'informational', 'presentation', 'assurance', 'forecasts', 'achieved', 'additional', 'disclosures', 'presentation', 'rate', 'policy', 'balance', 'sheet', 'policy', 'relative', 'market', 'implied', 'pricing', 'fed', 'federal', 'funds', 'rate', 'changed', 'july', 'bps', 'prior', 'june', 'bps', 'bps', 'march', 'bps', 'started', 'reducing', 'monthly', 'pace', 'asset', 'purchases', 'november', 'additional', 'purchases', 'treasuries', 'agency', 'mbs', 'march', 'balance', 'sheet', 'runoff', 'june', 'eventual', 'monthly', 'cap', 'set', 'split', 'treasury', 'mortgage', 'securities', 'mbs', 'caps', 'initially', 'set', 'levels', 'months', 'runoff', 'ust', 'mbs', 'balance', 'sheet', 'size', 'gdp', 'expect', 'bps', 'rate', 'hike', 'september', 'reversion', 'bps', 'rate', 'hikes', 'hawkish', 'ecb', 'deposit', 'facility', 'rate', 'changed', 'july', 'bps', 'hike', 'ecb', 'app', 'purchases', 'july', 'reinvestments', 'pepp', 'continue', 'july', 'ecb', 'announced', 'anti', 'fragmentation', 'tool', 'transmission', 'protection', 'instrument', 'tpi', 'ensure', 'monetary', 'policy', 'transmitted', 'smoothly', 'euro', 'countries', 'balance', 'sheet', 'size', 'gdp', 'expect', 'bps', 'hike', 'september', 'bps', 'rate', 'hikes', 'october', 'december', 'meetings', 'dovish', 'boe', 'rate', 'changed', 'june', 'bps', 'prior', 'bps', 'march', 'bps', 'february', 'bps', 'december', 'bps', 'boe', 'voted', 'february', 'reduce', 'stock', 'government', 'bond', 'purchases', 'ceasing', 'reinvest', 'maturing', 'assets', 'reduce', 'stock', 'sterling', 'financial', 'investment', 'grade', 'corporate', 'bond', 'purchases', 'ceasing', 'reinvest', 'maturing', 'assets', 'program', 'corporate', 'bond', 'sales', 'balance', 'sheet', 'size', 'gdp', 'boe', 'hike', 'rates', 'pausing', 'hiking', 'cycle', 'expect', 'boe', 'commence', 'bond', 'sales', 'september', 'meeting', 'dovish', 'boj', 'policy', 'deposit', 'rate', 'changed', 'january', 'introduced', 'negative', 'rate', 'policy', 'nirp', 'jgb', 'yield', 'target', 'tolerance', 'band', 'bp', 'yield', 'curve', 'control', 'policy', 'voted', 'january', 'purchase', 'etfs', 'japanese', 'reits', 'upper', 'limits', 'annual', 'paces', 'increase', 'outstanding', 'amounts', 'purchase', 'commercial', 'paper', 'corporate', 'bonds', 'upper', 'limit', 'outstanding', 'total', 'march', 'balance', 'sheet', 'size', 'gdp', 'expect', 'unchanged', 'policies', 'scope', 'rate', 'hike', 'dovish']",0.226780303030303,29 07 2022,Goldman Sachs,recession,1
+29 07 2022_Goldman Sachs_recession,4,"MUSIN
+GS
+FIXED INCOME
+Goldman Sachs Asset Management
+4
+10-YEAR SOVEREIGN BOND YIELDS (%)
+Source: Macrobond, Goldman Sachs Asset Management. As of July 29, 2022.
+FIXED INCOME SECTOR SPREADS
+Past performance does not guarantee future results, which may vary. The economic and market forecasts presented herein are for informational purposes as of the date of this presentation. 
+There can be no assurance that the forecasts will be achieved. Please see additional disclosures at the end of this presentation.
+Investment Grade and Securitized Spreads (bps)
+Source: Macrobond. ICE BoAML indices. As of  July 28, 2022.
+High Yield and Emerging Market Spreads (bps)
+Source: Macrobond. ICE BoAML, J.P. Morgan indices. As of  July 28, 2022.
+",musin fix incom asset manag sovereign bond yield macrobond asset manag juli fix incom sector spread perform guarante futur vari econom market forecast inform present assur forecast achiev addit disclosur present invest grade securit spread bps macrobond ice boaml index juli yield emerg market spread bps macrobond ice boaml index juli,"['musin', 'fixed', 'income', 'asset', 'management', 'sovereign', 'bond', 'yields', 'macrobond', 'asset', 'management', 'july', 'fixed', 'income', 'sector', 'spreads', 'performance', 'guarantee', 'future', 'vary', 'economic', 'market', 'forecasts', 'informational', 'presentation', 'assurance', 'forecasts', 'achieved', 'additional', 'disclosures', 'presentation', 'investment', 'grade', 'securitized', 'spreads', 'bps', 'macrobond', 'ice', 'boaml', 'indices', 'july', 'yield', 'emerging', 'market', 'spreads', 'bps', 'macrobond', 'ice', 'boaml', 'indices', 'july']",0.2525,29 07 2022,Goldman Sachs,recession,1
+29 07 2022_Goldman Sachs_recession,5,"MUSIN
+GS
+FIXED INCOME
+Goldman Sachs Asset Management
+5
+Disclosures
+Views and opinions are current as of date of publication and may be subject to change, 
+they should not be construed as investment advice.
+Views and opinions expressed are for informational purposes only and do not constitute a 
+recommendation by Goldman Sachs Asset Management to buy, sell, or hold any security. 
+Individual portfolio management teams for Goldman Sachs Asset Management may have 
+views and opinions and/or make investment decisions that, in certain instances, may not 
+always be consistent with the views and opinions expressed herein. 
+This material is provided at your request for informational purposes only. It is not an offer 
+or solicitation to buy or sell any securities.
+The website links provided are for your convenience only and are not an endorsement or 
+recommendation by Goldman Sachs Asset Management of any of these websites or the 
+products or services offered. Goldman Sachs Asset Management is not responsible for the 
+accuracy and validity of the content of these websites.
+Although certain information has been obtained from sources believed to be reliable, we 
+do not guarantee its accuracy, completeness or fairness. We have relied upon and 
+assumed without independent verification, the accuracy and completeness of all 
+information available from public sources.
+This information discusses general market activity, industry or sector trends, or other 
+broad-based economic, market or political conditions and should not be construed as 
+research or investment advice. This material has been prepared by Goldman Sachs Asset 
+Management and is not financial research nor a product of Goldman Sachs Global 
+Investment Research (GIR). It was not prepared in compliance with applicable provisions 
+of law designed to promote the independence of financial analysis and is not subject to a 
+prohibition on trading following the distribution of financial research. The views and 
+opinions expressed may differ from those of Goldman Sachs Global Investment Research 
+or other departments or divisions of Goldman Sachs and its affiliates. Investors are urged 
+to consult with their financial advisors before buying or selling any securities. This 
+information may not be current and Goldman Sachs Asset Management has no obligation 
+to provide any updates or changes. 
+Economic and market forecasts presented herein reflect a series of assumptions and 
+judgments as of the date of this presentation and are subject to change without notice.  
+These forecasts do not take into account the specific investment objectives, restrictions, 
+tax and financial situation or other needs of any specific client.  Actual data will vary and 
+may not be reflected here.  These forecasts are subject to high levels of uncertainty that 
+may affect actual performance. Accordingly, these forecasts should be viewed as merely 
+representative of a broad range of possible outcomes.  These forecasts are estimated, 
+based on assumptions, and are subject to significant revision and may change materially 
+as economic and market conditions change. Goldman Sachs has no obligation to provide 
+updates or changes to these forecasts.  Case studies and examples are for illustrative 
+purposes only.
+Investments in fixed-income securities are subject to credit and interest rate risks. Bond 
+prices fluctuate inversely to changes in interest rates. Therefore, a general rise in interest 
+rates can result in the decline in the bond's price. 
+THIS MATERIAL DOES NOT CONSTITUTE AN OFFER OR SOLICITATION IN ANY 
+JURISDICTION WHERE OR TO ANY PERSON TO WHOM IT WOULD BE UNAUTHORIZED OR 
+UNLAWFUL TO DO SO. 
+Prospective investors should inform themselves as to any applicable legal requirements 
+and taxation and exchange control regulations in the countries of their citizenship, 
+residence or domicile which might be relevant.
+Goldman Sachs does not provide legal, tax or accounting advice, unless explicitly agreed 
+between you and Goldman Sachs (generally through certain services offered only to clients 
+of Private Wealth Management). Any statement contained in this presentation concerning 
+U.S. tax matters is not intended or written to be used and cannot be used for the purpose 
+of avoiding penalties imposed on the relevant taxpayer.  Notwithstanding anything in this 
+document to the contrary, and except as required to enable compliance with applicable 
+securities law, you may disclose to any person the US federal and state income tax 
+treatment and tax structure of the transaction and all materials of any kind (including tax 
+opinions and other tax analyses) that are provided to you relating to such tax treatment 
+and tax structure, without Goldman Sachs imposing any limitation of any kind.  Investors 
+should be aware that a determination of the tax consequences to them should take into 
+account their specific circumstances and that the tax law is subject to change in the future 
+or retroactively and investors are strongly urged to consult with their own tax advisor 
+regarding any potential strategy, investment or transaction.
+United Kingdom: In the United Kingdom, this material is a financial promotion and has 
+been approved by Goldman Sachs Asset Management International, which is authorized 
+and regulated in the United Kingdom by the Financial Conduct Authority.
+European Economic Area (EEA): This material is a financial promotion disseminated by 
+Goldman Sachs Bank Europe SE, including through its authorised branches (""GSBE""). 
+GSBE is a credit institution incorporated in Germany and, within the Single Supervisory 
+Mechanism established between those Member States of the European Union whose 
+official currency is the Euro, subject to direct prudential supervision by the European 
+Central Bank and in other respects supervised by German Federal Financial Supervisory 
+Authority (Bundesanstalt fur Finanzdienstleistungsaufischt, BaFin) and Deutsche 
+Bundesbank.
+Switzerland: For Qualified Investor use only - Not for distribution to general public. This is 
+marketing material. This document is provided to you by Goldman Sachs Bank AG, Zurich. 
+Any future contractual relationships will be entered into with affiliates of Goldman Sachs 
+Bank AG, which are domiciled outside of Switzerland. We would like to remind you that 
+foreign (Non-Swiss) legal and regulatory systems may not provide the same level of 
+protection in relation to client confidentiality and data protection as offered to you by 
+Swiss law.
+Asia Pacific: Please note that neither Goldman Sachs Asset Management International nor 
+any other entities involved in the Goldman Sachs Asset Management business maintain 
+any licenses, authorizations or registrations in Asia (other than Japan), except that it 
+conducts businesses (subject to applicable local regulations) in and from the following 
+jurisdictions: Hong Kong, Singapore and Malaysia.  This material has been issued for use 
+in or from Hong Kong by Goldman Sachs Asset Management (Hong Kong) Limited, in or 
+from Singapore by Goldman Sachs Asset Management (Singapore) Pte. Ltd. (Company 
+Number: 201329851H) and in or from Malaysia by Goldman Sachs (Malaysia) Sdn 
+Berhad (880767W).
+Australia: This material is distributed by Goldman Sachs Asset Management Australia Pty 
+Ltd ABN 41 006 099 681, AFSL 228948 ('GSAMA') and is intended for viewing only by 
+wholesale clients for the purposes of section 761G of the Corporations Act 2001 (Cth). 
+This document may not be distributed to retail clients in Australia (as that term is defined 
+in the Corporations Act 2001 (Cth)) or to the general public. This document may not be 
+reproduced or distributed to any person without the prior consent of GSAMA. To the extent 
+that this document contains any statement which may be considered to be financial 
+product advice in Australia under the Corporations Act 2001 (Cth), that advice is intended 
+to be given to the intended recipient of this document only, being a wholesale client for the 
+purposes of the Corporations Act 2001 (Cth). 
+Any advice provided in this document is provided by either Goldman Sachs Asset 
+Management International (GSAMI), Goldman Sachs International (GSI), Goldman Sachs 
+Asset Management, LP (GSAMLP) or Goldman Sachs & Co. LLC (GSCo). 
+Both GSCo and GSAMLP are regulated by the US Securities and Exchange Commission 
+under US laws, which differ from Australian laws. Both GSI and GSAMI are regulated by the 
+Financial Conduct Authority and GSI is authorized by the Prudential Regulation Authority 
+under UK laws, which differ from Australian laws. GSI, GSAMI, GSCo, and GSAMLP are all 
+exempt from the requirement to hold an Australian financial services licence under the 
+Corporations Act of Australia and therefore do not hold any Australian Financial Services 
+Licences. Any financial services given to any person by GSI, GSAMI, GSCo or GSAMLP by 
+distributing this document in Australia are provided to such persons pursuant to ASIC 
+Class Orders 03/1099 and 03/1100. No offer to acquire any interest in a fund or a 
+financial product is being made to you in this document. If the interests or financial 
+products do become available in the future, the offer may be arranged by GSAMA in 
+accordance with section 911A(2)(b) of the Corporations Act. GSAMA holds Australian 
+Financial Services Licence No. 228948. 
+",musin fix incom asset manag disclosur view opinion current public chang constru invest advic view opinion express inform constitut recommend asset manag sell hold secur individu portfolio manag team asset manag view opinion invest decis instanc consist view opinion express materi request inform offer solicit sell secur link conveni endors recommend asset manag websit product servic offer asset manag respons accuraci valid content websit sourc believ reliabl guarante accuraci complet fair reli assum independ verif accuraci complet public sourc discus market activ industri sector trend broad base econom market polit condit constru invest advic materi prepar asset manag financi product global invest gir prepar complianc applic provis law design promot independ financi analysi prohibit trade distribut financi view opinion express global invest depart divis affili investor urg consult financi advisor buy sell secur current asset manag oblig provid updat econom market forecast reflect seri assumpt judgment present chang notic forecast account specif invest object restrict tax financi situat specif client actual vari reflect forecast level uncertainti affect actual perform forecast view repres broad rang outcom forecast estim base assumpt revis chang materi econom market condit chang oblig provid updat forecast studi exampl illustr invest fix incom secur credit rate risk bond price fluctuat invers rate rise rate result declin bond price materi constitut offer solicit jurisdict unauthor unlaw prospect investor inform applic legal requir taxat exchang control regul countri citizenship resid domicil relev provid legal tax account advic explicit agre servic offer client wealth manag statement contain present tax matter intend written purpos avoid penalti impos relev taxpay document contrari requir enabl complianc applic secur law disclos feder incom tax treatment tax structur transact materi includ tax opinion tax analysi relat tax treatment tax structur impos limit investor awar determin tax consequ account specif circumst tax law chang futur retroact investor urg consult tax advisor potenti strategi invest transact unit unit materi financi promot approv asset manag intern author regul unit financi conduct author european econom eea materi financi promot dissemin europ includ authoris branch gsbe gsbe credit institut incorpor germani singl supervisori mechan establish european union offici currenc euro direct prudenti supervis european central respect supervis german feder financi supervisori author bundesanstalt fur bafin deutsch bundesbank switzerland qualifi investor distribut public market materi document zurich futur contractu relationship enter affili domicil switzerland remind foreign swiss legal regulatori system provid level protect relat client protect offer swiss law asia pacif note asset manag intern entiti involv asset manag busi maintain licens author registr asia japan conduct busi applic local regul jurisdict hong kong singapor malaysia materi issu hong kong asset manag hong kong limit singapor asset manag singapor pte compani malaysia malaysia sdn berhad australia materi distribut asset manag australia pti abn afsl gsama intend view wholesal client corpor cth document distribut retail client australia term defin corpor cth public document reproduc distribut prior consent gsama extent document statement consid financi product advic australia corpor cth advic intend intend recipi document wholesal client corpor cth advic document asset manag intern gsami intern gsi asset manag lp gsamlp llc gsco gsco gsamlp regul secur exchang commiss law australian law gsi gsami regul financi conduct author gsi author prudenti regul author law australian law gsi gsami gsco gsamlp exempt requir hold australian financi servic licenc corpor australia hold australian financi servic licenc financi servic gsi gsami gsco gsamlp distribut document australia person pursuant asic class offer acquir fund financi product document financi product futur offer arrang gsama corpor gsama hold australian financi servic licenc,"['musin', 'fixed', 'income', 'asset', 'management', 'disclosures', 'views', 'opinions', 'current', 'publication', 'change', 'construed', 'investment', 'advice', 'views', 'opinions', 'expressed', 'informational', 'constitute', 'recommendation', 'asset', 'management', 'sell', 'hold', 'security', 'individual', 'portfolio', 'management', 'teams', 'asset', 'management', 'views', 'opinions', 'investment', 'decisions', 'instances', 'consistent', 'views', 'opinions', 'expressed', 'material', 'request', 'informational', 'offer', 'solicitation', 'sell', 'securities', 'links', 'convenience', 'endorsement', 'recommendation', 'asset', 'management', 'websites', 'products', 'services', 'offered', 'asset', 'management', 'responsible', 'accuracy', 'validity', 'content', 'websites', 'sources', 'believed', 'reliable', 'guarantee', 'accuracy', 'completeness', 'fairness', 'relied', 'assumed', 'independent', 'verification', 'accuracy', 'completeness', 'public', 'sources', 'discusses', 'market', 'activity', 'industry', 'sector', 'trends', 'broad', 'based', 'economic', 'market', 'political', 'conditions', 'construed', 'investment', 'advice', 'material', 'prepared', 'asset', 'management', 'financial', 'product', 'global', 'investment', 'gir', 'prepared', 'compliance', 'applicable', 'provisions', 'law', 'designed', 'promote', 'independence', 'financial', 'analysis', 'prohibition', 'trading', 'distribution', 'financial', 'views', 'opinions', 'expressed', 'global', 'investment', 'departments', 'divisions', 'affiliates', 'investors', 'urged', 'consult', 'financial', 'advisors', 'buying', 'selling', 'securities', 'current', 'asset', 'management', 'obligation', 'provide', 'updates', 'economic', 'market', 'forecasts', 'reflect', 'series', 'assumptions', 'judgments', 'presentation', 'change', 'notice', 'forecasts', 'account', 'specific', 'investment', 'objectives', 'restrictions', 'tax', 'financial', 'situation', 'specific', 'client', 'actual', 'vary', 'reflected', 'forecasts', 'levels', 'uncertainty', 'affect', 'actual', 'performance', 'forecasts', 'viewed', 'representative', 'broad', 'range', 'outcomes', 'forecasts', 'estimated', 'based', 'assumptions', 'revision', 'change', 'materially', 'economic', 'market', 'conditions', 'change', 'obligation', 'provide', 'updates', 'forecasts', 'studies', 'examples', 'illustrative', 'investments', 'fixed', 'income', 'securities', 'credit', 'rate', 'risks', 'bond', 'prices', 'fluctuate', 'inversely', 'rates', 'rise', 'rates', 'result', 'decline', 'bond', 'price', 'material', 'constitute', 'offer', 'solicitation', 'jurisdiction', 'unauthorized', 'unlawful', 'prospective', 'investors', 'inform', 'applicable', 'legal', 'requirements', 'taxation', 'exchange', 'control', 'regulations', 'countries', 'citizenship', 'residence', 'domicile', 'relevant', 'provide', 'legal', 'tax', 'accounting', 'advice', 'explicitly', 'agreed', 'services', 'offered', 'clients', 'wealth', 'management', 'statement', 'contained', 'presentation', 'tax', 'matters', 'intended', 'written', 'purpose', 'avoiding', 'penalties', 'imposed', 'relevant', 'taxpayer', 'document', 'contrary', 'required', 'enable', 'compliance', 'applicable', 'securities', 'law', 'disclose', 'federal', 'income', 'tax', 'treatment', 'tax', 'structure', 'transaction', 'materials', 'including', 'tax', 'opinions', 'tax', 'analyses', 'relating', 'tax', 'treatment', 'tax', 'structure', 'imposing', 'limitation', 'investors', 'aware', 'determination', 'tax', 'consequences', 'account', 'specific', 'circumstances', 'tax', 'law', 'change', 'future', 'retroactively', 'investors', 'urged', 'consult', 'tax', 'advisor', 'potential', 'strategy', 'investment', 'transaction', 'united', 'united', 'material', 'financial', 'promotion', 'approved', 'asset', 'management', 'international', 'authorized', 'regulated', 'united', 'financial', 'conduct', 'authority', 'european', 'economic', 'eea', 'material', 'financial', 'promotion', 'disseminated', 'europe', 'including', 'authorised', 'branches', 'gsbe', 'gsbe', 'credit', 'institution', 'incorporated', 'germany', 'single', 'supervisory', 'mechanism', 'established', 'european', 'union', 'official', 'currency', 'euro', 'direct', 'prudential', 'supervision', 'european', 'central', 'respects', 'supervised', 'german', 'federal', 'financial', 'supervisory', 'authority', 'bundesanstalt', 'fur', 'bafin', 'deutsche', 'bundesbank', 'switzerland', 'qualified', 'investor', 'distribution', 'public', 'marketing', 'material', 'document', 'zurich', 'future', 'contractual', 'relationships', 'entered', 'affiliates', 'domiciled', 'switzerland', 'remind', 'foreign', 'swiss', 'legal', 'regulatory', 'systems', 'provide', 'level', 'protection', 'relation', 'client', 'protection', 'offered', 'swiss', 'law', 'asia', 'pacific', 'note', 'asset', 'management', 'international', 'entities', 'involved', 'asset', 'management', 'business', 'maintain', 'licenses', 'authorizations', 'registrations', 'asia', 'japan', 'conducts', 'businesses', 'applicable', 'local', 'regulations', 'jurisdictions', 'hong', 'kong', 'singapore', 'malaysia', 'material', 'issued', 'hong', 'kong', 'asset', 'management', 'hong', 'kong', 'limited', 'singapore', 'asset', 'management', 'singapore', 'pte', 'company', 'malaysia', 'malaysia', 'sdn', 'berhad', 'australia', 'material', 'distributed', 'asset', 'management', 'australia', 'pty', 'abn', 'afsl', 'gsama', 'intended', 'viewing', 'wholesale', 'clients', 'corporations', 'cth', 'document', 'distributed', 'retail', 'clients', 'australia', 'term', 'defined', 'corporations', 'cth', 'public', 'document', 'reproduced', 'distributed', 'prior', 'consent', 'gsama', 'extent', 'document', 'statement', 'considered', 'financial', 'product', 'advice', 'australia', 'corporations', 'cth', 'advice', 'intended', 'intended', 'recipient', 'document', 'wholesale', 'client', 'corporations', 'cth', 'advice', 'document', 'asset', 'management', 'international', 'gsami', 'international', 'gsi', 'asset', 'management', 'lp', 'gsamlp', 'llc', 'gsco', 'gsco', 'gsamlp', 'regulated', 'securities', 'exchange', 'commission', 'laws', 'australian', 'laws', 'gsi', 'gsami', 'regulated', 'financial', 'conduct', 'authority', 'gsi', 'authorized', 'prudential', 'regulation', 'authority', 'laws', 'australian', 'laws', 'gsi', 'gsami', 'gsco', 'gsamlp', 'exempt', 'requirement', 'hold', 'australian', 'financial', 'services', 'licence', 'corporations', 'australia', 'hold', 'australian', 'financial', 'services', 'licences', 'financial', 'services', 'gsi', 'gsami', 'gsco', 'gsamlp', 'distributing', 'document', 'australia', 'persons', 'pursuant', 'asic', 'class', 'offer', 'acquire', 'fund', 'financial', 'product', 'document', 'financial', 'products', 'future', 'offer', 'arranged', 'gsama', 'corporations', 'gsama', 'holds', 'australian', 'financial', 'services', 'licence']",0.3051030412164866,29 07 2022,Goldman Sachs,recession,1
+29 07 2022_Goldman Sachs_recession,6,"MUSIN
+GS
+FIXED INCOME
+Goldman Sachs Asset Management
+6
+Any offer will only be made in circumstances where disclosure is not required under Part 
+6D.2 of the Corporations Act or a product disclosure statement is not required to be given 
+under Part 7.9 of the Corporations Act (as relevant).
+Canada: This presentation has been communicated in Canada by Goldman Sachs Asset 
+Management LP, which is registered as a portfolio manager under securities legislation in 
+all provinces of Canada and as a commodity trading manager under the commodity 
+futures legislation of Ontario and as a derivatives adviser under the derivatives legislation 
+of Quebec. Goldman Sachs Asset Management LP is not registered to provide investment 
+advisory or portfolio management services in respect of exchange-traded futures or 
+options contracts in Manitoba and is not offering to provide such investment advisory or 
+portfolio management services in Manitoba by delivery of this material.
+Japan: This material has been issued or approved in Japan for the use of professional 
+investors defined in Article 2 paragraph (31) of the Financial Instruments and Exchange 
+Law by Goldman Sachs Asset Management Co., Ltd.
+Cambodia:Please Note: The attached information has been provided at your request for 
+informational purposes only and is not intended as a solicitation in respect of the purchase 
+or sale of instruments or securities (including funds) or the provision of services. Neither 
+Goldman Sachs Asset Management (Singapore) Pte. Ltd. nor any of its affiliates is 
+licensed as a dealer or investment advisor under The Securities and Exchange Commission 
+of Cambodia. The information has been provided to you solely for your own purposes and 
+must not be copied or redistributed to any person without the prior consent of Goldman 
+Sachs Asset Management. 
+Timor: Please Note: The attached information has been provided at your request for 
+informational purposes only and is not intended as a solicitation in respect of the purchase 
+or sale of instruments or securities (including funds), or the provision of services. Neither 
+Goldman Sachs Asset Management (Singapore) Pte. Ltd. nor any of its affiliates is 
+licensed under any laws or regulations of Timor-Leste. The information has been provided 
+to you solely for your own purposes and must not be copied or redistributed to any person 
+or institution without the prior consent of Goldman Sachs Asset Management.
+Vietnam: Please Note: The attached information has been provided at your request for 
+informational purposes only. The attached materials are not, and any authors who 
+contribute to these materials are not, providing advice to any person. The attached 
+materials are not and should not be construed as an offering of any securities or any 
+services to any person. Neither Goldman Sachs Asset Management (Singapore) Pte. Ltd. 
+nor any of its affiliates is licensed as a dealer under the laws of Vietnam. The information 
+has been provided to you solely for your own purposes and must not be copied or 
+redistributed to any person without the prior consent of Goldman Sachs Asset 
+Management.
+Brazil: These materials are provided at your request and solely for your information, and in 
+no way constitutes an offer, solicitation, advertisement or advice of, or in relation to, any 
+securities, funds, or products by any of Goldman Sachs affiliates in Brazil or in any 
+jurisdiction in which such activity is unlawful or unauthorized, or to any person to whom it is 
+unlawful or unauthorized. This document has not been delivered for registration to the 
+relevant regulators or financial supervisory bodies in Brazil, such as the Brazilian Securities 
+and Exchange Commission (Comissao de ValoresMobiliarios- CVM) nor has its content 
+been reviewed or approved by any such regulators or financial supervisory bodies. The 
+securities, funds, or products described in this document have not been registered with the 
+relevant regulators or financial supervisory bodies in Brazil, such as the CVM, nor have 
+been submitted for approval by any such regulators or financial supervisory bodies. The 
+recipient undertakes to keep these materials as well as the information contained herein 
+as confidential and not to circulate them to any third party.
+Colombia: This presentation does not have the purpose or the effect of initiating, directly or 
+indirectly, the purchase of a product or the rendering of a service by Goldman Sachs Asset 
+Management to Colombian residents. Goldman Sachs Asset Management's products 
+and/or services may not be promoted or marketed in Colombia or to Colombian residents 
+unless such promotion and marketing is made in compliance with Decree 2555 of 2010 
+and other applicable rules and regulations related to the promotion of foreign financial 
+and/or securities-related products and/or services in Colombia or to Colombian 
+residents. 
+Bahrain: FOR [*] INFORMATION ONLY - NOT FOR WIDER DISTRIBUTION
+This material has not been reviewed by the Central Bank of Bahrain (CBB) and the CBB 
+takes no responsibility for the accuracy of the statements or the information contained 
+herein, or for the performance of the securities or related investment, nor shall the CBB 
+have any liability to any person for damage or loss resulting from reliance on any statement 
+or information contained herein. This material will not be issued, passed to, or made 
+available to the public generally.
+Kuwait: FOR [*] INFORMATION ONLY - NOT FOR WIDER DISTRIBUTION
+The investments described in this document have not been and will not be registered, 
+authorised, licensed or approved for offering, marketing or sale in the State of Kuwait 
+pursuant to Law No. 31 of 1990 and Law No. 7 of 2010 nor by the Central Bank of Kuwait 
+or any other relevant Kuwaiti government agency and shall not be offered or sold in the 
+State of Kuwait, except in compliance with the above. No private or public offering is being 
+made in the State of Kuwait, and no agreement relating to the sale of such investments will 
+be concluded in the State of Kuwait. No marketing or solicitation or inducement activities 
+are being used to offer or market such investments in the State of Kuwait.
+Oman: FOR [*] INFORMATION ONLY - NOT FOR WIDER DISTRIBUTION
+The Capital Market Authority of the Sultanate of Oman (the ""CMA"") is not liable for the 
+correctness or adequacy of information provided in this document or for identifying 
+whether or not the services contemplated within this document are appropriate investment 
+for a potential investor. The CMA shall also not be liable for any damage or loss resulting 
+from reliance placed on the document.
+Qatar: FOR [*] INFORMATION ONLY - NOT FOR WIDER DISTRIBUTION
+This document has not been, and will not be, registered with or reviewed or approved by 
+the Qatar Financial Markets Authority, the Qatar Financial Centre Regulatory Authority or 
+Qatar Central Bank and may not be publicly distributed. It is not for general circulation in 
+the State of Qatar and may not be reproduced or used for any other purpose.
+Saudi Arabia: FOR [*] INFORMATION ONLY - NOT FOR WIDER DISTRIBUTION
+The Capital Market Authority does not make any representation as to the accuracy or 
+completeness of this document, and expressly disclaims any liability whatsoever for any 
+loss arising from, or incurred in reliance upon, any part of this document. If you do not 
+understand the contents of this document you should consult an authorised financial 
+adviser.
+FOR [*] INFORMATION ONLY - NOT FOR WIDER DISTRIBUTION
+These materials are presented to you by Goldman Sachs Saudi Arabia Company 
+(""GSSA""). GSSA is authorised and regulated by the Capital Market Authority (""CMA"") in 
+the Kingdom of Saudi Arabia. GSSA is subject to relevant CMA rules and guidance, details 
+of which can be found on the CMA's website at www.cma.org.sa.
+The CMA does not make any representation as to the accuracy or completeness of these 
+materials, and expressly disclaims any liability whatsoever for any loss arising from, or 
+incurred in reliance upon, any part of these materials. If you do not understand the 
+contents of these materials, you should consult an authorised financial adviser.
+United Aram Emirates: FOR [*] INFORMATION ONLY - NOT FOR WIDER DISTRIBUTION
+This document has not been approved by, or filed with the Central Bank of the United Arab 
+Emirates or the Securities and Commodities Authority. If you do not understand the 
+contents of this document, you should consult with a financial advisor.
+South Africa: Goldman Sachs Asset Management International is authorised by the 
+Financial Services Board of South Africa as a financial services provider.
+By receiving this presentation, and in case any contact is made with Goldman Sachs Asset 
+Management, each recipient resident in Colombia acknowledges and agrees that it has 
+contacted Goldman Sachs Asset Management at its own initiative and not as a result of 
+any promotion or publicity by Goldman Sachs Asset Management or any of their respective 
+agents or representatives. Colombian residents acknowledge that (1) the receipt of this 
+presentation does not constitute a solicitation from Goldman Sachs Asset Management 
+for its products and/or services, and (2) they are not receiving from Goldman Sachs Asset 
+Management any direct or indirect promotion or marketing of financial and/or securities-
+related products and/or services. 
+",musin fix incom asset manag offer circumst disclosur requir corpor product disclosur statement requir corpor relev canada present communic canada asset manag lp regist portfolio manag secur legisl provinc canada commod trade manag commod futur legisl ontario deriv advis deriv legisl quebec asset manag lp regist provid invest advisori portfolio manag servic respect exchang trade futur option contract manitoba offer provid invest advisori portfolio manag servic manitoba deliveri materi japan materi issu approv japan profession investor defin articl paragraph financi instrument exchang law asset manag cambodia note attach request inform intend solicit respect purchas sale instrument secur includ fund provis servic asset manag singapor pte affili licens dealer invest advisor secur exchang commiss cambodia sole copi redistribut prior consent asset manag timor note attach request inform intend solicit respect purchas sale instrument secur includ fund provis servic asset manag singapor pte affili licens law regul timor lest sole copi redistribut institut prior consent asset manag vietnam note attach request inform attach materi author contribut materi provid advic attach materi constru offer secur servic asset manag singapor pte affili licens dealer law vietnam sole copi redistribut prior consent asset manag brazil materi request sole constitut offer solicit advertis advic relat secur fund product affili brazil jurisdict activ unlaw unauthor unlaw unauthor document deliv registr relev regul financi supervisori bodi brazil brazilian secur exchang commiss comissao cvm content review approv regul financi supervisori bodi secur fund product document regist relev regul financi supervisori bodi brazil cvm submit approv regul financi supervisori bodi recipi undertak materi contain confidenti circul parti colombia present purpos initi indirect purchas product render servic asset manag colombian resid asset manag product servic promot market colombia colombian resid promot market complianc decre applic rule regul promot foreign financi secur product servic colombia colombian resid bahrain wider distribut materi review central bahrain cbb cbb take respons accuraci statement contain perform secur invest cbb liabil damag loss relianc statement contain materi issu pass public kuwait wider distribut invest document regist authoris licens approv offer market sale kuwait pursuant law law central kuwait relev kuwaiti govern agenc offer sold kuwait complianc public offer kuwait agreement relat sale invest conclud kuwait market solicit induc activ offer market invest kuwait oman wider distribut capit market author sultan oman cma liabl correct adequaci document identifi servic contempl document invest potenti investor cma liabl damag loss relianc document qatar wider distribut document regist review approv qatar financi market author qatar financi centr regulatori author qatar central public distribut circul qatar reproduc purpos saudi arabia wider distribut capit market author represent accuraci complet document expressli disclaim liabil whatsoev loss aris incur relianc document understand content document consult authoris financi advis wider distribut materi saudi arabia compani gssa gssa authoris regul capit market author cma saudi arabia gssa relev cma rule guidanc detail cma cma cma represent accuraci complet materi expressli disclaim liabil whatsoev loss aris incur relianc materi understand content materi consult authoris financi advis unit aram emir wider distribut document approv file central unit arab emir secur commod author understand content document consult financi advisor south africa asset manag intern authoris financi servic board south africa financi servic provid receiv present contact asset manag recipi resid colombia acknowledg agre contact asset manag initi result promot public asset manag respect agent colombian resid acknowledg receipt present constitut solicit asset manag product servic receiv asset manag direct indirect promot market financi secur product servic,"['musin', 'fixed', 'income', 'asset', 'management', 'offer', 'circumstances', 'disclosure', 'required', 'corporations', 'product', 'disclosure', 'statement', 'required', 'corporations', 'relevant', 'canada', 'presentation', 'communicated', 'canada', 'asset', 'management', 'lp', 'registered', 'portfolio', 'manager', 'securities', 'legislation', 'provinces', 'canada', 'commodity', 'trading', 'manager', 'commodity', 'futures', 'legislation', 'ontario', 'derivatives', 'adviser', 'derivatives', 'legislation', 'quebec', 'asset', 'management', 'lp', 'registered', 'provide', 'investment', 'advisory', 'portfolio', 'management', 'services', 'respect', 'exchange', 'traded', 'futures', 'options', 'contracts', 'manitoba', 'offering', 'provide', 'investment', 'advisory', 'portfolio', 'management', 'services', 'manitoba', 'delivery', 'material', 'japan', 'material', 'issued', 'approved', 'japan', 'professional', 'investors', 'defined', 'article', 'paragraph', 'financial', 'instruments', 'exchange', 'law', 'asset', 'management', 'cambodia', 'note', 'attached', 'request', 'informational', 'intended', 'solicitation', 'respect', 'purchase', 'sale', 'instruments', 'securities', 'including', 'funds', 'provision', 'services', 'asset', 'management', 'singapore', 'pte', 'affiliates', 'licensed', 'dealer', 'investment', 'advisor', 'securities', 'exchange', 'commission', 'cambodia', 'solely', 'copied', 'redistributed', 'prior', 'consent', 'asset', 'management', 'timor', 'note', 'attached', 'request', 'informational', 'intended', 'solicitation', 'respect', 'purchase', 'sale', 'instruments', 'securities', 'including', 'funds', 'provision', 'services', 'asset', 'management', 'singapore', 'pte', 'affiliates', 'licensed', 'laws', 'regulations', 'timor', 'leste', 'solely', 'copied', 'redistributed', 'institution', 'prior', 'consent', 'asset', 'management', 'vietnam', 'note', 'attached', 'request', 'informational', 'attached', 'materials', 'authors', 'contribute', 'materials', 'providing', 'advice', 'attached', 'materials', 'construed', 'offering', 'securities', 'services', 'asset', 'management', 'singapore', 'pte', 'affiliates', 'licensed', 'dealer', 'laws', 'vietnam', 'solely', 'copied', 'redistributed', 'prior', 'consent', 'asset', 'management', 'brazil', 'materials', 'request', 'solely', 'constitutes', 'offer', 'solicitation', 'advertisement', 'advice', 'relation', 'securities', 'funds', 'products', 'affiliates', 'brazil', 'jurisdiction', 'activity', 'unlawful', 'unauthorized', 'unlawful', 'unauthorized', 'document', 'delivered', 'registration', 'relevant', 'regulators', 'financial', 'supervisory', 'bodies', 'brazil', 'brazilian', 'securities', 'exchange', 'commission', 'comissao', 'cvm', 'content', 'reviewed', 'approved', 'regulators', 'financial', 'supervisory', 'bodies', 'securities', 'funds', 'products', 'document', 'registered', 'relevant', 'regulators', 'financial', 'supervisory', 'bodies', 'brazil', 'cvm', 'submitted', 'approval', 'regulators', 'financial', 'supervisory', 'bodies', 'recipient', 'undertakes', 'materials', 'contained', 'confidential', 'circulate', 'party', 'colombia', 'presentation', 'purpose', 'initiating', 'indirectly', 'purchase', 'product', 'rendering', 'service', 'asset', 'management', 'colombian', 'residents', 'asset', 'management', 'products', 'services', 'promoted', 'marketed', 'colombia', 'colombian', 'residents', 'promotion', 'marketing', 'compliance', 'decree', 'applicable', 'rules', 'regulations', 'promotion', 'foreign', 'financial', 'securities', 'products', 'services', 'colombia', 'colombian', 'residents', 'bahrain', 'wider', 'distribution', 'material', 'reviewed', 'central', 'bahrain', 'cbb', 'cbb', 'takes', 'responsibility', 'accuracy', 'statements', 'contained', 'performance', 'securities', 'investment', 'cbb', 'liability', 'damage', 'loss', 'reliance', 'statement', 'contained', 'material', 'issued', 'passed', 'public', 'kuwait', 'wider', 'distribution', 'investments', 'document', 'registered', 'authorised', 'licensed', 'approved', 'offering', 'marketing', 'sale', 'kuwait', 'pursuant', 'law', 'law', 'central', 'kuwait', 'relevant', 'kuwaiti', 'government', 'agency', 'offered', 'sold', 'kuwait', 'compliance', 'public', 'offering', 'kuwait', 'agreement', 'relating', 'sale', 'investments', 'concluded', 'kuwait', 'marketing', 'solicitation', 'inducement', 'activities', 'offer', 'market', 'investments', 'kuwait', 'oman', 'wider', 'distribution', 'capital', 'market', 'authority', 'sultanate', 'oman', 'cma', 'liable', 'correctness', 'adequacy', 'document', 'identifying', 'services', 'contemplated', 'document', 'investment', 'potential', 'investor', 'cma', 'liable', 'damage', 'loss', 'reliance', 'document', 'qatar', 'wider', 'distribution', 'document', 'registered', 'reviewed', 'approved', 'qatar', 'financial', 'markets', 'authority', 'qatar', 'financial', 'centre', 'regulatory', 'authority', 'qatar', 'central', 'publicly', 'distributed', 'circulation', 'qatar', 'reproduced', 'purpose', 'saudi', 'arabia', 'wider', 'distribution', 'capital', 'market', 'authority', 'representation', 'accuracy', 'completeness', 'document', 'expressly', 'disclaims', 'liability', 'whatsoever', 'loss', 'arising', 'incurred', 'reliance', 'document', 'understand', 'contents', 'document', 'consult', 'authorised', 'financial', 'adviser', 'wider', 'distribution', 'materials', 'saudi', 'arabia', 'company', 'gssa', 'gssa', 'authorised', 'regulated', 'capital', 'market', 'authority', 'cma', 'saudi', 'arabia', 'gssa', 'relevant', 'cma', 'rules', 'guidance', 'details', 'cma', 'cma', 'cma', 'representation', 'accuracy', 'completeness', 'materials', 'expressly', 'disclaims', 'liability', 'whatsoever', 'loss', 'arising', 'incurred', 'reliance', 'materials', 'understand', 'contents', 'materials', 'consult', 'authorised', 'financial', 'adviser', 'united', 'aram', 'emirates', 'wider', 'distribution', 'document', 'approved', 'filed', 'central', 'united', 'arab', 'emirates', 'securities', 'commodities', 'authority', 'understand', 'contents', 'document', 'consult', 'financial', 'advisor', 'south', 'africa', 'asset', 'management', 'international', 'authorised', 'financial', 'services', 'board', 'south', 'africa', 'financial', 'services', 'provider', 'receiving', 'presentation', 'contact', 'asset', 'management', 'recipient', 'resident', 'colombia', 'acknowledges', 'agrees', 'contacted', 'asset', 'management', 'initiative', 'result', 'promotion', 'publicity', 'asset', 'management', 'respective', 'agents', 'colombian', 'residents', 'acknowledge', 'receipt', 'presentation', 'constitute', 'solicitation', 'asset', 'management', 'products', 'services', 'receiving', 'asset', 'management', 'direct', 'indirect', 'promotion', 'marketing', 'financial', 'securities', 'products', 'services']",0.4358225108225108,29 07 2022,Goldman Sachs,recession,1
+29 07 2022_Goldman Sachs_recession,7,"MUSIN
+GS
+FIXED INCOME
+Goldman Sachs Asset Management
+7
+This presentation is strictly private and confidential and may not be reproduced or used for 
+any purpose other than evaluation of a potential investment in Goldman Sachs Asset 
+Management's products or the procurement of its services by the recipient of this this 
+presentation or provided to any person or entity other than the recipient of this this 
+presentation. 
+Esta presentacion no tiene el proposito o el efecto de iniciar, directa o indirectamente, la 
+adquisicion de un producto a prestacion de un servicio por parte de Goldman Sachs Asset 
+Management a residentes colombianos. servicios financieros y /o del mercado de valores 
+en Colombia o a residentes colombianos. 
+Los productos y/o servicios de Goldman Sachs Asset Management no podran ser 
+ofrecidos ni promocionados en Colombia o a residentes Colombianos a menos que dicha 
+oferta y promocion se lleve a cabo en cumplimiento del Decreto 2555 de 2010 y las otras 
+reglas y regulaciones aplicables en materia de promocion de productos y/o .Al recibir esta
+presentacion, y en caso que se decida contactara Goldman Sachs Asset Management, 
+cada destinatarioresidenteen Colombia reconocey acepta que ha contactadoa Goldman 
+Sachs Asset Management por su propia iniciativay no como resultadode cualquier
+promocion o publicidad por parte de Goldman Sachs Asset Management o cualquierade 
+sus agentes o representantes. Los residentes colombianos reconocenque (1) la recepcion
+de esta presentacion no constituyeuna solicitud de los productos y/o servicios de 
+Goldman Sachs Asset Management, y (2) que no estan recibiendoningunaoferta o 
+promocion directa o indirectade productos y/o servicios financieros y/o del mercado de 
+valores por parte de Goldman Sachs Asset Management. 
+Esta presentacion es estrictamenteprivada y confidencial, y no podra ser reproducidao 
+utilizadapara cualquierproposito diferentea la evaluacionde una inversionpotencialen 
+los productos de Goldman Sachs Asset Management o la contratacionde sus servicios por 
+parte del destinatariode esta presentacion, no podra ser proporcionadaa una persona 
+diferentedel destinatariode esta presentacion.
+Index Benchmarks
+Indices are unmanaged. The figures for the index reflect the reinvestment of all income or 
+dividends, as applicable, but do not reflect the deduction of any fees or expenses which 
+would reduce returns. Investors cannot invest directly in indices.
+The indices referenced herein have been selected because they are well known, easily 
+recognized by investors, and reflect those indices that the Investment Manager believes, in 
+part based on industry practice, provide a suitable benchmark against which to evaluate 
+the investment or broader market described herein.  The exclusion of ""failed"" or closed 
+hedge funds may mean that each index overstates the performance of hedge funds 
+generally.
+Sector Spread Indexes
+US Investment Grade Corporates: ICE BofAML US Corporate Index
+US High Yield Corporates:ICE BofAML US Corporate High Yield Index
+European Investment Grade Corporates: ICE BofAML Euro Corporate Index
+European High Yield Corporates: ICE BofAML Euro High Yield Index
+ABS: ICE BofAML US Fixed Rate Asset-Backed Securities Index
+MBS: ICE BofAML US Agency Mortgage-Backed Securities Index
+CMBS: ICE BofAML US Fixed Rate Commercial Mortgage-Backed Securities Index
+EM External Debt: J.P. Morgan, EMBI Global Diversified Face Constrained Index
+Past performance does not guarantee future results, which may vary. The value of 
+investments and the income derived from investments will fluctuate and can go down as 
+well as up. A loss of principal may occur.
+Abbreviations: US Federal Reserve (Fed),  European Central Bank (ECB), Bank of England 
+(BoE), Bank of Japan (BoJ), Quantitative Easing (QE), Quantitative Tightening (QT), 
+Pandemic Emergency Purchase Program (PEPP).
+Confidentiality
+No part of this material may, without Goldman Sachs Asset Management's prior written 
+consent, be (i) copied, photocopied or duplicated in any form, by any means, or (ii) 
+distributed to any person that is not an employee, officer, director, or authorized agent of 
+the recipient.
+(c) 2022 Goldman Sachs. All rights reserved. 
+Jurisdiction compliance code: 285876-TMPL-07/2022-1641660. 
+Compliance Code : 286977-OTU-1646425.
+",musin fix incom asset manag present strict confidenti reproduc purpos evalu potenti invest asset manag product procur servic recipi present entiti recipi present esta presentacion tien el proposito el efecto iniciar directa indirectament adquisicion producto prestacion servicio por part asset manag resident colombiano servicio financiero del mercado valor en colombia resident colombiano los producto servicio asset manag podran ser ofrecido promocionado en colombia resident colombiano meno dicha oferta promocion lleve cabo en cumplimiento del decreto la otra regla regulacion aplic en materia promocion producto recibir esta presentacion en caso decida contactara asset manag cada colombia reconocey acepta ha contactadoa asset manag por propia iniciativay como resultadod cualquier promocion publicidad por part asset manag cualquierad sus agent representant los resident colombiano reconocenqu recepcion esta presentacion constituyeuna solicitud los producto servicio asset manag estan promocion directa indirectad producto servicio financiero del mercado valor por part asset manag esta presentacion confidenci podra ser reproducidao utilizadapara diferentea evaluaciond una los producto asset manag contrataciond sus servicio por part del destinatariod esta presentacion podra ser proporcionadaa una persona diferentedel destinatariod esta presentacion benchmark index unmanag figur reflect reinvest incom dividend applic reflect deduct fee expens reduc return investor invest index index referenc select easili recogn investor reflect index invest manag belief base industri practic provid suitabl benchmark evalu invest broader market exclus fail close hedg fund overst perform hedg fund sector spread index invest grade corpor ice bofaml corpor yield corpor ice bofaml corpor yield european invest grade corpor ice bofaml euro corpor european yield corpor ice bofaml euro yield ab ice bofaml fix rate asset secur mb ice bofaml agenc mortgag secur cmb ice bofaml fix rate commerci mortgag secur em extern debt embi global diversifi constrain perform guarante futur vari invest incom deriv invest fluctuat loss princip occur abbrevi feder reserv fed european central ecb england boe japan boj quantit eas qe quantit tighten qt pandem emerg purchas program pepp materi asset manag prior written consent copi photocopi duplic form distribut employe offic director author agent recipi right jurisdict complianc code tmpl complianc code otu,"['musin', 'fixed', 'income', 'asset', 'management', 'presentation', 'strictly', 'confidential', 'reproduced', 'purpose', 'evaluation', 'potential', 'investment', 'asset', 'management', 'products', 'procurement', 'services', 'recipient', 'presentation', 'entity', 'recipient', 'presentation', 'esta', 'presentacion', 'tiene', 'el', 'proposito', 'el', 'efecto', 'iniciar', 'directa', 'indirectamente', 'adquisicion', 'producto', 'prestacion', 'servicio', 'por', 'parte', 'asset', 'management', 'residentes', 'colombianos', 'servicios', 'financieros', 'del', 'mercado', 'valores', 'en', 'colombia', 'residentes', 'colombianos', 'los', 'productos', 'servicios', 'asset', 'management', 'podran', 'ser', 'ofrecidos', 'promocionados', 'en', 'colombia', 'residentes', 'colombianos', 'menos', 'dicha', 'oferta', 'promocion', 'lleve', 'cabo', 'en', 'cumplimiento', 'del', 'decreto', 'las', 'otras', 'reglas', 'regulaciones', 'aplicables', 'en', 'materia', 'promocion', 'productos', 'recibir', 'esta', 'presentacion', 'en', 'caso', 'decida', 'contactara', 'asset', 'management', 'cada', 'colombia', 'reconocey', 'acepta', 'ha', 'contactadoa', 'asset', 'management', 'por', 'propia', 'iniciativay', 'como', 'resultadode', 'cualquier', 'promocion', 'publicidad', 'por', 'parte', 'asset', 'management', 'cualquierade', 'sus', 'agentes', 'representantes', 'los', 'residentes', 'colombianos', 'reconocenque', 'recepcion', 'esta', 'presentacion', 'constituyeuna', 'solicitud', 'los', 'productos', 'servicios', 'asset', 'management', 'estan', 'promocion', 'directa', 'indirectade', 'productos', 'servicios', 'financieros', 'del', 'mercado', 'valores', 'por', 'parte', 'asset', 'management', 'esta', 'presentacion', 'confidencial', 'podra', 'ser', 'reproducidao', 'utilizadapara', 'diferentea', 'evaluacionde', 'una', 'los', 'productos', 'asset', 'management', 'contratacionde', 'sus', 'servicios', 'por', 'parte', 'del', 'destinatariode', 'esta', 'presentacion', 'podra', 'ser', 'proporcionadaa', 'una', 'persona', 'diferentedel', 'destinatariode', 'esta', 'presentacion', 'benchmarks', 'indices', 'unmanaged', 'figures', 'reflect', 'reinvestment', 'income', 'dividends', 'applicable', 'reflect', 'deduction', 'fees', 'expenses', 'reduce', 'returns', 'investors', 'invest', 'indices', 'indices', 'referenced', 'selected', 'easily', 'recognized', 'investors', 'reflect', 'indices', 'investment', 'manager', 'believes', 'based', 'industry', 'practice', 'provide', 'suitable', 'benchmark', 'evaluate', 'investment', 'broader', 'market', 'exclusion', 'failed', 'closed', 'hedge', 'funds', 'overstates', 'performance', 'hedge', 'funds', 'sector', 'spread', 'indexes', 'investment', 'grade', 'corporates', 'ice', 'bofaml', 'corporate', 'yield', 'corporates', 'ice', 'bofaml', 'corporate', 'yield', 'european', 'investment', 'grade', 'corporates', 'ice', 'bofaml', 'euro', 'corporate', 'european', 'yield', 'corporates', 'ice', 'bofaml', 'euro', 'yield', 'abs', 'ice', 'bofaml', 'fixed', 'rate', 'asset', 'securities', 'mbs', 'ice', 'bofaml', 'agency', 'mortgage', 'securities', 'cmbs', 'ice', 'bofaml', 'fixed', 'rate', 'commercial', 'mortgage', 'securities', 'em', 'external', 'debt', 'embi', 'global', 'diversified', 'constrained', 'performance', 'guarantee', 'future', 'vary', 'investments', 'income', 'derived', 'investments', 'fluctuate', 'loss', 'principal', 'occur', 'abbreviations', 'federal', 'reserve', 'fed', 'european', 'central', 'ecb', 'england', 'boe', 'japan', 'boj', 'quantitative', 'easing', 'qe', 'quantitative', 'tightening', 'qt', 'pandemic', 'emergency', 'purchase', 'program', 'pepp', 'material', 'asset', 'management', 'prior', 'written', 'consent', 'copied', 'photocopied', 'duplicated', 'form', 'distributed', 'employee', 'officer', 'director', 'authorized', 'agent', 'recipient', 'rights', 'jurisdiction', 'compliance', 'code', 'tmpl', 'compliance', 'code', 'otu']",0.2959288194444444,29 07 2022,Goldman Sachs,recession,1

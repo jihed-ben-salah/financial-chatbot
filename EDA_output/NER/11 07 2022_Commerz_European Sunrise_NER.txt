@@ -1,0 +1,620 @@
+11 july 2022 : DATE
+149 7 : CARDINAL
+150 : CARDINAL
+150 2 : CARDINAL
+150 5 : CARDINAL
+150 7 : CARDINAL
+151 : CARDINAL
+151 2 : CARDINAL
+117 5 : CARDINAL
+117 7 : CARDINAL
+117 9 : CARDINAL
+118 1 : CARDINAL
+118 3 : CARDINAL
+118 5 : CARDINAL
+118 7 : CARDINAL
+07 00 : DATE
+13 : CARDINAL
+19 00 : DATE
+01 00 : DATE
+07 00 : DATE
+today : DATE
+rxu2 : PERSON
+195 : CARDINAL
+2014 3679 : DATE
+8 00am to 5 15pm : DATE
+1d : CARDINAL
+6 : CARDINAL
+576 : CARDINAL
+128 : CARDINAL
+117 : CARDINAL
+120 : CARDINAL
+rainer guntermann : PERSON
+49 : CARDINAL
+69 : CARDINAL
+136 : CARDINAL
+87506 : DATE
+bloomberg resp : PERSON
+european : NORP
+fed : ORG
+16 5bn : DATE
+germany : GPE
+netherlands : GPE
+greece : GPE
+italy : GPE
+30 : CARDINAL
+5bn : ORDINAL
+first : ORDINAL
+mid year : DATE
+the start of the week : DATE
+ecb holzmann : PERSON
+50bp : ORDINAL
+july : DATE
+75bp : ORDINAL
+september : DATE
+doesn improve : ORG
+25bp : DATE
+july : DATE
+55 : CARDINAL
+germany : GPE
+45 : DATE
+30 : CARDINAL
+last month : DATE
+this quarter : DATE
+1 25 : CARDINAL
+march : DATE
+fed williams : PERSON
+50 or 75bp july : DATE
+1 : CARDINAL
+2022 : DATE
+around 1 5 : CARDINAL
+2023 : DATE
+canada : GPE
+germany : GPE
+french : NORP
+russian : NORP
+france : GPE
+2022 : DATE
+sanctions eu : PERSON
+russia : GPE
+one : CARDINAL
+netherlands : GPE
+2 5 : DATE
+june : DATE
+2 4 : DATE
+6 1 exp : QUANTITY
+6 : CARDINAL
+june : DATE
+19 : CARDINAL
+shanghai : GPE
+first : ORDINAL
+5 : CARDINAL
+japan : GPE
+ldp : ORG
+76 : CARDINAL
+125 : CARDINAL
+friday : DATE
+china : GPE
+106 : CARDINAL
+8 0bn : DATE
+12 00 : CARDINAL
+1 75 : CARDINAL
+5bn : ORDINAL
+17 00 : CARDINAL
+18 jul : QUANTITY
+19 00 : MONEY
+3y : CARDINAL
+43 0bn : DATE
+2 11 : DATE
+july 2022 : DATE
+european : NORP
+11 day : DATE
+nord : ORG
+1 : CARDINAL
+today : DATE
+fed : ORG
+ecb talk holzmann : PERSON
+thursday : DATE
+2 10y : DATE
+20y : CARDINAL
+3 55 : CARDINAL
+above 1 25 : CARDINAL
+this week : DATE
+later this month : DATE
+fed : ORG
+march 2023 : DATE
+fed : ORG
+this month : DATE
+50bp : ORDINAL
+september : DATE
+2023 : DATE
+the week : DATE
+1 : CARDINAL
+one day : DATE
+overnight : TIME
+bund : LOC
+10y : CARDINAL
+friday : DATE
+today : DATE
+today : DATE
+fed : ORG
+2023 : CARDINAL
+last monday : DATE
+163 : CARDINAL
+185 : CARDINAL
+200 : CARDINAL
+197 189 : CARDINAL
+169 : CARDINAL
+130 : CARDINAL
+73 : CARDINAL
+0 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+23 : CARDINAL
+23 : CARDINAL
+23 : CARDINAL
+23 : CARDINAL
+22 
+nov : QUANTITY
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+fed : ORG
+4 : CARDINAL
+22 : CARDINAL
+201 : CARDINAL
+197 : CARDINAL
+196 : CARDINAL
+187 : CARDINAL
+178 : CARDINAL
+165 : CARDINAL
+148 : CARDINAL
+120 : CARDINAL
+81 : CARDINAL
+29 : CARDINAL
+0 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+23 : CARDINAL
+23 : CARDINAL
+23 : CARDINAL
+23 : CARDINAL
+23 : CARDINAL
+22 : CARDINAL
+oct 22 : DATE
+22 : CARDINAL
+22 : CARDINAL
+4 : CARDINAL
+22 : CARDINAL
+5bn : ORDINAL
+this week : DATE
+25bn last week : DATE
+germany : GPE
+tomorrow : DATE
+30y : DATE
+wednesday : DATE
+netherlands : GPE
+10y : DATE
+10y : CARDINAL
+today : DATE
+italy : GPE
+3y : CARDINAL
+15y : DATE
+portugal : GPE
+3 11 : DATE
+july 2022 : DATE
+european : NORP
+30 : CARDINAL
+5bn : ORDINAL
+16 6 : CARDINAL
+13 9bn : CARDINAL
+wednesday : DATE
+2 : CARDINAL
+the coming weeks : DATE
+40 : CARDINAL
+30 : CARDINAL
+20 : CARDINAL
+10 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+27 : CARDINAL
+04 jul 11 : QUANTITY
+18 : CARDINAL
+25 : CARDINAL
+01 : CARDINAL
+dmos bloomberg commerzbank research 
+ : ORG
+the start of the week : DATE
+50bn : ORDINAL
+four : CARDINAL
+five : CARDINAL
+8bn : ORDINAL
+65 6bn : DATE
+summer : DATE
+mid year : DATE
+2022 : DATE
+80 85bn : DATE
+64bn : ORDINAL
+75 : CARDINAL
+friday 15 july : DATE
+spain : GPE
+09 : CARDINAL
+02 : CARDINAL
+22 : CARDINAL
+dbrs 
+ireland dbrs aa low : ORG
+01 : CARDINAL
+2022 : DATE
+22 : CARDINAL
+22 : CARDINAL
+luxembourg : GPE
+02 : CARDINAL
+11 2022 : DATE
+29 : CARDINAL
+22 : CARDINAL
+1 : CARDINAL
+2022 : DATE
+4 11 : DATE
+july 2022 : DATE
+european : NORP
+monday 11 : DATE
+july 2022 : DATE
+8 0bn : DATE
+12 00 : CARDINAL
+1 75 : CARDINAL
+5bn : ORDINAL
+17 00 : CARDINAL
+18 jul : QUANTITY
+19 00 : MONEY
+3y : CARDINAL
+43 0bn : DATE
+tuesday 12 july 2022 : DATE
+10 00 : DATE
+0 : CARDINAL
+11 30 : CARDINAL
+0 : CARDINAL
+5 5bn : DATE
+19 00 us 10y : DATE
+33 0bn 
+wednesday 13 : DATE
+july 2022 : DATE
+11 00 : CARDINAL
+1 2 : CARDINAL
+7 0bn : DATE
+11 : CARDINAL
+0 : DATE
+1 5bn : CARDINAL
+19 00 : DATE
+30y : DATE
+19 0bn : DATE
+thursday : DATE
+14 july 2022 : DATE
+17 : CARDINAL
+20y : CARDINAL
+10y : CARDINAL
+20 21 : QUANTITY
+jul 
+ : PERSON
+friday 15 july 2022 : DATE
+11 00 : DATE
+21 jul : QUANTITY
+14 00 : CARDINAL
+21 jul : QUANTITY
+12 30 : CARDINAL
+18 jul : QUANTITY
+monday 18 july 2022 : DATE
+12 00 : CARDINAL
+2 8bn 
+tuesday 19 july 2022 : DATE
+11 : CARDINAL
+1 3 oct27 : QUANTITY
+4 0bn 
+wednesday 20 : DATE
+july 2022 : DATE
+11 : CARDINAL
+1 5bn : CARDINAL
+19 00 : DATE
+20y : CARDINAL
+14 0bn 
+thursday 21 : DATE
+july 2022 : DATE
+10 30 : CARDINAL
+5 5bn : DATE
+10 50 : CARDINAL
+10 0bn : DATE
+11 50 : CARDINAL
+1 0bn : DATE
+17 00 : CARDINAL
+2y : CARDINAL
+7y : CARDINAL
+2y frn : QUANTITY
+25 26 : DATE
+27 28 jul : QUANTITY
+18 00 : CARDINAL
+26 jul : QUANTITY
+19 00 : MONEY
+10y : CARDINAL
+17 0bn : DATE
+july 2022 : DATE
+14 00 : CARDINAL
+27 jul : QUANTITY
+5 11 : DATE
+july 2022 : DATE
+european : NORP
+monday 11 : DATE
+july 2022 : DATE
+tuesday 12 july 2022 : DATE
+11 00 : CARDINAL
+zew : ORG
+jul sa : PERSON
+45 : CARDINAL
+wednesday 13 : DATE
+july 2022 : DATE
+jun : PERSON
+4 : CARDINAL
+1 : CARDINAL
+08 00 : DATE
+monthly : DATE
+0 3 : CARDINAL
+08 45 : DATE
+jun : PERSON
+5 8 : DATE
+08 45 : DATE
+111 : CARDINAL
+76 : CARDINAL
+76 : CARDINAL
+110 95 : CARDINAL
+11 00 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+14 : CARDINAL
+30 : DATE
+jun m sa : PERSON
+14 : CARDINAL
+30 : DATE
+jun m sa : PERSON
+0 5 : DATE
+0 : CARDINAL
+6 : CARDINAL
+6 : CARDINAL
+16 00 : DATE
+bank of canada rate : ORG
+2 : CARDINAL
+thursday : DATE
+14 july 2022 : DATE
+14 : CARDINAL
+30 : DATE
+jun m : PERSON
+0 8 : DATE
+8 : CARDINAL
+14 30 : DATE
+9 : CARDINAL
+235 : CARDINAL
+friday 15 july 2022 : DATE
+04 00 : CARDINAL
+4 2 : DATE
+7 : CARDINAL
+04 00 : CARDINAL
+2q : CARDINAL
+8 : CARDINAL
+14 30 : DATE
+usa empire : GPE
+jul sa : PERSON
+14 : CARDINAL
+30 : CARDINAL
+jun m sa : PERSON
+1 : CARDINAL
+0 : CARDINAL
+9 : CARDINAL
+3 : CARDINAL
+14 : CARDINAL
+30 : CARDINAL
+jun m sa : PERSON
+0 8 : DATE
+7 : CARDINAL
+5 : CARDINAL
+15 : CARDINAL
+jun m sa : PERSON
+1 : CARDINAL
+16 00 : DATE
+jul sa : PERSON
+49 : CARDINAL
+50 : CARDINAL
+6 11 : DATE
+july 2022 : DATE
+european : NORP
+mar : PERSON
+11 : CARDINAL
+7 2022 : DATE
+07 : DATE
+48 : CARDINAL
+11 : CARDINAL
+7 2022 : DATE
+07 : DATE
+48 : CARDINAL
+article 4 : LAW
+mar : PERSON
+the previous 12 months : DATE
+the previous 12 months : DATE
+gm : ORG
+commerzbank ag frankfurt : ORG
+cftc : ORG
+2241 : CARDINAL
+commerzbank ag : ORG
+commerzbank : ORG
+the end of the month : DATE
+up to ten days : DATE
+month end : DATE
+three months : DATE
+commerzbank ag credit research recommendations : ORG
+30 june 2022 : DATE
+14 100 : CARDINAL
+43 67 : CARDINAL
+43 33 : CARDINAL
+commerzbank ag rates research recommendations : ORG
+30 june 2022 : DATE
+46 : CARDINAL
+16 : CARDINAL
+38 0 : CARDINAL
+7 11 july 2022 : DATE
+european : NORP
+commerzbank : ORG
+commerzbank : ORG
+commerzbank : ORG
+the united states : GPE
+germany commerzbank ag : ORG
+frankfurt : GPE
+32000 commerzbank ag : QUANTITY
+german : NORP
+bundesanstalt für : PERSON
+108 : CARDINAL
+53117 : CARDINAL
+bonn : GPE
+marie curie : PERSON
+24 : CARDINAL
+60439 : DATE
+frankfurt : GPE
+the european central bank : ORG
+20 : CARDINAL
+60314 : CARDINAL
+frankfurt : GPE
+germany : GPE
+united kingdom : GPE
+the united kingdom : GPE
+commerzbank ag london : ORG
+commerzbank ag london : ORG
+bundesanstalt für : PERSON
+the european central bank : ORG
+the prudential regulation authority : ORG
+the prudential regulation authority : ORG
+commerzbank ag london : ORG
+united states : GPE
+commerzbank ag for securities purposes commerzbank ag : ORG
+third : ORDINAL
+2242 : DATE
+commerzbank ag : ORG
+commerzbank ag : ORG
+sipc : PERSON
+cftc : ORG
+canada : GPE
+canada : GPE
+canadian : NORP
+canada : GPE
+canada : GPE
+canada : GPE
+31 103 : DATE
+canada : GPE
+canada : GPE
+canada : GPE
+european : NORP
+commerzbank ag london : ORG
+commerzbank ag london : ORG
+bundesanstalt für : PERSON
+the european central bank : ORG
+the prudential regulation authority : ORG
+the prudential regulation authority : ORG
+switzerland : GPE
+swiss : NORP
+singapore : GPE
+singapore : GPE
+commerzbank ag singapore : ORG
+singapore : GPE
+section 4a : LAW
+289 : CARDINAL
+singapore : GPE
+sfa : ORG
+section 274 : LAW
+section 275 : LAW
+the financial advisers act : ORG
+110 : CARDINAL
+singapore : GPE
+hong kong : GPE
+hong kong : GPE
+commerzbank ag hong kong : ORG
+571 : CARDINAL
+hong kong : GPE
+8 11 : DATE
+july 2022 : DATE
+european : NORP
+japan : GPE
+the financial instrument exchange : ORG
+japan : GPE
+commerzbank international branches : ORG
+japan : GPE
+section 2 31 : LAW
+section 23 : LAW
+section 2 : LAW
+commerzbank ag tokyo : ORG
+commerzbank ag : ORG
+australia commerzbank ag : ORG
+australian : NORP
+australia : GPE
+australian : NORP
+commerzbank ag : ORG
+04 1313 commerzbank : QUANTITY
+bundesanstalt für finanzdienstleistungsaufsicht : PERSON
+germany : GPE
+australian : NORP
+china : GPE
+prc : GPE
+commerzbank ag : ORG
+prc : GPE
+prc : GPE
+prc : GPE
+the prc 
+ commerzbank ag : ORG
+2022 : DATE
+22 04 : CARDINAL
+commerzbank : ORG
+frankfurt : GPE
+commerzbank ag 
+london 
+commerzbank ag 
+new york : ORG
+commerzbank ag 
+hong kong 
+commerzbank ag 
+dlz : ORG
+2 : CARDINAL
+153 : CARDINAL
+60327 : DATE
+frankfurt : GPE
+52715 : DATE
+30 : CARDINAL
+london : GPE
+2xy : CARDINAL
+225 : CARDINAL
+32nd : ORDINAL
+new york : GPE
+10281 1050 : DATE
+71 : CARDINAL
+12 01 : DATE
+singapore : GPE
+068895 : DATE
+15th : ORDINAL
+lee garden one : FAC
+33 : CARDINAL
+hysan avenue : FAC
+causeway bay 
+ : FAC
+hong kong : GPE
+49 : CARDINAL
+21200 : CARDINAL
+44 : CARDINAL
+207 : CARDINAL
+623 : CARDINAL
+8000 : CARDINAL
+1 212 : CARDINAL
+4000 : CARDINAL
+852 : CARDINAL
+9 11 : DATE
+july 2022 : DATE
+european : NORP

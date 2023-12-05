@@ -1,0 +1,1220 @@
+scotia economics scotiabank : ORG
+capital markets economics scotiabank : ORG
+416 : CARDINAL
+7707 : CARDINAL
+the global week ahead 
+ : DATE
+july 8 2022 : DATE
+the week : DATE
+2 : CARDINAL
+bank of canada : ORG
+2 4 
+  : MONEY
+4 5 
+  : DATE
+5 : CARDINAL
+6 : CARDINAL
+6 7 : CARDINAL
+the week next week : DATE
+australian : NORP
+0 : CARDINAL
+20 : CARDINAL
+06 07 : DATE
+09 : CARDINAL
+13 : CARDINAL
+15 : CARDINAL
+united states canada australia : ORG
+germany : GPE
+united kingdom 
+ : GPE
+100 : CARDINAL
+2006 : DATE
+google : ORG
+google : ORG
+2 : CARDINAL
+july 8 2022 : DATE
+the global week : DATE
+the bank of canada : ORG
+wednesday : DATE
+the week : DATE
+season : DATE
+the back half of the week : DATE
+bank of canada : ORG
+the bank of canada delivers : ORG
+wednesday : DATE
+one hour later : TIME
+75bps : CARDINAL
+overnight : TIME
+2 3 : CARDINAL
+3 : CARDINAL
+september : DATE
+50 : CARDINAL
+year end : DATE
+75bps this week : DATE
+half : CARDINAL
+between 75 and 100bps : CARDINAL
+75bps : CARDINAL
+september : DATE
+up to : CARDINAL
+3 : CARDINAL
+100bps : CARDINAL
+100 : CARDINAL
+100bps : CARDINAL
+canada : GPE
+four : CARDINAL
+january : DATE
+100 : CARDINAL
+25 : CARDINAL
+1983 : DATE
+1 : CARDINAL
+5 8 : DATE
+about 7¼ : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+10 11 : DATE
+13 : CARDINAL
+15 : CARDINAL
+23 : CARDINAL
+24 : CARDINAL
+bank of canada haver analytics : ORG
+7 3 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+3 : CARDINAL
+canadian : NORP
+2021 : CARDINAL
+2022 : DATE
+2022 : DATE
+0 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+5 5 : CARDINAL
+1 : CARDINAL
+canadian : NORP
+scotiabank economics bank of canada : ORG
+2021 : CARDINAL
+2021 : DATE
+2022 : DATE
+0 5 : CARDINAL
+0 0 : CARDINAL
+0 5 : CARDINAL
+1 0 : CARDINAL
+1 5 : CARDINAL
+2 0 : CARDINAL
+2 5 : CARDINAL
+3 0 : CARDINAL
+3 5 : CARDINAL
+21 22 : CARDINAL
+canadian : NORP
+bloomberg 
+canada : PERSON
+10 year : DATE
+breakeven : CARDINAL
+5 year : DATE
+1 3 : CARDINAL
+july 8 2022 : DATE
+the global week : DATE
+4 : CARDINAL
+bank of canada : ORG
+june : DATE
+the day : DATE
+week later : DATE
+75bps : CARDINAL
+one : CARDINAL
+6 : CARDINAL
+just above half : CARDINAL
+second : ORDINAL
+third : ORDINAL
+one : CARDINAL
+fourth : ORDINAL
+just under 1 30 : CARDINAL
+77 cents : MONEY
+5 : CARDINAL
+the 
+mexican peso : ORG
+6 : CARDINAL
+canada : GPE
+7 : CARDINAL
+canada : GPE
+mexico : GPE
+us : GPE
+8 : CARDINAL
+canada : GPE
+8 : CARDINAL
+7 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+110 : CARDINAL
+120 : CARDINAL
+130 : CARDINAL
+140 : CARDINAL
+150 : CARDINAL
+160 : CARDINAL
+12 : CARDINAL
+13 : MONEY
+15 : CARDINAL
+21 : CARDINAL
+canada : GPE
+mexico : GPE
+canada inegi : PERSON
+canada : GPE
+2012 : DATE
+100 : MONEY
+mexico sa : FAC
+2013 100 : CARDINAL
+30 : CARDINAL
+nok : ORG
+nzd mxn sgd aud chf : PERSON
+dec 31 
+ : DATE
+2019 : DATE
+bloomberg 
+70 
+75 
+80 
+85 
+ : PERSON
+90 : CARDINAL
+95 : CARDINAL
+100 : CARDINAL
+105 : CARDINAL
+110 : CARDINAL
+95 98 : DATE
+07 : CARDINAL
+10 : CARDINAL
+13 : CARDINAL
+19 : DATE
+canada : GPE
+2010 : DATE
+100 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+77 80 : DATE
+83 86 : DATE
+98 : CARDINAL
+07 : CARDINAL
+10 : CARDINAL
+13 : CARDINAL
+united states : GPE
+3mma : CARDINAL
+imf 
+canada 
+mexico : ORG
+5 : CARDINAL
+july 8 2022 : DATE
+the global week : DATE
+next year : DATE
+9 : CARDINAL
+first : ORDINAL
+about year : DATE
+one : CARDINAL
+between 6 18 months : DATE
+secondly : ORDINAL
+6 april : DATE
+first : ORDINAL
+june : DATE
+wednesday 8 : DATE
+1 2 : CARDINAL
+seasonally : DATE
+8 9 : DATE
+6 : CARDINAL
+another large month : DATE
+month : DATE
+0 8 : CARDINAL
+year ago : DATE
+the 
+year : DATE
+year : DATE
+nearly 14 : CARDINAL
+seasonally : DATE
+10 : CARDINAL
+june of last year : DATE
+10 : CARDINAL
+year ago : DATE
+the year : DATE
+year : DATE
+8 6 to 7 : CARDINAL
+year : DATE
+year : DATE
+month over month : DATE
+2021 : DATE
+cleveland : GPE
+about 8 7 : CARDINAL
+june : DATE
+july : DATE
+year ago : DATE
+11 : CARDINAL
+9 : CARDINAL
+4½ : CARDINAL
+about 0 4 : CARDINAL
+0 9 : CARDINAL
+about 4 : CARDINAL
+about 4 : CARDINAL
+0 2 : CARDINAL
+9 : CARDINAL
+11 : CARDINAL
+10 : CARDINAL
+8 : CARDINAL
+6 : CARDINAL
+4 : CARDINAL
+2 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+jan 19 : DATE
+19 
+jul : QUANTITY
+19 : CARDINAL
+jan 20 : DATE
+20 : CARDINAL
+20 : CARDINAL
+jan 21 : DATE
+21 : CARDINAL
+21 : CARDINAL
+oct 21 : DATE
+jan 22 : DATE
+22 : CARDINAL
+sa 
+us : ORG
+june : DATE
+10 : CARDINAL
+jan 20 : DATE
+20 : CARDINAL
+20 : CARDINAL
+jan 21 : DATE
+21 : CARDINAL
+21 : CARDINAL
+oct 21 : DATE
+jan 22 : DATE
+22 : CARDINAL
+22 : CARDINAL
+cleveland fed : ORG
+cleveland fed : ORG
+federal reserve bank : ORG
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+the past 
+months : DATE
+july 8 2022 : DATE
+the global week : DATE
+1 : CARDINAL
+year : DATE
+three : CARDINAL
+this week : DATE
+new zealand : GPE
+first : ORDINAL
+tuesday : DATE
+50bps : CARDINAL
+25bps : CARDINAL
+last august : DATE
+july : DATE
+175bps : CARDINAL
+2 : CARDINAL
+this week : DATE
+first : ORDINAL
+12 : CARDINAL
+5 year : DATE
+june 
+1st : DATE
+july 15th : DATE
+next year : DATE
+2 : CARDINAL
+korea : GPE
+thursday : DATE
+the 7 day : DATE
+2 : CARDINAL
+first : ORDINAL
+last august : DATE
+125bps : CARDINAL
+13 : CARDINAL
+2 : CARDINAL
+the next year : DATE
+wednesday : DATE
+banco central de chile : ORG
+50bps : CARDINAL
+overnight : TIME
+9 50 : CARDINAL
+1998 : DATE
+850 : CARDINAL
+july 2021 : DATE
+3 1 : CARDINAL
+14 : CARDINAL
+q3 2022 : ORG
+12 : CARDINAL
+14 : CARDINAL
+13 : CARDINAL
+0 : CARDINAL
+12 : CARDINAL
+13 : DATE
+22 : CARDINAL
+23 : CARDINAL
+bcch ine 
+policy : PERSON
+0 0 : CARDINAL
+0 5 : CARDINAL
+1 0 : CARDINAL
+1 5 : CARDINAL
+2 0 : CARDINAL
+2 5 : CARDINAL
+3 0 : CARDINAL
+3 5 : CARDINAL
+13 : CARDINAL
+15 : CARDINAL
+21 : CARDINAL
+22 : CARDINAL
+bloomberg 
+bank : PERSON
+korea benchmark : GPE
+7 day : DATE
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+12 : CARDINAL
+13 : MONEY
+15 : CARDINAL
+23 : CARDINAL
+24 : CARDINAL
+new zealand : GPE
+bloomberg 
+nov 21 : PERSON
+mps 
+ : PERSON
+21 : CARDINAL
+feb 22 : DATE
+6 22 : CARDINAL
+2 00 : DATE
+22 : CARDINAL
+6 : CARDINAL
+july 8 2022 : DATE
+the global week ahead : DATE
+season : DATE
+season : DATE
+the end of the week : DATE
+morgan stanley : ORG
+thursday : DATE
+wells fargo : ORG
+friday : DATE
+delta air lines : ORG
+tuesday : DATE
+15 : CARDINAL
+china : GPE
+us : GPE
+south korea : GPE
+uk : GPE
+us : GPE
+friday : DATE
+june : DATE
+2 5 : CARDINAL
+june : DATE
+about 9 : CARDINAL
+an estimated 1 3 : CARDINAL
+the university of michigan : ORG
+july friday : DATE
+fed : ORG
+powell : PERSON
+the prior month : DATE
+75bps : CARDINAL
+50bps : CARDINAL
+16 : CARDINAL
+june friday : DATE
+june : DATE
+friday : DATE
+fed : ORG
+wednesday : DATE
+china : GPE
+chinese : NORP
+june : DATE
+2 ½ : PERSON
+saturday : DATE
+beijing : GPE
+the week : DATE
+china : GPE
+june : DATE
+1 year : DATE
+2 85 one day this 
+week : DATE
+chinese : NORP
+june : DATE
+mid week : DATE
+thursday : DATE
+june : DATE
+q3 china : LOC
+zero : CARDINAL
+60k : CARDINAL
+66 7 : DATE
+3 9 : CARDINAL
+june : DATE
+30k : DATE
+the eighth straight month : DATE
+508k : PRODUCT
+17 : CARDINAL
+50bps : CARDINAL
+july 5 : DATE
+south korean : NORP
+the last 12 months : DATE
+2 8 : CARDINAL
+15 : CARDINAL
+17 : CARDINAL
+16 : CARDINAL
+92 : CARDINAL
+94 : CARDINAL
+96 : CARDINAL
+98 : CARDINAL
+100 : CARDINAL
+102 : CARDINAL
+104 : CARDINAL
+106 : CARDINAL
+feb 20 : DATE
+20 : CARDINAL
+20 : CARDINAL
+20 : CARDINAL
+oct 20 : DATE
+20 : CARDINAL
+21 : CARDINAL
+21 : CARDINAL
+21 : CARDINAL
+oct 21 : DATE
+21 : CARDINAL
+feb 22 : DATE
+22 : CARDINAL
+australian : NORP
+australian : NORP
+feb 2020 100 : DATE
+508k : PRODUCT
+2 0 : CARDINAL
+2 2 : CARDINAL
+2 4 : CARDINAL
+2 6 : CARDINAL
+2 8 : CARDINAL
+3 0 : CARDINAL
+3 2 : CARDINAL
+3 4 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+10 11 : DATE
+13 : CARDINAL
+15 : CARDINAL
+1 : CARDINAL
+5 10 : CARDINAL
+mich : PERSON
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+bloomberg 
+forecast : PERSON
+7 : CARDINAL
+july 8 2022 : DATE
+the global week ahead : DATE
+64 2 : CARDINAL
+140k : CARDINAL
+18 : CARDINAL
+korea : GPE
+wednesday : DATE
+the same 
+month : DATE
+monthly : DATE
+third : ORDINAL
+asian : NORP
+indian : NORP
+june tuesday : DATE
+about 7 : CARDINAL
+european : NORP
+july : DATE
+norway : GPE
+switzerland : GPE
+brazil : GPE
+wednesday : DATE
+colombia : GPE
+colombia : GPE
+friday : DATE
+mexico : GPE
+tuesday : DATE
+18 : CARDINAL
+61 0 : CARDINAL
+61 5 : CARDINAL
+62 0 : CARDINAL
+62 5 : CARDINAL
+63 0 : CARDINAL
+63 5 : CARDINAL
+64 0 : CARDINAL
+64 5 : CARDINAL
+800 : CARDINAL
+600 : CARDINAL
+400 : CARDINAL
+200 : CARDINAL
+0 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+jan 19 : DATE
+19 : CARDINAL
+19 : CARDINAL
+20 : CARDINAL
+20 : CARDINAL
+20 : CARDINAL
+21 : CARDINAL
+21 : CARDINAL
+jan 22 : DATE
+22 : CARDINAL
+south korean : NORP
+000s : PRODUCT
+korea : GPE
+1 : CARDINAL
+july 8 2022 : DATE
+the global week ahead : DATE
+north america : LOC
+bloomberg scotiabank economics 
+ 
+ : ORG
+the week of july 11 : DATE
+15 : CARDINAL
+europe : LOC
+07 12 : DATE
+6 : CARDINAL
+07 12 : DATE
+07 : CARDINAL
+07 00 : DATE
+07 : CARDINAL
+13 : CARDINAL
+08 : CARDINAL
+30 : CARDINAL
+jun 1 : PERSON
+07 : CARDINAL
+13 : CARDINAL
+08 : CARDINAL
+30 : CARDINAL
+8 : CARDINAL
+07 : CARDINAL
+13 : CARDINAL
+08 : CARDINAL
+30 : CARDINAL
+292 3 : CARDINAL
+07 : CARDINAL
+13 : CARDINAL
+08 : CARDINAL
+30 : CARDINAL
+0 : CARDINAL
+6 : CARDINAL
+6 : CARDINAL
+07 : CARDINAL
+13 : CARDINAL
+08 : CARDINAL
+30 : CARDINAL
+6 : CARDINAL
+07 13 : DATE
+10 : CARDINAL
+13 : CARDINAL
+07 : CARDINAL
+13 : MONEY
+14 : CARDINAL
+treasury : ORG
+66 2 : CARDINAL
+07 : CARDINAL
+08 30 : CARDINAL
+07 : CARDINAL
+08 : CARDINAL
+000s : PRODUCT
+9 230 : CARDINAL
+235 : CARDINAL
+235 : CARDINAL
+07 : CARDINAL
+08 30 : CARDINAL
+000s : PRODUCT
+2 : CARDINAL
+07 : CARDINAL
+0 : CARDINAL
+8 : CARDINAL
+07 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+07 15 : DATE
+08 : CARDINAL
+30 : CARDINAL
+22 2 : CARDINAL
+07 15 : DATE
+08 : CARDINAL
+30 : CARDINAL
+2 : CARDINAL
+5 : CARDINAL
+07 : CARDINAL
+08 : CARDINAL
+30 : CARDINAL
+3 : CARDINAL
+07 : CARDINAL
+08 30 : CARDINAL
+jun 2 0 : PERSON
+07 : CARDINAL
+08 30 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+07 : CARDINAL
+08 : CARDINAL
+30 : CARDINAL
+jun 1 3 : PERSON
+0 : CARDINAL
+9 : CARDINAL
+0 : CARDINAL
+07 : CARDINAL
+08 : CARDINAL
+30 : CARDINAL
+0 8 : CARDINAL
+6 : CARDINAL
+5 : CARDINAL
+07 15 : DATE
+09 00 : CARDINAL
+jun 8 6 : PERSON
+07 : CARDINAL
+09 : CARDINAL
+15 : CARDINAL
+80 : CARDINAL
+07 : CARDINAL
+09 : CARDINAL
+15 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+07 : CARDINAL
+10 : CARDINAL
+07 : CARDINAL
+49 : CARDINAL
+49 : CARDINAL
+0 : CARDINAL
+50 : CARDINAL
+ec : ORG
+07 12 : DATE
+05 : CARDINAL
+28 : CARDINAL
+07 : CARDINAL
+12 : CARDINAL
+05 : CARDINAL
+34 : CARDINAL
+27 : CARDINAL
+07 : CARDINAL
+12 : CARDINAL
+05 : CARDINAL
+40 : CARDINAL
+28 : CARDINAL
+0 : CARDINAL
+07 : CARDINAL
+02 : CARDINAL
+0 : CARDINAL
+07 : CARDINAL
+02 : CARDINAL
+6 : CARDINAL
+07 : CARDINAL
+02 : CARDINAL
+0 : CARDINAL
+07 : CARDINAL
+02 : CARDINAL
+07 13 : DATE
+02 : CARDINAL
+07 13 : DATE
+02 : CARDINAL
+0 : CARDINAL
+6 : CARDINAL
+07 13 : DATE
+07 13 : DATE
+02 00 : CARDINAL
+893 : CARDINAL
+07 13 : DATE
+02 : CARDINAL
+45 : CARDINAL
+0 : CARDINAL
+07 13 : DATE
+02 : CARDINAL
+45 : CARDINAL
+5 : CARDINAL
+07 13 : DATE
+02 : CARDINAL
+0 : CARDINAL
+8 : CARDINAL
+07 13 : DATE
+02 : CARDINAL
+6 5 : CARDINAL
+5 : CARDINAL
+07 13 : DATE
+03 : CARDINAL
+jun 1 8 1 8 : PERSON
+07 13 : DATE
+03 : CARDINAL
+10 : CARDINAL
+07 13 : DATE
+03 : CARDINAL
+1 : CARDINAL
+07 13 : DATE
+03 : CARDINAL
+10 : CARDINAL
+07 13 : DATE
+05 00 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+07 13 : DATE
+05 : CARDINAL
+07 : CARDINAL
+04 : DATE
+8 : CARDINAL
+05 : CARDINAL
+july 8 2022 : DATE
+the global week ahead : DATE
+asia pacific : LOC
+bloomberg scotiabank economics 
+ 
+ : ORG
+the week of july 11 : DATE
+latin america : LOC
+07 09 : DATE
+21 : CARDINAL
+new yuan : ORG
+2 : CARDINAL
+07 : CARDINAL
+japan : GPE
+m2 : PERSON
+3 : CARDINAL
+07 : CARDINAL
+japan : GPE
+m3 : PRODUCT
+07 11 : DATE
+02 : CARDINAL
+23 : CARDINAL
+21 00 : CARDINAL
+21 00 : CARDINAL
+8 
+ph : QUANTITY
+21 00 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+07 11 : DATE
+21 00 : CARDINAL
+2q : CARDINAL
+4 : CARDINAL
+07 11 : DATE
+21 00 : DATE
+2q : CARDINAL
+4 : CARDINAL
+07 12 : DATE
+08 : CARDINAL
+07 12 : DATE
+08 : CARDINAL
+10 : CARDINAL
+07 12 : DATE
+19 : CARDINAL
+2 8 : CARDINAL
+07 12 : CARDINAL
+22 : CARDINAL
+13 : CARDINAL
+07 13 : DATE
+21 30 : CARDINAL
+000s : PRODUCT
+30 : CARDINAL
+6 : CARDINAL
+07 13 : DATE
+21 30 : CARDINAL
+3 : CARDINAL
+07 13 : DATE
+21 00 : CARDINAL
+12 : CARDINAL
+13 : CARDINAL
+0 : CARDINAL
+16 9 : CARDINAL
+07 13 : DATE
+21 00 : CARDINAL
+4 : CARDINAL
+4 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+07 13 : DATE
+21 00 : CARDINAL
+76 8 : DATE
+07 13 : DATE
+20 : CARDINAL
+14 : CARDINAL
+07 : CARDINAL
+00 30 : CARDINAL
+07 : CARDINAL
+00 30 : CARDINAL
+07 : CARDINAL
+00 30 : CARDINAL
+07 14 : DATE
+30 : CARDINAL
+monthly : DATE
+15 : CARDINAL
+9 : CARDINAL
+07 : CARDINAL
+18 30 : CARDINAL
+52 9 : CARDINAL
+07 : CARDINAL
+22 : CARDINAL
+6 : CARDINAL
+6 2 : CARDINAL
+07 : CARDINAL
+22 : CARDINAL
+4 : CARDINAL
+7 : CARDINAL
+07 : CARDINAL
+22 : CARDINAL
+2q : CARDINAL
+1 : CARDINAL
+8 : CARDINAL
+07 : CARDINAL
+22 : CARDINAL
+0 4 : CARDINAL
+07 14 : DATE
+23 : CARDINAL
+20 6 : CARDINAL
+07 14 : DATE
+23 30 : CARDINAL
+62 8 : CARDINAL
+00 00 : CARDINAL
+30 : CARDINAL
+27 0 : CARDINAL
+00 00 : CARDINAL
+19 : CARDINAL
+00 00 : CARDINAL
+4 000 : CARDINAL
+2 : CARDINAL
+07 : CARDINAL
+tertiary : ORDINAL
+5 : CARDINAL
+7 : CARDINAL
+07 15 : CARDINAL
+20 : CARDINAL
+57 8 : CARDINAL
+07 13 : DATE
+08 : CARDINAL
+07 13 : DATE
+08 : CARDINAL
+07 13 : DATE
+13 : CARDINAL
+50 : CARDINAL
+50 : CARDINAL
+07 11 : DATE
+08 : CARDINAL
+07 11 : DATE
+08 : CARDINAL
+nsa : ORG
+2 2 : CARDINAL
+07 15 : DATE
+11 : CARDINAL
+07 : CARDINAL
+11 : CARDINAL
+nsa : ORG
+07 : CARDINAL
+11 00 : DATE
+6 : CARDINAL
+july 8 2022 : DATE
+the global week : DATE
+the week of july 11 : DATE
+15 : CARDINAL
+north america : LOC
+europe : LOC
+07 : CARDINAL
+13 00 : CARDINAL
+3 year : DATE
+07 : CARDINAL
+12 : CARDINAL
+10 year : DATE
+07 : CARDINAL
+13 : CARDINAL
+30 year : DATE
+07 12 : DATE
+05 : CARDINAL
+1 2032 : CARDINAL
+07 : CARDINAL
+05 30 germany : PERCENT
+eu5 5 billion : LAW
+2 2024 : DATE
+07 13 : DATE
+05 : CARDINAL
+italy : GPE
+07 13 : DATE
+05 : CARDINAL
+switzerland : GPE
+07 : CARDINAL
+05 30 germany : PERCENT
+1 5 billion : MONEY
+2052 : DATE
+07 11 : DATE
+23 : CARDINAL
+japan : GPE
+5 year : DATE
+07 13 : DATE
+22 : CARDINAL
+china : GPE
+1 : CARDINAL
+07 13 : DATE
+22 : CARDINAL
+china : GPE
+50y : CARDINAL
+07 13 : DATE
+23 : CARDINAL
+35 : CARDINAL
+japan : GPE
+20 year : DATE
+latin america : LOC
+asia pacific 4 : LOC
+july 8 2022 : DATE
+the global week ahead : DATE
+north america : LOC
+the week of july 11 : DATE
+15 : CARDINAL
+europe : LOC
+asia pacific : LOC
+latin america : LOC
+07 11 : CARDINAL
+14 00 : DATE
+fed williams : PERSON
+07 13 : DATE
+10 00 bank of canada : PERCENT
+07 13 : DATE
+10 00 bank of canada : PERCENT
+quarterly : DATE
+07 13 : DATE
+11 00 : DATE
+bank of canada : ORG
+07 : CARDINAL
+13 : MONEY
+07 : CARDINAL
+08 45 : CARDINAL
+fed : ORG
+ec : ORG
+07 09 : DATE
+france : GPE
+ec : ORG
+07 : CARDINAL
+france : GPE
+07 11 : DATE
+03 30 : CARDINAL
+minutes : TIME
+june 29 : DATE
+ec : ORG
+07 12 : DATE
+paris : GPE
+07 : CARDINAL
+13 : CARDINAL
+boe bailey : PERSON
+07 : CARDINAL
+finland : GPE
+07 12 : CARDINAL
+22 : CARDINAL
+07 12 : CARDINAL
+22 : CARDINAL
+07 12 : DATE
+22 : CARDINAL
+07 : CARDINAL
+7 day : DATE
+07 : CARDINAL
+overnight : TIME
+5 : CARDINAL
+july 8 2022 : DATE
+the global week ahead : DATE
+bloomberg scotiabank : ORG
+north america : LOC
+bank of canada : ORG
+overnight : TIME
+1 50 : DATE
+13 2022 : DATE
+25 : CARDINAL
+1 75 : DATE
+2 : DATE
+banco de méxico overnight : ORG
+7 75 : DATE
+11 2022 : DATE
+europe : LOC
+european : NORP
+0 00 : DATE
+21 2022 : DATE
+25 : CARDINAL
+25 : CARDINAL
+european : NORP
+0 25 july : DATE
+21 2022 : DATE
+50 : CARDINAL
+european : NORP
+0 50 july 21 2022 : DATE
+25 : CARDINAL
+25 : CARDINAL
+bank of england bank : ORG
+1 25 : DATE
+2022 : DATE
+22 2022 : DATE
+00 : CARDINAL
+russia : GPE
+one week : DATE
+9 50 : DATE
+2022 : DATE
+8 75 8 75 : DATE
+0 75 : DATE
+1 25 : DATE
+18 2022 : DATE
+14 00 july : DATE
+21 2022 : DATE
+14 00 : DATE
+asia pacific : LOC
+japan : GPE
+0 10 july 21 2022 : DATE
+0 : CARDINAL
+10 : CARDINAL
+australia : GPE
+1 35 : DATE
+2 2022 : DATE
+new zealand : GPE
+2 00 july : DATE
+12 2022 : DATE
+1 year : DATE
+3 70 : DATE
+19 2022 : DATE
+3 : DATE
+70 : CARDINAL
+4 90 : DATE
+4 2022 : DATE
+5 : DATE
+25 : CARDINAL
+1 75 : DATE
+13 2022 : DATE
+25 : CARDINAL
+thailand : GPE
+10 2022 : DATE
+75 : CARDINAL
+75 : CARDINAL
+malaysia : GPE
+2 25 : DATE
+8 2022 : DATE
+25 : CARDINAL
+7 day : DATE
+3 50 july : DATE
+21 2022 : DATE
+3 : CARDINAL
+overnight : TIME
+2 50 : DATE
+18 2022 : DATE
+latin america : LOC
+13 25 : DATE
+3 2022 : DATE
+13 : CARDINAL
+25 : CARDINAL
+13 75 : CARDINAL
+banco central de chile : ORG
+overnight : TIME
+9 00 july : DATE
+13 2022 : DATE
+9 : DATE
+50 : CARDINAL
+banco de la república de colombia : ORG
+7 50 july : DATE
+8 00 : DATE
+banco central de reserva : ORG
+6 00 : DATE
+11 2022 : DATE
+6 00 : DATE
+6 00 : DATE
+africa : LOC
+south african reserve bank : ORG
+4 75 july : DATE
+21 2022 : DATE
+5 : DATE
+bank of canada : ORG
+75bps : CARDINAL
+2 : CARDINAL
+banco central de chile : ORG
+overnight : TIME
+50 : CARDINAL
+9 50 : CARDINAL
+next week : DATE
+9 75 : CARDINAL
+q3 2022 : DATE
+overnight : TIME
+8 75 : DATE
+year end : DATE
+3 50 : CARDINAL
+2023 : CARDINAL
+new zealand : GPE
+2 5 : DATE
+july 12th : DATE
+new zealand : GPE
+2022 : DATE
+korea : GPE
+2 25 : CARDINAL
+july 14th : DATE
+6 : CARDINAL
+june : DATE
+bank of china : ORG
+one year : DATE
+2 85 next week : DATE
+zero : CARDINAL
+july 8 2022 : DATE
+the global week ahead : DATE
+6 : CARDINAL
+23 434 : CARDINAL
+nova : LOC
+nova : LOC
+institución de banca : PERSON
+casa de bolsa a de v grupo financiero : ORG
+bank of nova : ORG
+canada : GPE
+nova : LOC
+the uk prudential regulation authority : ORG
+the uk 
+prudential regulation authority : ORG
+nova : LOC
+the uk prudential regulation authority : ORG
+the uk prudential regulation authority : ORG
+the uk prudential regulation authority 
+scotiabank : ORG
+casa de bolsa a de v grupo financiero : ORG
+mexican : NORP

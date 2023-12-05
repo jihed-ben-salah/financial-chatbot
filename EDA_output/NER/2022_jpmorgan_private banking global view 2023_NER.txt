@@ -1,0 +1,852 @@
+2023 : DATE
+every year : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+40 years : DATE
+decades : DATE
+2022 : DATE
+one : CARDINAL
+the worst years : DATE
+russia : GPE
+the year ahead : DATE
+2023 : DATE
+david frame : PERSON
+martin marron : PERSON
+2 : CARDINAL
+2023 : DATE
+1 : CARDINAL
+decade : DATE
+over decade : DATE
+2 : CARDINAL
+2023 : DATE
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+3 : CARDINAL
+4 6 : CARDINAL
+7 18 : CARDINAL
+19 31 : DATE
+35 37 : DATE
+38 41 : CARDINAL
+42 45 : CARDINAL
+46 49 : DATE
+4 : CARDINAL
+2022 : DATE
+the year : DATE
+china : GPE
+2022 : DATE
+the worst years : DATE
+5 : CARDINAL
+2023 : CARDINAL
+6 : CARDINAL
+this year : DATE
+the united states : GPE
+europe : LOC
+2023 : DATE
+over decade : DATE
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+2022 : DATE
+late 2022 26 : DATE
+31 : CARDINAL
+just two : CARDINAL
+2021 : DATE
+the federal reserve fed : ORG
+40 years : DATE
+the european central bank : ORG
+0 75 : CARDINAL
+little over decade : DATE
+10 : CARDINAL
+2022 : DATE
+its worst year : DATE
+japan : GPE
+november 2022 : DATE
+10 : DATE
+11 : CARDINAL
+the united states : GPE
+30 year : DATE
+7 : CARDINAL
+3 25 : CARDINAL
+2022 : DATE
+2007 : DATE
+australia : GPE
+new zealand : GPE
+the united kingdom : GPE
+canada : GPE
+10 20 : CARDINAL
+next year : DATE
+australia : GPE
+norway : GPE
+switzerland : GPE
+canada : GPE
+fed : ORG
+2023 : DATE
+the united states : GPE
+30 year : DATE
+7 : CARDINAL
+october 31 2022 : DATE
+31 : CARDINAL
+months : DATE
+november 4 2022 : DATE
+fed : ORG
+four decades : DATE
+fed : ORG
+100 : CARDINAL
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+06 08 : DATE
+12 : CARDINAL
+22 : CARDINAL
+november 2022 : DATE
+31 : CARDINAL
+fed : ORG
+four decades : DATE
+fed : ORG
+5 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 
+1987 89 : DATE
+1994 95 : DATE
+1999 00 : DATE
+2004 06 : DATE
+2015 18 : DATE
+2022 : DATE
+0 : CARDINAL
+8 : CARDINAL
+32 : CARDINAL
+36 
+months : DATE
+november 2022 : DATE
+12 : CARDINAL
+bloomberg finance p : ORG
+october 2022 : DATE
+the united states : GPE
+fed : ORG
+around 2 5 : CARDINAL
+fed : ORG
+the first quarter of 2023 : DATE
+6 : CARDINAL
+5 : CARDINAL
+4 : CARDINAL
+3 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 year : DATE
+2 year : DATE
+17 18 : DATE
+21 22 : CARDINAL
+november 2022 : DATE
+13 : CARDINAL
+bloomberg finance p : ORG
+october 2022 : DATE
+treasury : ORG
+between 2 and 10 year : DATE
+80 : CARDINAL
+2021 : DATE
+fed : ORG
+ukraine : GPE
+2023 : DATE
+between 2 year and : DATE
+10 year : DATE
+350 : CARDINAL
+300 : CARDINAL
+250 : CARDINAL
+200 : CARDINAL
+150 : CARDINAL
+100 : CARDINAL
+50 : CARDINAL
+0 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+96 : CARDINAL
+98 : CARDINAL
+06 : CARDINAL
+08 : CARDINAL
+12 : CARDINAL
+16 : CARDINAL
+10 22 : CARDINAL
+november 2022 : DATE
+14 : CARDINAL
+the united states : GPE
+hourly : TIME
+4 5 : CARDINAL
+fed : ORG
+2023 : DATE
+15 : CARDINAL
+september 2022 : DATE
+october 2022 : DATE
+01 : CARDINAL
+07 : CARDINAL
+10 : CARDINAL
+13 : CARDINAL
+22 : CARDINAL
+3 5 : CARDINAL
+1 0 : CARDINAL
+1 5 : CARDINAL
+2 0 : CARDINAL
+2 5 : CARDINAL
+3 0 : CARDINAL
+7 5 : CARDINAL
+1 5 : CARDINAL
+2 5 : CARDINAL
+3 5 : CARDINAL
+4 5 : CARDINAL
+5 5 : CARDINAL
+6 5 : CARDINAL
+september 2022 : DATE
+11 : CARDINAL
+9 : CARDINAL
+7 : CARDINAL
+5 : CARDINAL
+3 : CARDINAL
+80 : CARDINAL
+98 : CARDINAL
+10 : CARDINAL
+16 22 : CARDINAL
+october 2022 : DATE
+16 : CARDINAL
+70 : CARDINAL
+more than 35 : CARDINAL
+year : DATE
+year : DATE
+ukraine : GPE
+europe : LOC
+70 : CARDINAL
+70 : CARDINAL
+35 : CARDINAL
+more than 35 : CARDINAL
+17 : CARDINAL
+18 : CARDINAL
+the united states : GPE
+roughly one third : CARDINAL
+the middle of next year : DATE
+2023 : DATE
+2024 : CARDINAL
+2023 : CARDINAL
+first : ORDINAL
+august 2022 : DATE
+6 month : DATE
+september 2022 : DATE
+6 month : DATE
+15 : CARDINAL
+10 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+16 : CARDINAL
+september 2022 : DATE
+0 : CARDINAL
+5 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+12 : CARDINAL
+16 : CARDINAL
+22 : CARDINAL
+new york : GPE
+fed : ORG
+september 2022 : DATE
+19 : CARDINAL
+20 : CARDINAL
+2022 : DATE
+china : GPE
+overnight : TIME
+the united states : GPE
+2023 : DATE
+europe : LOC
+china : GPE
+zero : CARDINAL
+latin america : LOC
+21 : CARDINAL
+morgan p global haver analytics : ORG
+october 2022 : DATE
+50 : CARDINAL
+50 : CARDINAL
+65 : CARDINAL
+60 : CARDINAL
+55 : CARDINAL
+50 : CARDINAL
+45 : CARDINAL
+40 : CARDINAL
+00 : CARDINAL
+06 : CARDINAL
+08 : CARDINAL
+12 : CARDINAL
+22 : CARDINAL
+morgan p global haver analytics : ORG
+october 2022 : DATE
+22 : CARDINAL
+united states : GPE
+the united states : GPE
+first : ORDINAL
+12 18 months : DATE
+23 : CARDINAL
+seasonally : DATE
+annual : DATE
+thousands : CARDINAL
+8 000 : CARDINAL
+7 000 : CARDINAL
+6 000 : CARDINAL
+5 000 : CARDINAL
+4 000 : CARDINAL
+3 000 : CARDINAL
+2 000 : CARDINAL
+1 : CARDINAL
+00 04 : DATE
+02 : CARDINAL
+08 : CARDINAL
+06 : CARDINAL
+12 : CARDINAL
+october 2022 : DATE
+24 : CARDINAL
+today : DATE
+70 : CARDINAL
+100 : CARDINAL
+1950 : DATE
+1950 : DATE
+25 : CARDINAL
+china : GPE
+china : GPE
+zero : CARDINAL
+chinese : NORP
+2023 : DATE
+chinese : NORP
+26 : CARDINAL
+27 : CARDINAL
+europe : LOC
+europe : LOC
+ukraine : GPE
+2 : CARDINAL
+2023 : DATE
+28 : CARDINAL
+russian : NORP
+90 : CARDINAL
+european : NORP
+90 : CARDINAL
+next year : DATE
+winter : DATE
+29 : CARDINAL
+bloomberg finance p gas infrastructure europe : ORG
+november 4 2022 : DATE
+european : NORP
+gmbh : PERSON
+november 2022 : DATE
+european : NORP
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+europe : LOC
+november 2022 : DATE
+50 : CARDINAL
+30 : CARDINAL
+10 : CARDINAL
+10 : CARDINAL
+30 : CARDINAL
+50 : CARDINAL
+05 : CARDINAL
+07 : CARDINAL
+09 : CARDINAL
+13 : CARDINAL
+15 : CARDINAL
+21 22 : CARDINAL
+gmbh : PERSON
+november 2022 : DATE
+30 : CARDINAL
+latin america : LOC
+nearly two years latin america : DATE
+fed : ORG
+2022 : DATE
+brazilian : NORP
+mexican : NORP
+9 : CARDINAL
+5 5 : CARDINAL
+latin american : NORP
+first : ORDINAL
+2021 : DATE
+the end of 2022 : DATE
+the middle of 2023 : DATE
+latin america : LOC
+the last 15 years : DATE
+31 : CARDINAL
+brazil : GPE
+latin america : LOC
+latin america : LOC
+32 : CARDINAL
+33 : CARDINAL
+2022 : DATE
+2023 : DATE
+2023 : CARDINAL
+2022 : DATE
+over decade : DATE
+just last year : DATE
+annual : DATE
+the next 10 15 years 
+ : DATE
+2022 : DATE
+9 8 : DATE
+9 9 8 1 : DATE
+5 : CARDINAL
+0 : CARDINAL
+september 30 2022 : DATE
+34 : CARDINAL
+bloomberg finance p : ORG
+november 4 2022 : DATE
+500 : CARDINAL
+november 4 2022 : DATE
+decade : DATE
+2023 : DATE
+two : CARDINAL
+2023 : DATE
+500 : CARDINAL
+24x 
+22x 
+20x 
+18x 
+16x : DATE
+14x : DATE
+12x : DATE
+1 : CARDINAL
+november 2022 : DATE
+decade : DATE
+10 : CARDINAL
+8 : CARDINAL
+6 : CARDINAL
+4 : CARDINAL
+2 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+10 year : DATE
+10 year : DATE
+05 : CARDINAL
+07 : CARDINAL
+09 : CARDINAL
+13 : CARDINAL
+15 : CARDINAL
+21 22 : CARDINAL
+november 2022 : DATE
+35 : CARDINAL
+36 : CARDINAL
+morgan juli : ORG
+bloomberg : PERSON
+october 31 2022 : DATE
+october 26 2022 : DATE
+only few quarters ago : DATE
+today : DATE
+treasury : ORG
+decade : DATE
+9 1 8 : DATE
+6 3 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+1 5 : CARDINAL
+4 : CARDINAL
+5 6 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+21 2022 : DATE
+december 31 2021 : DATE
+10y : DATE
+3 : CARDINAL
+us : GPE
+euro hy : PERSON
+us hy bill tey preferreds : PERSON
+8 : CARDINAL
+6 : CARDINAL
+4 : CARDINAL
+2 : CARDINAL
+0 : CARDINAL
+13 : CARDINAL
+15 : CARDINAL
+21 22 : CARDINAL
+morgan juli : ORG
+bloomberg : PERSON
+november 2022 : DATE
+november 2022 : DATE
+the s 10 year : DATE
+37 : CARDINAL
+above 3 1 : CARDINAL
+the next decade : DATE
+nearly 10 : CARDINAL
+20 : CARDINAL
+this year : DATE
+38 : CARDINAL
+39 : CARDINAL
+20 : CARDINAL
+2023 : DATE
+first : ORDINAL
+nearly 7 5 : CARDINAL
+500 : CARDINAL
+2023 : DATE
+one : CARDINAL
+the united states : GPE
+two : CARDINAL
+next year : DATE
+europe : LOC
+china : GPE
+2023 : DATE
+40 : CARDINAL
+china : GPE
+brazilian : NORP
+south korea : GPE
+the middle east : LOC
+latin america : LOC
+2023 : DATE
+2023 : DATE
+5 : CARDINAL
+30 : CARDINAL
+the first year : DATE
+the year : DATE
+41 : CARDINAL
+bloomberg finance p : ORG
+november 4 2022 : DATE
+400 : CARDINAL
+ntm : GPE
+morgan private bank : ORG
+october 31 2022 : DATE
+2023 : DATE
+400 : CARDINAL
+ntm : GPE
+10x : DATE
+12x : DATE
+14x 
+ : DATE
+16x 
+ : DATE
+18x 
+20x 
+22x : DATE
+24x 1 : DATE
+98 : CARDINAL
+07 : CARDINAL
+10 : CARDINAL
+13 : CARDINAL
+19 22 : CARDINAL
+november 2022 : DATE
+2023 : DATE
+year : DATE
+year : DATE
+6 : CARDINAL
+2 : CARDINAL
+2 : CARDINAL
+6 : CARDINAL
+10 : CARDINAL
+5 : CARDINAL
+3 : CARDINAL
+8 : CARDINAL
+united states : GPE
+europe : LOC
+2 : CARDINAL
+october 2022 : DATE
+42 : CARDINAL
+43 : CARDINAL
+2023 : DATE
+2022 : DATE
+2022 : DATE
+2023 : DATE
+this year : DATE
+44 : CARDINAL
+2023 : DATE
+1 5 million : CARDINAL
+111 : CARDINAL
+today : DATE
+320 : CARDINAL
+2008 : DATE
+60 : CARDINAL
+2015 : DATE
+45 : CARDINAL
+europe : LOC
+2023 : DATE
+europe : LOC
+seen decade : DATE
+46 : CARDINAL
+47 : CARDINAL
+2022 : DATE
+one : CARDINAL
+decades : DATE
+2023 : DATE
+48 : CARDINAL
+49 : CARDINAL
+erwin global head : PERSON
+tom kennedy chief : PERSON
+christopher baggini : PERSON
+cristiani head : PERSON
+kristin kallergis : PERSON
+jacob manoukian head : PERSON
+vegas global head : PERSON
+alex wolf : PERSON
+asia : LOC
+50 : CARDINAL
+ltcmas : PERSON
+ltcmas : PERSON
+p morgan asset management : ORG
+51 : CARDINAL
+three : CARDINAL
+300mm : QUANTITY
+pan european aggregate : ORG
+300mm : QUANTITY
+asian : NORP
+jpy 35bn : DATE
+three : CARDINAL
+december 31 2009 : DATE
+300mm euro yen : QUANTITY
+jpy 25bn : DATE
+canadian : NORP
+300mm : QUANTITY
+144a : LAW
+300mm : QUANTITY
+three : CARDINAL
+1999 : DATE
+january 1 1990 : DATE
+23 : CARDINAL
+500 : CARDINAL
+500 : CARDINAL
+500 : CARDINAL
+10 : CARDINAL
+1941 43 : DATE
+400 : CARDINAL
+500 : CARDINAL
+400 : CARDINAL
+europe : LOC
+600 : CARDINAL
+600 : CARDINAL
+one : CARDINAL
+18 : CARDINAL
+austria belgium denmark finland : ORG
+france : GPE
+germany : GPE
+greece : GPE
+holland : GPE
+italy : GPE
+luxembourg : GPE
+norway : GPE
+portugal : GPE
+spain : GPE
+switzerland : GPE
+the united kingdom : GPE
+msci : PERSON
+23 : CARDINAL
+834 : CARDINAL
+approximately 85 : CARDINAL
+brazil : GPE
+chile : GPE
+china : GPE
+colombia : GPE
+czech republic : GPE
+egypt : GPE
+greece : GPE
+hungary : GPE
+india : GPE
+indonesia : GPE
+korea : GPE
+malaysia : GPE
+mexico : GPE
+peru : GPE
+philippines : GPE
+poland : GPE
+russia : GPE
+qatar : GPE
+taiwan thailand : GPE
+turkey : GPE
+united arab : NORP
+msci : PERSON
+china : GPE
+china : GPE
+144 : CARDINAL
+about 85 : CARDINAL
+china : GPE
+300 : CARDINAL
+300 : CARDINAL
+the shanghai stock exchange : ORG
+the shenzhen stock exchange : ORG
+china : GPE
+52 : CARDINAL
+third : ORDINAL
+jpmorgan chase bank : ORG
+jpmorgan chase bank : ORG
+p morgan investment management inc 2 : ORG
+3 : CARDINAL
+4 : CARDINAL
+third : ORDINAL
+up to 100 percent : PERCENT
+the united states bank : GPE
+jpmorgan chase bank : ORG
+fdic 
+jpmorgan chase bank : PERSON
+chase insurance agency inc cia : ORG
+chase insurance agency services inc : ORG
+florida : GPE
+jpmcb jpms : PERSON
+cia : ORG
+germany : GPE
+1 : CARDINAL
+60310 : DATE
+frankfurt : GPE
+germany : GPE
+german : NORP
+bundesbank : ORG
+the european central bank : ORG
+luxembourg : GPE
+luxembourg : GPE
+european bank : ORG
+6 : CARDINAL
+german : NORP
+bundesbank : ORG
+the european central bank ecb p morgan se luxembourg branch : ORG
+luxembourg : GPE
+the united kingdom : GPE
+morgan se : ORG
+london : GPE
+25 : CARDINAL
+london : GPE
+5jp : ORDINAL
+german : NORP
+bundesbank : ORG
+the european central bank ecb p morgan se : ORG
+london : GPE
+spain : GPE
+se sucursal : PERSON
+paseo de la : ORG
+31 28046 : DATE
+madrid : GPE
+spain : GPE
+german : NORP
+bundesbank : ORG
+the european central bank ecb p morgan se sucursal : ORG
+spanish : NORP
+bank of spain : ORG
+1567 : DATE
+italy : GPE
+morgan se milan : ORG
+3 : CARDINAL
+20123 : DATE
+italy : GPE
+german : NORP
+bundesbank : ORG
+the european central bank ecb p morgan se milan : ORG
+bank of italy : ORG
+la borsa consob : ORG
+bank of italy : ORG
+8076 : CARDINAL
+2536325 : DATE
+netherlands : GPE
+amsterdam : GPE
+1135 1077 : DATE
+amsterdam : GPE
+netherlands : GPE
+german : NORP
+bundesbank : ORG
+the european central bank ecb p morgan se : ORG
+amsterdam branch : FAC
+netherlands : GPE
+van koophandel : PERSON
+72610220 : CARDINAL
+af p : ORG
+39 : CARDINAL
+1560 : DATE
+german : NORP
+bundesbank : ORG
+the european central bank ecb p morgan se copenhagen branch filial : ORG
+af p : ORG
+finanstilsynet danish fsa : PERSON
+29010 : DATE
+15 : CARDINAL
+stockholm : GPE
+11147 : DATE
+german : NORP
+bundesbank : ORG
+53 : CARDINAL
+the european central bank ecb p morgan se stockholm : ORG
+swedish : NORP
+france : GPE
+jpmorgan chase bank : ORG
+paris : GPE
+14 : CARDINAL
+paris 75001 france : ORG
+paris : GPE
+712 : CARDINAL
+041 334 : CARDINAL
+de contrôle : PERSON
+prudentiel et de resolution : PERSON
+switzerland : GPE
+rue du : FAC
+35 1204 : DATE
+geneva : GPE
+switzerland : GPE
+swiss : NORP
+switzerland : GPE
+the swiss financial services : ORG
+hong kong : GPE
+hong kong : GPE
+hong kong : GPE
+the hong kong monetary authority : ORG
+hong kong : GPE
+hong kong : GPE
+singapore : GPE
+jpmcb singapore : ORG
+jpmcb singapore : ORG
+hong kong : GPE
+singapore : GPE
+jpmcb singapore : ORG
+hong kong : GPE
+singapore : GPE
+singapore : GPE
+chase bank : ORG
+national banking association : ORG
+the united states : GPE
+latin america : LOC
+latin american : NORP
+brazilian securities and exchange commission : ORG
+brazilian : NORP
+mexican : NORP
+jpmorgan chase bank : ORG
+43 074 112 011 : CARDINAL
+238367 : DATE
+australian : NORP
+australian : NORP
+australia : GPE
+761 : CARDINAL
+2001 : DATE
+109293610 : DATE
+delaware : GPE
+australian : NORP
+australia : GPE
+australian : NORP
+2001 : DATE
+sec : ORG
+cftc : ORG
+australian : NORP
+jpms : ORG
+australia : GPE
+australia : GPE
+761 : CARDINAL
+australian : NORP
+australian : NORP
+australian : NORP
+morgan private bank : ORG
+2022 : DATE
+54 : CARDINAL

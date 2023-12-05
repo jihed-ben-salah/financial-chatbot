@@ -1,0 +1,772 @@
+22 : CARDINAL
+222 : CARDINAL
+8 : CARDINAL
+de la : PERSON
+2 : CARDINAL
+baisse du taux de marge : PERSON
+2022 : DATE
+3 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+baisse de la : PERSON
+6 : CARDINAL
+un : ORG
+6 : CARDINAL
+ghana : GPE
+fmi : ORG
+7 : CARDINAL
+de la : PERSON
+22 : CARDINAL
+222 : ORG
+8 : CARDINAL
+mondiaux ont retrouvé leur : PERSON
+europe : LOC
+un : ORG
+sur la : ORG
+sa capacité à : ORG
+par la fed : ORG
+sans : NORP
+un : ORG
+mois de mai ont continué : PERSON
+1 6 : QUANTITY
+un : ORG
+indique un 
+ralentissement : ORG
+juin établissant à son : ORG
+bas : PERSON
+2020 : CARDINAL
+dans la demande de main : ORG
+mois de juin ont néanmoins : PERSON
+la solidité : PERSON
+372 : CARDINAL
+un : ORG
+effrénés : ORG
+rapproche : ORG
+un : ORG
+85 5 milliards de dollars : QUANTITY
+un : ORG
+un : ORG
+pib qui resterait : PERSON
+la lecture du : GPE
+un : ORG
+de la : PERSON
+50 : CARDINAL
+75 : CARDINAL
+marchés se : PERSON
+sont : GPE
+fed : ORG
+street qui : PERSON
+la crédibilité : GPE
+gouvernement depuis bien trop longtemps et : PERSON
+qui ont fini : PERSON
+boris johnson : PERSON
+une : ORG
+qui pour : PERSON
+un : ORG
+parti conservateur la désignation : PERSON
+un : ORG
+ministre et : PERSON
+un nouveau gouvernement ici : ORG
+de ce processus qui menace être long boris johnson : PERSON
+europe : LOC
+de la : ORG
+la nécessité de durcir : ORG
+un : ORG
+de la crédibilité de action de la banque : ORG
+centrale la hausse des taux de 25 : ORG
+21 : CARDINAL
+dans : NORP
+dans : NORP
+continué de se : PERSON
+un : ORG
+qui : PERSON
+la livraison des : PERSON
+mondiaux : PERSON
+0 4 : CARDINAL
+2 : CARDINAL
+de la fed : ORG
+progressé de 17 : ORG
+3 : CARDINAL
+la courbe des taux : GPE
+un : ORG
+annonciateur de récession : PERSON
+dans : NORP
+de quatre : PERSON
+continué de se : PERSON
+bund : PERSON
+de la bce est : PERSON
+france : GPE
+3 4 : DATE
+9 pb la : QUANTITY
+2 8 : CARDINAL
+1 01 dollar : MONEY
+1 : CARDINAL
+un : ORG
+baril : CARDINAL
+mer du nord reculé de : GPE
+6 4 : QUANTITY
+un : ORG
+une : ORG
+mais majeur de chaque : ORG
+côté de : ORG
+de la : PERSON
+22 : CARDINAL
+222 : ORG
+8 : CARDINAL
+3 : CARDINAL
+baisse du taux de marge : PERSON
+2022 : DATE
+un : ORG
+2 9 : CARDINAL
+2022 : DATE
+de la : ORG
+1 5 : CARDINAL
+1 : CARDINAL
+1 3 : CARDINAL
+de la : ORG
+1 9 : CARDINAL
+15 : CARDINAL
+revanche continué de progresser : PERSON
+un : ORG
+6 9 : CARDINAL
+4 2 sur un : QUANTITY
+donc dégradée : PERSON
+5 6 : CARDINAL
+la baisse des valorisations des : PERSON
+un : ORG
+de la : PERSON
+de la : PERSON
+la richesse : FAC
+de la : PERSON
+39 : CARDINAL
+dans la baisse des subventions à la production investissement des snf : ORG
+un : ORG
+3 1 : CARDINAL
+sans : NORP
+4 : CARDINAL
+un : ORG
+une baisse du : PERSON
+78 8 : CARDINAL
+941 : CARDINAL
+dans la : ORG
+un : ORG
+liées à la montée de inflation la : ORG
+4 3 : DATE
+12 : CARDINAL
+de leur : ORG
+2 8 : CARDINAL
+soutien baisse : PERSON
+1 8 : DATE
+0 : CARDINAL
+1 7 : CARDINAL
+dans industrie cette : ORG
+par la : ORG
+2 2 : CARDINAL
+0 4 : CARDINAL
+9 : CARDINAL
+5 8 : CARDINAL
+dans la construction : ORG
+0 4 : CARDINAL
+un : ORG
+1 3 : CARDINAL
+2019 : DATE
+2 3 : CARDINAL
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+20 21 : DATE
+22 : CARDINAL
+2015 : DATE
+100 : CARDINAL
+de la : PERSON
+22 : CARDINAL
+222 : ORG
+8 : CARDINAL
+ukraine mais : GPE
+marchan : PERSON
+77 2 : CARDINAL
+mois de mai néanmoins : PERSON
+mai avec : ORG
+hausse de 5 9 : ORG
+grâce à des carnets de : ORG
+peu à peu et : PERSON
+un : ORG
+marqué de la : ORG
+un : ORG
+coût : GPE
+acquis de croissance de la : PERSON
+deuxième trimestre : PERSON
+1 1 : CARDINAL
+juin 
+le marché : PERSON
+juin avec une : ORG
+76 948 : CARDINAL
+la hausse la plus : ORG
+2021 : DATE
+37 000 : CARDINAL
+maintient avec : ORG
+783 595 : CARDINAL
+44 : CARDINAL
+3 : CARDINAL
+312 824 : CARDINAL
+292 : CARDINAL
+679 : CARDINAL
+discontinus1 : GPE
+178 : CARDINAL
+la saison : PERSON
+20 : CARDINAL
+27 : CARDINAL
+juin de année : PERSON
+un : ORG
+dans : NORP
+21 570 : PERCENT
+2 551 : CARDINAL
+2 293 : CARDINAL
+2 078 : CARDINAL
+1 769 : CARDINAL
+42 409 : CARDINAL
+un : ORG
+la baisse : PERSON
+juin de année : PERSON
+166 : CARDINAL
+sur la : ORG
+2014 2019 : DATE
+595 : CARDINAL
+2 880 : CARDINAL
+un : ORG
+dans : NORP
+dans : NORP
+8 1 sur un : QUANTITY
+dans : NORP
+21 3 : CARDINAL
+2 : CARDINAL
+niveaux de juin : ORG
+2019 : DATE
+de 2 : PERSON
+dans : NORP
+supérieur de respectivement : PERSON
+12 : CARDINAL
+10 7 : CARDINAL
+1 : CARDINAL
+un : ORG
+dans : NORP
+par : ORG
+10 : CARDINAL
+11 : CARDINAL
+17 : CARDINAL
+2017 2018 : DATE
+2020 2021 2022 : DATE
+de la : PERSON
+22 : CARDINAL
+222 : ORG
+8 : CARDINAL
+nominaux mais : PERSON
+0 : CARDINAL
+progressé de : ORG
+0 2 : CARDINAL
+du trimestre précédent : PERSON
+dans un contexte de : ORG
+progressé de 1 4 : ORG
+1 1 : CARDINAL
+2021 : DATE
+12 6 : CARDINAL
+6 8 : CARDINAL
+la hausse des coûts de production : ORG
+progressé de 1 4 : ORG
+de la : PERSON
+2 : CARDINAL
+une baisse du : PERSON
+41 : CARDINAL
+2010 : DATE
+continué : PERSON
+fixe : GPE
+progressé de 5 2 : ORG
+2022 : DATE
+0 : CARDINAL
+9 : CARDINAL
+24 1 
+ 
+  : QUANTITY
+2021 : DATE
+19 : CARDINAL
+6 : CARDINAL
+quatrième trimestre : PERSON
+2019 : DATE
+2019 : DATE
+0 7 : CARDINAL
+dessus de sa : PERSON
+qui se : PERSON
+situait autour des 8 : PERSON
+2010 : DATE
+2019 : DATE
+être achevée : PERSON
+qui caractérisé : PERSON
+2021 : CARDINAL
+dans un environnement plus : ORG
+un : ORG
+15 : CARDINAL
+10 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+t3 : GPE
+t3 : GPE
+2019 2020 : DATE
+2021 2022 : DATE
+19 : CARDINAL
+20 : CARDINAL
+21 : CARDINAL
+22 : CARDINAL
+23 : CARDINAL
+24 : CARDINAL
+25 : CARDINAL
+39 : CARDINAL
+40 : CARDINAL
+41 : CARDINAL
+42 : CARDINAL
+43 : CARDINAL
+44 : CARDINAL
+45 : CARDINAL
+46 : CARDINAL
+t3 : GPE
+t3 : GPE
+2019 2020 : DATE
+istat : NORP
+de la : PERSON
+22 : CARDINAL
+222 : ORG
+8 : CARDINAL
+nord 
+  : ORG
+baisse de la : PERSON
+0 3 : CARDINAL
+2021 : DATE
+2 : CARDINAL
+14 : CARDINAL
+2 5 : CARDINAL
+0 : CARDINAL
+9 
+ 
+ notre : QUANTITY
+ce stade notre prévision de croissance de 1 5 : ORG
+2022 : DATE
+dans : NORP
+un : ORG
+qui fait peser des : ORG
+eu lieu : ORG
+un : ORG
+saïed rendu : PERSON
+soumis à referendum populaire fin juillet ce projet renforce considéra : ORG
+2014 : DATE
+désormais dénommés : PERSON
+islam : NORP
+renforcé dans : PERSON
+article 5 : LAW
+dans : NORP
+pouvoir : ORG
+un : ORG
+de la présidence est : ORG
+un : ORG
+conseil supérieur de la : PERSON
+fmi : ORG
+un : ORG
+de soutien : PERSON
+un : ORG
+défaut de : ORG
+pib annuel : PERSON
+nord après : ORG
+un : ORG
+dans : NORP
+dans : NORP
+de la : PERSON
+22 : CARDINAL
+222 : ORG
+8 : CARDINAL
+ghana : GPE
+fmi : ORG
+de la pression populaire et des tensions économiques : ORG
+autorités ghanéennes : PERSON
+finalement se : PERSON
+fmi : ORG
+finalement annoncé la semaine dernière leur intention de débuter des négociations avec : ORG
+fmi : ORG
+un : ORG
+la hausse des prix et : ORG
+dans : NORP
+avait dégénéré : PERSON
+donné lieu : ORG
+ghana : GPE
+un déficit public moyen de 8 1 : ORG
+2012 : DATE
+2022 : DATE
+hui plus de 80 : PERSON
+un : ORG
+de la : ORG
+15 : CARDINAL
+cessé de progresser : PERSON
+sur la dette absorbent : ORG
+hui à eux seuls plus de la moitié des : PERSON
+de la dette : PERSON
+marchés internationaux : PERSON
+2021 : DATE
+ghana dans : PERSON
+30 : CARDINAL
+2022 : DATE
+internationaux avec : PERSON
+un : ORG
+courant de 
+ : PERSON
+3 5 : DATE
+un : ORG
+de la : ORG
+ghana : GPE
+pétrole qui : FAC
+23 : CARDINAL
+27 6 : CARDINAL
+gouvernement qui consistait : PERSON
+la demande : GPE
+exprimée : NORP
+un : ORG
+fmi : ORG
+permettrait de réduire à court : ORG
+ghana : GPE
+sur sa : ORG
+gouvernement la banque centrale : ORG
+directeur : PERSON
+19 : CARDINAL
+élevée de inflation : ORG
+un : ORG
+la complexité de son : PERSON
+budgétaire devront : PERSON
+cœur : ORG
+2013 : DATE
+2015 : DATE
+2018 : DATE
+2021 : DATE
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+45 : CARDINAL
+50 : CARDINAL
+55 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+pib 
+ghana dette publique 
+et : PERSON
+ghana fmi crédit : ORG
+de la : PERSON
+22 : CARDINAL
+222 : ORG
+8 : CARDINAL
+2022 8 : DATE
+bund 
+pdb : LOC
+thomson reuters 
+marché : ORG
+100 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+6 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+21 oct : TIME
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+fed : ORG
+3 : CARDINAL
+2 : CARDINAL
+10 : CARDINAL
+106 : CARDINAL
+110 : CARDINAL
+114 : CARDINAL
+118 : CARDINAL
+122 : CARDINAL
+126 : CARDINAL
+130 : CARDINAL
+134 : CARDINAL
+138 : CARDINAL
+0 8 : CARDINAL
+0 9 : CARDINAL
+1 1 : CARDINAL
+1 3 : CARDINAL
+21 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+américain livre : PERSON
+yen japonais : PERSON
+8 : CARDINAL
+6 : CARDINAL
+4 : CARDINAL
+2 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+21 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+3 : CARDINAL
+2 : CARDINAL
+10 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+50 : CARDINAL
+80 : CARDINAL
+110 : CARDINAL
+140 : CARDINAL
+170 : CARDINAL
+200 : CARDINAL
+230 : CARDINAL
+260 : CARDINAL
+21 oct : TIME
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+france : GPE
+éch dr 
+10 
+15 
+20 
+25 
+30 
+ : PERSON
+35 : CARDINAL
+40 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+110 : CARDINAL
+120 : CARDINAL
+130 : CARDINAL
+140 : CARDINAL
+21 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+vix usa éch dr p 500 usa : ORG
+50 : CARDINAL
+40 : CARDINAL
+msci emergents 
+ : PERSON
+1 700 : CARDINAL
+1 750 : CARDINAL
+1 800 : CARDINAL
+1 850 : CARDINAL
+1 900 : CARDINAL
+1 950 : CARDINAL
+2 000 : CARDINAL
+2 050 : CARDINAL
+2 100 : CARDINAL
+21 oct : TIME
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+de la : PERSON
+22 : CARDINAL
+222 : ORG
+8 : CARDINAL
+100 : CARDINAL
+début de période 
+ 
+ : ORG
+coût du : PERSON
+de vrac sec : PERSON
+baril : CARDINAL
+nord : PERSON
+london metal exchange : ORG
+340 : CARDINAL
+390 : CARDINAL
+440 : CARDINAL
+490 : CARDINAL
+540 : CARDINAL
+590 : CARDINAL
+640 : CARDINAL
+21 oct : TIME
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+21 oct : TIME
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+russe : GPE
+indienne yuan : PERSON
+rand sud : PERSON
+1 000 : CARDINAL
+1 500 : CARDINAL
+2 000 : CARDINAL
+2 500 : CARDINAL
+3 000 : CARDINAL
+3 500 : CARDINAL
+4 000 : CARDINAL
+4 500 : CARDINAL
+5 000 : CARDINAL
+5 500 : CARDINAL
+6 000 : CARDINAL
+21 oct : TIME
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+110 : CARDINAL
+120 : CARDINAL
+130 : CARDINAL
+21 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+west texas : PRODUCT
+6 000 : CARDINAL
+7 000 : CARDINAL
+8 000 : CARDINAL
+9 000 : CARDINAL
+10 000 : CARDINAL
+11 000 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+160 : CARDINAL
+180 : CARDINAL
+200 : CARDINAL
+220 : CARDINAL
+240 : CARDINAL
+21 oct : TIME
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+éch dr 
+400 
+ : PERSON
+420 : CARDINAL
+440 : CARDINAL
+460 : PRODUCT
+480 : CARDINAL
+500 : CARDINAL
+520 : CARDINAL
+540 : CARDINAL
+560 : CARDINAL
+580 : CARDINAL
+600 : CARDINAL
+620 : CARDINAL
+7 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+5 : CARDINAL
+12 : CARDINAL
+0 : CARDINAL
+12 5 : CARDINAL
+21 oct : TIME
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+éch dr monde actualité de la : PERSON
+22 : CARDINAL
+222 : ORG
+8 : CARDINAL
+10 : CARDINAL
+2022 : CARDINAL
+titre thème : PERSON
+06 : CARDINAL
+07 2022 : DATE
+nord : ORG
+hausse de : PERSON
+dans : NORP
+05 : CARDINAL
+07 2022 : DATE
+9 : CARDINAL
+05 : CARDINAL
+07 2022 : DATE
+france : GPE
+un : ORG
+2021 : DATE
+2022 : DATE
+france : GPE
+04 : CARDINAL
+07 2022 : DATE
+01 : CARDINAL
+de la : PERSON
+01 07 2022 : DATE
+scénario macro : ORG
+2022 2023 : DATE
+01 07 2022 : DATE
+gustavo petro un : ORG
+30 : CARDINAL
+2022 : DATE
+europe : LOC
+dette commune au service : ORG
+de sa : ORG
+europe : LOC
+30 : CARDINAL
+2022 : DATE
+29 : CARDINAL
+2022 : DATE
+29 : CARDINAL
+06 2022 : DATE
+du sud chine : PERSON
+28 : CARDINAL
+06 2022 : DATE
+sein des : LOC
+28 : CARDINAL
+06 2022 : DATE
+de europe euro : ORG
+europe : LOC
+12 : CARDINAL
+92127 : CARDINAL
+directeur de la : PERSON
+bazille 
+rédacteurs : PERSON
+armelle sarda 
+zone : PERSON
+euro : ORG
+tozy philippe : PERSON
+boas 
+états : ORG
+europe : LOC
+ada : ORG
+nord moyen : ORG
+elisabeth serreau 
+ : PERSON
+de sa : PERSON
+sauf : ORG
+être modifiée à : ORG
+qui sont exprimées ne : ORG
+une : ORG
+la : GPE
+une de : ORG
+sa : GPE
+titre de la divulgation : PERSON
+dans : NORP

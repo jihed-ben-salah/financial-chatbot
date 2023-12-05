@@ -1,0 +1,2360 @@
+file_name,page_num,text,clean_text,tokens,subjectivity_score,date,bank,title,topic
+07 08 2022_Moodys_Weekly-Market-Outlook,1," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+ 
+1
+ 
+Moody's Analytics and Moody's Investors Service maintain separate and independent economic forecasts. This publication uses the 
+forecasts of Moody's Analytics. Moody's Analytics markets and distributes all Moody's Capital Markets Research materials. 
+Moody's Analytics does not provide investment advisory services or products. For further detail, please see the last page.
+ 
+Aggressive Now, Pause Later 
+The minutes from the June meeting of 
+the Federal Open Market Committee 
+didn't contain a ton of surprises. The 
+central bank is worried that if it doesn't 
+aggressively remove monetary policy 
+accommodation, inflation could 
+become entrenched. Participants judged 
+a 50- or 75-basis point rate hike at the 
+July meeting would be appropriate. The 
+minutes are dated, and inflation 
+expectations have dropped recently 
+along with commodity prices. Still, the 
+incoming data on consumer prices 
+could determine if it is a 50- or 75-basis 
+point rate hike. The minutes noted that 
+policy would need to be even more 
+restrictive.  
+Since the minutes, market-based 
+measures of inflation expectations have 
+dropped and are consistent with where 
+the Fed would want them. Also, the 
+jump in the University of Michigan's measure of inflation expectations, which spooked 
+the Fed, has been revised away. The June CPI will likely determine how aggressive the Fed 
+is this month. Our preliminary forecast is for the CPI to have risen 1.1% between May and 
+June. This would be the second consecutive monthly gain of at least 1%.  
+There were a few references to tighter financial market conditions, which are doing some 
+of the work for the Fed. Monetary policy primarily affects the economy via financial 
+market conditions. Therefore, the Fed is getting exactly what it wants: lower stock prices, 
+higher Treasury yields, and wider corporate bond spreads 
+Pause is possible 
+The front-loading of rate hikes gives the Fed the flexibility to pause, which the minutes 
+alluded to. Once the target range for the fed funds rate is at its neutral rate of 2.5%, the 
+Fed may pause to assess how the removal of monetary policy is affecting the economy, 
+inflation and the outlook. 
+.
+WEEKLY MARKET 
+OUTLOOK 
+JULY 7, 2022 
+Lead Author
+ 
+ 
+Ryan Sweet 
+Senior Director 
+Asia-Pacific 
+ 
+Katrina Ell 
+Senior Economist 
+ 
+Stefan Angrick 
+Senior Economist 
+Europe 
+ 
+Ross Cioffi 
+Economist 
+U.S. 
+ 
+Jesse Rogers 
+Economist 
+ 
+Steven Shields 
+Economist 
+ 
+Matt Orefice 
+Data Specialist 
+Inside Economics Podcast: 
+ 
+Join the Conversation 
+Apple Podcasts 
+Google Podcasts  
+Spotify 
+ 
+ 
+ 
+Table of Contents 
+Top of Mind ...................................... 3 
+Week Ahead in Global Economy ... 5 
+Geopolitical Risks ............................ 6 
+The Long View 
+U.S.  .................................................................. 7 
+Europe  ......................................................... 10 
+Asia-Pacific  .................................................. 11 
+Ratings Roundup ........................... 12 
+Market Data ................................... 15 
+CDS Movers .................................... 16 
+Issuance .......................................... 19 
+ 
+",moodi analyt capit market week market moodi analyt moodi investor servic maintain separ independ econom forecast public forecast moodi analyt moodi analyt market distribut moodi capit market materi moodi analyt provid invest advisori servic product aggress paus minut june meet feder market committe ton surpris central worri aggress remov monetari polici accommod inflat entrench particip judg basi rate hike juli meet minut date inflat expect drop commod price incom consum price determin basi rate hike minut polici restrict minut market base measur inflat expect drop consist fed jump univers michigan measur inflat expect spook fed revis june cpi determin aggress fed month preliminari forecast cpi risen june consecut month gain refer tighter financi market condit fed monetari polici economi financi market condit fed stock price treasuri yield wider corpor bond spread paus load rate hike fed flexibl paus minut allud target rang fed fund rate neutral rate fed paus ass remov monetari polici economi inflat week market juli lead ryan sweet senior director asia pacif katrina ell senior economist stefan angrick senior economist europ ross cioffi economist jess roger economist steven shield economist matt orefic specialist econom podcast convers appl podcast googl podcast spotifi tabl content mind week global economi geopolit risk view europ asia pacif rate roundup market cd mover issuanc,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'moody', 'analytics', 'moody', 'investors', 'service', 'maintain', 'separate', 'independent', 'economic', 'forecasts', 'publication', 'forecasts', 'moody', 'analytics', 'moody', 'analytics', 'markets', 'distributes', 'moody', 'capital', 'markets', 'materials', 'moody', 'analytics', 'provide', 'investment', 'advisory', 'services', 'products', 'aggressive', 'pause', 'minutes', 'june', 'meeting', 'federal', 'market', 'committee', 'ton', 'surprises', 'central', 'worried', 'aggressively', 'remove', 'monetary', 'policy', 'accommodation', 'inflation', 'entrenched', 'participants', 'judged', 'basis', 'rate', 'hike', 'july', 'meeting', 'minutes', 'dated', 'inflation', 'expectations', 'dropped', 'commodity', 'prices', 'incoming', 'consumer', 'prices', 'determine', 'basis', 'rate', 'hike', 'minutes', 'policy', 'restrictive', 'minutes', 'market', 'based', 'measures', 'inflation', 'expectations', 'dropped', 'consistent', 'fed', 'jump', 'university', 'michigan', 'measure', 'inflation', 'expectations', 'spooked', 'fed', 'revised', 'june', 'cpi', 'determine', 'aggressive', 'fed', 'month', 'preliminary', 'forecast', 'cpi', 'risen', 'june', 'consecutive', 'monthly', 'gain', 'references', 'tighter', 'financial', 'market', 'conditions', 'fed', 'monetary', 'policy', 'economy', 'financial', 'market', 'conditions', 'fed', 'stock', 'prices', 'treasury', 'yields', 'wider', 'corporate', 'bond', 'spreads', 'pause', 'loading', 'rate', 'hikes', 'fed', 'flexibility', 'pause', 'minutes', 'alluded', 'target', 'range', 'fed', 'funds', 'rate', 'neutral', 'rate', 'fed', 'pause', 'assess', 'removal', 'monetary', 'policy', 'economy', 'inflation', 'weekly', 'market', 'july', 'lead', 'ryan', 'sweet', 'senior', 'director', 'asia', 'pacific', 'katrina', 'ell', 'senior', 'economist', 'stefan', 'angrick', 'senior', 'economist', 'europe', 'ross', 'cioffi', 'economist', 'jesse', 'rogers', 'economist', 'steven', 'shields', 'economist', 'matt', 'orefice', 'specialist', 'economics', 'podcast', 'conversation', 'apple', 'podcasts', 'google', 'podcasts', 'spotify', 'table', 'contents', 'mind', 'week', 'global', 'economy', 'geopolitical', 'risks', 'view', 'europe', 'asia', 'pacific', 'ratings', 'roundup', 'market', 'cds', 'movers', 'issuance']",0.316358024691358,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,2," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+2
+ 
+Fed officials don't seem concerned about a recession. There 
+was no reference to recession in the minutes. Also, the Fed 
+described the labor market as very tight. The minutes did 
+highlight some downside risks to the outlook, including 
+further tightening in financial market conditions that would 
+be a larger drag on the economy. This is a subtle sign that 
+the Fed has financial market conditions roughly where it 
+would like them and further tightening could concern the 
+central bank. 
+Fed gives shout out to GDI 
+The Fed didn't avoid discussing the drop in first-quarter GDP 
+and the prospect that it didn't do well in the second quarter. 
+However, the minutes referenced gross domestic income, 
+which has held up better than GDP. 
+ 
+The difference between real GDP and real GDI, also known 
+as the statistical discrepancy, has never been so large. The 
+Bureau of Economic Analysis, the government agency that 
+constructs these estimates, may be having an especially 
+difficult time accurately measuring real GDP in the 
+pandemic given the resulting big swings in global trade and 
+inventories. If so, the BEA could ultimately revise GDP up to 
+be more consistent with real GDI. It is also possible that the 
+BEA is overstating corporate profits. The strength of GDI is 
+likely one reason the Fed doesn't seem concerned about a 
+recession.  
+High-yield spreads will widen further 
+U.S. high-yield corporate bond spreads have widened 
+noticeably this year and likely have not peaked as the 
+economy continues to cool and volatility in equity markets 
+remains above historical averages. The current high-yield 
+corporate bond spread would put the odds of a recession at 
+33%. This would potentially be a reason for optimism, since 
+the credit cycle normally leads the economic cycle. 
+However, the investment-grade corporate bond spreads put 
+the recession odds at 52%. 
+For now, volatility isn't out of line with economic 
+fundamentals. To estimate the level of the VIX consistent 
+with fundamentals, we model the monthly average of the 
+VIX using an ordinary least squares regression. Independent 
+variables include the GDP-weighted average of the ISM 
+surveys, financial market stress, a dummy variable for 
+recessions, and U.S. economic policy uncertainty. 
+The results were in line with our a priori, as all coefficients 
+had the expected sign. All were statistically significant and 
+had an adjusted r-squared of 0.62. The regression was re-
+estimated, but we replaced U.S. economic policy uncertainty 
+with global policy uncertainty. The assumption is that 
+uncertainty abroad would affect volatility in U.S. equity 
+markets. However, the results showed this explained less of 
+the variation in the VIX than U.S. policy uncertainty. 
+Overall, the VIX isn't out of line with fundamentals, so the 
+widening in spreads for high-yield corporate bonds shouldn't 
+be surprising. A model we built to forecast high-yield 
+corporate bond spreads uses the ISM surveys, and odds are 
+that they will decline further, implying further widening in 
+the spreads. The high-yield corporate bond spread is 
+currently 583 basis points, more than an average spread of 
+350 basis points outside of a recession. 
+Spreads are still noticeably tighter than the 1,000-point 
+average spread during the past three recessions. The 
+baseline forecast doesn't assume a recession, therefore 
+spreads shouldn't come anywhere close to the average seen 
+over the past three recessions. Though U.S. GDP could 
+decline in the first half of this year, other data don't signal a 
+recession, including the ISM manufacturing and 
+nonmanufacturing surveys. 
+Both of the ISM surveys declined in June, but neither are 
+near levels that have historically signaled a recession. The 
+GDP-weighted average of the ISM surveys tracks financial 
+market conditions. Financial market stress so far in July 
+points to further ISM survey declines, though they would 
+not be as significant as in prior months. There is still some 
+cushion as the GDP-weighted average of the ISM surveys 
+remains above its neutral threshold of 50. 
+",moodi analyt capit market week market fed offici concern recess refer recess minut fed labor market tight minut highlight downsid risk includ tighten financi market condit larger drag economi subtl sign fed financi market condit rough tighten concern central fed shout gdi fed avoid discuss drop quarter gdp prospect quarter minut referenc gross domest incom held gdp differ real gdp real gdi statist discrep bureau econom analysi govern agenc construct estim difficult time accur measur real gdp pandem swing global trade inventori bea ultim revis gdp consist real gdi bea overst corpor profit strength gdi reason fed concern recess yield spread widen yield corpor bond spread widen notic peak economi continu cool volatil equiti market remain histor averag current yield corpor bond spread odd recess reason optim credit cycl lead econom cycl invest grade corpor bond spread recess odd volatil econom fundament estim level vix consist fundament model month averag vix ordinari squar regress independ variabl includ gdp weight averag ism survey financi market stress dummi variabl recess econom polici uncertainti priori coeffici expect sign statist adjust squar regress estim replac econom polici uncertainti global polici uncertainti assumpt uncertainti affect volatil equiti market explain variat vix polici uncertainti vix fundament widen spread yield corpor bond surpris model built forecast yield corpor bond spread ism survey odd declin impli widen spread yield corpor bond spread basi averag spread basi recess spread notic tighter averag spread recess baselin forecast assum recess spread close averag recess gdp declin signal recess includ ism manufactur survey ism survey declin june level histor signal recess gdp weight averag ism survey track financi market condit financi market stress juli ism survey declin prior month cushion gdp weight averag ism survey remain neutral threshold,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'fed', 'officials', 'concerned', 'recession', 'reference', 'recession', 'minutes', 'fed', 'labor', 'market', 'tight', 'minutes', 'highlight', 'downside', 'risks', 'including', 'tightening', 'financial', 'market', 'conditions', 'larger', 'drag', 'economy', 'subtle', 'sign', 'fed', 'financial', 'market', 'conditions', 'roughly', 'tightening', 'concern', 'central', 'fed', 'shout', 'gdi', 'fed', 'avoid', 'discussing', 'drop', 'quarter', 'gdp', 'prospect', 'quarter', 'minutes', 'referenced', 'gross', 'domestic', 'income', 'held', 'gdp', 'difference', 'real', 'gdp', 'real', 'gdi', 'statistical', 'discrepancy', 'bureau', 'economic', 'analysis', 'government', 'agency', 'constructs', 'estimates', 'difficult', 'time', 'accurately', 'measuring', 'real', 'gdp', 'pandemic', 'swings', 'global', 'trade', 'inventories', 'bea', 'ultimately', 'revise', 'gdp', 'consistent', 'real', 'gdi', 'bea', 'overstating', 'corporate', 'profits', 'strength', 'gdi', 'reason', 'fed', 'concerned', 'recession', 'yield', 'spreads', 'widen', 'yield', 'corporate', 'bond', 'spreads', 'widened', 'noticeably', 'peaked', 'economy', 'continues', 'cool', 'volatility', 'equity', 'markets', 'remains', 'historical', 'averages', 'current', 'yield', 'corporate', 'bond', 'spread', 'odds', 'recession', 'reason', 'optimism', 'credit', 'cycle', 'leads', 'economic', 'cycle', 'investment', 'grade', 'corporate', 'bond', 'spreads', 'recession', 'odds', 'volatility', 'economic', 'fundamentals', 'estimate', 'level', 'vix', 'consistent', 'fundamentals', 'model', 'monthly', 'average', 'vix', 'ordinary', 'squares', 'regression', 'independent', 'variables', 'include', 'gdp', 'weighted', 'average', 'ism', 'surveys', 'financial', 'market', 'stress', 'dummy', 'variable', 'recessions', 'economic', 'policy', 'uncertainty', 'priori', 'coefficients', 'expected', 'sign', 'statistically', 'adjusted', 'squared', 'regression', 'estimated', 'replaced', 'economic', 'policy', 'uncertainty', 'global', 'policy', 'uncertainty', 'assumption', 'uncertainty', 'affect', 'volatility', 'equity', 'markets', 'explained', 'variation', 'vix', 'policy', 'uncertainty', 'vix', 'fundamentals', 'widening', 'spreads', 'yield', 'corporate', 'bonds', 'surprising', 'model', 'built', 'forecast', 'yield', 'corporate', 'bond', 'spreads', 'ism', 'surveys', 'odds', 'decline', 'implying', 'widening', 'spreads', 'yield', 'corporate', 'bond', 'spread', 'basis', 'average', 'spread', 'basis', 'recession', 'spreads', 'noticeably', 'tighter', 'average', 'spread', 'recessions', 'baseline', 'forecast', 'assume', 'recession', 'spreads', 'close', 'average', 'recessions', 'gdp', 'decline', 'signal', 'recession', 'including', 'ism', 'manufacturing', 'surveys', 'ism', 'surveys', 'declined', 'june', 'levels', 'historically', 'signaled', 'recession', 'gdp', 'weighted', 'average', 'ism', 'surveys', 'tracks', 'financial', 'market', 'conditions', 'financial', 'market', 'stress', 'july', 'ism', 'survey', 'declines', 'prior', 'months', 'cushion', 'gdp', 'weighted', 'average', 'ism', 'surveys', 'remains', 'neutral', 'threshold']",0.3320098039215684,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,3," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+3
+ 
+TOP OF MIND 
+Is Emerging Market Inflation Peaking? 
+BY JESSE ROGERS
+Large trade and current account surpluses have been a 
+bubble wrap-like barrier for emerging economies, but fresh 
+routs in emerging market currency, bond and equity markets 
+are tearing at the padding. With fast-rising interest rates in 
+both advanced and emerging economies stacking the deck 
+against the emerging world, our call for most emerging 
+economies to grow this year may seem foolhardy. But we 
+stand with our cards firmly on the table. This is because 
+inflation in most emerging economies has already peaked or 
+will do so by summer's end, with falling food and energy 
+prices pulling inflation lower. 
+This does not mean that price pressures will fully recede. 
+While falling global food and energy prices will allow 
+emerging market central banks to ease off the pedal, the 
+cost of food staples, gasoline, and consumer-related services 
+will remain elevated. This means that while most emerging 
+economies will avoid recession, it certainly won't feel like it 
+with elevated unemployment and still-large holes in 
+incomes. 
+Calling inflation's peak 
+The next few inflation prints will mark the peak for inflation 
+in the emerging world; by late summer year-on-year price 
+gains will begin to ease. Most large economies in Latin 
+America saw inflation budge a little in May--
+in 
+Brazil
+ and 
+Colombia
+ the pace of inflation actually 
+decreased. We expect this pattern to play out in emerging 
+Asia, Africa, and the Middle East, where inflation has been 
+later to rise due to a combination of fuel subsidies and a 
+period of falling food prices in Asia 
+following 
+Chinese
+ farmers' near-three-year battle with swine 
+flu. Things could take longer in emerging Europe, where 
+labor markets are tighter and expectations of higher prices 
+are more entrenched. 
+Two forces will work in conjunction to reduce price 
+pressures. The first is the broader decline in commodity 
+prices. This owes partly to the anticipation of a better wheat 
+harvest in 
+Australia
+, a bumper corn crop in 
+Argentina
+ and 
+Brazil, and of another large soybean harvest in the U.S., and 
+partly to commitments by global energy producers to raise 
+crude oil production. 
+Also helping things is that by now, emerging economies 
+highly dependent on food and energy imports 
+from 
+Ukraine
+ and 
+Russia
+ have secured new supplies or found 
+their way to discounts.  
+ 
+The second force is a more aggressive Federal Reserve, 
+which has pushed up the dollar and reduced growth 
+expectations. That in turn has pushed down inflation 
+expectations and commodity prices. Because most 
+commodities are priced in dollars, a stronger dollar tends to 
+put downward pressure on prices. 
+There is little disagreement that commodity prices are now 
+past their peak, and that action by the Fed and other major 
+central banks will work to push them even lower. But there 
+is less of a consensus that inflation in emerging markets will 
+fall in kind. This is because of fears that inflation 
+expectations have become perniciously ingrained in Latin 
+America, Africa, and parts of emerging Europe and the 
+Middle East. However, these concerns are based largely on 
+the past experience of high and hyperinflation in these 
+regions and ignores the fact that price pressures are not 
+finding their way into wages. 
+What's needed to send inflation back up is a feedback loop 
+between higher prices and demands for higher wages, 
+known as a wage-price spiral. But growth in nominal wages 
+in most emerging economies has so far been outpaced by 
+inflation. This is the case in Latin America, where average 
+real monthly pay is some 15% below the pre-pandemic 
+peak, and in emerging Europe. The little wage data there is 
+in Southeast Asia, Africa, and the Middle East points to this 
+also being the case. The reason is that labor markets have 
+yet to fully heal from the pandemic's blunt-force blow, 
+robbing workers of the bargaining power they would need to 
+push wages higher. 
+What about core? 
+Analysts are right to note that higher food and energy prices 
+have spilled into the cost of other goods, pushing measures 
+of core inflation--that is, inflation excluding food and 
+energy--above central bank targets. But this is because food 
+",moodi analyt capit market week market mind emerg market inflat peak jess roger trade current account surplus bubbl wrap barrier emerg economi fresh rout emerg market currenc bond equiti market tear pad fast rise rate advanc emerg economi stack deck emerg emerg economi grow foolhardi stand card firm tabl inflat emerg economi peak summer fall food energi price pull inflat price pressur reced fall global food energi price emerg market central bank eas pedal cost food stapl gasolin consum servic remain elev emerg economi avoid recess feel elev unemploy hole incom call inflat peak inflat print mark peak inflat emerg late summer price gain eas economi latin america inflat budg brazil colombia pace inflat decreas expect pattern play emerg asia africa middl east inflat rise combin fuel subsidi period fall food price asia chines farmer battl swine flu emerg europ labor market tighter expect price entrench forc conjunct reduc price pressur broader declin commod price owe part anticip wheat harvest australia bumper corn crop argentina brazil soybean harvest part commit global energi produc rais crude oil product help emerg economi high depend food energi import ukrain russia secur suppli discount forc aggress feder reserv push dollar reduc growth expect push inflat expect commod price commod price dollar stronger dollar downward pressur price disagr commod price peak action fed major central bank push consensus inflat emerg market fall fear inflat expect pernici ingrain latin america africa emerg europ middl east concern base experi hyperinfl region ignor price pressur find wage send inflat feedback loop price demand wage wage price spiral growth nomin wage emerg economi outpac inflat latin america averag real month pay pre pandem peak emerg europ wage southeast asia africa middl east reason labor market heal pandem blunt forc blow rob worker bargain power push wage core analyst note food energi price spill cost push measur core inflat inflat exclud food energi central target food,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'mind', 'emerging', 'market', 'inflation', 'peaking', 'jesse', 'rogers', 'trade', 'current', 'account', 'surpluses', 'bubble', 'wrap', 'barrier', 'emerging', 'economies', 'fresh', 'routs', 'emerging', 'market', 'currency', 'bond', 'equity', 'markets', 'tearing', 'padding', 'fast', 'rising', 'rates', 'advanced', 'emerging', 'economies', 'stacking', 'deck', 'emerging', 'emerging', 'economies', 'grow', 'foolhardy', 'stand', 'cards', 'firmly', 'table', 'inflation', 'emerging', 'economies', 'peaked', 'summer', 'falling', 'food', 'energy', 'prices', 'pulling', 'inflation', 'price', 'pressures', 'recede', 'falling', 'global', 'food', 'energy', 'prices', 'emerging', 'market', 'central', 'banks', 'ease', 'pedal', 'cost', 'food', 'staples', 'gasoline', 'consumer', 'services', 'remain', 'elevated', 'emerging', 'economies', 'avoid', 'recession', 'feel', 'elevated', 'unemployment', 'holes', 'incomes', 'calling', 'inflation', 'peak', 'inflation', 'prints', 'mark', 'peak', 'inflation', 'emerging', 'late', 'summer', 'price', 'gains', 'ease', 'economies', 'latin', 'america', 'inflation', 'budge', 'brazil', 'colombia', 'pace', 'inflation', 'decreased', 'expect', 'pattern', 'play', 'emerging', 'asia', 'africa', 'middle', 'east', 'inflation', 'rise', 'combination', 'fuel', 'subsidies', 'period', 'falling', 'food', 'prices', 'asia', 'chinese', 'farmers', 'battle', 'swine', 'flu', 'emerging', 'europe', 'labor', 'markets', 'tighter', 'expectations', 'prices', 'entrenched', 'forces', 'conjunction', 'reduce', 'price', 'pressures', 'broader', 'decline', 'commodity', 'prices', 'owes', 'partly', 'anticipation', 'wheat', 'harvest', 'australia', 'bumper', 'corn', 'crop', 'argentina', 'brazil', 'soybean', 'harvest', 'partly', 'commitments', 'global', 'energy', 'producers', 'raise', 'crude', 'oil', 'production', 'helping', 'emerging', 'economies', 'highly', 'dependent', 'food', 'energy', 'imports', 'ukraine', 'russia', 'secured', 'supplies', 'discounts', 'force', 'aggressive', 'federal', 'reserve', 'pushed', 'dollar', 'reduced', 'growth', 'expectations', 'pushed', 'inflation', 'expectations', 'commodity', 'prices', 'commodities', 'priced', 'dollars', 'stronger', 'dollar', 'downward', 'pressure', 'prices', 'disagreement', 'commodity', 'prices', 'peak', 'action', 'fed', 'major', 'central', 'banks', 'push', 'consensus', 'inflation', 'emerging', 'markets', 'fall', 'fears', 'inflation', 'expectations', 'perniciously', 'ingrained', 'latin', 'america', 'africa', 'emerging', 'europe', 'middle', 'east', 'concerns', 'based', 'experience', 'hyperinflation', 'regions', 'ignores', 'price', 'pressures', 'finding', 'wages', 'send', 'inflation', 'feedback', 'loop', 'prices', 'demands', 'wages', 'wage', 'price', 'spiral', 'growth', 'nominal', 'wages', 'emerging', 'economies', 'outpaced', 'inflation', 'latin', 'america', 'average', 'real', 'monthly', 'pay', 'pre', 'pandemic', 'peak', 'emerging', 'europe', 'wage', 'southeast', 'asia', 'africa', 'middle', 'east', 'reason', 'labor', 'markets', 'heal', 'pandemic', 'blunt', 'force', 'blow', 'robbing', 'workers', 'bargaining', 'power', 'push', 'wages', 'core', 'analysts', 'note', 'food', 'energy', 'prices', 'spilled', 'cost', 'pushing', 'measures', 'core', 'inflation', 'inflation', 'excluding', 'food', 'energy', 'central', 'targets', 'food']",0.38605254554473295,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,4," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+4
+ 
+and energy commodities are also key inputs into the 
+broader basket of consumer goods and services. As these 
+commodity prices fall, overall inflation will ease, putting less 
+pressure on emerging market central banks to step on the 
+gas and paving the way for growth to continue. 
+The price of unrest 
+That commodity prices will continue to move lower does 
+not make up for the fact that today and tomorrow, they 
+remain uncomfortably high. Take wheat, the commodity 
+most shaken by Russia's invasion of Ukraine after oil--and 
+one that is also critically important to the global economy. 
+Amid anticipation of better harvests in Australia and faster 
+tightening by the Fed, prices have fallen by almost half from 
+all-time highs set earlier this year. But at $9 per bushel, 
+wheat prices are still well above the average recorded during 
+the 2004-2014 commodities boom. 
+Food insecurity has stoked resentment in wheat-
+hungry 
+Egypt
+, Turkey and 
+South Africa
+, and will be a thorn in 
+the side of the frail recovery in other emerging economies. 
+Frustration with rising living costs has propelled populist 
+leaders to victory in recent presidential elections in 
+Chile
+, 
+Colombia, 
+Peru
+ and the 
+Philippines
+ and has shaken up the 
+political landscape in 
+Turkey
+. While there is little chance 
+that new leaders will fundamentally alter the economic 
+landscape in the near term, they will face pressure to 
+counter higher living costs with budget-busting subsidies. 
+And things could get worse. The last time food prices were 
+this high, social protests erupted across the emerging world, 
+culminating in the Arab Spring and in protest movements in 
+China and Iran. Today's political climate is even more 
+volatile, the product of a decade of stagnation in most 
+emerging economies and the prolonged blow from the 
+COVID-19 pandemic. There is little patience for the kinds of 
+changes that would get emerging economies moving again, 
+mostly because they are less visible to ordinary voters and 
+the payoff is down the road. 
+A harder landing to stick 
+We are confident that our call for emerging markets to grow 
+this year is the right one, while remaining well aware that 
+what's in store can hardly be called good growth, at least 
+not of the kind needed to boost jobs and bolster incomes. 
+We also caution that higher growth rates--especially in 
+emerging Asia and the Middle East--are largely an illusion. 
+Higher growth figures in 
+India
+ and Southeast Asia are largely 
+a consequence of their bouts with the Delta and Omicron 
+waves of the COVID-19 pandemic and the delayed recovery 
+relative to the rest of the emerging world. 
+The Middle East is the sole emerging region where higher 
+commodity prices will do more good than harm. But higher 
+growth rates are largely a function of a faster-growing 
+population rather than a rise in living standards. Like the rest 
+of the emerging world, productivity has barely risen in the 
+last decade, something that is dead evident in Latin America 
+and most other emerging regions. 
+ 
+Things should not be this way. Textbook economics teaches 
+that in a globalized economy, firms will exploit differences in 
+wages and production costs to pad profits, driving faster 
+economic growth along the way. This is the story of 21st-
+century China, but the rest of the emerging world has been 
+less able to latch on. Despite calls to re-shore supply chains, 
+China's dominance of global manufacturing will budge 
+little--firms and workers in China are just too good at what 
+they do. To grow and prosper, emerging economies will 
+instead need to raise educational attainment, integrate the 
+informal economy, and cultivate high-value-added services. 
+This is a much harder landing to stick. 
+",moodi analyt capit market week market energi commod key input broader basket consum servic commod price fall inflat eas put pressur emerg market central bank step gas pave growth continu price unrest commod price continu tomorrow remain uncomfort wheat commod shaken russia invas ukrain oil critic global economi anticip harvest australia faster tighten fed price fallen time high set earlier bushel wheat price averag record commod boom food insecur stoke resent wheat hungri egypt turkey south africa thorn frail recoveri emerg economi frustrat rise live cost propel populist leader victori presidenti elect chile colombia peru philippin shaken polit landscap turkey chanc leader fundament alter econom landscap term pressur counter live cost budget bust subsidi wors time food price social protest erupt emerg culmin arab spring protest movement china iran polit climat volatil product decad stagnat emerg economi prolong blow covid pandem patienc kind emerg economi move visibl ordinari voter payoff road harder land stick confid emerg market grow remain awar store call growth boost job bolster incom caution growth rate emerg asia middl east illus growth figur india southeast asia consequ bout delta omicron wave covid pandem delay recoveri relat rest emerg middl east sole emerg region commod price harm growth rate function faster grow popul rise live standard rest emerg product bare risen decad dead evid latin america emerg region textbook econom teach global economi firm exploit differ wage product cost pad profit drive faster econom growth stori centuri china rest emerg latch call shore suppli chain china domin global manufactur budg firm worker china grow prosper emerg economi rais educ attain integr inform economi cultiv servic harder land stick,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'energy', 'commodities', 'key', 'inputs', 'broader', 'basket', 'consumer', 'services', 'commodity', 'prices', 'fall', 'inflation', 'ease', 'putting', 'pressure', 'emerging', 'market', 'central', 'banks', 'step', 'gas', 'paving', 'growth', 'continue', 'price', 'unrest', 'commodity', 'prices', 'continue', 'tomorrow', 'remain', 'uncomfortably', 'wheat', 'commodity', 'shaken', 'russia', 'invasion', 'ukraine', 'oil', 'critically', 'global', 'economy', 'anticipation', 'harvests', 'australia', 'faster', 'tightening', 'fed', 'prices', 'fallen', 'time', 'highs', 'set', 'earlier', 'bushel', 'wheat', 'prices', 'average', 'recorded', 'commodities', 'boom', 'food', 'insecurity', 'stoked', 'resentment', 'wheat', 'hungry', 'egypt', 'turkey', 'south', 'africa', 'thorn', 'frail', 'recovery', 'emerging', 'economies', 'frustration', 'rising', 'living', 'costs', 'propelled', 'populist', 'leaders', 'victory', 'presidential', 'elections', 'chile', 'colombia', 'peru', 'philippines', 'shaken', 'political', 'landscape', 'turkey', 'chance', 'leaders', 'fundamentally', 'alter', 'economic', 'landscape', 'term', 'pressure', 'counter', 'living', 'costs', 'budget', 'busting', 'subsidies', 'worse', 'time', 'food', 'prices', 'social', 'protests', 'erupted', 'emerging', 'culminating', 'arab', 'spring', 'protest', 'movements', 'china', 'iran', 'political', 'climate', 'volatile', 'product', 'decade', 'stagnation', 'emerging', 'economies', 'prolonged', 'blow', 'covid', 'pandemic', 'patience', 'kinds', 'emerging', 'economies', 'moving', 'visible', 'ordinary', 'voters', 'payoff', 'road', 'harder', 'landing', 'stick', 'confident', 'emerging', 'markets', 'grow', 'remaining', 'aware', 'store', 'called', 'growth', 'boost', 'jobs', 'bolster', 'incomes', 'caution', 'growth', 'rates', 'emerging', 'asia', 'middle', 'east', 'illusion', 'growth', 'figures', 'india', 'southeast', 'asia', 'consequence', 'bouts', 'delta', 'omicron', 'waves', 'covid', 'pandemic', 'delayed', 'recovery', 'relative', 'rest', 'emerging', 'middle', 'east', 'sole', 'emerging', 'region', 'commodity', 'prices', 'harm', 'growth', 'rates', 'function', 'faster', 'growing', 'population', 'rise', 'living', 'standards', 'rest', 'emerging', 'productivity', 'barely', 'risen', 'decade', 'dead', 'evident', 'latin', 'america', 'emerging', 'regions', 'textbook', 'economics', 'teaches', 'globalized', 'economy', 'firms', 'exploit', 'differences', 'wages', 'production', 'costs', 'pad', 'profits', 'driving', 'faster', 'economic', 'growth', 'story', 'century', 'china', 'rest', 'emerging', 'latch', 'calls', 'shore', 'supply', 'chains', 'china', 'dominance', 'global', 'manufacturing', 'budge', 'firms', 'workers', 'china', 'grow', 'prosper', 'emerging', 'economies', 'raise', 'educational', 'attainment', 'integrate', 'informal', 'economy', 'cultivate', 'services', 'harder', 'landing', 'stick']",0.355316611493082,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,5," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+5
+ 
+The Week Ahead in the Global Economy 
+ 
+U.S.  
+The U.S. economic calendar is busy next week and could 
+determine whether the Federal Reserve raises the fed funds 
+rate by 50 or 75 basis points at its meeting this month. The 
+key will be the June consumer price index, which likely will 
+rise by more than 1% for June because of a jump in retail 
+gasoline prices. Excluding food and energy, the early 
+consensus is for the CPI to have risen 0.6%, matching the 
+increase in May. On a year-ago basis, the CPI will be up 
+around 8.9% in June compared with 8.6% in May. We also 
+get the University of Michigan consumer sentiment survey, 
+and the Fed is very sensitive to inflation expectations.  
+ 
+Also, we'll get new data on producer and import prices. 
+Once the CPI and PPI are released, we will have a good idea 
+what the PCE deflator did in June. Other key data include 
+retail sales, industrial production, the NFIB small business 
+optimism index, and business inventories.  
+ 
+Europe  
+The U.K.'s GDP likely inched lower by 0.1% m/m in May, 
+deepening the 0.3% decline in April. Surging inflation likely 
+weighed on appetite to spend, while supply shortages likely 
+continued to thwart output. Indeed, the country's PMI 
+reading nosedived to 53.1 in May from 58.2 in the previous 
+month.  
+ 
+Meanwhile, we expect that the euro zone's industrial output 
+picked up by 0.4% m/m this May, the same as in April. 
+Germany and Ireland's manufacturing sectors likely propped 
+up the aggregate as those out of France and Spain were 
+lackluster. Supply conditions evidently eased enough to 
+allow output in the transport equipment sectors to recover 
+during the month. Unfortunately, future conditions are not 
+yet secured. 
+ 
+We do not expect any surprises from the final readings of 
+next week's CPI releases. In Germany, we expect the 
+inflation rate to have slowed to 7.6% y/y in June from 7.9% 
+in May; in Spain we expect the rate jumped to 10.2% from 
+8.7%; in France it was likely up at 5.8% from 5.2%; and in 
+Italy, inflation likely rose to 8% from 6.8%. We suspect a 
+significant decrease in transport service prices in Germany, 
+thanks to policies introduced to ease the cost of living, was 
+one of the main reasons Germany's inflation rate decreased. 
+ 
+Finally, the euro zone's external trade balance likely reported 
+another significant deficit in May. We anticipate a deficit of 
+EUR33.3 billion for May, slightly worse than the prior month's 
+EUR32.4 billion deficit. Imports likely continued to grow at a 
+much quicker pace than exports. Oil and gas will continue to 
+supercharge imports while exports are being weighed down 
+by tight supply and weaker demand from abroad, namely 
+China amidst that country's COVID-19 lockdowns.  
+ 
+Asia-Pacific
+ 
+China's economic data barrage will be a highlight on the 
+economic calendar. We expect the annual decline in retail 
+trade to have moderated in June as aggressive movement 
+controls that were a notable dampener on April data eased. 
+Industrial production likely picked up modestly in the same 
+month. Mining, manufacturing and utilities all improved in 
+May, led by energy-related industries; this should repeat in 
+June. Manufacturing and nonmanufacturing PMI data 
+support our view that goods and services industries 
+continued mending last month. 
+China's GDP growth likely moderated to 3.8% y/y in the 
+second quarter from 4.8% in the March quarter, reflecting 
+lockdowns and other pandemic-related controls in several 
+large cities early in the period. 
+Central banks in New Zealand and South Korea are likely to 
+lift benchmark rates by 50 basis points at their July policy 
+meetings. The Reserve Bank of New Zealand is trying to 
+anchor long-term inflation expectations. Demand-pull 
+pressures are running beyond comfort levels and have 
+pushed wage growth to a multiyear high. A 50-basis point 
+increase would lift the official cash rate to 2.5% and take 
+cumulative hiking this tightening cycle to 225 basis points. 
+The Bank of Korea is contending with inflation that soared 
+well beyond comfort levels in June to 6% y/y, its highest in 
+almost 24 years. A 50-basis point hike would take BoK's 
+policy rate to 2.25%. 
+Households in New Zealand and South Korea are relatively 
+highly leveraged, making them sensitive to aggressive rises 
+in borrowing costs. Higher lending rates as well as elevated 
+prices for nondiscretionary items such as food will put more 
+pressure on consumption in those markets. 
+",moodi analyt capit market week market week global economi econom calendar busi week determin feder reserv rais fed fund rate basi meet month key june consum price rise june jump retail gasolin price exclud food energi consensus cpi risen match increas basi cpi june compar univers michigan consum sentiment survey fed sensit inflat expect produc import price cpi ppi releas idea pce deflat june key includ retail sale industri product nfib busi optim busi inventori europ gdp inch deepen declin april surg inflat weigh appetit spend suppli shortag continu thwart output countri pmi read nosediv previous month expect euro zone industri output pick april germani ireland manufactur sector prop aggreg franc spain lacklust suppli condit evid eas output transport equip sector recov month futur condit secur expect surpris final read week cpi releas germani expect inflat rate slow june spain expect rate jump franc itali inflat rose suspect decreas transport servic price germani polici introduc eas cost live main reason germani inflat rate decreas final euro zone extern trade balanc report deficit anticip deficit eur wors prior month eur deficit import continu grow quicker pace export oil gas continu supercharg import export weigh tight suppli weaker demand china countri covid lockdown asia pacif china econom barrag highlight econom calendar expect annual declin retail trade moder june aggress movement control notabl dampen april eas industri product pick modest month mine manufactur util improv led energi industri repeat june manufactur pmi support view servic industri continu mend month china gdp growth moder quarter march quarter reflect lockdown pandem control citi period central bank zealand south korea lift benchmark rate basi juli polici meet reserv zealand anchor term inflat expect demand pull pressur run comfort level push wage growth multiyear basi increas lift offici cash rate cumul hike tighten cycl basi korea contend inflat soar comfort level june basi hike bok polici rate household zealand south korea high leverag sensit aggress rise borrow cost lend rate elev price item food pressur consumpt market,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'week', 'global', 'economy', 'economic', 'calendar', 'busy', 'week', 'determine', 'federal', 'reserve', 'raises', 'fed', 'funds', 'rate', 'basis', 'meeting', 'month', 'key', 'june', 'consumer', 'price', 'rise', 'june', 'jump', 'retail', 'gasoline', 'prices', 'excluding', 'food', 'energy', 'consensus', 'cpi', 'risen', 'matching', 'increase', 'basis', 'cpi', 'june', 'compared', 'university', 'michigan', 'consumer', 'sentiment', 'survey', 'fed', 'sensitive', 'inflation', 'expectations', 'producer', 'import', 'prices', 'cpi', 'ppi', 'released', 'idea', 'pce', 'deflator', 'june', 'key', 'include', 'retail', 'sales', 'industrial', 'production', 'nfib', 'business', 'optimism', 'business', 'inventories', 'europe', 'gdp', 'inched', 'deepening', 'decline', 'april', 'surging', 'inflation', 'weighed', 'appetite', 'spend', 'supply', 'shortages', 'continued', 'thwart', 'output', 'country', 'pmi', 'reading', 'nosedived', 'previous', 'month', 'expect', 'euro', 'zone', 'industrial', 'output', 'picked', 'april', 'germany', 'ireland', 'manufacturing', 'sectors', 'propped', 'aggregate', 'france', 'spain', 'lackluster', 'supply', 'conditions', 'evidently', 'eased', 'output', 'transport', 'equipment', 'sectors', 'recover', 'month', 'future', 'conditions', 'secured', 'expect', 'surprises', 'final', 'readings', 'week', 'cpi', 'releases', 'germany', 'expect', 'inflation', 'rate', 'slowed', 'june', 'spain', 'expect', 'rate', 'jumped', 'france', 'italy', 'inflation', 'rose', 'suspect', 'decrease', 'transport', 'service', 'prices', 'germany', 'policies', 'introduced', 'ease', 'cost', 'living', 'main', 'reasons', 'germany', 'inflation', 'rate', 'decreased', 'finally', 'euro', 'zone', 'external', 'trade', 'balance', 'reported', 'deficit', 'anticipate', 'deficit', 'eur', 'worse', 'prior', 'month', 'eur', 'deficit', 'imports', 'continued', 'grow', 'quicker', 'pace', 'exports', 'oil', 'gas', 'continue', 'supercharge', 'imports', 'exports', 'weighed', 'tight', 'supply', 'weaker', 'demand', 'china', 'country', 'covid', 'lockdowns', 'asia', 'pacific', 'china', 'economic', 'barrage', 'highlight', 'economic', 'calendar', 'expect', 'annual', 'decline', 'retail', 'trade', 'moderated', 'june', 'aggressive', 'movement', 'controls', 'notable', 'dampener', 'april', 'eased', 'industrial', 'production', 'picked', 'modestly', 'month', 'mining', 'manufacturing', 'utilities', 'improved', 'led', 'energy', 'industries', 'repeat', 'june', 'manufacturing', 'pmi', 'support', 'view', 'services', 'industries', 'continued', 'mending', 'month', 'china', 'gdp', 'growth', 'moderated', 'quarter', 'march', 'quarter', 'reflecting', 'lockdowns', 'pandemic', 'controls', 'cities', 'period', 'central', 'banks', 'zealand', 'south', 'korea', 'lift', 'benchmark', 'rates', 'basis', 'july', 'policy', 'meetings', 'reserve', 'zealand', 'anchor', 'term', 'inflation', 'expectations', 'demand', 'pull', 'pressures', 'running', 'comfort', 'levels', 'pushed', 'wage', 'growth', 'multiyear', 'basis', 'increase', 'lift', 'official', 'cash', 'rate', 'cumulative', 'hiking', 'tightening', 'cycle', 'basis', 'korea', 'contending', 'inflation', 'soared', 'comfort', 'levels', 'june', 'basis', 'hike', 'bok', 'policy', 'rate', 'households', 'zealand', 'south', 'korea', 'highly', 'leveraged', 'sensitive', 'aggressive', 'rises', 'borrowing', 'costs', 'lending', 'rates', 'elevated', 'prices', 'items', 'food', 'pressure', 'consumption', 'markets']",0.5286821680003496,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,6," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+6
+ 
+Geopolitical Calendar
+ 
+  
+Date
+Country
+Event
+Economic 
+Importance
+Financial Market Risk
+Jun/Jul
+Papua New Guinea
+National general election
+Low
+Low
+Jul
+Japan
+House of Councillors election
+Medium
+Low
+12-14-Jul
+Pacific Islands Forum Pacific Islands Forum leaders' meeting
+Low
+Low
+21-Jul
+Mercosur
+Mercosur 2022 Summit
+Low
+Low
+4-Sep
+Chile
+Referendum on New Constitution
+Medium
+Low
+2-Oct
+Brazil
+Presidential and congressional elections
+High
+Medium
+Oct/Nov
+China
+National Party Congress
+High
+Medium
+7-18-Nov
+U.N.
+U.N. Climate Change Conference 2022 (COP 27)
+Medium
+Low
+15-16-Nov
+G-20
+G-20 Heads of State and Government Summit, hosted by Indonesia
+Medium
+Low
+18-19 Nov
+APEC
+Economic Leaders' Meeting, hosted by Thailand
+Low
+Low
+",moodi analyt capit market week market geopolit calendar countri event econom financi market risk jun jul papua guinea nation elect jul japan hous councillor elect medium jul pacif island forum pacif island forum leader meet jul mercosur mercosur summit sep chile referendum constitut medium oct brazil presidenti congression elect medium oct nov china nation parti congress medium nov climat chang confer cop medium nov head govern summit host indonesia medium nov apec econom leader meet host thailand,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'geopolitical', 'calendar', 'country', 'event', 'economic', 'financial', 'market', 'risk', 'jun', 'jul', 'papua', 'guinea', 'national', 'election', 'jul', 'japan', 'house', 'councillors', 'election', 'medium', 'jul', 'pacific', 'islands', 'forum', 'pacific', 'islands', 'forum', 'leaders', 'meeting', 'jul', 'mercosur', 'mercosur', 'summit', 'sep', 'chile', 'referendum', 'constitution', 'medium', 'oct', 'brazil', 'presidential', 'congressional', 'elections', 'medium', 'oct', 'nov', 'china', 'national', 'party', 'congress', 'medium', 'nov', 'climate', 'change', 'conference', 'cop', 'medium', 'nov', 'heads', 'government', 'summit', 'hosted', 'indonesia', 'medium', 'nov', 'apec', 'economic', 'leaders', 'meeting', 'hosted', 'thailand']",0.32445454545454544,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,7," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+7
+ 
+THE LONG VIEW: U.S. 
+Corporate Bond Issuance Weakens for Q2
+ 
+BY RYAN SWEET  
+CREDIT SPREADS
+ 
+Moody's long-term average corporate bond spread is 166 
+basis points, compared with the 160 bps this time last week. 
+The spread is slightly wider than the 155 bps average in June. 
+The long-term average industrial corporate bond spread 
+narrowed by 5 bps to 150. It averaged 141 bps in June.  
+The ICE BofA U.S. high-yield option adjusted bond spread 
+widened from 562 basis points to 580 bps, the widest since 
+mid-2020. The Bloomberg Barclays high-yield option 
+adjusted spread widened this past week from 549 to 566 
+bps. The high-yield option adjusted bond spreads 
+approximate what is suggested by the accompanying long-
+term Baa industrial company bond yield spread but are 
+wider than implied by a VIX of 25.9. The VIX fell over the 
+course of the past week. 
+ 
+DEFAULTS 
+Defaults rose in May as nine Moody's-rated corporate debt 
+issuers defaulted, up from April's revised count of five. The 
+May defaults lifted the global speculative-grade default rate 
+to 2.1% for the trailing 12 months ended in May from 1.9% a 
+month earlier. Six of the month's defaults came from 
+advanced markets and three were from emerging markets. 
+ 
+The year to date global corporate default tally was 39 
+through May, up from 26 in the same period last year. 
+Across sectors, Construction & Building, with nine defaults, 
+is the largest contributor to defaults so far this year. The 
+banking sector followed with eight. By region, North 
+America had 17 defaults (16 in the U.S. and one in Canada). 
+The rest were from Europe (11), Asia-Pacific (nine) and Latin 
+America (two). 
+ 
+Moody's Credit Transition Model predicts that the trailing 
+12-month global speculative-grade corporate default rate 
+will rise to 2.8% by the end of 2022 and then climb to 3.3% 
+by May 2023. If realized, these forecast rates would remain 
+below the long-term average of 4.1%. 
+ 
+U.S. CORPORATE BOND ISSUANCE 
+First-quarter 2020's worldwide offerings of corporate bonds 
+revealed annual advances of 14% for IG and 19% for high-
+yield, wherein US$-denominated offerings increased 45% 
+for IG and grew 12% for high yield. 
+Second-quarter 2020's worldwide offerings of corporate 
+bonds revealed annual surges of 69% for IG and 32% for 
+high-yield, wherein US$-denominated offerings increased 
+142% for IG and grew 45% for high yield. 
+Third-quarter 2020's worldwide offerings of corporate 
+bonds revealed an annual decline of 6% for IG and an 
+annual advance of 44% for high-yield, wherein US$-
+denominated offerings increased 12% for IG and soared 
+upward 56% for high yield. 
+Fourth-quarter 2020's worldwide offerings of corporate 
+bonds revealed an annual decline of 3% for IG and an 
+annual advance of 8% for high-yield, wherein US$-
+denominated offerings increased 16% for IG and 11% for 
+high yield. 
+First-quarter 2021's worldwide offerings of corporate bonds 
+revealed an annual decline of 4% for IG and an annual 
+advance of 57% for high-yield, wherein US$-denominated 
+offerings sank 9% for IG and advanced 64% for high yield. 
+Issuance weakened in the second quarter of 2021 as 
+worldwide offerings of corporate bonds revealed a year-
+over-year decline of 35% for investment grade. High-yield 
+issuance faired noticeably better in the second quarter. 
+Issuance softened in the third quarter of 2021 as worldwide 
+offerings of corporate bonds revealed a year-over-year 
+decline of 5% for investment grade. U.S. denominated 
+corporate bond issuance also fell, dropping 16% on a year-
+ago basis. High-yield issuance faired noticeably better in the 
+third quarter.  
+Fourth-quarter 2021's worldwide offerings of corporate 
+bonds fell 9.4% for investment grade. High-yield US$ 
+denominated high-yield corporate bond issuance fell from 
+$133 billion in the third quarter to $92 billion in the final 
+three months of 2021. December was a disappointment for 
+high-yield corporate bond issuance, since it was 33% below 
+its prior five-year average for the month. 
+In the first quarter of 2022, worldwide offerings of 
+investment grade corporate bonds totaled $901 billion, up 
+12% on a year-ago basis.  
+In the second quarter, corporate bond issuance weakened. 
+Worldwide offerings of investment grade corporate bonds 
+totaled $548 billion, down 21% on a year-ago basis. US$ 
+denominated high-yield corporate bond issuance was $38 
+billion in the second quarter, down from $63 billion in the 
+first three months of the year. High-yield issuance is down 
+79% on a year-ago basis.  
+",moodi analyt capit market week market view corpor bond issuanc weaken ryan sweet credit spread moodi term averag corpor bond spread basi compar bps time week spread wider bps averag june term averag industri corpor bond spread narrow bps averag bps june ice bofa yield option adjust bond spread widen basi bps widest mid bloomberg barclay yield option adjust spread widen week bps yield option adjust bond spread approxim suggest accompani term baa industri compani bond yield spread wider impli vix vix fell week default default rose moodi rate corpor debt issuer default april revis count default lift global specul grade default rate trail month month earlier month default advanc market emerg market global corpor default talli period sector construct build default largest contributor default bank sector region north america default canada rest europ asia pacif latin america moodi credit transit model predict trail month global specul grade corpor default rate rise climb realiz forecast rate remain term averag corpor bond issuanc quarter worldwid offer corpor bond reveal annual advanc ig yield denomin offer increas ig grew yield quarter worldwid offer corpor bond reveal annual surg ig yield denomin offer increas ig grew yield quarter worldwid offer corpor bond reveal annual declin ig annual advanc yield denomin offer increas ig soar upward yield fourth quarter worldwid offer corpor bond reveal annual declin ig annual advanc yield denomin offer increas ig yield quarter worldwid offer corpor bond reveal annual declin ig annual advanc yield denomin offer sank ig advanc yield issuanc weaken quarter worldwid offer corpor bond reveal declin invest grade yield issuanc fair notic quarter issuanc soften quarter worldwid offer corpor bond reveal declin invest grade denomin corpor bond issuanc fell drop basi yield issuanc fair notic quarter fourth quarter worldwid offer corpor bond fell invest grade yield denomin yield corpor bond issuanc fell quarter final month decemb disappoint yield corpor bond issuanc prior averag month quarter worldwid offer invest grade corpor bond total basi quarter corpor bond issuanc weaken worldwid offer invest grade corpor bond total basi denomin yield corpor bond issuanc quarter month yield issuanc basi,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'view', 'corporate', 'bond', 'issuance', 'weakens', 'ryan', 'sweet', 'credit', 'spreads', 'moody', 'term', 'average', 'corporate', 'bond', 'spread', 'basis', 'compared', 'bps', 'time', 'week', 'spread', 'wider', 'bps', 'average', 'june', 'term', 'average', 'industrial', 'corporate', 'bond', 'spread', 'narrowed', 'bps', 'averaged', 'bps', 'june', 'ice', 'bofa', 'yield', 'option', 'adjusted', 'bond', 'spread', 'widened', 'basis', 'bps', 'widest', 'mid', 'bloomberg', 'barclays', 'yield', 'option', 'adjusted', 'spread', 'widened', 'week', 'bps', 'yield', 'option', 'adjusted', 'bond', 'spreads', 'approximate', 'suggested', 'accompanying', 'term', 'baa', 'industrial', 'company', 'bond', 'yield', 'spread', 'wider', 'implied', 'vix', 'vix', 'fell', 'week', 'defaults', 'defaults', 'rose', 'moody', 'rated', 'corporate', 'debt', 'issuers', 'defaulted', 'april', 'revised', 'count', 'defaults', 'lifted', 'global', 'speculative', 'grade', 'default', 'rate', 'trailing', 'months', 'month', 'earlier', 'month', 'defaults', 'advanced', 'markets', 'emerging', 'markets', 'global', 'corporate', 'default', 'tally', 'period', 'sectors', 'construction', 'building', 'defaults', 'largest', 'contributor', 'defaults', 'banking', 'sector', 'region', 'north', 'america', 'defaults', 'canada', 'rest', 'europe', 'asia', 'pacific', 'latin', 'america', 'moody', 'credit', 'transition', 'model', 'predicts', 'trailing', 'month', 'global', 'speculative', 'grade', 'corporate', 'default', 'rate', 'rise', 'climb', 'realized', 'forecast', 'rates', 'remain', 'term', 'average', 'corporate', 'bond', 'issuance', 'quarter', 'worldwide', 'offerings', 'corporate', 'bonds', 'revealed', 'annual', 'advances', 'ig', 'yield', 'denominated', 'offerings', 'increased', 'ig', 'grew', 'yield', 'quarter', 'worldwide', 'offerings', 'corporate', 'bonds', 'revealed', 'annual', 'surges', 'ig', 'yield', 'denominated', 'offerings', 'increased', 'ig', 'grew', 'yield', 'quarter', 'worldwide', 'offerings', 'corporate', 'bonds', 'revealed', 'annual', 'decline', 'ig', 'annual', 'advance', 'yield', 'denominated', 'offerings', 'increased', 'ig', 'soared', 'upward', 'yield', 'fourth', 'quarter', 'worldwide', 'offerings', 'corporate', 'bonds', 'revealed', 'annual', 'decline', 'ig', 'annual', 'advance', 'yield', 'denominated', 'offerings', 'increased', 'ig', 'yield', 'quarter', 'worldwide', 'offerings', 'corporate', 'bonds', 'revealed', 'annual', 'decline', 'ig', 'annual', 'advance', 'yield', 'denominated', 'offerings', 'sank', 'ig', 'advanced', 'yield', 'issuance', 'weakened', 'quarter', 'worldwide', 'offerings', 'corporate', 'bonds', 'revealed', 'decline', 'investment', 'grade', 'yield', 'issuance', 'faired', 'noticeably', 'quarter', 'issuance', 'softened', 'quarter', 'worldwide', 'offerings', 'corporate', 'bonds', 'revealed', 'decline', 'investment', 'grade', 'denominated', 'corporate', 'bond', 'issuance', 'fell', 'dropping', 'basis', 'yield', 'issuance', 'faired', 'noticeably', 'quarter', 'fourth', 'quarter', 'worldwide', 'offerings', 'corporate', 'bonds', 'fell', 'investment', 'grade', 'yield', 'denominated', 'yield', 'corporate', 'bond', 'issuance', 'fell', 'quarter', 'final', 'months', 'december', 'disappointment', 'yield', 'corporate', 'bond', 'issuance', 'prior', 'average', 'month', 'quarter', 'worldwide', 'offerings', 'investment', 'grade', 'corporate', 'bonds', 'totaled', 'basis', 'quarter', 'corporate', 'bond', 'issuance', 'weakened', 'worldwide', 'offerings', 'investment', 'grade', 'corporate', 'bonds', 'totaled', 'basis', 'denominated', 'yield', 'corporate', 'bond', 'issuance', 'quarter', 'months', 'yield', 'issuance', 'basis']",0.232328431372549,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,8," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+8
+ 
+In the week ended July 1, US$-denominated high-yield 
+issuance totaled $0.788 billion. This brings the year-to-date 
+total to $98.2 billion. Investment-grade bond issuance 
+totaled $11.5 billion in the same week. This brings its year-
+to-date total to $805.8 billion. Issuance is still tracking that 
+seen in 2018 and 2019.  
+U.S. ECONOMIC OUTLOOK 
+There were some tweaks to the U.S. baseline forecast in 
+June, but the changes were smaller than in prior months. 
+The new baseline forecast factors in the recent tightening in 
+financial market conditions, increases in energy prices, and 
+new data on first-quarter GDP. 
+Fiscal assumptions 
+The federal budget deficit will fall from 12.4% of GDP in 
+fiscal 2021 to 4.4% this year and 3.8% the next year. This 
+improvement largely reflects the end of federal pandemic 
+relief and a stronger economy. In the June baseline, the 
+effective personal tax rate was adjusted higher in the near to 
+medium term. The U.S. Treasury Department enjoyed a 
+better-than-expected windfall of individual income taxes in 
+April thanks to soaring asset prices and widening 
+participation in equity markets in 2021. Nevertheless, this is 
+coming at the expense of personal savings. A higher tax bill 
+has led to a faster decumulation of excess personal savings 
+than previously thought. 
+In its second estimate of first-quarter GDP, the Bureau of 
+Economic Analysis revised personal current taxes to reflect 
+the stronger-than-anticipated filing season and lower 
+refunds, which shaved a full percentage point off the savings 
+rate in the first three months of the year. As a result, excess 
+savings are decumulating at an accelerating rate, though 
+they remain prodigiously above $2.5 trillion. Because of 
+incoming data and fiscal changes to the forecast, the savings 
+rate will average 1.1 and 0.7 percentage point lower in 2022 
+and 2023 compared with the May baseline. 
+COVID-19 assumptions 
+Changes to our epidemiological assumptions were 
+noticeable, but the economic implications are modest as 
+each wave of COVID-19 has a diminishing effect on the 
+economy. Total confirmed COVID-19 cases in the U.S. will 
+be 97.07 million, compared with 88.5 million. The seven-
+day moving average of daily confirmed cases has been 
+steadily rising since the May baseline and is now 122,000, 
+more than double that seen when we updated the May 
+baseline forecast. 
+We're sticking with the concept of ""effective immunity,"" 
+which is a rolling number of infections plus vaccinations to 
+account for the fact that immunity is not permanent. The 
+forecast still assumes that COVID-19 will be endemic and 
+seasonal. 
+Energy price assumptions 
+The European Union's sixth set of economic sanctions 
+against Russia will create the biggest disruption to the global 
+oil market since the Yom Kippur War. Though a strong vote 
+of confidence in Ukraine, the move will stoke inflation, raise 
+consumer energy bills, and complicate global central banks' 
+task of raising interest rates without tipping their respective 
+economies into recession. 
+The baseline forecast now has West Texas Intermediate 
+crude oil prices peaking higher than in the prior baseline 
+forecast. However, the timing hasn't changed, and the 
+forecast assumes oil prices peak this quarter, averaging $107 
+per barrel. The contours of the forecast haven't changed, 
+and the June baseline still has oil prices steadily declining in 
+the second half of this year and throughout next year, 
+approaching $60 per barrel in late 2024. 
+Nudging GDP lower 
+Real GDP is expected to increase 2.7% this year, compared 
+with 2.8% in the prior baseline. We have cut our forecast for 
+U.S. GDP growth this year by a total of 80 basis points over 
+the past few months. We nudged the forecast for GDP 
+growth in 2023 down from 2.7% to 2.6%. The economy is 
+still expected to grow above its potential, which is likely 
+between 2% and 2.5%. 
+Revisions to first-quarter GDP, which is now shown to have 
+declined 1.5% at an annualized rate (previously -1.4%), were 
+a small factor in the revision to GDP growth this year. The 
+weakness in the first quarter was concentrated in net 
+exports and inventories. 
+Net exports were an enormous weight on first-quarter GDP. 
+Trade has been a consistent weight on GDP growth as 
+demand for consumer goods has been robust. The U.S. 
+consumer is buying a ton of goods and the majority of these 
+are imported. Neither inventories nor trade tell us where the 
+economy is headed. 
+Declines in GDP during economic expansions have 
+happened before. The three contractions in GDP occurring 
+between the global financial crisis and the COVID-19 
+pandemic occurred because of some combination of a 
+widened trade deficit and the quarterly oscillations of the 
+inventory build. Consumption, the largest component of 
+GDP, did not contract in those instances, nor did it in the 
+first quarter of 2022. Consumption, particularly on services, 
+accelerated in the quarter. 
+Our baseline forecast for real GDP growth this year is close 
+to the Bloomberg consensus of 2.6%. The forecast for next 
+year is 0.6 percentage point stronger than the Bloomberg 
+consensus of 2%. 
+",moodi analyt capit market week market week juli denomin yield issuanc total bring total invest grade bond issuanc total week bring total issuanc track econom tweak baselin forecast june prior month baselin forecast factor tighten financi market condit increas energi price quarter gdp fiscal assumpt feder budget deficit fall gdp fiscal improv reflect feder pandem relief stronger economi june baselin effect person tax rate adjust medium term treasuri depart enjoy expect windfal individu incom tax april soar asset price widen particip equiti market come expens person save tax led faster decumul excess person save estim quarter gdp bureau econom analysi revis person current tax reflect stronger anticip file season refund shave percentag save rate month result excess save decumul acceler rate remain prodigi incom fiscal forecast save rate averag percentag compar baselin covid assumpt assumpt notic econom implic modest wave covid diminish economi total confirm covid compar day move averag daili confirm steadili rise baselin doubl updat baselin forecast stick concept effect immun roll infect vaccin account immun perman forecast assum covid endem season energi price assumpt european union sixth set econom sanction russia creat biggest disrupt global oil market yom kippur war strong vote confid ukrain stoke inflat rais consum energi bill complic global central bank task rais rate tip respect economi recess baselin forecast west texa intermedi crude oil price peak prior baselin forecast time chang forecast assum oil price peak quarter averag barrel contour forecast chang june baselin oil price steadili declin approach barrel late nudg gdp real gdp expect increas compar prior baselin cut forecast gdp growth total basi month nudg forecast gdp growth economi expect grow potenti revis quarter gdp declin annual rate factor revis gdp growth weak quarter concentr export inventori export enorm weight quarter gdp trade consist weight gdp growth demand consum robust consum buy ton major import inventori trade economi head declin gdp econom expans happen contract gdp occur global financi crisi covid pandem occur combin widen trade deficit quarter oscil inventori build consumpt largest compon gdp contract instanc quarter consumpt servic acceler quarter baselin forecast real gdp growth close bloomberg consensus forecast percentag stronger bloomberg consensus,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'week', 'july', 'denominated', 'yield', 'issuance', 'totaled', 'brings', 'total', 'investment', 'grade', 'bond', 'issuance', 'totaled', 'week', 'brings', 'total', 'issuance', 'tracking', 'economic', 'tweaks', 'baseline', 'forecast', 'june', 'prior', 'months', 'baseline', 'forecast', 'factors', 'tightening', 'financial', 'market', 'conditions', 'increases', 'energy', 'prices', 'quarter', 'gdp', 'fiscal', 'assumptions', 'federal', 'budget', 'deficit', 'fall', 'gdp', 'fiscal', 'improvement', 'reflects', 'federal', 'pandemic', 'relief', 'stronger', 'economy', 'june', 'baseline', 'effective', 'personal', 'tax', 'rate', 'adjusted', 'medium', 'term', 'treasury', 'department', 'enjoyed', 'expected', 'windfall', 'individual', 'income', 'taxes', 'april', 'soaring', 'asset', 'prices', 'widening', 'participation', 'equity', 'markets', 'coming', 'expense', 'personal', 'savings', 'tax', 'led', 'faster', 'decumulation', 'excess', 'personal', 'savings', 'estimate', 'quarter', 'gdp', 'bureau', 'economic', 'analysis', 'revised', 'personal', 'current', 'taxes', 'reflect', 'stronger', 'anticipated', 'filing', 'season', 'refunds', 'shaved', 'percentage', 'savings', 'rate', 'months', 'result', 'excess', 'savings', 'decumulating', 'accelerating', 'rate', 'remain', 'prodigiously', 'incoming', 'fiscal', 'forecast', 'savings', 'rate', 'average', 'percentage', 'compared', 'baseline', 'covid', 'assumptions', 'assumptions', 'noticeable', 'economic', 'implications', 'modest', 'wave', 'covid', 'diminishing', 'economy', 'total', 'confirmed', 'covid', 'compared', 'day', 'moving', 'average', 'daily', 'confirmed', 'steadily', 'rising', 'baseline', 'double', 'updated', 'baseline', 'forecast', 'sticking', 'concept', 'effective', 'immunity', 'rolling', 'infections', 'vaccinations', 'account', 'immunity', 'permanent', 'forecast', 'assumes', 'covid', 'endemic', 'seasonal', 'energy', 'price', 'assumptions', 'european', 'union', 'sixth', 'set', 'economic', 'sanctions', 'russia', 'create', 'biggest', 'disruption', 'global', 'oil', 'market', 'yom', 'kippur', 'war', 'strong', 'vote', 'confidence', 'ukraine', 'stoke', 'inflation', 'raise', 'consumer', 'energy', 'bills', 'complicate', 'global', 'central', 'banks', 'task', 'raising', 'rates', 'tipping', 'respective', 'economies', 'recession', 'baseline', 'forecast', 'west', 'texas', 'intermediate', 'crude', 'oil', 'prices', 'peaking', 'prior', 'baseline', 'forecast', 'timing', 'changed', 'forecast', 'assumes', 'oil', 'prices', 'peak', 'quarter', 'averaging', 'barrel', 'contours', 'forecast', 'changed', 'june', 'baseline', 'oil', 'prices', 'steadily', 'declining', 'approaching', 'barrel', 'late', 'nudging', 'gdp', 'real', 'gdp', 'expected', 'increase', 'compared', 'prior', 'baseline', 'cut', 'forecast', 'gdp', 'growth', 'total', 'basis', 'months', 'nudged', 'forecast', 'gdp', 'growth', 'economy', 'expected', 'grow', 'potential', 'revisions', 'quarter', 'gdp', 'declined', 'annualized', 'rate', 'factor', 'revision', 'gdp', 'growth', 'weakness', 'quarter', 'concentrated', 'exports', 'inventories', 'exports', 'enormous', 'weight', 'quarter', 'gdp', 'trade', 'consistent', 'weight', 'gdp', 'growth', 'demand', 'consumer', 'robust', 'consumer', 'buying', 'ton', 'majority', 'imported', 'inventories', 'trade', 'economy', 'headed', 'declines', 'gdp', 'economic', 'expansions', 'happened', 'contractions', 'gdp', 'occurring', 'global', 'financial', 'crisis', 'covid', 'pandemic', 'occurred', 'combination', 'widened', 'trade', 'deficit', 'quarterly', 'oscillations', 'inventory', 'build', 'consumption', 'largest', 'component', 'gdp', 'contract', 'instances', 'quarter', 'consumption', 'services', 'accelerated', 'quarter', 'baseline', 'forecast', 'real', 'gdp', 'growth', 'close', 'bloomberg', 'consensus', 'forecast', 'percentage', 'stronger', 'bloomberg', 'consensus']",0.34540021558093853,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,9," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+9
+ 
+Business investment and housing 
+Incoming data over the past few weeks point toward weaker 
+U.S. real business investment in the second quarter. Still, 
+growth will be solid and fundamentals, including supportive 
+financial market conditions and better after-tax corporate 
+profits as a share of nominal GDP, should continue to 
+support investment through the rest of this year and into 
+next. Another favorable development for business 
+investment is that the rate of new-business formations has 
+risen recently, tempering concerns that the pandemic could 
+have scarring impacts on entrepreneurship. 
+We have real business equipment spending rising 6.5% this 
+year, compared with 7% in the May baseline. The forecast is 
+for real business equipment spending to increase 5.2% in 
+2023, compared with 3.9% next year. 
+There was a downward revision to housing starts as supply 
+constraints and higher mortgage rates have started to bite 
+into the housing market. Housing starts are expected to be 
+1.77 million compared with 1.83 million in the prior baseline. 
+Housing starts are expected to total 1.86 million next year, 
+down from 1.89 in the prior baseline. 
+There are likely only so many homes that can be built each 
+year because of labor-supply constraints and a lack of 
+buildable lots. Some of the labor-supply issues will ease as 
+the pandemic winds down, but the reduction in immigration 
+is particularly problematic for homebuilders' ability to find 
+workers. We cut the forecasts for new- and existing-home 
+sales this year. They are expected to total 6.59 million, 
+lighter than the 6.86 million in the prior forecast. We also 
+cut the forecast for total home sales next year. New-home 
+sales account for about 10% of total home sales. 
+There were minor tweaks to the forecast for the FHFA All-
+Transactions House Price Index this year and next. The June 
+baseline has it rising 11.3% this year, compared with 12.2% 
+in the prior baseline. The forecast for 2023 and 2024 
+continues to expect little house price appreciation. 
+Labor market 
+The U.S. labor market remains strong even as job growth is 
+moderating. Trend job growth is between 400,000 and 
+450,000 per month, but this isn't sustainable and needs to 
+fall to around 150,000 per month later this year or the 
+Federal Reserve's attempt to engineer a soft landing will 
+become increasingly difficult. 
+Nonfarm employment rose by 390,000, on net, in May, 
+better than either we or the consensus anticipated. The gain 
+leaves nonfarm employment 822,000 below its pre-
+pandemic peak. This should be recouped over the next few 
+months. However, excluding leisure and hospitality, 
+employment is already above its pre-pandemic peak. Of 
+course, this doesn't account for the jobs that would have 
+been created if the pandemic didn't occur, which is around 5 
+million. 
+We have job growth averaging 373,000 per month this year, 
+nearly identical to the gain in the May baseline forecast. Job 
+growth is expected to moderate next year and in 2024. The 
+unemployment rate is expected to average around 3.3% in 
+the fourth quarter of this year before gradually rising over 
+the next couple of years as the effect of tighter monetary 
+policy starts to be felt. 
+We assume a full-employment economy is one with a 3.5% 
+unemployment rate, around a 62.5% labor force 
+participation rate, and a prime-age employment-to-
+population ratio a little north of 80%. All of these 
+conditions will be met this summer. 
+Monetary policy 
+The minutes from the May meeting of the Federal Open 
+Market Committee signal that the central bank wants to 
+aggressively hike rates at the next couple of meetings to 
+allow officials the potential to pause and assess the effects 
+of policy firming on the economy, inflation and financial 
+markets. This would improve the odds that the Fed 
+engineers a soft landing. Previously, it appeared the Fed was 
+going to hike until something broke, either inflation or the 
+economy. The minutes were lighter on the inflation 
+discussion than in March. On the balance sheet, a number of 
+officials supported eventually selling mortgage-backed 
+securities. The immediate market reaction to the minutes 
+was fairly tame, potentially because there were no big 
+surprises, and we didn't make any changes to our near-term 
+forecast for the fed funds rate. 
+The Fed has begun its quantitative tightening campaign. If 
+the Fed sticks with its current plan, its balance sheet will 
+decline by about $520 billion this year. This may sound like 
+a lot, but the balance sheet will still be massive, around 37% 
+of nominal GDP. It was less than 20% of nominal GDP 
+before the pandemic. Also, there wasn't a mention of MBS 
+sales in  the FOMC's May minutes. 
+The 10-year Treasury yield has bounced around recently but 
+we didn't make any changes to the baseline forecast. The 
+10-year Treasury yield will average 3.14% in the final three 
+months. We still have the 10-year Treasury yield averaging 
+3.25% in the fourth quarter of next year, identical to the 
+May baseline. The June baseline forecast incorporates the 
+recent swing in equity prices, which is the reason for the 
+revision to the forecast. Equity prices are expected to 
+bottom in the first quarter of next year and will resume 
+rising in the second quarter. 
+",moodi analyt capit market week market busi invest hous incom week weaker real busi invest quarter growth solid fundament includ support financi market condit tax corpor profit share nomin gdp continu support invest rest favor develop busi invest rate busi format risen temper concern pandem scar impact real busi equip spend rise compar baselin forecast real busi equip spend increas compar downward revis hous start suppli constraint mortgag rate start bite hous market hous start expect compar prior baselin hous start expect total prior baselin home built labor suppli constraint lack buildabl lot labor suppli issu eas pandem wind reduct immigr problemat homebuild abil worker cut forecast exist sale expect total lighter prior forecast cut forecast total sale sale account total sale minor tweak forecast fhfa transact hous price june baselin rise compar prior baselin forecast continu expect hous price appreci labor market labor market remain strong job growth moder trend job growth month sustain fall month feder reserv attempt engin soft land increas difficult nonfarm employ rose consensus anticip gain leaf nonfarm employ pre pandem peak recoup month exclud leisur hospit employ pre pandem peak account job creat pandem occur job growth averag month ident gain baselin forecast job growth expect moder unemploy rate expect averag fourth quarter gradual rise coupl tighter monetari polici start assum employ economi unemploy rate labor forc particip rate prime age employ popul ratio north condit met summer monetari polici minut meet feder market committe signal central aggress hike rate coupl meet offici potenti paus ass effect polici firm economi inflat financi market improv odd fed engin soft land appear fed hike broke inflat economi minut lighter inflat discuss march balanc sheet offici support eventu sell mortgag secur market reaction minut tame surpris term forecast fed fund rate fed begun quantit tighten campaign fed stick current plan balanc sheet declin sound lot balanc sheet massiv nomin gdp nomin gdp pandem mention mb sale fomc minut treasuri yield bounc baselin forecast treasuri yield averag final month treasuri yield averag fourth quarter ident baselin june baselin forecast incorpor swing equiti price reason revis forecast equiti price expect quarter resum rise quarter,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'business', 'investment', 'housing', 'incoming', 'weeks', 'weaker', 'real', 'business', 'investment', 'quarter', 'growth', 'solid', 'fundamentals', 'including', 'supportive', 'financial', 'market', 'conditions', 'tax', 'corporate', 'profits', 'share', 'nominal', 'gdp', 'continue', 'support', 'investment', 'rest', 'favorable', 'development', 'business', 'investment', 'rate', 'business', 'formations', 'risen', 'tempering', 'concerns', 'pandemic', 'scarring', 'impacts', 'real', 'business', 'equipment', 'spending', 'rising', 'compared', 'baseline', 'forecast', 'real', 'business', 'equipment', 'spending', 'increase', 'compared', 'downward', 'revision', 'housing', 'starts', 'supply', 'constraints', 'mortgage', 'rates', 'started', 'bite', 'housing', 'market', 'housing', 'starts', 'expected', 'compared', 'prior', 'baseline', 'housing', 'starts', 'expected', 'total', 'prior', 'baseline', 'homes', 'built', 'labor', 'supply', 'constraints', 'lack', 'buildable', 'lots', 'labor', 'supply', 'issues', 'ease', 'pandemic', 'winds', 'reduction', 'immigration', 'problematic', 'homebuilders', 'ability', 'workers', 'cut', 'forecasts', 'existing', 'sales', 'expected', 'total', 'lighter', 'prior', 'forecast', 'cut', 'forecast', 'total', 'sales', 'sales', 'account', 'total', 'sales', 'minor', 'tweaks', 'forecast', 'fhfa', 'transactions', 'house', 'price', 'june', 'baseline', 'rising', 'compared', 'prior', 'baseline', 'forecast', 'continues', 'expect', 'house', 'price', 'appreciation', 'labor', 'market', 'labor', 'market', 'remains', 'strong', 'job', 'growth', 'moderating', 'trend', 'job', 'growth', 'month', 'sustainable', 'fall', 'month', 'federal', 'reserve', 'attempt', 'engineer', 'soft', 'landing', 'increasingly', 'difficult', 'nonfarm', 'employment', 'rose', 'consensus', 'anticipated', 'gain', 'leaves', 'nonfarm', 'employment', 'pre', 'pandemic', 'peak', 'recouped', 'months', 'excluding', 'leisure', 'hospitality', 'employment', 'pre', 'pandemic', 'peak', 'account', 'jobs', 'created', 'pandemic', 'occur', 'job', 'growth', 'averaging', 'month', 'identical', 'gain', 'baseline', 'forecast', 'job', 'growth', 'expected', 'moderate', 'unemployment', 'rate', 'expected', 'average', 'fourth', 'quarter', 'gradually', 'rising', 'couple', 'tighter', 'monetary', 'policy', 'starts', 'assume', 'employment', 'economy', 'unemployment', 'rate', 'labor', 'force', 'participation', 'rate', 'prime', 'age', 'employment', 'population', 'ratio', 'north', 'conditions', 'met', 'summer', 'monetary', 'policy', 'minutes', 'meeting', 'federal', 'market', 'committee', 'signal', 'central', 'aggressively', 'hike', 'rates', 'couple', 'meetings', 'officials', 'potential', 'pause', 'assess', 'effects', 'policy', 'firming', 'economy', 'inflation', 'financial', 'markets', 'improve', 'odds', 'fed', 'engineers', 'soft', 'landing', 'appeared', 'fed', 'hike', 'broke', 'inflation', 'economy', 'minutes', 'lighter', 'inflation', 'discussion', 'march', 'balance', 'sheet', 'officials', 'supported', 'eventually', 'selling', 'mortgage', 'securities', 'market', 'reaction', 'minutes', 'tame', 'surprises', 'term', 'forecast', 'fed', 'funds', 'rate', 'fed', 'begun', 'quantitative', 'tightening', 'campaign', 'fed', 'sticks', 'current', 'plan', 'balance', 'sheet', 'decline', 'sound', 'lot', 'balance', 'sheet', 'massive', 'nominal', 'gdp', 'nominal', 'gdp', 'pandemic', 'mention', 'mbs', 'sales', 'fomc', 'minutes', 'treasury', 'yield', 'bounced', 'baseline', 'forecast', 'treasury', 'yield', 'average', 'final', 'months', 'treasury', 'yield', 'averaging', 'fourth', 'quarter', 'identical', 'baseline', 'june', 'baseline', 'forecast', 'incorporates', 'swing', 'equity', 'prices', 'reason', 'revision', 'forecast', 'equity', 'prices', 'expected', 'quarter', 'resume', 'rising', 'quarter']",0.3302722345405271,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,10," 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+10
+ 
+THE LONG VIEW: EUROPE 
+Boris Johnson as Caretaker PM 
+BY ROSS CIOFFI 
+U.K. Prime Minister Boris Johnson resigned on Thursday but 
+vowed to stay on as a caretaker until a new leader is 
+selected. There will be more details about the timetable for 
+finding a new prime minister next week. Although Johnson's 
+resignation creates a period of additional uncertainty for 
+the 
+U.K
+., we are not making changes to our forecast in 
+response to Thursday's news. Whoever takes over will need 
+to refocus policy on addressing the key risks to the 
+economy, such as the cost-of-living squeeze, and the 
+country's longer-term challenges. 
+German industry grows 
+German
+ industrial production expanded 0.2% month on 
+month in May, following April's 1.3% growth--an upward 
+revision from the initial estimate of 0.7%. However, output 
+remains 2.7% below February's level. Excluding energy 
+production, manufacturing would have expanded by 0.6%. 
+This was supported by a rebound in transport equipment 
+production, up 5.5%. Shortages of intermediate products, 
+cost pressures, slowing global demand and heightened 
+uncertainty weigh on prospects for the manufacturing 
+sector in the second half of the year. In June, the 
+manufacturing PMI reading dropped by 2.8 points to 52 as 
+output and new orders contracted. 
+Ireland's
+ industrial production rebounded strongly in May, 
+increasing by 13.9% month over month, after a 9.6% slump 
+in April. Modern industries drove the rebound, surging by 
+32.6% and reversing the large 20.4% decline in April. 
+Traditional industries boasted a 6.1% increase following two 
+months of decline. The same supply and inflation issues are 
+creating considerable risks for Irish manufacturing. Indeed, 
+this June, the manufacturing PMI dropped to by 3.3 points 
+to 53.1, its lowest reading in 16 months. 
+The May releases for Ireland and Germany were each 
+upbeat, despite the overall uncertainty growing in the 
+economy. They will also be the reason industrial output 
+likely grew this May at the aggregate level of the euro zone. 
+In next week's release, we predict a 0.4% month-on-month 
+increase in euro zone industrial production in May. 
+Dutch inflation softens in June 
+Year-on-year inflation in the 
+Netherlands
+ decelerated to 
+8.6% in June. After peaking at 9.7% in March, a moderation 
+in energy's contribution has pushed down the headline rate. 
+Inflation pressures will ease in the coming months as base 
+effects revert and start pushing down the year-ago 
+comparison. Moreover, next month, a 12-point VAT cut on 
+energy will drive the headline rate even lower. However, 
+natural gas prices have been soaring recently and if they stay 
+up, we will see the effect on Dutch inflation figures. Even in 
+the case that inflation decelerates, we would still expect 
+second-round effects to keep the consumer price index 
+growing at a rate that is above target. We expect these 
+higher prices to weigh on consumer spending, with prices 
+increasing with greater intensity later this year. 
+Swiss labour market still going strong 
+The situation in 
+Switzerland's
+ labour market was stable. 
+June's unemployment rate remained where it has been since 
+February at 2.2%. Construction, retail, and food and 
+accommodation services sectors saw significant declines in 
+unemployment. Post-lockdown spending this summer is 
+supporting economic activity and demand for employment. 
+As there are headwinds in the global economy that will 
+soften growth later this year, we expect that the 
+unemployment rate has likely bottomed out. 
+ 
+",moodi analyt capit market week market view europ bori johnson caretak ross cioffi prime minist bori johnson resign thursday vow stay caretak leader select detail timet find prime minist week johnson resign creat period addit uncertainti forecast respons thursday news take refocus polici address key risk economi cost live squeez countri term challeng german industri grow german industri product expand month month april growth upward revis initi estim output remain februari level exclud energi product manufactur expand support rebound transport equip product shortag intermedi product cost pressur slow global demand heighten uncertainti weigh prospect manufactur sector june manufactur pmi read drop output contract ireland industri product rebound increas month month slump april modern industri drove rebound surg revers declin april tradit industri boast increas month declin suppli inflat issu creat consider risk irish manufactur june manufactur pmi drop lowest read month releas ireland germani upbeat uncertainti grow economi reason industri output grew aggreg level euro zone week releas predict month month increas euro zone industri product dutch inflat soften june inflat netherland deceler june peak march moder energi contribut push headlin rate inflat pressur eas come month base effect revert start push comparison month vat cut energi drive headlin rate natur gas price soar stay dutch inflat figur inflat deceler expect effect consum price grow rate target expect price weigh consum spend price increas intens swiss labour market strong situat switzerland labour market stabl june unemploy rate remain februari construct retail food accommod servic sector declin unemploy post lockdown spend summer support econom activ demand employ headwind global economi soften growth expect unemploy rate bottom,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'view', 'europe', 'boris', 'johnson', 'caretaker', 'ross', 'cioffi', 'prime', 'minister', 'boris', 'johnson', 'resigned', 'thursday', 'vowed', 'stay', 'caretaker', 'leader', 'selected', 'details', 'timetable', 'finding', 'prime', 'minister', 'week', 'johnson', 'resignation', 'creates', 'period', 'additional', 'uncertainty', 'forecast', 'response', 'thursday', 'news', 'takes', 'refocus', 'policy', 'addressing', 'key', 'risks', 'economy', 'cost', 'living', 'squeeze', 'country', 'term', 'challenges', 'german', 'industry', 'grows', 'german', 'industrial', 'production', 'expanded', 'month', 'month', 'april', 'growth', 'upward', 'revision', 'initial', 'estimate', 'output', 'remains', 'february', 'level', 'excluding', 'energy', 'production', 'manufacturing', 'expanded', 'supported', 'rebound', 'transport', 'equipment', 'production', 'shortages', 'intermediate', 'products', 'cost', 'pressures', 'slowing', 'global', 'demand', 'heightened', 'uncertainty', 'weigh', 'prospects', 'manufacturing', 'sector', 'june', 'manufacturing', 'pmi', 'reading', 'dropped', 'output', 'contracted', 'ireland', 'industrial', 'production', 'rebounded', 'increasing', 'month', 'month', 'slump', 'april', 'modern', 'industries', 'drove', 'rebound', 'surging', 'reversing', 'decline', 'april', 'traditional', 'industries', 'boasted', 'increase', 'months', 'decline', 'supply', 'inflation', 'issues', 'creating', 'considerable', 'risks', 'irish', 'manufacturing', 'june', 'manufacturing', 'pmi', 'dropped', 'lowest', 'reading', 'months', 'releases', 'ireland', 'germany', 'upbeat', 'uncertainty', 'growing', 'economy', 'reason', 'industrial', 'output', 'grew', 'aggregate', 'level', 'euro', 'zone', 'week', 'release', 'predict', 'month', 'month', 'increase', 'euro', 'zone', 'industrial', 'production', 'dutch', 'inflation', 'softens', 'june', 'inflation', 'netherlands', 'decelerated', 'june', 'peaking', 'march', 'moderation', 'energy', 'contribution', 'pushed', 'headline', 'rate', 'inflation', 'pressures', 'ease', 'coming', 'months', 'base', 'effects', 'revert', 'start', 'pushing', 'comparison', 'month', 'vat', 'cut', 'energy', 'drive', 'headline', 'rate', 'natural', 'gas', 'prices', 'soaring', 'stay', 'dutch', 'inflation', 'figures', 'inflation', 'decelerates', 'expect', 'effects', 'consumer', 'price', 'growing', 'rate', 'target', 'expect', 'prices', 'weigh', 'consumer', 'spending', 'prices', 'increasing', 'intensity', 'swiss', 'labour', 'market', 'strong', 'situation', 'switzerland', 'labour', 'market', 'stable', 'june', 'unemployment', 'rate', 'remained', 'february', 'construction', 'retail', 'food', 'accommodation', 'services', 'sectors', 'declines', 'unemployment', 'post', 'lockdown', 'spending', 'summer', 'supporting', 'economic', 'activity', 'demand', 'employment', 'headwinds', 'global', 'economy', 'soften', 'growth', 'expect', 'unemployment', 'rate', 'bottomed']",0.3326353233329977,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,11," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+11
+ 
+THE LONG VIEW: ASIA-PACIFIC 
+Election Test for Japan's Kishida 
+BY STEFAN ANGRICK
+With the campaign for 
+Japan
+'s House of Councillors election 
+approaching the finish line, Prime Minister Fumio Kishida is 
+facing his first real electoral test nine months into his 
+administration. Although we expect little in the way of 
+surprises from the 10 July poll, which sees half of the upper 
+house seats up for grabs, the election outcome will be an 
+important signal of economic and foreign policy over the 
+next two years. Polls for Kishida have largely been positive 
+but dipped in recent weeks amidst public dissatisfaction 
+with rising prices. Inflation has been a headache for the 
+prime minister, whose ""new capitalism"" program has been 
+positioned as a way of addressing income inequalities and 
+raising household incomes. 
+Still, it seems unlikely that public frustration with inflation 
+will hurt Kishida's chances. An improving COVID-19 
+situation and Kishida's opposition to Russia's invasion of 
+Ukraine have boosted the prime minister's popularity, and 
+victory for the ruling Liberal Democratic Party-Komeito 
+coalition appears all but guaranteed. 
+Splintered opposition  
+The coalition is helped by the fact that its opposition is 
+splintered and lacks a common agenda. One of the two 
+major opposition parties, the centre-left Constitutional 
+Democratic Party, has struggled to define its position after a 
+setback in the 2021 general election. The CDP has attacked 
+Kishida for rising inflation and yen weakness but has offered 
+few tangible policy alternatives. The second major 
+opposition party, the right-populist Japan Innovation Party, 
+saw a surge in popularity in 2021 but remains focussed 
+geographically on Osaka and the surrounding Kansai region. 
+One of the more interesting aspects of the election relates 
+to potential constitutional change. Under Japan's system of 
+government, many decisions of the upper house can be 
+overturned by the lower house, but not when it comes to 
+the constitution. The Innovation Party, the smaller centre-
+right Democratic Party for the People, and the ruling LDP-
+Komeito coalition favour a revision of Article 9 of Japan's 
+constitution--the ""peace clause""--which limits the country's 
+ability to engage in military action. A two-thirds majority for 
+this group would in theory enable constitutional change, but 
+while polls suggest this is achievable, experience has shown 
+the path towards that goal would be difficult. 
+Strong results would strengthen Kishida 
+A stronger-than-expected showing for the LDP may not 
+change the outcome of the election, but it would give 
+Kishida greater autonomy vis-a-vis his own party. The past 
+nine months have been marked by friction between his 
+dovish faction and the hawkish faction of former Prime 
+Minister Shinzo Abe over foreign and fiscal policy. Members 
+of Abe's faction--the largest within the LDP--favour raising 
+Japan's defence spending to 2% of GDP, much to the 
+chagrin of the LDP's more dovish members and the party's 
+junior coalition partner, Komeito. The LDP's conservative 
+wing is also more comfortable with fiscal deficits, reflected 
+in a recent loosening of the wording on the government's 
+balanced budget commitment. A robust election result for 
+the ruling coalition would provide Kishida with greater 
+authority to put his stamp on policy and party. 
+But don't expect a major break with past policy 
+That said, barring a surprise election outcome, we don't 
+expect a major policy shift. The biggest implication of a 
+strong election result for the prime minister would likely be 
+greater efforts to patch Japan's strained relationship with 
+neighbouring South Korea. As for economic policy, we don't 
+see a major departure from the course laid out by Kishida's 
+immediate predecessor, Yoshihide Suga, or Abe. Although 
+Kishida's ""new capitalism"" is not expected to be fleshed until 
+after the election, commentary has portrayed the program 
+either as a sharp break with Abenomics or an outright turn 
+towards socialism. Neither view is plausible. Kishida's main 
+strength is the stability he projects. That may not be to 
+everyone's liking, but it's hard not to see the appeal for a 
+country scarred by a public health crisis, economic hardship, 
+and geopolitical upheaval. 
+The course also seems to be more or less set on key 
+questions of economic and defence policy. With Japan's 
+recovery still trailing peers, fiscal and monetary support 
+remains warranted. Criticism of monetary policy and yen 
+weakness may satisfy political calculus but overlooks that 
+these are not the main drivers of current inflation. 
+Kishida may have been a foreign policy dove traditionally, 
+but polls show the public has warmed considerably to the 
+idea of higher defence spending following Russia's invasion 
+of Ukraine. And for all the attention the government's 
+loosened balanced budget commitment has received, a 
+dispassionate view of the matter needs to recognise that the 
+prior target always seemed like a long shot. Myopic pursuit 
+of that goal has all too often led to policy mistakes that 
+derailed the economy and ultimately did little for the deficit. 
+The trick will be, of course, to avoid making new ones. 
+",moodi analyt capit market week market view asia pacif elect japan kishida stefan angrick campaign japan hous councillor elect approach finish prime minist fumio kishida face real elector month administr expect surpris juli poll upper hous seat grab elect outcom signal econom foreign polici poll kishida posit dip week public rise price inflat headach prime minist capit program posit address incom inequ rais household incom public frustrat inflat hurt kishida chanc improv covid situat kishida opposit russia invas ukrain boost prime minist popular victori rule liber democrat parti komeito coalit appear guarante splinter opposit coalit help opposit splinter lack common agenda major opposit parti centr left constitut democrat parti struggl defin posit setback elect cdp attack kishida rise inflat yen weak offer tangibl polici altern major opposit parti populist japan innov parti surg popular remain focuss geograph osaka surround kansai region aspect elect relat potenti constitut chang japan govern decis upper hous overturn hous constitut innov parti centr democrat parti peopl rule ldp komeito coalit favour revis articl japan constitut peac claus limit countri abil engag militari action third major theori enabl constitut chang poll achiev experi path goal difficult strong strengthen kishida stronger expect ldp chang outcom elect kishida autonomi vi vi parti month mark friction dovish faction hawkish faction prime minist shinzo abe foreign fiscal polici abe faction largest ldp favour rais japan defenc spend gdp chagrin ldp dovish parti junior coalit partner komeito ldp conserv wing comfort fiscal deficit reflect loosen word govern balanc budget commit robust elect result rule coalit provid kishida author stamp polici parti expect major break polici bar surpris elect outcom expect major polici shift biggest implic strong elect result prime minist effort patch japan strain relationship neighbour south korea econom polici major departur laid kishida predecessor yoshihid suga abe kishida capit expect flesh elect commentari portray program sharp break abenom outright social view plausibl kishida main strength stabil project like hard appeal countri scar public health crisi econom hardship geopolit upheav set key question econom defenc polici japan recoveri trail peer fiscal monetari support remain warrant critic monetari polici yen weak satisfi polit calculus overlook main driver current inflat kishida foreign polici dove tradit poll public warm consider idea defenc spend russia invas ukrain attent govern loosen balanc budget commit receiv dispassion view matter recognis prior target shot myopic pursuit goal led polici mistak derail economi ultim deficit trick avoid,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'view', 'asia', 'pacific', 'election', 'japan', 'kishida', 'stefan', 'angrick', 'campaign', 'japan', 'house', 'councillors', 'election', 'approaching', 'finish', 'prime', 'minister', 'fumio', 'kishida', 'facing', 'real', 'electoral', 'months', 'administration', 'expect', 'surprises', 'july', 'poll', 'upper', 'house', 'seats', 'grabs', 'election', 'outcome', 'signal', 'economic', 'foreign', 'policy', 'polls', 'kishida', 'positive', 'dipped', 'weeks', 'public', 'rising', 'prices', 'inflation', 'headache', 'prime', 'minister', 'capitalism', 'program', 'positioned', 'addressing', 'income', 'inequalities', 'raising', 'household', 'incomes', 'public', 'frustration', 'inflation', 'hurt', 'kishida', 'chances', 'improving', 'covid', 'situation', 'kishida', 'opposition', 'russia', 'invasion', 'ukraine', 'boosted', 'prime', 'minister', 'popularity', 'victory', 'ruling', 'liberal', 'democratic', 'party', 'komeito', 'coalition', 'appears', 'guaranteed', 'splintered', 'opposition', 'coalition', 'helped', 'opposition', 'splintered', 'lacks', 'common', 'agenda', 'major', 'opposition', 'parties', 'centre', 'left', 'constitutional', 'democratic', 'party', 'struggled', 'define', 'position', 'setback', 'election', 'cdp', 'attacked', 'kishida', 'rising', 'inflation', 'yen', 'weakness', 'offered', 'tangible', 'policy', 'alternatives', 'major', 'opposition', 'party', 'populist', 'japan', 'innovation', 'party', 'surge', 'popularity', 'remains', 'focussed', 'geographically', 'osaka', 'surrounding', 'kansai', 'region', 'aspects', 'election', 'relates', 'potential', 'constitutional', 'change', 'japan', 'government', 'decisions', 'upper', 'house', 'overturned', 'house', 'constitution', 'innovation', 'party', 'centre', 'democratic', 'party', 'people', 'ruling', 'ldp', 'komeito', 'coalition', 'favour', 'revision', 'article', 'japan', 'constitution', 'peace', 'clause', 'limits', 'country', 'ability', 'engage', 'military', 'action', 'thirds', 'majority', 'theory', 'enable', 'constitutional', 'change', 'polls', 'achievable', 'experience', 'path', 'goal', 'difficult', 'strong', 'strengthen', 'kishida', 'stronger', 'expected', 'ldp', 'change', 'outcome', 'election', 'kishida', 'autonomy', 'vis', 'vis', 'party', 'months', 'marked', 'friction', 'dovish', 'faction', 'hawkish', 'faction', 'prime', 'minister', 'shinzo', 'abe', 'foreign', 'fiscal', 'policy', 'abe', 'faction', 'largest', 'ldp', 'favour', 'raising', 'japan', 'defence', 'spending', 'gdp', 'chagrin', 'ldp', 'dovish', 'party', 'junior', 'coalition', 'partner', 'komeito', 'ldp', 'conservative', 'wing', 'comfortable', 'fiscal', 'deficits', 'reflected', 'loosening', 'wording', 'government', 'balanced', 'budget', 'commitment', 'robust', 'election', 'result', 'ruling', 'coalition', 'provide', 'kishida', 'authority', 'stamp', 'policy', 'party', 'expect', 'major', 'break', 'policy', 'barring', 'surprise', 'election', 'outcome', 'expect', 'major', 'policy', 'shift', 'biggest', 'implication', 'strong', 'election', 'result', 'prime', 'minister', 'efforts', 'patch', 'japan', 'strained', 'relationship', 'neighbouring', 'south', 'korea', 'economic', 'policy', 'major', 'departure', 'laid', 'kishida', 'predecessor', 'yoshihide', 'suga', 'abe', 'kishida', 'capitalism', 'expected', 'fleshed', 'election', 'commentary', 'portrayed', 'program', 'sharp', 'break', 'abenomics', 'outright', 'socialism', 'view', 'plausible', 'kishida', 'main', 'strength', 'stability', 'projects', 'liking', 'hard', 'appeal', 'country', 'scarred', 'public', 'health', 'crisis', 'economic', 'hardship', 'geopolitical', 'upheaval', 'set', 'key', 'questions', 'economic', 'defence', 'policy', 'japan', 'recovery', 'trailing', 'peers', 'fiscal', 'monetary', 'support', 'remains', 'warranted', 'criticism', 'monetary', 'policy', 'yen', 'weakness', 'satisfy', 'political', 'calculus', 'overlooks', 'main', 'drivers', 'current', 'inflation', 'kishida', 'foreign', 'policy', 'dove', 'traditionally', 'polls', 'public', 'warmed', 'considerably', 'idea', 'defence', 'spending', 'russia', 'invasion', 'ukraine', 'attention', 'government', 'loosened', 'balanced', 'budget', 'commitment', 'received', 'dispassionate', 'view', 'matter', 'recognise', 'prior', 'target', 'shot', 'myopic', 'pursuit', 'goal', 'led', 'policy', 'mistakes', 'derailed', 'economy', 'ultimately', 'deficit', 'trick', 'avoid']",0.40131740687296225,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,12," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+12
+ 
+RATINGS ROUNDUP 
+Downgrades Dominate in U.S. and Europe 
+BY STEVEN SHIELDS
+U.S. 
+U.S. credit downgrades outnumbered upgrades in the latest 
+weekly period. The changes issued by Moody's Investors 
+Service spanned a diverse set of industrial groups with 
+speculative-grade firms accounting for four of the five 
+changes.  
+ 
+The largest downgrade, accounting for nearly all the debt 
+affected in the period, was issued to FLNG Liquefaction 3 
+with its senior secured rating lowered to Baa2 from Baa3. 
+Moody's Investors Service also placed the senior secured 
+ratings on review for further downgrade. The rating action 
+was issued after the news of a fire and explosion at the 
+liquefied natural gas export facility on June 8 that resulted in 
+the complete closure of operations for all three of Freeport 
+LNG's liquefaction trains for at least 90 days. A further 
+downgrade of FLIQ3 could occur if liquidity weakens greater 
+than forecasted if business interruption insurance proceeds 
+are not realized as expected if the broader Freeport LNG 
+family experiences severe financial stress such as a debt 
+default or if the project's return to operations is estimated 
+to take longer than currently anticipated.  
+ 
+Meanwhile Fitness International, LLC's senior secured notes 
+were upgraded to B3 from B2 on June 29, reflecting Moody's 
+Investors Service's expectation that operating performance 
+including membership trends will continue to recover in 
+2022 and 2023 as the threat of the coronavirus pandemic 
+subsides.  
+ 
+Despite upgrades being outnumbered in the latest period, 
+through the first half of this year U.S. rating changes were 
+favorable with upgrades exceeding downgrades 169:112.  
+ 
+Europe 
+Ratings activity was weak in Western Europe as well with 
+downgrades outstripping upgrades 2:1. The majority of 
+ratings changes were issued to investment-grade financial 
+firms. On June 30, Moody's Investors Service lowered 
+Commerzbank AG's long-term senior unsecured debt ratings 
+one notch to A2 from A1. The ratings change was prompted 
+by the expected reduction in the volume of this loss-
+absorbing debt class relative to the size of the bank's 
+balance sheet. This development results in a higher loss 
+severity for senior unsecured debt under Moody's Advanced 
+Loss Given Failure analysis. The change impacted 
+approximately $8.4B in outstanding debt.  
+ 
+",moodi analyt capit market week market rate roundup downgrad domin europ steven shield credit downgrad outnumb upgrad week period issu moodi investor servic span divers set industri specul grade firm account largest downgrad account debt period issu flng liquefact senior secur rate lower baa baa moodi investor servic senior secur rate review downgrad rate action issu news explos liquefi natur gas export facil june complet closur oper freeport lng liquefact train day downgrad fliq occur liquid weaken forecast busi interrupt insur proceed realiz expect broader freeport lng famili experi sever financi stress debt default project return oper estim anticip fit intern llc senior secur note upgrad june reflect moodi investor servic expect oper perform includ membership trend continu recov threat coronavirus pandem subsid upgrad outnumb period rate favor upgrad exceed downgrad europ rate activ weak western europ downgrad outstrip upgrad major rate issu invest grade financi firm june moodi investor servic lower commerzbank term senior unsecur debt rate notch rate chang prompt expect reduct volum loss absorb debt class relat size balanc sheet develop loss sever senior unsecur debt moodi advanc loss failur analysi chang impact outstand debt,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'ratings', 'roundup', 'downgrades', 'dominate', 'europe', 'steven', 'shields', 'credit', 'downgrades', 'outnumbered', 'upgrades', 'weekly', 'period', 'issued', 'moody', 'investors', 'service', 'spanned', 'diverse', 'set', 'industrial', 'speculative', 'grade', 'firms', 'accounting', 'largest', 'downgrade', 'accounting', 'debt', 'period', 'issued', 'flng', 'liquefaction', 'senior', 'secured', 'rating', 'lowered', 'baa', 'baa', 'moody', 'investors', 'service', 'senior', 'secured', 'ratings', 'review', 'downgrade', 'rating', 'action', 'issued', 'news', 'explosion', 'liquefied', 'natural', 'gas', 'export', 'facility', 'june', 'complete', 'closure', 'operations', 'freeport', 'lng', 'liquefaction', 'trains', 'days', 'downgrade', 'fliq', 'occur', 'liquidity', 'weakens', 'forecasted', 'business', 'interruption', 'insurance', 'proceeds', 'realized', 'expected', 'broader', 'freeport', 'lng', 'family', 'experiences', 'severe', 'financial', 'stress', 'debt', 'default', 'project', 'return', 'operations', 'estimated', 'anticipated', 'fitness', 'international', 'llc', 'senior', 'secured', 'notes', 'upgraded', 'june', 'reflecting', 'moody', 'investors', 'service', 'expectation', 'operating', 'performance', 'including', 'membership', 'trends', 'continue', 'recover', 'threat', 'coronavirus', 'pandemic', 'subsides', 'upgrades', 'outnumbered', 'period', 'rating', 'favorable', 'upgrades', 'exceeding', 'downgrades', 'europe', 'ratings', 'activity', 'weak', 'western', 'europe', 'downgrades', 'outstripping', 'upgrades', 'majority', 'ratings', 'issued', 'investment', 'grade', 'financial', 'firms', 'june', 'moody', 'investors', 'service', 'lowered', 'commerzbank', 'term', 'senior', 'unsecured', 'debt', 'ratings', 'notch', 'ratings', 'change', 'prompted', 'expected', 'reduction', 'volume', 'loss', 'absorbing', 'debt', 'class', 'relative', 'size', 'balance', 'sheet', 'development', 'loss', 'severity', 'senior', 'unsecured', 'debt', 'moody', 'advanced', 'loss', 'failure', 'analysis', 'change', 'impacted', 'outstanding', 'debt']",0.4160714285714286,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,13," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+13
+ 
+RATINGS ROUND-UP 
+ 
+ 
+ 
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Apr01
+Aug04
+Dec07
+Apr11
+Aug14
+Dec17
+Apr21
+FIGURE 1
+Rating Changes - US Corporate & Financial Institutions: Favorable as a % of Total Actions
+By Count of Actions
+By Amount of Debt Affected
+* Trailing 3-month  average
+Source: Moody's
+ FIGURE 2
+BCF
+Bank Credit Facility Rating
+MM
+Money-Market
+CFR
+Corporate Family Rating
+MTN
+MTN Program Rating
+CP
+Commercial Paper Rating
+Notes
+Notes
+FSR
+Bank Financial Strength Rating
+PDR
+Probability of Default Rating
+IFS
+Insurance Financial Strength Rating
+PS
+Preferred Stock Rating
+IR
+Issuer Rating
+SGLR
+Speculative-Grade Liquidity Rating
+JrSub
+Junior Subordinated Rating
+SLTD
+Short- and Long-Term Deposit Rating
+LGD
+Loss Given Default Rating
+SrSec
+Senior Secured Rating 
+LTCF
+Long-Term Corporate Family Rating
+SrUnsec
+ Senior Unsecured Rating 
+LTD
+Long-Term Deposit Rating
+SrSub
+Senior Subordinated
+LTIR
+Long-Term Issuer Rating
+STD
+Short-Term Deposit Rating
+Rating Key
+",moodi analyt capit market week market rate apr aug dec apr aug dec apr figur rate corpor financi institut favor total action count action debt trail month averag moodi figur bcf credit facil rate money market cfr corpor famili rate mtn mtn program rate cp commerci paper rate note note fsr financi strength rate pdr probabl default rate if insur financi strength rate p prefer stock rate issuer rate sglr specul grade liquid rate jrsub junior subordin rate sltd short term deposit rate lgd loss default rate srsec senior secur rate ltcf term corpor famili rate srunsec senior unsecur rate term deposit rate srsub senior subordin ltir term issuer rate std short term deposit rate rate key,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'ratings', 'apr', 'aug', 'dec', 'apr', 'aug', 'dec', 'apr', 'figure', 'rating', 'corporate', 'financial', 'institutions', 'favorable', 'total', 'actions', 'count', 'actions', 'debt', 'trailing', 'month', 'average', 'moody', 'figure', 'bcf', 'credit', 'facility', 'rating', 'money', 'market', 'cfr', 'corporate', 'family', 'rating', 'mtn', 'mtn', 'program', 'rating', 'cp', 'commercial', 'paper', 'rating', 'notes', 'notes', 'fsr', 'financial', 'strength', 'rating', 'pdr', 'probability', 'default', 'rating', 'ifs', 'insurance', 'financial', 'strength', 'rating', 'ps', 'preferred', 'stock', 'rating', 'issuer', 'rating', 'sglr', 'speculative', 'grade', 'liquidity', 'rating', 'jrsub', 'junior', 'subordinated', 'rating', 'sltd', 'short', 'term', 'deposit', 'rating', 'lgd', 'loss', 'default', 'rating', 'srsec', 'senior', 'secured', 'rating', 'ltcf', 'term', 'corporate', 'family', 'rating', 'srunsec', 'senior', 'unsecured', 'rating', 'term', 'deposit', 'rating', 'srsub', 'senior', 'subordinated', 'ltir', 'term', 'issuer', 'rating', 'std', 'short', 'term', 'deposit', 'rating', 'rating', 'key']",0.22272727272727275,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,14," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+14
+ 
+ 
+ 
+ 
+ 
+FIGURE 3
+Rating Changes: Corporate & Financial Institutions - US
+Date
+Company
+Sector
+Rating
+Amount   
+($ Million)
+Up/ 
+Down
+Old 
+LTD 
+Rating
+New LTD 
+Rating
+IG/S
+G
+6/29/2022
+FITNESS INTERNATIONAL, LLC
+Industrial
+SrSec/BCF/LTCFR/PDR
+U
+B3
+B2
+SG
+6/29/2022
+FREEPORT LNG INVESTMENTS, LLLP
+Industrial
+SrSec/BCF/LTCFR/PDR
+D
+B1
+B3
+SG
+6/29/2022
+FLNG LIQUEFACTION 3, LLC
+Industrial
+SrSec/BCF
+3075.2
+D
+Baa2
+Baa3
+IG
+6/30/2022
+VANTAGE SPECIALTY CHEMICALS, INC.
+Industrial
+SrSec/BCF/LTCFR/PDR
+U
+Caa3
+Caa2
+SG
+6/30/2022
+CORSAIR GROUP (CAYMAN) LP-CORSAIR 
+GAMING, INC.
+Industrial
+SrSec/BCF/LTCFR/PDR
+D
+Ba3
+B1
+SG
+Source: Moody's
+FIGURE 4
+Rating Changes: Corporate & Financial Institutions - Europe
+Date
+Company
+Sector
+Rating
+Amount   
+($ Million)
+Up/ 
+Down
+Old 
+LTD 
+Rating
+New 
+LTD 
+Rating
+O
+l
+d 
+IG/
+SG
+Country
+6/29/2022
+DEUTSCHE APOTHEKER- UND AERZTEBANK 
+EG
+Financial
+LTD
+D
+Aa1
+Aa2
+IG
+GERMANY
+6/29/2022
+KVIKA BANKI HF.
+Financial
+LTD
+U
+Baa2
+Baa1
+IG
+ICELAND
+6/30/2022
+COMMERZBANK AG
+Financial
+SrUnsec/LTIR/MTN
+8338.021
+D
+A1
+A2
+IG
+GERMANY
+6/30/2022
+CATALYST HEALTHCARE (ROMFORD) 
+FINANCING PLC
+Industrial
+SrSec
+154.1509
+D
+A2
+A3
+IG
+UNITED KINGDOM
+6/30/2022
+BOELS TOPHOLDING B.V.
+Industrial
+SrSec/BCF/LTCFR/PDR
+U
+B1
+Ba3
+SG
+NETHERLANDS
+7/1/2022
+AXA
+Financial
+SrUnsec/Sub/JrSub/MTN
+U
+A2
+A1
+IG
+FRANCE
+7/1/2022
+ZEPHYR GERMAN TOPCO GMBH-FLENDER 
+INTERNATIONAL GMBH
+Industrial
+SrSec/BCF/LTCFR/PDR
+D
+B1
+B2
+SG
+GERMANY
+7/4/2022
+DEUTSCHE BAHN AG-DEUTSCHE BAHN 
+FINANCE GMBH
+Industrial
+Sub
+2078.311
+D
+A3
+Baa1
+IG
+GERMANY
+7/5/2022
+OCTAGON HEALTHCARE FUNDING PLC
+Industrial
+SrSec
+367.7628
+D
+A2
+A3
+IG
+UNITED KINGDOM
+Source: Moody's
+",moodi analyt capit market week market figur rate corpor financi institut compani sector rate rate rate ig fit intern llc industri srsec bcf ltcfr pdr freeport lng invest lllp industri srsec bcf ltcfr pdr flng liquefact llc industri srsec bcf baa baa ig vantag specialti chemic industri srsec bcf ltcfr pdr caa caa corsair cayman lp corsair game industri srsec bcf ltcfr pdr moodi figur rate corpor financi institut europ compani sector rate rate rate ig countri deutsch apothek und aerztebank financi aa aa ig germani kvika banki hf financi baa baa ig iceland commerzbank financi srunsec ltir mtn ig germani catalyst healthcar romford financ plc industri srsec ig unit boel tophold industri srsec bcf ltcfr pdr netherland axa financi srunsec jrsub mtn ig franc zephyr german topco gmbh flender intern gmbh industri srsec bcf ltcfr pdr germani deutsch bahn deutsch bahn financ gmbh industri baa ig germani octagon healthcar fund plc industri srsec ig unit moodi,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'figure', 'rating', 'corporate', 'financial', 'institutions', 'company', 'sector', 'rating', 'rating', 'rating', 'ig', 'fitness', 'international', 'llc', 'industrial', 'srsec', 'bcf', 'ltcfr', 'pdr', 'freeport', 'lng', 'investments', 'lllp', 'industrial', 'srsec', 'bcf', 'ltcfr', 'pdr', 'flng', 'liquefaction', 'llc', 'industrial', 'srsec', 'bcf', 'baa', 'baa', 'ig', 'vantage', 'specialty', 'chemicals', 'industrial', 'srsec', 'bcf', 'ltcfr', 'pdr', 'caa', 'caa', 'corsair', 'cayman', 'lp', 'corsair', 'gaming', 'industrial', 'srsec', 'bcf', 'ltcfr', 'pdr', 'moody', 'figure', 'rating', 'corporate', 'financial', 'institutions', 'europe', 'company', 'sector', 'rating', 'rating', 'rating', 'ig', 'country', 'deutsche', 'apotheker', 'und', 'aerztebank', 'financial', 'aa', 'aa', 'ig', 'germany', 'kvika', 'banki', 'hf', 'financial', 'baa', 'baa', 'ig', 'iceland', 'commerzbank', 'financial', 'srunsec', 'ltir', 'mtn', 'ig', 'germany', 'catalyst', 'healthcare', 'romford', 'financing', 'plc', 'industrial', 'srsec', 'ig', 'united', 'boels', 'topholding', 'industrial', 'srsec', 'bcf', 'ltcfr', 'pdr', 'netherlands', 'axa', 'financial', 'srunsec', 'jrsub', 'mtn', 'ig', 'france', 'zephyr', 'german', 'topco', 'gmbh', 'flender', 'international', 'gmbh', 'industrial', 'srsec', 'bcf', 'ltcfr', 'pdr', 'germany', 'deutsche', 'bahn', 'deutsche', 'bahn', 'finance', 'gmbh', 'industrial', 'baa', 'ig', 'germany', 'octagon', 'healthcare', 'funding', 'plc', 'industrial', 'srsec', 'ig', 'united', 'moody']",0.11099227569815806,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,15," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+15
+ 
+MARKET DATA 
+ 
+ 
+ 
+ 
+0
+200
+400
+600
+800
+0
+200
+400
+600
+800
+2003 2004 2005 2006 2007 2008 2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Spread (bp)
+Spread (bp)
+ Aa2
+ A2
+ Baa2
+Source: Moody's
+Figure 1: 5-Year Median Spreads-Global Data (High Grade)
+0
+400
+800
+1,200
+1,600
+2,000
+0
+400
+800
+1,200
+1,600
+2,000
+2003 2004 2005 2006 2007 2008 2009 2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019 2020 2021 2022
+Spread (bp)
+Spread (bp)
+ Ba2
+ B2
+ Caa-C
+Source: Moody's
+Figure 2: 5-Year Median Spreads-Global Data (High Yield)
+",moodi analyt capit market week market market spread bp spread bp aa baa moodi figur median spread global grade spread bp spread bp caa moodi figur median spread global yield,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'market', 'spread', 'bp', 'spread', 'bp', 'aa', 'baa', 'moody', 'figure', 'median', 'spreads', 'global', 'grade', 'spread', 'bp', 'spread', 'bp', 'caa', 'moody', 'figure', 'median', 'spreads', 'global', 'yield']",0.5399999999999999,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,16," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+16
+ 
+CDS MOVERS 
+ 
+CDS Implied Rating Rises
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+American Airlines Group Inc.
+Caa2
+Ca
+Caa1
+JPMorgan Chase & Co.
+Baa1
+Baa2
+A2
+Motorola Solutions, Inc.
+Baa1
+Baa2
+Baa3
+Goldman Sachs Group, Inc. (The)
+Baa2
+Baa3
+A2
+Comcast Corporation
+A3
+Baa1
+A3
+Union Pacific Corporation
+Aa1
+Aa2
+Baa1
+Home Depot, Inc. (The)
+Aa2
+Aa3
+A2
+Intel Corporation
+Aa2
+Aa3
+A1
+Walt Disney Company (The) (Old)
+Aaa
+Aa1
+A2
+Raytheon Technologies Corporation
+Aa3
+A1
+Baa1
+CDS Implied Rating Declines
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+TRW Automotive Inc.
+B1
+Baa2
+Ba1
+Merck & Co., Inc.
+A3
+Aa3
+A1
+Colgate-Palmolive Company
+Baa2
+A2
+Aa3
+Philip Morris International Inc.
+Baa3
+Baa1
+A2
+Illinois Tool Works Inc.
+Aa3
+Aa1
+A2
+Applied Materials Inc.
+A2
+Aa3
+A2
+Hershey Company (The)
+A1
+Aa2
+A1
+Federal Realty OP LP
+Baa3
+Baa1
+Baa1
+Toyota Motor Credit Corporation
+Aa3
+Aa2
+A1
+Coca-Cola Company (The)
+Aa3
+Aa2
+A1
+CDS Spread Increases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+TRW Automotive Inc.
+Ba1
+508
+100
+408
+Deluxe Corporation
+B3
+788
+588
+200
+Carnival Corporation
+B2
+1,545
+1,388
+157
+Nabors Industries, Inc.
+Caa2
+816
+676
+139
+Embarq Corporation
+Ba2
+710
+579
+130
+Domtar Corporation
+Ba3
+661
+548
+112
+Royal Caribbean Cruises Ltd.
+B2
+1,228
+1,128
+100
+Commercial Metals Company
+Ba2
+331
+248
+83
+Meritage Homes Corporation
+Ba1
+363
+279
+83
+Liberty Interactive LLC
+B2
+1,711
+1,643
+69
+CDS Spread Decreases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+American Airlines Group Inc.
+Caa1
+1,457
+1,678
+-221
+United Airlines Holdings, Inc.
+Ba3
+919
+988
+-69
+Enbridge Energy Limited Partnership
+Baa1
+119
+159
+-40
+Calpine Corporation
+B2
+558
+595
+-37
+KB Home
+Ba2
+430
+461
+-31
+Unisys Corporation
+B3
+533
+564
+-31
+Anywhere Real Estate Group LLC
+B2
+822
+848
+-25
+Dillard's, Inc.
+Baa3
+131
+155
+-24
+AutoNation, Inc.
+Baa3
+153
+171
+-18
+Delta Air Lines, Inc.
+Baa3
+543
+560
+-17
+Source: Moody's, CMA
+CDS Spreads 
+CDS Implied Ratings
+CDS Implied Ratings
+CDS Spreads 
+Figure 3.  CDS Movers - US (June 29, 2022 - July 6, 2022)
+",moodi analyt capit market week market cd mover cd impli rate rise issuer jul jun senior rate american airlin caa caa jpmorgan chase baa baa motorola solut baa baa baa baa baa comcast corpor baa union pacif corpor aa aa baa depot aa aa intel corpor aa aa walt disney compani aaa aa raytheon technolog corpor aa baa cd impli rate declin issuer jul jun senior rate trw automot baa merck aa colgat palmol compani baa aa philip morri intern baa baa illinoi tool aa aa appli materi aa hershey compani aa feder realti op lp baa baa baa toyota motor credit corpor aa aa coca cola compani aa aa cd spread increas issuer senior rate jul jun spread diff trw automot delux corpor carniv corpor nabor industri caa embarq corpor domtar corpor royal caribbean cruis commerci metal compani meritag home corpor liberti interact llc cd spread decreas issuer senior rate jul jun spread diff american airlin caa unit airlin hold enbridg energi limit partnership baa calpin corpor kb unisi corpor real estat llc dillard baa auton baa delta air line baa moodi cma cd spread cd impli rate cd impli rate cd spread figur cd mover june juli,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'cds', 'movers', 'cds', 'implied', 'rating', 'rises', 'issuer', 'jul', 'jun', 'senior', 'ratings', 'american', 'airlines', 'caa', 'caa', 'jpmorgan', 'chase', 'baa', 'baa', 'motorola', 'solutions', 'baa', 'baa', 'baa', 'baa', 'baa', 'comcast', 'corporation', 'baa', 'union', 'pacific', 'corporation', 'aa', 'aa', 'baa', 'depot', 'aa', 'aa', 'intel', 'corporation', 'aa', 'aa', 'walt', 'disney', 'company', 'aaa', 'aa', 'raytheon', 'technologies', 'corporation', 'aa', 'baa', 'cds', 'implied', 'rating', 'declines', 'issuer', 'jul', 'jun', 'senior', 'ratings', 'trw', 'automotive', 'baa', 'merck', 'aa', 'colgate', 'palmolive', 'company', 'baa', 'aa', 'philip', 'morris', 'international', 'baa', 'baa', 'illinois', 'tool', 'aa', 'aa', 'applied', 'materials', 'aa', 'hershey', 'company', 'aa', 'federal', 'realty', 'op', 'lp', 'baa', 'baa', 'baa', 'toyota', 'motor', 'credit', 'corporation', 'aa', 'aa', 'coca', 'cola', 'company', 'aa', 'aa', 'cds', 'spread', 'increases', 'issuer', 'senior', 'ratings', 'jul', 'jun', 'spread', 'diff', 'trw', 'automotive', 'deluxe', 'corporation', 'carnival', 'corporation', 'nabors', 'industries', 'caa', 'embarq', 'corporation', 'domtar', 'corporation', 'royal', 'caribbean', 'cruises', 'commercial', 'metals', 'company', 'meritage', 'homes', 'corporation', 'liberty', 'interactive', 'llc', 'cds', 'spread', 'decreases', 'issuer', 'senior', 'ratings', 'jul', 'jun', 'spread', 'diff', 'american', 'airlines', 'caa', 'united', 'airlines', 'holdings', 'enbridge', 'energy', 'limited', 'partnership', 'baa', 'calpine', 'corporation', 'kb', 'unisys', 'corporation', 'real', 'estate', 'llc', 'dillard', 'baa', 'autonation', 'baa', 'delta', 'air', 'lines', 'baa', 'moody', 'cma', 'cds', 'spreads', 'cds', 'implied', 'ratings', 'cds', 'implied', 'ratings', 'cds', 'spreads', 'figure', 'cds', 'movers', 'june', 'july']",0.19285714285714287,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,17," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+17
+ 
+CDS Movers 
+ 
+CDS Implied Rating Rises
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+BNP Paribas
+A2
+A3
+Aa3
+Barclays PLC
+Baa2
+Baa3
+Baa2
+CaixaBank, S.A.
+A2
+A3
+Baa1
+Lloyds Bank plc
+A2
+A3
+A1
+DZ BANK AG
+Aa2
+Aa3
+Aa2
+Bayerische Landesbank
+A1
+A2
+Aa3
+UniCredit Bank Austria AG
+A3
+Baa1
+Baa1
+ENEL S.p.A.
+Baa2
+Baa3
+Baa1
+Anheuser-Busch InBev SA/NV
+Baa1
+Baa2
+Baa1
+KBC Group N.V.
+Baa1
+Baa2
+Baa1
+CDS Implied Rating Declines
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+Hamburg Commercial Bank AG
+Baa3
+Baa1
+Baa1
+Banca Monte dei Paschi di Siena S.p.A.
+B3
+B1
+Caa1
+Scottish Power UK plc
+A2
+Aa3
+Baa1
+Vedanta Resources Limited
+Ca
+Caa2
+B3
+Spain, Government of
+A1
+Aa3
+Baa1
+Banco Santander S.A. (Spain)
+A3
+A2
+A2
+Deutsche Bank AG
+Baa3
+Baa2
+A2
+Nordea Bank Abp
+A1
+Aa3
+Aa3
+Commerzbank AG
+Baa2
+Baa1
+A2
+Bayerische Motoren Werke Aktiengesellschaft
+Baa2
+Baa1
+A2
+CDS Spread Increases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+Vedanta Resources Limited
+B3
+2,000
+1,157
+844
+Boparan Finance plc
+Caa3
+2,412
+2,100
+312
+Novafives S.A.S.
+Caa2
+1,817
+1,552
+265
+Casino Guichard-Perrachon SA
+Caa1
+1,870
+1,611
+259
+Banca Monte dei Paschi di Siena S.p.A.
+Caa1
+741
+515
+225
+Jaguar Land Rover Automotive Plc
+B1
+1,111
+921
+190
+Wienerberger AG
+Ba1
+276
+131
+145
+Ardagh Packaging Finance plc
+Caa1
+972
+829
+142
+Iceland Bondco plc
+Caa2
+1,287
+1,161
+127
+Stena AB
+B2
+815
+689
+125
+CDS Spread Decreases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+Smiths Group plc
+Baa2
+84
+96
+-12
+ITV plc
+Baa3
+264
+271
+-7
+ASML Holding N.V.
+A2
+33
+39
+-6
+Atlas Copco AB
+A2
+41
+47
+-6
+CaixaBank, S.A.
+Baa1
+74
+78
+-5
+Dexia Credit Local
+Baa3
+40
+44
+-4
+adidas AG
+A2
+57
+61
+-4
+Nestle S.A.
+Aa3
+39
+42
+-4
+Anheuser-Busch InBev SA/NV
+Baa1
+97
+100
+-3
+Heineken N.V.
+Baa1
+48
+51
+-3
+Source: Moody's, CMA
+CDS Spreads 
+CDS Implied Ratings
+CDS Implied Ratings
+CDS Spreads 
+Figure 4.  CDS Movers - Europe (June 29, 2022 - July 6, 2022)
+",moodi analyt capit market week market cd mover cd impli rate rise issuer jul jun senior rate bnp pariba aa barclay plc baa baa baa caixabank baa lloyd plc aa aa aa bayerisch landesbank aa unicredit austria baa baa enel baa baa baa anheus busch inbev nv baa baa baa kbc baa baa baa cd impli rate declin issuer jul jun senior rate hamburg commerci baa baa baa banca mont dei paschi di siena caa scottish power plc aa baa vedanta resourc limit caa spain govern aa baa banco santand spain deutsch baa baa nordea abp aa aa commerzbank baa baa bayerisch motoren werk baa baa cd spread increas issuer senior rate jul jun spread diff vedanta resourc limit boparan financ plc caa novaf caa casino guichard perrachon caa banca mont dei paschi di siena caa jaguar land rover automot plc wienerberg ardagh packag financ plc caa iceland bondco plc caa stena ab cd spread decreas issuer senior rate jul jun spread diff smith plc baa itv plc baa asml hold atlas copco ab caixabank baa dexia credit local baa adida nestl aa anheus busch inbev nv baa heineken baa moodi cma cd spread cd impli rate cd impli rate cd spread figur cd mover europ june juli,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'cds', 'movers', 'cds', 'implied', 'rating', 'rises', 'issuer', 'jul', 'jun', 'senior', 'ratings', 'bnp', 'paribas', 'aa', 'barclays', 'plc', 'baa', 'baa', 'baa', 'caixabank', 'baa', 'lloyds', 'plc', 'aa', 'aa', 'aa', 'bayerische', 'landesbank', 'aa', 'unicredit', 'austria', 'baa', 'baa', 'enel', 'baa', 'baa', 'baa', 'anheuser', 'busch', 'inbev', 'nv', 'baa', 'baa', 'baa', 'kbc', 'baa', 'baa', 'baa', 'cds', 'implied', 'rating', 'declines', 'issuer', 'jul', 'jun', 'senior', 'ratings', 'hamburg', 'commercial', 'baa', 'baa', 'baa', 'banca', 'monte', 'dei', 'paschi', 'di', 'siena', 'caa', 'scottish', 'power', 'plc', 'aa', 'baa', 'vedanta', 'resources', 'limited', 'caa', 'spain', 'government', 'aa', 'baa', 'banco', 'santander', 'spain', 'deutsche', 'baa', 'baa', 'nordea', 'abp', 'aa', 'aa', 'commerzbank', 'baa', 'baa', 'bayerische', 'motoren', 'werke', 'baa', 'baa', 'cds', 'spread', 'increases', 'issuer', 'senior', 'ratings', 'jul', 'jun', 'spread', 'diff', 'vedanta', 'resources', 'limited', 'boparan', 'finance', 'plc', 'caa', 'novafives', 'caa', 'casino', 'guichard', 'perrachon', 'caa', 'banca', 'monte', 'dei', 'paschi', 'di', 'siena', 'caa', 'jaguar', 'land', 'rover', 'automotive', 'plc', 'wienerberger', 'ardagh', 'packaging', 'finance', 'plc', 'caa', 'iceland', 'bondco', 'plc', 'caa', 'stena', 'ab', 'cds', 'spread', 'decreases', 'issuer', 'senior', 'ratings', 'jul', 'jun', 'spread', 'diff', 'smiths', 'plc', 'baa', 'itv', 'plc', 'baa', 'asml', 'holding', 'atlas', 'copco', 'ab', 'caixabank', 'baa', 'dexia', 'credit', 'local', 'baa', 'adidas', 'nestle', 'aa', 'anheuser', 'busch', 'inbev', 'nv', 'baa', 'heineken', 'baa', 'moody', 'cma', 'cds', 'spreads', 'cds', 'implied', 'ratings', 'cds', 'implied', 'ratings', 'cds', 'spreads', 'figure', 'cds', 'movers', 'europe', 'june', 'july']",0.07142857142857142,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,18," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+18
+ 
+CDS Movers 
+ 
+CDS Implied Rating Rises
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+China Development Bank
+A3
+Baa1
+A1
+Macquarie Bank Limited
+A2
+A3
+A2
+Hong Kong SAR, China, Government of
+Aaa
+Aa1
+Aa3
+Wesfarmers Limited
+A1
+A2
+A3
+Chorus Limited
+A3
+Baa1
+Baa2
+SK Hynix Inc.
+Baa2
+Baa3
+Baa2
+China, Government of
+A3
+A3
+A1
+Korea, Government of
+Aa3
+Aa3
+Aa2
+Commonwealth Bank of Australia
+A2
+A2
+Aa3
+Indonesia, Government of
+Baa3
+Baa3
+Baa2
+CDS Implied Rating Declines
+Issuer
+Jul. 6
+Jun. 29
+Senior Ratings
+Suncorp-Metway Limited
+Baa1
+A2
+A1
+Mitsubishi Corporation
+A1
+Aa2
+A2
+Sumitomo Corporation
+A2
+Aa3
+Baa1
+Nippon Yusen Kabushiki Kaisha
+A2
+Aa3
+Ba2
+Japan, Government of
+Aa1
+Aaa
+A1
+Australia, Government of
+Aa1
+Aaa
+Aaa
+India, Government of
+Baa3
+Baa2
+Baa3
+Westpac Banking Corporation
+A3
+A2
+Aa3
+New Zealand, Government of
+Aa1
+Aaa
+Aaa
+SoftBank Group Corp.
+B2
+B1
+Ba3
+CDS Spread Increases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+Pakistan, Government of
+B3
+1,483
+1,314
+169
+SoftBank Group Corp.
+Ba3
+548
+482
+66
+Development Bank of Kazakhstan
+Baa2
+338
+273
+65
+Kazakhstan, Government of
+Baa2
+261
+211
+50
+Halyk Savings Bank of Kazakhstan
+Ba2
+518
+490
+28
+Suncorp-Metway Limited
+A1
+93
+67
+26
+India, Government of
+Baa3
+147
+124
+23
+Nomura Holdings, Inc.
+Baa1
+117
+94
+23
+Nomura Securities Co., Ltd.
+A3
+109
+89
+20
+Mitsubishi Corporation
+A2
+60
+42
+19
+CDS Spread Decreases
+Issuer
+Senior Ratings
+Jul. 6
+Jun. 29
+Spread Diff
+SK Hynix Inc.
+Baa2
+123
+147
+-23
+Hong Kong SAR, China, Government of
+Aa3
+25
+29
+-4
+SK Innovation Co. Ltd.
+Baa3
+162
+165
+-3
+East Japan Railway Company
+A1
+34
+35
+-1
+Asahi Group Holdings, Ltd.
+Baa1
+26
+26
+-1
+Coca-Cola Amatil Limited
+Baa1
+34
+35
+-1
+DBS Bank Ltd.
+Aa1
+38
+38
+0
+Chorus Limited
+Baa2
+89
+89
+0
+Amcor Pty Ltd
+Baa2
+118
+118
+0
+MTR Corporation Limited
+Aa3
+39
+39
+0
+Source: Moody's, CMA
+Figure 5.  CDS Movers - APAC (June 29, 2022 - July 6, 2022)
+CDS Implied Ratings
+CDS Implied Ratings
+CDS Spreads 
+CDS Spreads 
+",moodi analyt capit market week market cd mover cd impli rate rise issuer jul jun senior rate china develop baa macquari limit hong kong sar china govern aaa aa aa wesfarm limit chorus limit baa baa hynix baa baa baa china govern korea govern aa aa aa commonwealth australia aa indonesia govern baa baa baa cd impli rate declin issuer jul jun senior rate suncorp metway limit baa mitsubishi corpor aa sumitomo corpor aa baa nippon yusen kabushiki kaisha aa japan govern aa aaa australia govern aa aaa aaa india govern baa baa baa westpac bank corpor aa zealand govern aa aaa aaa softbank corp cd spread increas issuer senior rate jul jun spread diff pakistan govern softbank corp develop kazakhstan baa kazakhstan govern baa halyk save kazakhstan suncorp metway limit india govern baa nomura hold baa nomura secur mitsubishi corpor cd spread decreas issuer senior rate jul jun spread diff hynix baa hong kong sar china govern aa innov baa east japan railway compani asahi hold baa coca cola amatil limit baa db aa chorus limit baa amcor pti baa mtr corpor limit aa moodi cma figur cd mover apac june juli cd impli rate cd impli rate cd spread cd spread,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'cds', 'movers', 'cds', 'implied', 'rating', 'rises', 'issuer', 'jul', 'jun', 'senior', 'ratings', 'china', 'development', 'baa', 'macquarie', 'limited', 'hong', 'kong', 'sar', 'china', 'government', 'aaa', 'aa', 'aa', 'wesfarmers', 'limited', 'chorus', 'limited', 'baa', 'baa', 'hynix', 'baa', 'baa', 'baa', 'china', 'government', 'korea', 'government', 'aa', 'aa', 'aa', 'commonwealth', 'australia', 'aa', 'indonesia', 'government', 'baa', 'baa', 'baa', 'cds', 'implied', 'rating', 'declines', 'issuer', 'jul', 'jun', 'senior', 'ratings', 'suncorp', 'metway', 'limited', 'baa', 'mitsubishi', 'corporation', 'aa', 'sumitomo', 'corporation', 'aa', 'baa', 'nippon', 'yusen', 'kabushiki', 'kaisha', 'aa', 'japan', 'government', 'aa', 'aaa', 'australia', 'government', 'aa', 'aaa', 'aaa', 'india', 'government', 'baa', 'baa', 'baa', 'westpac', 'banking', 'corporation', 'aa', 'zealand', 'government', 'aa', 'aaa', 'aaa', 'softbank', 'corp', 'cds', 'spread', 'increases', 'issuer', 'senior', 'ratings', 'jul', 'jun', 'spread', 'diff', 'pakistan', 'government', 'softbank', 'corp', 'development', 'kazakhstan', 'baa', 'kazakhstan', 'government', 'baa', 'halyk', 'savings', 'kazakhstan', 'suncorp', 'metway', 'limited', 'india', 'government', 'baa', 'nomura', 'holdings', 'baa', 'nomura', 'securities', 'mitsubishi', 'corporation', 'cds', 'spread', 'decreases', 'issuer', 'senior', 'ratings', 'jul', 'jun', 'spread', 'diff', 'hynix', 'baa', 'hong', 'kong', 'sar', 'china', 'government', 'aa', 'innovation', 'baa', 'east', 'japan', 'railway', 'company', 'asahi', 'holdings', 'baa', 'coca', 'cola', 'amatil', 'limited', 'baa', 'dbs', 'aa', 'chorus', 'limited', 'baa', 'amcor', 'pty', 'baa', 'mtr', 'corporation', 'limited', 'aa', 'moody', 'cma', 'figure', 'cds', 'movers', 'apac', 'june', 'july', 'cds', 'implied', 'ratings', 'cds', 'implied', 'ratings', 'cds', 'spreads', 'cds', 'spreads']",0.17748917748917747,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,19," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+19
+ 
+ISSUANCE 
+ 
+ 
+ 
+ 
+ 
+0
+700
+1,400
+2,100
+2,800
+0
+700
+1,400
+2,100
+2,800
+Jan
+Feb Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Issuance ($B)
+Issuance ($B)
+2018
+2019
+2020
+2021
+2022
+Source:  
+Moody's  / Dealogic
+Figure 6. Market Cumulative Issuance - Corporate & Financial Institutions: USD Denominated
+0
+200
+400
+600
+800
+1,000
+0
+200
+400
+600
+800
+1,000
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Issuance ($B)
+Issuance ($B)
+2018
+2019
+2020
+2021
+2022
+Source:  
+Moody's / Dealogic
+Figure 7. Market Cumulative Issuance - Corporate & Financial Institutions: Euro  Denominated
+",moodi analyt capit market week market issuanc jan feb mar apr jun jul aug sep oct nov dec issuanc issuanc moodi dealog figur market cumul issuanc corpor financi institut usd denomin jan feb mar apr jun jul aug sep oct nov dec issuanc issuanc moodi dealog figur market cumul issuanc corpor financi institut euro denomin,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'issuance', 'jan', 'feb', 'mar', 'apr', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec', 'issuance', 'issuance', 'moody', 'dealogic', 'figure', 'market', 'cumulative', 'issuance', 'corporate', 'financial', 'institutions', 'usd', 'denominated', 'jan', 'feb', 'mar', 'apr', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec', 'issuance', 'issuance', 'moody', 'dealogic', 'figure', 'market', 'cumulative', 'issuance', 'corporate', 'financial', 'institutions', 'euro', 'denominated']",0.0,07 08 2022,Moodys,Weekly-Market-Outlook,0
+07 08 2022_Moodys_Weekly-Market-Outlook,20," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+20
+ 
+ISSUANCE 
+ 
+ 
+ 
+Investment-Grade
+High-Yield
+Total*
+Amount
+Amount
+Amount
+$B
+$B
+$B
+Weekly
+11.499
+0.788
+13.075
+Year-to-Date
+805.305
+98.174
+930.820
+Investment-Grade
+High-Yield
+Total*
+Amount
+Amount
+Amount
+$B
+$B
+$B
+Weekly
+5.597
+0.462
+6.081
+Year-to-Date
+448.066
+27.072
+482.798
+* Difference represents issuance with pending ratings.
+Source: Moody's/ Dealogic
+USD Denominated
+Euro Denominated
+Figure 8. Issuance: Corporate & Financial Institutions
+",moodi analyt capit market week market issuanc invest grade yield total week invest grade yield total week differ repres issuanc pend rate moodi dealog usd denomin euro denomin figur issuanc corpor financi institut,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'issuance', 'investment', 'grade', 'yield', 'total', 'weekly', 'investment', 'grade', 'yield', 'total', 'weekly', 'difference', 'represents', 'issuance', 'pending', 'ratings', 'moody', 'dealogic', 'usd', 'denominated', 'euro', 'denominated', 'figure', 'issuance', 'corporate', 'financial', 'institutions']",0.375,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,21," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+21
+ 
+To order reprints of this report (100 copies minimum), please call 212.553.1658. 
+ 
+ 
+Report Number: 1335998 
+Contact Us 
+ 
+Editor 
+Reid Kanaley 
+help@economy.com
+ 
+Americas 
++1.212.553.1658 
+clientservices@moodys.com 
+Europe 
++44.20.7772.5454 
+clientservices.emea@moodys.com 
+Asia (Excluding Japan) 
++85 2 2916 1121 
+clientservices.asia@moodys.com 
+Japan 
++81 3 5408 4100 
+clientservices.japan@moodys.com 
+",moodi analyt capit market week market reprint report copi minimum report contact editor reid kanaley economi america clientservic moodi europ clientservic emea moodi asia exclud japan clientservic asia moodi japan clientservic japan moodi,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'reprints', 'report', 'copies', 'minimum', 'report', 'contact', 'editor', 'reid', 'kanaley', 'economy', 'americas', 'clientservices', 'moodys', 'europe', 'clientservices', 'emea', 'moodys', 'asia', 'excluding', 'japan', 'clientservices', 'asia', 'moodys', 'japan', 'clientservices', 'japan', 'moodys']",0.0,07 08 2022,Moodys,Weekly-Market-Outlook,1
+07 08 2022_Moodys_Weekly-Market-Outlook,22," 
+ 
+ 
+MOODY'S ANALYTICS          
+CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK
+ 
+22
+ 
+ 
+ 
+(c) 2022 Moody's Corporation, Moody's Investors Service, Inc., Moody's Analytics, Inc. and/or their licensors and affiliates (collectively, ""MOODY'S""). All rights reserved. 
+ 
+CREDIT RATINGS ISSUED BY MOODY'S CREDIT RATINGS AFFILIATES ARE THEIR CURRENT OPINIONS OF THE RELATIVE FUTURE CREDIT RISK OF ENTITIES, 
+CREDIT COMMITMENTS, OR DEBT OR DEBT-LIKE SECURITIES, AND MATERIALS, PRODUCTS, SERVICES AND INFORMATION PUBLISHED BY MOODY'S 
+(COLLECTIVELY, ""PUBLICATIONS"") MAY INCLUDE SUCH  CURRENT OPINIONS. MOODY'S DEFINES CREDIT RISK AS THE RISK THAT AN ENTITY MAY NOT 
+MEET ITS CONTRACTUAL FINANCIAL OBLIGATIONS AS THEY COME DUE AND ANY ESTIMATED FINANCIAL LOSS IN THE EVENT OF DEFAULT OR 
+IMPAIRMENT. SEE APPLICABLE MOODY'S RATING SYMBOLS AND DEFINITIONS PUBLICATION FOR INFORMATION ON THE TYPES OF CONTRACTUAL 
+FINANCIAL OBLIGATIONS ADDRESSED BY MOODY'S CREDIT RATINGS. CREDIT RATINGS DO NOT ADDRESS ANY OTHER RISK, INCLUDING BUT NOT 
+LIMITED TO: LIQUIDITY RISK, MARKET VALUE RISK, OR PRICE VOLATILITY. CREDIT RATINGS, NON-CREDIT ASSESSMENTS (""ASSESSMENTS""), AND  OTHER 
+OPINIONS INCLUDED IN MOODY'S PUBLICATIONS ARE NOT STATEMENTS OF CURRENT OR HISTORICAL FACT. MOODY'S PUBLICATIONS MAY ALSO 
+INCLUDE QUANTITATIVE MODEL-BASED ESTIMATES OF CREDIT RISK AND RELATED OPINIONS OR COMMENTARY PUBLISHED BY MOODY'S ANALYTICS, 
+INC. AND/OR ITS AFFILIATES. MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND PUBLICATIONS DO NOT CONSTITUTE OR PROVIDE 
+INVESTMENT OR FINANCIAL ADVICE, AND MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND  PUBLICATIONS ARE NOT AND DO NOT 
+PROVIDE RECOMMENDATIONS TO PURCHASE, SELL, OR HOLD PARTICULAR SECURITIES. MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS 
+AND  PUBLICATIONS DO NOT COMMENT ON THE SUITABILITY OF AN INVESTMENT FOR ANY PARTICULAR INVESTOR. MOODY'S ISSUES ITS CREDIT 
+RATINGS, ASSESSMENTS AND OTHER OPINIONS AND PUBLISHES  ITS PUBLICATIONS WITH THE EXPECTATION AND UNDERSTANDING THAT EACH 
+INVESTOR WILL, WITH DUE CARE, MAKE ITS OWN STUDY AND EVALUATION OF EACH SECURITY THAT IS UNDER CONSIDERATION FOR PURCHASE, 
+HOLDING, OR SALE.  
+MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS, AND PUBLICATIONS ARE NOT INTENDED FOR USE BY RETAIL INVESTORS AND IT WOULD BE RECKLESS 
+AND INAPPROPRIATE FOR RETAIL INVESTORS TO USE MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS OR  PUBLICATIONS WHEN MAKING AN 
+INVESTMENT DECISION. IF IN DOUBT YOU SHOULD CONTACT YOUR FINANCIAL OR OTHER PROFESSIONAL ADVISER. 
+ 
+ALL INFORMATION CONTAINED HEREIN IS PROTECTED BY LAW, INCLUDING BUT NOT LIMITED TO, COPYRIGHT LAW, AND NONE OF SUCH INFORMATION MAY BE 
+COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR 
+SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT 
+MOODY'S PRIOR WRITTEN CONSENT. 
+ 
+MOODY'S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND PUBLICATIONS ARE NOT INTENDED FOR USE BY ANY PERSON AS A BENCHMARK AS THAT TERM IS 
+DEFINED FOR REGULATORY PURPOSES AND MUST NOT BE USED IN ANY WAY THAT COULD RESULT IN THEM BEING CONSIDERED A BENCHMARK.
+ 
+ 
+All information contained herein is obtained by MOODY'S from sources believed by it to be accurate and reliable. Because of the possibility of human or mechanical error as 
+well as other factors, however, all information contained herein is provided ""AS IS"" without warranty of any kind. MOODY'S adopts all necessary measures so that the 
+information it uses in assigning a credit rating is of sufficient quality and from sources MOODY'S considers to be reliable including, when appropriate, independent third-party 
+sources. However, MOODY'S is not an auditor and cannot in every instance independently verify or validate information received in the rating process or in preparing its 
+Publications.  
+ 
+To the extent permitted by law, MOODY'S and its directors, officers, employees, agents, representatives, licensors and suppliers disclaim liability to any person or entity for 
+any indirect, special, consequential, or incidental losses or damages whatsoever arising from or in connection with the information contained herein or the use of or inability to 
+use any such information, even if MOODY'S or any of its directors, officers, employees, agents, representatives, licensors or suppliers is advised in advance of the possibility of 
+such losses or damages, including but not limited to: (a) any loss of present or prospective profits or (b) any loss or damage arising where the relevant financial instrument is 
+not the subject of a particular credit rating assigned by MOODY'S. 
+ 
+To the extent permitted by law, MOODY'S and its directors, officers, employees, agents, representatives, licensors and suppliers disclaim liability for any direct or 
+compensatory losses or damages caused to any person or entity, including but not limited to by any negligence (but excluding fraud, willful misconduct or any other type of 
+liability that, for the avoidance of doubt, by law cannot be excluded) on the part of, or any contingency within or beyond the control of, MOODY'S or any of its directors, 
+officers, employees, agents, representatives, licensors or suppliers, arising from or in connection with the information contained herein or the use of or inability to use any such 
+information. 
+ 
+NO WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, TIMELINESS, COMPLETENESS, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OF ANY 
+CREDIT RATING, ASSESSMENT, OTHER OPINION OR INFORMATION IS GIVEN OR MADE BY MOODY'S IN ANY FORM OR MANNER WHATSOEVER. 
+ 
+Moody's Investors Service, Inc., a wholly-owned credit rating agency subsidiary of Moody's Corporation (""MCO""), hereby discloses that most issuers of debt securities 
+(including corporate and municipal bonds, debentures, notes and commercial paper) and preferred stock rated by Moody's Investors Service, Inc. have, prior to assignment of 
+any credit rating, agreed to pay to Moody's Investors Service, Inc. for credit ratings opinions and services rendered by it fees ranging from $1,000 to approximately $5,000,000. 
+MCO and Moody's Investors Service also maintain policies and procedures to address the independence of Moody's Investors Service credit ratings and credit rating processes. 
+Information regarding certain affiliations that may exist between directors of MCO and rated entities, and between entities who hold credit ratings from Moody's Investors 
+Service and have also publicly reported to the SEC an ownership interest in MCO of more than 5%, is posted annually at 
+www.moodys.com
+ under the heading ""Investor 
+Relations -- Corporate Governance -- Director and Shareholder Affiliation Policy.""
+  
+ 
+ 
+Additional terms for Australia only: Any publication into Australia of this document is pursuant to the Australian Financial Services License of MOODY'S affiliate, Moody's 
+Investors Service Pty Limited ABN 61 003 399 657AFSL 336969 and/or Moody's Analytics Australia Pty Ltd ABN 94 105 136 972 AFSL 383569 (as applicable). This document 
+is intended to be provided only to ""wholesale clients"" within the meaning of section 761G of the Corporations Act 2001. By continuing to access this document from within 
+Australia, you represent to MOODY'S that you are, or are accessing the document as a representative of, a ""wholesale client"" and that neither you nor the entity you represent 
+will directly or indirectly disseminate this document or its contents to ""retail clients"" within the meaning of section 761G of the Corporations Act 2001. MOODY'S credit rating 
+is an opinion as to the creditworthiness of a debt obligation of the issuer, not on the equity securities of the issuer or any form of security that is available to retail investors.
+ 
+ 
+Additional terms for Japan only: Moody's Japan K.K. (""MJKK"") is a wholly owned credit rating agency subsidiary of Moody's Group Japan G.K., which is wholly owned by 
+Moody's Overseas Holdings Inc., a wholly owned subsidiary of MCO. Moody's SF Japan K.K. (""MSFJ"") is a wholly owned credit rating agency subsidiary of MJKK. MSFJ is not a 
+Nationally Recognized Statistical Rating Organization (""NRSRO""). Therefore, credit ratings assigned by MSFJ are Non-NRSRO Credit Ratings. Non-NRSRO Credit Ratings are 
+assigned by an entity that is not a NRSRO and, consequently, the rated obligation will not qualify for certain types of treatment under U.S. laws. MJKK and MSFJ are credit 
+rating agencies registered with the Japan Financial Services Agency and their registration numbers are FSA Commissioner (Ratings) No. 2 and 3 respectively. 
+ 
+MJKK or MSFJ (as applicable) hereby disclose that most issuers of debt securities (including corporate and municipal bonds, debentures, notes and commercial paper) and 
+preferred stock rated by MJKK or MSFJ (as applicable) have, prior to assignment of any credit rating, agreed to pay to MJKK or MSFJ (as applicable) for credit ratings opinions 
+and services rendered by it fees ranging from JPY100,000 to approximately JPY550,000,000. 
+ 
+MJKK and MSFJ also maintain policies and procedures to address Japanese regulatory requirements. 
+ 
+ 
+",moodi analyt capit market week market moodi corpor moodi investor servic moodi analyt licensor affili collect moodi right credit rate issu moodi credit rate affili current opinion relat futur credit risk entiti credit commit debt debt secur materi product servic publish moodi collect public includ current opinion moodi defin credit risk risk entiti meet contractu financi oblig estim financi loss event default impair applic moodi rate symbol definit public type contractu financi oblig address moodi credit rate credit rate address risk includ limit liquid risk market risk price volatil credit rate credit assess assess opinion includ moodi public statement current histor moodi public includ quantit model base estim credit risk opinion commentari publish moodi analyt affili moodi credit rate assess opinion public constitut provid invest financi advic moodi credit rate assess opinion public provid purchas sell hold secur moodi credit rate assess opinion public comment suitabl invest investor moodi issu credit rate assess opinion publish public expect understand investor care studi evalu secur consider purchas hold sale moodi credit rate assess opinion public intend retail investor reckless inappropri retail investor moodi credit rate assess opinion public invest decis doubt contact financi profession advis contain protect law includ limit copyright law copi reproduc repackag transmit transfer dissemin redistribut resold store subsequ purpos form manner whatsoev moodi prior written consent moodi credit rate assess opinion public intend benchmark term defin regulatori result consid benchmark contain moodi sourc believ accur reliabl possibl human mechan error factor contain warranti moodi adopt measur assign credit rate suffici qualiti sourc moodi consid reliabl includ independ parti sourc moodi auditor instanc independ verifi valid receiv rate process prepar public extent permit law moodi director offic employe agent licensor supplier disclaim liabil entiti indirect special consequenti incident loss damag whatsoev aris connect contain inabl moodi director offic employe agent licensor supplier advis advanc possibl loss damag includ limit loss prospect profit loss damag aris relev financi instrument credit rate assign moodi extent permit law moodi director offic employe agent licensor supplier disclaim liabil direct compensatori loss damag caus entiti includ limit neglig exclud fraud will misconduct type liabil avoid doubt law exclud conting control moodi director offic employe agent licensor supplier aris connect contain inabl warranti express impli accuraci timeli complet fit purpos credit rate assess opinion moodi form manner whatsoev moodi investor servic wholli own credit rate agenc subsidiari moodi corpor mco disclos issuer debt secur includ corpor municip bond debentur note commerci paper prefer stock rate moodi investor servic prior assign credit rate agre pay moodi investor servic credit rate opinion servic render fee rang mco moodi investor servic maintain polici procedur address independ moodi investor servic credit rate credit rate process affili exist director mco rate entiti entiti hold credit rate moodi investor servic public report ownership mco post annual moodi head investor relat corpor govern director sharehold affili polici addit term australia public australia document pursuant australian financi servic licens moodi affili moodi investor servic pti limit abn afsl moodi analyt australia pti abn afsl applic document intend wholesal client mean corpor continu access document australia repres moodi access document repres wholesal client entiti repres indirect dissemin document content retail client mean corpor moodi credit rate opinion debt oblig issuer equiti secur issuer form secur retail investor addit term japan moodi japan mjkk wholli own credit rate agenc subsidiari moodi japan wholli own moodi oversea hold wholli own subsidiari mco moodi sf japan msfj wholli own credit rate agenc subsidiari mjkk msfj nation recogn statist rate organ nrsro credit rate assign msfj nrsro credit rate nrsro credit rate assign entiti nrsro rate oblig qualifi type treatment law mjkk msfj credit rate agenc regist japan financi servic agenc registr fsa commission rate mjkk msfj applic disclos issuer debt secur includ corpor municip bond debentur note commerci paper prefer stock rate mjkk msfj applic prior assign credit rate agre pay mjkk msfj applic credit rate opinion servic render fee rang jpi jpi mjkk msfj maintain polici procedur address japanes regulatori requir,"['moody', 'analytics', 'capital', 'markets', 'weekly', 'market', 'moody', 'corporation', 'moody', 'investors', 'service', 'moody', 'analytics', 'licensors', 'affiliates', 'collectively', 'moody', 'rights', 'credit', 'ratings', 'issued', 'moody', 'credit', 'ratings', 'affiliates', 'current', 'opinions', 'relative', 'future', 'credit', 'risk', 'entities', 'credit', 'commitments', 'debt', 'debt', 'securities', 'materials', 'products', 'services', 'published', 'moody', 'collectively', 'publications', 'include', 'current', 'opinions', 'moody', 'defines', 'credit', 'risk', 'risk', 'entity', 'meet', 'contractual', 'financial', 'obligations', 'estimated', 'financial', 'loss', 'event', 'default', 'impairment', 'applicable', 'moody', 'rating', 'symbols', 'definitions', 'publication', 'types', 'contractual', 'financial', 'obligations', 'addressed', 'moody', 'credit', 'ratings', 'credit', 'ratings', 'address', 'risk', 'including', 'limited', 'liquidity', 'risk', 'market', 'risk', 'price', 'volatility', 'credit', 'ratings', 'credit', 'assessments', 'assessments', 'opinions', 'included', 'moody', 'publications', 'statements', 'current', 'historical', 'moody', 'publications', 'include', 'quantitative', 'model', 'based', 'estimates', 'credit', 'risk', 'opinions', 'commentary', 'published', 'moody', 'analytics', 'affiliates', 'moody', 'credit', 'ratings', 'assessments', 'opinions', 'publications', 'constitute', 'provide', 'investment', 'financial', 'advice', 'moody', 'credit', 'ratings', 'assessments', 'opinions', 'publications', 'provide', 'purchase', 'sell', 'hold', 'securities', 'moody', 'credit', 'ratings', 'assessments', 'opinions', 'publications', 'comment', 'suitability', 'investment', 'investor', 'moody', 'issues', 'credit', 'ratings', 'assessments', 'opinions', 'publishes', 'publications', 'expectation', 'understanding', 'investor', 'care', 'study', 'evaluation', 'security', 'consideration', 'purchase', 'holding', 'sale', 'moody', 'credit', 'ratings', 'assessments', 'opinions', 'publications', 'intended', 'retail', 'investors', 'reckless', 'inappropriate', 'retail', 'investors', 'moody', 'credit', 'ratings', 'assessments', 'opinions', 'publications', 'investment', 'decision', 'doubt', 'contact', 'financial', 'professional', 'adviser', 'contained', 'protected', 'law', 'including', 'limited', 'copyright', 'law', 'copied', 'reproduced', 'repackaged', 'transmitted', 'transferred', 'disseminated', 'redistributed', 'resold', 'stored', 'subsequent', 'purpose', 'form', 'manner', 'whatsoever', 'moody', 'prior', 'written', 'consent', 'moody', 'credit', 'ratings', 'assessments', 'opinions', 'publications', 'intended', 'benchmark', 'term', 'defined', 'regulatory', 'result', 'considered', 'benchmark', 'contained', 'moody', 'sources', 'believed', 'accurate', 'reliable', 'possibility', 'human', 'mechanical', 'error', 'factors', 'contained', 'warranty', 'moody', 'adopts', 'measures', 'assigning', 'credit', 'rating', 'sufficient', 'quality', 'sources', 'moody', 'considers', 'reliable', 'including', 'independent', 'party', 'sources', 'moody', 'auditor', 'instance', 'independently', 'verify', 'validate', 'received', 'rating', 'process', 'preparing', 'publications', 'extent', 'permitted', 'law', 'moody', 'directors', 'officers', 'employees', 'agents', 'licensors', 'suppliers', 'disclaim', 'liability', 'entity', 'indirect', 'special', 'consequential', 'incidental', 'losses', 'damages', 'whatsoever', 'arising', 'connection', 'contained', 'inability', 'moody', 'directors', 'officers', 'employees', 'agents', 'licensors', 'suppliers', 'advised', 'advance', 'possibility', 'losses', 'damages', 'including', 'limited', 'loss', 'prospective', 'profits', 'loss', 'damage', 'arising', 'relevant', 'financial', 'instrument', 'credit', 'rating', 'assigned', 'moody', 'extent', 'permitted', 'law', 'moody', 'directors', 'officers', 'employees', 'agents', 'licensors', 'suppliers', 'disclaim', 'liability', 'direct', 'compensatory', 'losses', 'damages', 'caused', 'entity', 'including', 'limited', 'negligence', 'excluding', 'fraud', 'willful', 'misconduct', 'type', 'liability', 'avoidance', 'doubt', 'law', 'excluded', 'contingency', 'control', 'moody', 'directors', 'officers', 'employees', 'agents', 'licensors', 'suppliers', 'arising', 'connection', 'contained', 'inability', 'warranty', 'express', 'implied', 'accuracy', 'timeliness', 'completeness', 'fitness', 'purpose', 'credit', 'rating', 'assessment', 'opinion', 'moody', 'form', 'manner', 'whatsoever', 'moody', 'investors', 'service', 'wholly', 'owned', 'credit', 'rating', 'agency', 'subsidiary', 'moody', 'corporation', 'mco', 'discloses', 'issuers', 'debt', 'securities', 'including', 'corporate', 'municipal', 'bonds', 'debentures', 'notes', 'commercial', 'paper', 'preferred', 'stock', 'rated', 'moody', 'investors', 'service', 'prior', 'assignment', 'credit', 'rating', 'agreed', 'pay', 'moody', 'investors', 'service', 'credit', 'ratings', 'opinions', 'services', 'rendered', 'fees', 'ranging', 'mco', 'moody', 'investors', 'service', 'maintain', 'policies', 'procedures', 'address', 'independence', 'moody', 'investors', 'service', 'credit', 'ratings', 'credit', 'rating', 'processes', 'affiliations', 'exist', 'directors', 'mco', 'rated', 'entities', 'entities', 'hold', 'credit', 'ratings', 'moody', 'investors', 'service', 'publicly', 'reported', 'ownership', 'mco', 'posted', 'annually', 'moodys', 'heading', 'investor', 'relations', 'corporate', 'governance', 'director', 'shareholder', 'affiliation', 'policy', 'additional', 'terms', 'australia', 'publication', 'australia', 'document', 'pursuant', 'australian', 'financial', 'services', 'license', 'moody', 'affiliate', 'moody', 'investors', 'service', 'pty', 'limited', 'abn', 'afsl', 'moody', 'analytics', 'australia', 'pty', 'abn', 'afsl', 'applicable', 'document', 'intended', 'wholesale', 'clients', 'meaning', 'corporations', 'continuing', 'access', 'document', 'australia', 'represent', 'moody', 'accessing', 'document', 'representative', 'wholesale', 'client', 'entity', 'represent', 'indirectly', 'disseminate', 'document', 'contents', 'retail', 'clients', 'meaning', 'corporations', 'moody', 'credit', 'rating', 'opinion', 'debt', 'obligation', 'issuer', 'equity', 'securities', 'issuer', 'form', 'security', 'retail', 'investors', 'additional', 'terms', 'japan', 'moody', 'japan', 'mjkk', 'wholly', 'owned', 'credit', 'rating', 'agency', 'subsidiary', 'moody', 'japan', 'wholly', 'owned', 'moody', 'overseas', 'holdings', 'wholly', 'owned', 'subsidiary', 'mco', 'moody', 'sf', 'japan', 'msfj', 'wholly', 'owned', 'credit', 'rating', 'agency', 'subsidiary', 'mjkk', 'msfj', 'nationally', 'recognized', 'statistical', 'rating', 'organization', 'nrsro', 'credit', 'ratings', 'assigned', 'msfj', 'nrsro', 'credit', 'ratings', 'nrsro', 'credit', 'ratings', 'assigned', 'entity', 'nrsro', 'rated', 'obligation', 'qualify', 'types', 'treatment', 'laws', 'mjkk', 'msfj', 'credit', 'rating', 'agencies', 'registered', 'japan', 'financial', 'services', 'agency', 'registration', 'fsa', 'commissioner', 'ratings', 'mjkk', 'msfj', 'applicable', 'disclose', 'issuers', 'debt', 'securities', 'including', 'corporate', 'municipal', 'bonds', 'debentures', 'notes', 'commercial', 'paper', 'preferred', 'stock', 'rated', 'mjkk', 'msfj', 'applicable', 'prior', 'assignment', 'credit', 'rating', 'agreed', 'pay', 'mjkk', 'msfj', 'applicable', 'credit', 'ratings', 'opinions', 'services', 'rendered', 'fees', 'ranging', 'jpy', 'jpy', 'mjkk', 'msfj', 'maintain', 'policies', 'procedures', 'address', 'japanese', 'regulatory', 'requirements']",0.3346049783549783,07 08 2022,Moodys,Weekly-Market-Outlook,1

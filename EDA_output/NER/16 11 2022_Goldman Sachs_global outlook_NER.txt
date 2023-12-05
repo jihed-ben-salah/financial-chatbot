@@ -1,0 +1,1297 @@
+2022 : DATE
+russia : GPE
+just 1 8 : CARDINAL
+2023 : DATE
+european : NORP
+china : GPE
+us : GPE
+5 : CARDINAL
+3 : CARDINAL
+½pp : ORG
+fed : ORG
+125bp : ORDINAL
+5 : CARDINAL
+2023 : DATE
+first : ORDINAL
+second : ORDINAL
+third : ORDINAL
+uk : GPE
+europe : LOC
+russian : NORP
+3 : CARDINAL
+china : GPE
+april : DATE
+china : GPE
+europe : LOC
+latin america : LOC
+brazil : GPE
+jan : CARDINAL
+0394 : DATE
+hatzius gs : ORG
+1 212 : CARDINAL
+4172 : DATE
+llc 
+yulia : ORG
+1 : CARDINAL
+3905 : DATE
+zhestkova gs : PERSON
+1 917 : CARDINAL
+343 9216 : CARDINAL
+2023 : CARDINAL
+16 : CARDINAL
+november 2022 : DATE
+59am : ORDINAL
+16 november : DATE
+2023 : CARDINAL
+2022 : DATE
+china : GPE
+russia : GPE
+1 8 : CARDINAL
+2023 : DATE
+europe : LOC
+china : GPE
+us : GPE
+brazil : GPE
+1 : CARDINAL
+2023 : DATE
+us : GPE
+gs gs 
+ : PERSON
+0 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+1 : CARDINAL
+6 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+7 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+4 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+q4 q4 : PERSON
+next 4 quarters : DATE
+2022 2023 2024 : DATE
+annual : DATE
+2023 : DATE
+brazil : GPE
+russia : GPE
+calendar year basis 2022 2024 : DATE
+2023 25 : DATE
+us : GPE
+japan : GPE
+canada : GPE
+the european economies : ORG
+2023 : DATE
+india : GPE
+2024 : DATE
+fx : ORG
+canada : GPE
+china : GPE
+india : GPE
+japan : GPE
+16 : CARDINAL
+november 2022 2 : DATE
+the past year : DATE
+about 1 : CARDINAL
+2023 unlike year ago : DATE
+2022 : DATE
+2023 : DATE
+2023 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+35 : CARDINAL
+us : GPE
+the next 12 months : DATE
+65 : CARDINAL
+2 : CARDINAL
+0 0 : CARDINAL
+0 5 : CARDINAL
+1 0 : CARDINAL
+1 5 : CARDINAL
+2 0 : CARDINAL
+2 5 : CARDINAL
+3 0 : CARDINAL
+0 0 : CARDINAL
+0 5 : CARDINAL
+1 0 : CARDINAL
+1 5 : CARDINAL
+2 0 : CARDINAL
+2 5 : CARDINAL
+3 : CARDINAL
+jan 2022 : DATE
+2022 : DATE
+2022 : DATE
+oct 2022 : DATE
+gs bloomberg consensus 
+percent : PERSON
+year ago : DATE
+year ago : DATE
+2023 : CARDINAL
+16 : CARDINAL
+november 2022 : DATE
+3 : CARDINAL
+3 : CARDINAL
+the next 12 months : DATE
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+0 : CARDINAL
+20 : CARDINAL
+35 
+percent percent : PERCENT
+next 12 months : DATE
+wall street journal : ORG
+october 2022 : DATE
+65 : CARDINAL
+the wall street journal : ORG
+any given : DATE
+12 month : DATE
+50 one : CARDINAL
+2 6 : CARDINAL
+q3 : CARDINAL
+261k : CARDINAL
+october : DATE
+225k : CARDINAL
+the week of november 5 : DATE
+coming quarters : DATE
+nearly 2pp : DATE
+3 : CARDINAL
+the next year : DATE
+4 : CARDINAL
+2023 : CARDINAL
+16 : CARDINAL
+november 2022 4 : DATE
+fed : ORG
+2 : CARDINAL
+the next year : DATE
+½pp : ORG
+5 : CARDINAL
+the 1970s : DATE
+6 : CARDINAL
+2020 2021 : DATE
+4 : CARDINAL
+2 5 : DATE
+2 : CARDINAL
+1 5 : DATE
+0 5 : CARDINAL
+0 0 : CARDINAL
+0 5 : CARDINAL
+1 0 : CARDINAL
+1 5 : CARDINAL
+2 5 : DATE
+2 : CARDINAL
+1 5 : DATE
+0 5 : CARDINAL
+0 0 : CARDINAL
+0 5 : CARDINAL
+1 0 : CARDINAL
+1 5 : CARDINAL
+2 0 : CARDINAL
+2021 2022 : DATE
+2023 : DATE
+3 quarter : DATE
+november 15 2022 : DATE
+15 : CARDINAL
+10 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+15 : CARDINAL
+10 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+nov 
+jan 
+mar : DATE
+nov 
+jan 
+mar : DATE
+nov 
+2021 2022 : DATE
+2023 : DATE
+dec 2020 percent : DATE
+dec 2020 : DATE
+5 : CARDINAL
+2pp : CARDINAL
+2023 : DATE
+½pp : ORG
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+21 : CARDINAL
+22 : CARDINAL
+23 : CARDINAL
+24 
+percent : PERCENT
+year ago : DATE
+year ago : DATE
+us : GPE
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 
+jan 21 : DATE
+21 : CARDINAL
+22 : CARDINAL
+23 : CARDINAL
+24 
+percent percent : PERCENT
+16 : CARDINAL
+november 2022 : DATE
+5 : CARDINAL
+6 : CARDINAL
+88 : CARDINAL
+90 : CARDINAL
+92 : CARDINAL
+94 : CARDINAL
+96 : CARDINAL
+98 : CARDINAL
+100 : CARDINAL
+102 : CARDINAL
+104 : CARDINAL
+106 : CARDINAL
+88 : CARDINAL
+90 : CARDINAL
+92 : CARDINAL
+94 : CARDINAL
+96 : CARDINAL
+98 : CARDINAL
+100 : CARDINAL
+102 : CARDINAL
+104 : CARDINAL
+106 : CARDINAL
+2010 : DATE
+2012 2014 2016 2018 : DATE
+2020 2022 : DATE
+nearly 6 million : CARDINAL
+2mn : ORDINAL
+7 : CARDINAL
+hourly : TIME
+monthly : DATE
+4½ : CARDINAL
+7 : CARDINAL
+16 : CARDINAL
+november 2022 : DATE
+6 : CARDINAL
+second : ORDINAL
+the 1970s : DATE
+8 : CARDINAL
+one : CARDINAL
+october : DATE
+monthly : DATE
+year : DATE
+year : DATE
+next spring : DATE
+7 : CARDINAL
+4 : CARDINAL
+3 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+4 : CARDINAL
+3 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+22 : DATE
+22 : CARDINAL
+22 : CARDINAL
+millions millions : CARDINAL
+2023 : DATE
+10 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 
+2008 2010 : DATE
+2012 2014 2016 2018 : DATE
+2020 2022 : DATE
+hourly : TIME
+monthly : DATE
+annual : DATE
+6 : CARDINAL
+annual : DATE
+dallas : GPE
+fed : ORG
+dallas fed : ORG
+richmond fed : ORG
+richmond fed : ORG
+fed : ORG
+gs kansas fed : ORG
+16 : CARDINAL
+november 2022 : DATE
+third : ORDINAL
+1970s : DATE
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+9 : CARDINAL
+year : DATE
+5 1 : CARDINAL
+september : DATE
+2 9 : DATE
+december 2023 : DATE
+10 : CARDINAL
+nearly half : CARDINAL
+8 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+6 : CARDINAL
+9 : CARDINAL
+12 : CARDINAL
+20 : CARDINAL
+10 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+2020 2021 2022 : DATE
+gs : PERSON
+monthly : DATE
+annual : DATE
+monthly : DATE
+annual : DATE
+2 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+2012 2014 2016 2018 : DATE
+2020 2022 : DATE
+ism p ism chicago ny : ORG
+fed : ORG
+philadelphia : GPE
+fed : ORG
+richmond : GPE
+fed : ORG
+dallas : GPE
+fed : ORG
+kansas : GPE
+fed : ORG
+9 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 
+1979 1984 1989 1994 : DATE
+2004 2009 2014 2019 2024 : DATE
+university of michigan : ORG
+next 5 10 years : DATE
+2000 2019 : DATE
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+1970 1980 1990 : DATE
+2010 2020 : DATE
+months : DATE
+prior 10 years : DATE
+2 5 : CARDINAL
+16 : CARDINAL
+november 2022 : DATE
+around 2pp : DATE
+4 : CARDINAL
+the past month : DATE
+fed : ORG
+50bp : ORDINAL
+december : DATE
+three : CARDINAL
+february march : DATE
+5 : CARDINAL
+25 : CARDINAL
+11 : CARDINAL
+10 : CARDINAL
+2 9 : DATE
+2023 : DATE
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+jan 19 : DATE
+19 
+jul : QUANTITY
+19 : CARDINAL
+jan 20 : DATE
+20 : CARDINAL
+20 : CARDINAL
+jan 21 : DATE
+21 : CARDINAL
+21 : CARDINAL
+oct 21 : DATE
+jan 22 : DATE
+22 : CARDINAL
+22 : CARDINAL
+oct 22 : DATE
+jan 23 : DATE
+23 : CARDINAL
+23 : CARDINAL
+oct 23 : DATE
+jan 24 : DATE
+24 : CARDINAL
+24 : CARDINAL
+oct 24 : DATE
+year ago : DATE
+year ago : DATE
+year : DATE
+16 : CARDINAL
+november 2022 : DATE
+11 : CARDINAL
+2023 : DATE
+25bp 
+ : DATE
+50bp : ORDINAL
+25bp 15bp : DATE
+0 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+5 5 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+jun jul : PERSON
+nov dec feb mar may end : DATE
+23 
+percent percent : PERCENT
+5 : CARDINAL
+4 48 : CARDINAL
+2022 2023 : DATE
+25bp 5bp : DATE
+2023 : DATE
+fed : ORG
+25bp : ORDINAL
+2024q2 : CARDINAL
+fed : ORG
+16 : CARDINAL
+november 2022 : DATE
+10 : CARDINAL
+europe : LOC
+uk : GPE
+12 : CARDINAL
+11 : CARDINAL
+uk : GPE
+us : GPE
+12 : CARDINAL
+1½ : CARDINAL
+2023q1 : CARDINAL
+3 : CARDINAL
+uk : GPE
+2023q2 : CARDINAL
+12 : CARDINAL
+european : NORP
+13 : CARDINAL
+0 7 : DATE
+2022q4 2023q2 : TIME
+12 : CARDINAL
+europe : LOC
+16 : CARDINAL
+november 2022 11 : DATE
+13 : CARDINAL
+european : NORP
+european : NORP
+winter : DATE
+europe : LOC
+russian : NORP
+80 : CARDINAL
+20 25 : CARDINAL
+uk : GPE
+russian : NORP
+60 : CARDINAL
+winter : DATE
+europe : LOC
+three : CARDINAL
+first : ORDINAL
+14 : CARDINAL
+german : NORP
+16 : CARDINAL
+november 2022 12 : DATE
+second : ORDINAL
+us : GPE
+early 2022 : DATE
+15 : CARDINAL
+europe : LOC
+us : GPE
+european : NORP
+third : ORDINAL
+europe : LOC
+european : NORP
+next summer : DATE
+europe : LOC
+14 : CARDINAL
+german : NORP
+5 : CARDINAL
+4 : CARDINAL
+3 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+5 : CARDINAL
+4 : CARDINAL
+3 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+22 : DATE
+22 : DATE
+22 jun 22 jul : QUANTITY
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+dec 2019 : DATE
+german : NORP
+15 : CARDINAL
+europe : LOC
+2018 2019 : DATE
+2020 2021 : DATE
+2022 : DATE
+10 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+10 : CARDINAL
+5 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+2019q4 : CARDINAL
+75 : CARDINAL
+80 : CARDINAL
+85 : CARDINAL
+90 : CARDINAL
+95 : CARDINAL
+100 : CARDINAL
+105 : CARDINAL
+110 : CARDINAL
+75 : CARDINAL
+80 : CARDINAL
+85 : CARDINAL
+90 : CARDINAL
+95 : CARDINAL
+100 : CARDINAL
+105 : CARDINAL
+110 : CARDINAL
+2015 2016 2017 : DATE
+2020 2021 2022 : DATE
+up to 5 years 
+december 2019 : DATE
+100 : CARDINAL
+december 2019 : DATE
+100 : CARDINAL
+16 : CARDINAL
+november 2022 : DATE
+13 : MONEY
+the second half of 2023 : DATE
+2023 : CARDINAL
+0 1 : CARDINAL
+0 4 : CARDINAL
+european : NORP
+16 : CARDINAL
+europe : LOC
+us : GPE
+5 3 year over year : DATE
+december : DATE
+just above 3 : CARDINAL
+2023 : DATE
+uk : GPE
+3 : CARDINAL
+2023 : DATE
+3 : CARDINAL
+2 75 : DATE
+50bp : ORDINAL
+december : DATE
+fed : ORG
+second : ORDINAL
+50bp : ORDINAL
+february : DATE
+two : CARDINAL
+3 : CARDINAL
+two : CARDINAL
+italy : GPE
+4 5 : CARDINAL
+16 : CARDINAL
+europe : LOC
+3 : CARDINAL
+16 : CARDINAL
+november 2022 : DATE
+14 : CARDINAL
+china : GPE
+2023 : DATE
+china : GPE
+two : CARDINAL
+the ﬁrst half : DATE
+the second half : DATE
+17 : CARDINAL
+q4 : GPE
+zero : CARDINAL
+zcp : PERSON
+1 2 : CARDINAL
+17 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+q3 q4 : PERSON
+2022 2023 : DATE
+bloomberg consensus 
+percent : PERSON
+quarterly : DATE
+annual : DATE
+quarterly : DATE
+annual : DATE
+china : GPE
+april : DATE
+less than 70 : CARDINAL
+60 : CARDINAL
+china : GPE
+18 : CARDINAL
+hong kong : GPE
+china : GPE
+100k day : DATE
+16 : CARDINAL
+november 2022 : DATE
+15 : CARDINAL
+april : DATE
+just 2 : CARDINAL
+east asian : NORP
+south korea : GPE
+taiwan : GPE
+hong kong : GPE
+the ﬁrst quarter : DATE
+2024 : DATE
+zcp : PERSON
+about 4 5 : CARDINAL
+q3 : PRODUCT
+q4 : PERSON
+10 and 6 : CARDINAL
+china : GPE
+multi year : DATE
+next year : DATE
+19 : CARDINAL
+18 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+china : GPE
+japan : GPE
+china : GPE
+germany : GPE
+100k : PRODUCT
+china : GPE
+3 : CARDINAL
+chinese : NORP
+hong kong : GPE
+2 : CARDINAL
+mrna : GPE
+3 : CARDINAL
+chinese : NORP
+japan : GPE
+spain : GPE
+2 : CARDINAL
+mrna : GPE
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+2021 : DATE
+2021 : DATE
+2021 : DATE
+2022 : DATE
+2022 : DATE
+millions millions : MONEY
+19 : CARDINAL
+china : GPE
+7 day : DATE
+hong kong : GPE
+16 : CARDINAL
+november 2022 : DATE
+16 : CARDINAL
+china : GPE
+china : GPE
+next year : DATE
+2026 : DATE
+china : GPE
+asian : NORP
+2023 : DATE
+0 7 to 1 2 : CARDINAL
+next year : DATE
+2 : CARDINAL
+2023h2 : CARDINAL
+2024h1 : CARDINAL
+china : GPE
+20 : CARDINAL
+recent years : DATE
+only 4 2 : CARDINAL
+2023 : DATE
+just above 3 : CARDINAL
+the next decade : DATE
+19 : CARDINAL
+china : GPE
+3 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+3 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+annual : DATE
+0 : CARDINAL
+4 : CARDINAL
+8 : CARDINAL
+12 : CARDINAL
+16 : CARDINAL
+20 : CARDINAL
+24 : CARDINAL
+0 : CARDINAL
+4 : CARDINAL
+8 : CARDINAL
+12 : CARDINAL
+16 : CARDINAL
+20 : CARDINAL
+24 : CARDINAL
+2030 2035 2040 2045 : DATE
+million million : CARDINAL
+each year : DATE
+16 : CARDINAL
+november 2022 17 : DATE
+20 2023 2024 : DATE
+china : GPE
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+2030 2031 : DATE
+2032 : DATE
+china : GPE
+year ago : DATE
+year ago : DATE
+2022 2024 : DATE
+2025 2032 : DATE
+bloomberg consensus economics goldman sachs global investment research : ORG
+16 : CARDINAL
+november 2022 18 : DATE
+latin america : LOC
+eastern europe : LOC
+nine em early : DATE
+800bp : NORP
+21 : CARDINAL
+450bp 1 : LAW
+21 : CARDINAL
+2 : CARDINAL
+brazil : GPE
+2023q2 : CARDINAL
+2 : CARDINAL
+the second half of the year : DATE
+22 : CARDINAL
+european : NORP
+hungary : GPE
+poland : GPE
+czech : NORP
+polish : NORP
+22 : CARDINAL
+1 : CARDINAL
+october 2021 : DATE
+the ﬁrst six months : DATE
+2 : CARDINAL
+the czech republic : GPE
+poland : GPE
+21 : CARDINAL
+800bp : NORP
+march 2021 : DATE
+the average em early hiker : DATE
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 
+jul : QUANTITY
+19 : CARDINAL
+20 jan 21 : DATE
+21 : CARDINAL
+22 
+percent percent : PERCENT
+0 : CARDINAL
+100 : CARDINAL
+200 : CARDINAL
+300 : CARDINAL
+400 : CARDINAL
+500 : CARDINAL
+600 : CARDINAL
+700 : CARDINAL
+800 : CARDINAL
+1000 : CARDINAL
+21 nov : TIME
+22 : CARDINAL
+22 : CARDINAL
+22 : CARDINAL
+100 : CARDINAL
+200 : CARDINAL
+300 : CARDINAL
+400 : CARDINAL
+500 : CARDINAL
+600 : CARDINAL
+700 : CARDINAL
+800 : CARDINAL
+1000 : CARDINAL
+march 2021 : DATE
+brazil : GPE
+chile : GPE
+colombia : GPE
+the czech republic : GPE
+hungary : GPE
+mexico : GPE
+peru : GPE
+poland : GPE
+romania : GPE
+16 : CARDINAL
+november 2022 : DATE
+19 : CARDINAL
+2023 : DATE
+one : CARDINAL
+europe : LOC
+us : GPE
+us : GPE
+europe : LOC
+us : GPE
+fed : ORG
+recent months : DATE
+22 : CARDINAL
+brazil : GPE
+2023q2 : CARDINAL
+fx : ORG
+latin america : LOC
+16 : CARDINAL
+november 2022 : DATE
+20 : CARDINAL
+italian : NORP
+brazilian : NORP
+us : GPE
+italian : NORP
+brazil : GPE
+us : GPE
+2023 : DATE
+congress : ORG
+between now and year end 2022 : DATE
+us : GPE
+china : GPE
+the russia ukraine : ORG
+the ﬁrst half of 2022 : DATE
+russia : GPE
+russian : NORP
+the middle east : LOC
+16 : CARDINAL
+november 2022 : DATE
+21 : CARDINAL
+jan hatzius daan : ORG
+yulia zhestkova : ORG
+united states : GPE
+1 : CARDINAL
+2241 : CARDINAL
+2242 : DATE
+the united states : GPE
+regulations australia goldman sachs australia pty ltd : ORG
+australia : GPE
+australia : GPE
+australian : NORP
+goldman sachs australia : ORG
+goldman sachs australia : ORG
+australia : GPE
+new zealand : GPE
+australian : NORP
+brazil : GPE
+resolution 20 : LAW
+brazil : GPE
+article 20 : LAW
+resolution 20 : LAW
+canada : GPE
+canadian : NORP
+canada : GPE
+canadian : NORP
+canadian : NORP
+canada : GPE
+canadian : NORP
+canada : GPE
+goldman sachs canada inc an : ORG
+the goldman sachs group inc : ORG
+canadian : NORP
+hong kong : GPE
+goldman sachs : ORG
+asia l india : NORP
+india : GPE
+951 : CARDINAL
+mumbai : GPE
+400 : CARDINAL
+india : GPE
+91 : CARDINAL
+22 : CARDINAL
+6616 : CARDINAL
+6616 9001 : DATE
+1 : CARDINAL
+2 : CARDINAL
+indian : NORP
+1956 : DATE
+japan : GPE
+asia : LOC
+seoul branch : ORG
+new zealand : GPE
+goldman sachs : ORG
+new zealand : GPE
+new zealand : GPE
+1989 : DATE
+new zealand : GPE
+2008 : DATE
+australia : GPE
+new zealand : GPE
+russia : GPE
+russian : NORP
+russian : NORP
+russian : NORP
+russian : NORP
+198602165w : DATE
+taiwan : GPE
+united kingdom : GPE
+the united kingdom : GPE
+goldman sachs international copy : ORG
+european union : ORG
+united kingdom : GPE
+article 6 2 : LAW
+the european commission : ORG
+2016 958 : DATE
+no 596 2014 : DATE
+european : NORP
+united kingdom : GPE
+the united kingdom : GPE
+the european union : ORG
+european : NORP
+16 : CARDINAL
+november 2022 : DATE
+22 : CARDINAL
+european : NORP
+japan : GPE
+japan co ltd : ORG
+the kanto financial bureau : ORG
+69 : CARDINAL
+japan securities dealers association financial futures association of : ORG
+japan : GPE
+japanese : NORP
+japanese : NORP
+japanese : NORP
+australia : GPE
+goldman sachs australia pty ltd abn : ORG
+21 006 : CARDINAL
+897 : CARDINAL
+brazil : GPE
+brasil corretora de títulos : PERSON
+0800 : CARDINAL
+5764 : DATE
+9am to 6pm : TIME
+canal de comunicação : ORG
+0800 : CARDINAL
+5764 : CARDINAL
+horário de funcionamento : PERSON
+segunda feira : PERSON
+canada : GPE
+goldman sachs : ORG
+llc : ORG
+hong kong : GPE
+goldman sachs : ORG
+asia l : LOC
+india : GPE
+goldman sachs : ORG
+india securities private ltd : ORG
+japan : GPE
+goldman : ORG
+japan co ltd : ORG
+korea : GPE
+goldman sachs : ORG
+asia : LOC
+new zealand : GPE
+goldman sachs : ORG
+new zealand : GPE
+russia : GPE
+singapore : GPE
+goldman sachs singapore pte company : ORG
+198602165w : DATE
+the united states of america : GPE
+the united kingdom : GPE
+the united kingdom : GPE
+the european union : ORG
+european : NORP
+the prudential regulation authority : ORG
+the united kingdom : GPE
+european : NORP
+european : NORP
+luxembourg : GPE
+belgium : GPE
+norway : GPE
+the republic of finland : GPE
+de paris paris : ORG
+brexit day : DATE
+french : NORP
+de contrôle : PERSON
+prudentiel et de resolution : PERSON
+de contrôle : PERSON
+prudentiel et de resolution : PERSON
+france : GPE
+gsi sucursal : PERSON
+madrid : GPE
+spain : GPE
+del mercado de : PERSON
+spain : GPE
+gsi sweden : PERSON
+stockholm : GPE
+third : ORDINAL
+chapter 4 : LAW
+section 4 : LAW
+swedish : NORP
+528 : CARDINAL
+goldman sachs bank : ORG
+europe : LOC
+se gsbe : PERSON
+germany : GPE
+the european central bank : ORG
+german : NORP
+germany : GPE
+european : NORP
+gsi : ORG
+the danish financial authority : ORG
+gsbe sucursal : PERSON
+madrid : GPE
+spain : GPE
+spain : GPE
+italia milan : ORG
+the bank of italy banca : ORG
+italian : NORP
+commissione nazionale : ORG
+italy gsbe : GPE
+de paris paris : ORG
+france : GPE
+gsbe sweden bankﬁlial stockholm branch : ORG
+the swedish financial supervisory authority : ORG
+the united states : GPE
+third : ORDINAL
+goldman sachs : ORG
+third : ORDINAL
+16 : CARDINAL
+november 2022 23 : DATE
+third : ORDINAL
+third : ORDINAL
+one : CARDINAL
+200 : CARDINAL
+west street : LOC
+new york : GPE
+10282 : CARDINAL
+the goldman sachs group inc : ORG
+16 : CARDINAL
+november 2022 : DATE
+24 : CARDINAL

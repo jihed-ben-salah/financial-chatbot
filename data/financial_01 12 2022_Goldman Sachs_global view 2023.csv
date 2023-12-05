@@ -1,0 +1,106 @@
+file_name,page_num,subjectivity_score,date,bank,title,topic,text,tokens,clean_text
+01 12 2022_Goldman Sachs_global view 2023,2,0.33037584843140405,01 12 2022,Goldman Sachs,global view 2023,0,"Strategic Advisory Solutions
+Goldman Sachs Asset Management
+2
+MARKET PULSE: SPECIAL EDITION - 10 FOR 2023
+Section Notes: 
+1
+Federal Reserve Bank of Philadelphia, 
+2
+International Labor Organization (ILO), 
+3
+Transportation Security Administration (TSA), 
+4
+Mortgage 
+Bankers Association, 
+5
+Bureau of Economic Analysis, 
+6
+University of Michigan Survey of Consumers, 
+7,9
+Goldman Sachs Asset Management, 
+8
+Goldman 
+Sachs Global Investment Research, and 
+9
+Bloomberg. As of November 21, 2022, latest data available. Goldman Sachs does not provide accounting, tax or 
+legal advice. The economic and market forecasts presented herein are for informational purposes as of the date of this document. There can be no 
+assurance that the forecasts will be achieved. 
+Past performance does not guarantee future results, which may vary. 
+Point Break
+We expect 2023 to be a year filled with macro inflection points as inflation and monetary policy pressures start to diminish.
+Alongside this transition, we believe investor prioritization of profitability over revenue and sticky income over the uncertainty of 
+capital appreciation will be paramount. Market opportunities have already reset and investing next year may feature more of 1) 
+stocks with durable cash flows, 2) quality bonds with significant coupons, and 3) alternatives with volatility-reducing attributes. 
+SUPPLY TIMELINES: 
+The share of manufacturing companies reporting faster supplier 
+delivery times has increased 171% since the beginning of 2022
+1
+. 
+WORKING HOURS: 
+Global labor supply remains squeezed. The ILO estimates total work 
+hours to stay 1.5% below pre-pandemic levels, equating to a deficit of 40mm full-time jobs
+2
+.  
+TRAVEL SURGE: 
+The daily number of passengers screened at TSA checkpoints has 
+jumped by 17x relative to the pandemic low in 2020
+3
+. 
+HOME EQUITY:
+ Only 2% of US mortgages have negative equity today versus 25% in 
+2011
+4
+. Home prices would need to fall by 30% from 2021 levels to meaningfully erode loan-
+to-value ratios and increase strategic defaults. 
+CREDIT TRENDS:
+ While US loan delinquencies remain subdued, spending has rotated 
+from discretionary to essential; top areas of credit acceleration--automotive parts, gas, and 
+materials--have discouraged borrowing for recreation, clothing, and food services
+5
+.
+BAD MOOD:
+ The UMichigan Consumer Sentiment Index printed below 60 in seven 
+consecutive 
+months, the longest stretch since inception as sticky costs diminish morale
+6
+. 
+SINGLE STOCK: 
+As of 3Q, 80% of S&P 500 companies have seen their equity prices fall at 
+least 10% at some point this year, providing a large base for tax-loss harvesting
+7
+. 
+UP DOWN: 
+Performance swings have been more volatile this year relative to the long-term 
+average. Positive days in 2022 have returned a daily average of 1.31% while negative days 
+have posted an average drag of -1.14%, much wider than the historical bounds of +0.75%
+7
+. 
+TECH BREAK: 
+The market value loss for mega tech stocks this year is equivalent to the 
+annual GDP of UK or France
+8
+. 
+YIELD LAGGARD: 
+A year ago, ~25% of global government debt offered negative nominal 
+yields. Today, Japan is the last remaining sovereign borrower with negative-yielding debt, 
+comprising <5% of all government debt
+8
+.
+COST BENEFIT: 
+Rate volatility has exceeded the 90th percentile relative to the past ten 
+years. Still, US Treasuries are yielding 5.5x more per unit of volatility than US stocks
+8
+. 
+DURATION LIMITS: 
+The risk and cost of a rate shock are lower and less punitive today 
+relative to earlier this year. While a 100 bp rate shock may drag the Bloomberg US 
+Aggregate Bond Index by -6.2%, a coupon offset of 2.7% may ultimately limit left-tail risks
+9
+. 
+ACTIVITY
+CONSUMERS
+EQUITIES
+FIXED
+INCOME
+","['strategic', 'advisory', 'solutions', 'asset', 'management', 'market', 'pulse', 'special', 'edition', 'notes', 'federal', 'reserve', 'philadelphia', 'international', 'labor', 'organization', 'ilo', 'transportation', 'security', 'administration', 'tsa', 'mortgage', 'bankers', 'association', 'bureau', 'economic', 'analysis', 'university', 'michigan', 'survey', 'consumers', 'asset', 'management', 'global', 'investment', 'bloomberg', 'november', 'provide', 'accounting', 'tax', 'legal', 'advice', 'economic', 'market', 'forecasts', 'informational', 'document', 'assurance', 'forecasts', 'achieved', 'performance', 'guarantee', 'future', 'vary', 'break', 'expect', 'filled', 'macro', 'inflection', 'inflation', 'monetary', 'policy', 'pressures', 'start', 'diminish', 'transition', 'investor', 'prioritization', 'profitability', 'revenue', 'sticky', 'income', 'uncertainty', 'capital', 'appreciation', 'paramount', 'market', 'opportunities', 'reset', 'investing', 'feature', 'stocks', 'durable', 'cash', 'flows', 'quality', 'bonds', 'coupons', 'alternatives', 'volatility', 'reducing', 'attributes', 'supply', 'timelines', 'share', 'manufacturing', 'companies', 'reporting', 'faster', 'supplier', 'delivery', 'times', 'increased', 'hours', 'global', 'labor', 'supply', 'remains', 'squeezed', 'ilo', 'estimates', 'total', 'hours', 'stay', 'pre', 'pandemic', 'levels', 'equating', 'deficit', 'time', 'jobs', 'travel', 'surge', 'daily', 'passengers', 'screened', 'tsa', 'checkpoints', 'jumped', 'relative', 'pandemic', 'equity', 'mortgages', 'negative', 'equity', 'prices', 'fall', 'levels', 'meaningfully', 'erode', 'loan', 'ratios', 'increase', 'strategic', 'defaults', 'credit', 'trends', 'loan', 'delinquencies', 'remain', 'subdued', 'spending', 'rotated', 'discretionary', 'essential', 'credit', 'acceleration', 'automotive', 'gas', 'materials', 'discouraged', 'borrowing', 'recreation', 'clothing', 'food', 'services', 'bad', 'mood', 'umichigan', 'consumer', 'sentiment', 'printed', 'consecutive', 'months', 'stretch', 'inception', 'sticky', 'costs', 'diminish', 'morale', 'single', 'stock', 'companies', 'equity', 'prices', 'fall', 'providing', 'base', 'tax', 'loss', 'harvesting', 'performance', 'swings', 'volatile', 'relative', 'term', 'average', 'positive', 'days', 'returned', 'daily', 'average', 'negative', 'days', 'posted', 'average', 'drag', 'wider', 'historical', 'bounds', 'tech', 'break', 'market', 'loss', 'mega', 'tech', 'stocks', 'equivalent', 'annual', 'gdp', 'france', 'yield', 'laggard', 'global', 'government', 'debt', 'offered', 'negative', 'nominal', 'yields', 'japan', 'remaining', 'sovereign', 'borrower', 'negative', 'yielding', 'debt', 'comprising', 'government', 'debt', 'cost', 'benefit', 'rate', 'volatility', 'exceeded', 'percentile', 'relative', 'treasuries', 'yielding', 'unit', 'volatility', 'stocks', 'duration', 'limits', 'risk', 'cost', 'rate', 'shock', 'punitive', 'relative', 'earlier', 'bp', 'rate', 'shock', 'drag', 'bloomberg', 'aggregate', 'bond', 'coupon', 'offset', 'ultimately', 'limit', 'left', 'tail', 'risks', 'activity', 'consumers', 'equities', 'fixed', 'income']",strateg advisori solut asset manag market puls special edit note feder reserv philadelphia intern labor organ ilo transport secur administr tsa mortgag banker associ bureau econom analysi univers michigan survey consum asset manag global invest bloomberg novemb provid account tax legal advic econom market forecast inform document assur forecast achiev perform guarante futur vari break expect fill macro inflect inflat monetari polici pressur start diminish transit investor priorit profit revenu sticki incom uncertainti capit appreci paramount market opportun reset invest featur stock durabl cash flow qualiti bond coupon altern volatil reduc attribut suppli timelin share manufactur compani report faster supplier deliveri time increas hour global labor suppli remain squeez ilo estim total hour stay pre pandem level equat deficit time job travel surg daili passeng screen tsa checkpoint jump relat pandem equiti mortgag negat equiti price fall level meaning erod loan ratio increas strateg default credit trend loan delinqu remain subdu spend rotat discretionari essenti credit acceler automot gas materi discourag borrow recreat cloth food servic bad mood umichigan consum sentiment print consecut month stretch incept sticki cost diminish moral singl stock compani equiti price fall provid base tax loss harvest perform swing volatil relat term averag posit day return daili averag negat day post averag drag wider histor bound tech break market loss mega tech stock equival annual gdp franc yield laggard global govern debt offer negat nomin yield japan remain sovereign borrow negat yield debt compris govern debt cost benefit rate volatil exceed percentil relat treasuri yield unit volatil stock durat limit risk cost rate shock punit relat earlier bp rate shock drag bloomberg aggreg bond coupon offset ultim limit left tail risk activ consum equiti fix incom
