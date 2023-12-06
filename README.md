@@ -69,5 +69,6 @@ To train an effective model capable of distinguishing between legal and financia
 distinct topics: Topic 0, characterized by financial terminology, and Topic 1, primarily composed of legal terminology or neutral statements not related to financial domain.
 
 #### Model training
-- XGClassifier
-Using grid search to find the optimal hyperparameters and using ROC curve next to F1_score for evaluation.
+The XGClassifier, with grid search to find the optimal hyperparameters and ROC curve next to F1_score for evaluation, was used to perform the classification task.
+Feature -> data_class['clean_text']: Converted clean text documents to a matrix of token counts using CountVectorizer() from the scikit-learn library.
+Target -> data_class['topic']: Legal or Financial topic
