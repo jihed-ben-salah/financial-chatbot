@@ -419,7 +419,7 @@ def main(function_name,input_directory="./pdf",texts_directory="./extracted_data
 
 
         
-    if function_name=='txt_pypdf2':
+    if function_name=='extract_text':
         corpus=""
         dic_pdf={
         'file':[],
