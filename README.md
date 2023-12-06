@@ -31,5 +31,26 @@ For this particular scenario, OCR proved to be time-consuming, and it struggled 
 ### Text cleaning
 Considering that inconsistent noisy data, such as variations in spelling, punctuation, formatting, irrelevant symbols and special characters can potentially confuse various models and lead to poor results, I consider the text cleaning step pivotal for the success of this project.
 The preprocess_text function in our script will :
-- 
+- Eliminate different regular expressions like: links, special characters, repeted letters like 'aaa' 'cc' and single characters.
+- Use the manaually created dictionary, with the most popular unsignificant words used in such reports, to eliminate such vocaulary from the text.
+- Remove punctuation.
+- Remove numbers (Will only be used for visualization text but numbers will be encluded in the other functions).
+- Remove stop words based on the text detected language using the 'detect' function of the 'langdetect' library.
+- Stemming using SnowballStemmer.
+- Lemmatization using WordNetLemmatizer.
 ### Dataframe Creation
+Minding the first business objective of this project which aims to separate legal pages from financial ones each record in our dataset will represent a page having as features:  page_num, text, clean_text, tokens, 
+date, bank, title
+ * page_num: The page number within the report.
+ * text: The raw text content of the page.
+ * title: The title of the report.
+ * clean_text: The preprocessed and cleaned text.
+ * tokens: The tokenized version of the text.
+ * date: The date associated with the report.
+ * bank: The bank or financial institution who have published the report.
+### Data visualization
+We will try to gain valuable insights from our extracted, cleaned text using WordCloud with the number of words as a hyperparameter and bar plots to visualize the most frequent words and n-grams.
+To generate the needed visualizations into the EDA_output folder you need to run
+```bash 
+python main.py text_analysis
+```
