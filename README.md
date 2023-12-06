@@ -23,11 +23,11 @@ In order to be able to compare our gained insight with what really happened in t
 - ScotiaBank_global week ahead
 - Commerz_European Sunrise
 - ING_FX Talking July22
-- 12 31 2022_jpmorgan_asset management Q1 2023
-- 16 11 2022_Goldman Sachs_global outlook
-- 2022_jpmorgan_private banking global view 2023
-- 29 07 2022_Goldman Sachs_exemple analyse macro economique goldman sachs
-- 29 07 2022_Goldman Sachs_recession
+- jpmorgan_asset management Q1 2023
+- _Goldman Sachs_global outlook
+- jpmorgan_private banking global view 2023
+- Goldman Sachs_exemple analyse macro economique goldman sachs
+- Goldman Sachs_recession
 - 
 ### Test Extraction
 For this particular scenario, OCR proved to be time-consuming, and it struggled notably with multi-column text layouts and irregular text orientations, both of which are commonly found in financial reports. For that I chose to use PyMuPDF also known as Fitz which is a flexible python library offering advanced bunch of functionalities to deal with pdf documents including fast text and image extraction with consideration of internal document structure, access to metadata and perform text search.
