@@ -42,7 +42,7 @@ The preprocess_text function in our script will :
 - Remove stop words based on the text detected language using the 'detect' function of the 'langdetect' library.
 - Stemming using SnowballStemmer.
 - Lemmatization using WordNetLemmatizer.
-- 
+
 ### Dataframe Creation
 Minding the first business objective of this project which aims to separate legal pages from financial ones each record in our dataset will represent a page having as features:  page_num, text, clean_text, tokens, 
 date, bank, title
@@ -60,7 +60,7 @@ To generate the needed visualizations into the EDA_output folder you need to run
 python main.py text_analysis
 ```
 ![word_cloud](./EDA_output/word_cloud.png)
-
+![bi-grams](./EDA_output/most_frequent_2gram.png)
 Besides to gain insights into the relationships between words and understand data clusters I will perform dientionality reduction using t-distributed Stochastic Neighbor Embedding (t-SNE).
 
 ### Data labeling
