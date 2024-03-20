@@ -1,0 +1,9753 @@
+Outlook
+
+Caution: Heavy Fog
+
+Investment Strategy Group : ORG
+January 2023 : DATE
+New York Times Bestselling Author : ORG
+J.R. Ward : PERSON
+the Investment Strategy Group : ORG
+Wealth Management : ORG
+Goldman Sachs : ORG
+Goldman Sachs Global Investment Research : ORG
+Goldman Sachs : ORG
+Sharmin Mossavar-Rahmani : ORG
+Goldman Sachs : ORG
+Brett Nelson : PERSON
+Goldman Sachs : ORG
+Matheus Dibo : PERSON
+Kelly Han : PERSON
+Rob Hunter : PERSON
+Harm Zebregs : GPE
+the  
+Investment Strategy Group : ORG
+Matthew Weir : PERSON
+Balasubramanian : NORP
+Oussama Fatri 
+Managing : PERSON
+Nicola Gifford : PERSON
+Arjun Menon : PERSON
+Michael Murdoch : PERSON
+Daniel Toro : PERSON
+Fabian : NORP
+Yousra Zerouali : PERSON
+1 : CARDINAL
+2023 : DATE
+OUTLOOK
+
+ : EVENT
+2022 : DATE
+a tumultuous year : DATE
+January : DATE
+less 
+than two months : DATE
+Russia : GPE
+Ukraine : GPE
+decades : DATE
+the Nord Stream 2 : ORG
+Russia : GPE
+Ukraine : GPE
+China : GPE
+Taiwan : GPE
+This year : DATE
+2022 : DATE
+The US Federal Reserve : ORG
+the United States : GPE
+The US Congress : ORG
+2011 : DATE
+China : GPE
+zero : CARDINAL
+COVID-19 : ORG
+2023 : DATE
+Russia : GPE
+Ukraine : GPE
+China : GPE
+North Korea : GPE
+Iran : GPE
+Israel : GPE
+last year : DATE
+2 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2022 : DATE
+US : GPE
+25% : PERCENT
+the year : DATE
+15% : PERCENT
+last year’s Outlook : DATE
+FANGMANT : ORG
+Facebook/Meta : ORG
+Apple : ORG
+Netflix : GPE
+Google/Alphabet : ORG
+Microsoft : ORG
+Amazon : ORG
+Nvidia : GPE
+Tesla : ORG
+44% : PERCENT
+Tesla : ORG
+70% : PERCENT
+US : GPE
+Russian : NORP
+51% : PERCENT
+China : GPE
+45% : PERCENT
+Italy : GPE
+28% : PERCENT
+Germany : GPE
+2022 : DATE
+10-year : DATE
+US Treasuries : ORG
+22% : PERCENT
+10-year : DATE
+half : CARDINAL
+US : GPE
+10-year : DATE
+German : NORP
+21% : PERCENT
+10-year : DATE
+UK : GPE
+26% : PERCENT
+10-year : DATE
+UK : GPE
+5% : PERCENT
+UK : GPE
+FTSE : ORG
+100 : CARDINAL
+11% : PERCENT
+US Treasuries : ORG
+12% : PERCENT
+10-year : DATE
+German : NORP
+15% : PERCENT
+UK : GPE
+Ukraine : GPE
+West Texas Intermediate : PRODUCT
+62% : PERCENT
+between January and June 
+2022 : DATE
+42% : PERCENT
+early December : DATE
+the 
+year : DATE
+7% : PERCENT
+Brent : ORG
+59% : PERCENT
+38% : PERCENT
+the year : DATE
+10% : PERCENT
+Europe : LOC
+August : DATE
+3 : CARDINAL
+the winter 
+season : DATE
+the year : DATE
+8% : PERCENT
+Europe : LOC
+five : CARDINAL
+US : GPE
+last year : DATE
+Europe : LOC
+US : GPE
+160% : PERCENT
+August : DATE
+20% : PERCENT
+2022 : DATE
+4.5% : PERCENT
+2022 : DATE
+3.0% : PERCENT
+30% : PERCENT
+US : GPE
+last year : DATE
+3.9% : PERCENT
+50% : PERCENT
+2.0% : PERCENT
+US : GPE
+9.1% : PERCENT
+June 2022 : DATE
+6.6% : PERCENT
+September 
+2022 : DATE
+The US Federal Reserve’s : ORG
+the Personal Consumption 
+Expenditures : ORG
+PCE : ORG
+7.0% : PERCENT
+June : DATE
+PCE : ORG
+5.4% : PERCENT
+February : DATE
+UK : GPE
+October : DATE
+10.6% : PERCENT
+11.1% : PERCENT
+US : GPE
+3.7% : PERCENT
+the end of 2023 : DATE
+2022 : DATE
+one : CARDINAL
+1 : CARDINAL
+US : GPE
+the early 1980s : DATE
+14.8% : PERCENT
+March 1980 : DATE
+the European Central Bank : ORG
+1998 : DATE
+2023 : DATE
+1 : CARDINAL
+10-Month Change : DATE
+Federal Reserve : ORG
+2022 : DATE
+the early 1980s : DATE
+4.3 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10
+
+1955 1960 : DATE
+1985 1990 1995 2000 : DATE
+2010 2015 2020 : DATE
+10-Month : DATE
+December 2022 : DATE
+February 1994 : DATE
+Bloomberg : PERSON
+Haver Analytics : ORG
+4 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2022 : DATE
+US : GPE
+1926 : DATE
+96 
+years : DATE
+12-month : DATE
+only 5% : PERCENT
+10-year : DATE
+only 2% : PERCENT
+10-year : DATE
+60/40 : CARDINAL
+last year : DATE
+60/40 : CARDINAL
+the Investment Strategy Group’s Investment Philosophy
+
+ : ORG
+Useful Guide
+Appropriate
+Diversification
+Value
+Orientation
+Appropriate
+Horizon : WORK_OF_ART
+Consistency : PRODUCT
+5 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+Asia : LOC
+First : ORDINAL
+the Investment Strategy Group’s : ORG
+ISG : ORG
+more than 20 years ago : DATE
+2001 : DATE
+Second : ORDINAL
+nearly a hundred years : DATE
+ISG : ORG
+60/40 : CARDINAL
+12-month : DATE
+80% : PERCENT
+1926 : DATE
+Ash Carter : PERSON
+US : GPE
+2022 : DATE
+Outlook: Piloting Through : WORK_OF_ART
+Russian : NORP
+Ukraine : GPE
+Russia : GPE
+• About 100,000 : PRODUCT
+Mark Milley : PERSON
+the US Joint Chiefs of Staff2 : ORG
+7.8 million : MONEY
+Ukrainian : NORP
+Europe : LOC
+6.5 million : CARDINAL
+6 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+Ukraine : GPE
+about half : CARDINAL
+US : GPE
+at least another $45 billion : MONEY
+20234 : DATE
+World Bank : ORG
+$525 billion−$630 billion : MONEY
+Ukraine : GPE
+US : GPE
+China : GPE
+China : GPE
+Russia : GPE
+February 4, 2022 : DATE
+States : GPE
+US : GPE
+China : GPE
+Turmoil : ORG
+the Federal Reserve : ORG
+US : GPE
+Bill Dudley : PERSON
+the Federal Reserve Bank : ORG
+New York : GPE
+the Federal Reserve 
+Open Market Committee : ORG
+Goldman Sachs : ORG
+70% : PERCENT
+US : GPE
+2023 : DATE
+one : CARDINAL
+Jan Hatzius : PERSON
+Goldman Sachs : ORG
+Global Investment Research : ORG
+35% : PERCENT
+US : GPE
+Dudley : PERSON
+Hatzius : ORG
+the Goldman Sachs Financial Conditions Index : ORG
+Goldman Sachs : ORG
+Federal Reserve : ORG
+two : CARDINAL
+December 14, 2022 : DATE
+Jerome H. 
+Powell : PERSON
+the Federal Reserve : ORG
+7 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+a week later : DATE
+Lawrence H. Summers : PERSON
+Harvard University : ORG
+US Treasury : ORG
+Chair Powell : PERSON
+45−55% : PERCENT
+US : GPE
+2023 : DATE
+the last decade : DATE
+30% : PERCENT
+2012 : DATE
+European : NORP
+20−25% : PERCENT
+2020 : DATE
+Today : DATE
+2023 : DATE
+2022 : DATE
+9.0% : PERCENT
+9.8% : PERCENT
+early in the year : DATE
+2022 : DATE
+the beginning of 2022 : DATE
+the end 
+of 2023 : DATE
+year-end : DATE
+the year : DATE
+2022 : DATE
+negative 4.4% : PERCENT
+year-end : DATE
+2022 : DATE
+8 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+• Watch : ORG
+• Allow : PERSON
+US : GPE
+45−55% : PERCENT
+US : GPE
+2023 : DATE
+March 2009 : DATE
+Sunday : DATE
+Near-Term Pain : WORK_OF_ART
+Seth Klarman : PERSON
+Baupost : GPE
+Next : ORG
+five-year : DATE
+2023 : DATE
+the last decade : DATE
+COVID-19 : ORG
+China : GPE
+9 : CARDINAL
+Section II : EVENT
+Outlook : PERSON
+2023 : DATE
+The Investment Strategy Group : ORG
+10 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+12 : CARDINAL
+Assessing the Risk of a US Recession 
+
+ 
+  : WORK_OF_ART
+45–55% : PERCENT
+US : GPE
+2023 : DATE
+13 : CARDINAL
+Favor : GPE
+17 : CARDINAL
+17 : CARDINAL
+18 : CARDINAL
+19 : CARDINAL
+19 : CARDINAL
+Less Tightening Than Expected : WORK_OF_ART
+21 : CARDINAL
+22 : CARDINAL
+Bonds : ORG
+23 : CARDINAL
+The Last Decade : DATE
+Decade : DATE
+24 : CARDINAL
+Bonds : ORG
+26 : CARDINAL
+Five-Year : DATE
+32 : CARDINAL
+42 : CARDINAL
+48 : CARDINAL
+Key Takeaways
+
+ 
+  : LOC
+2022 : DATE
+two : CARDINAL
+US Preeminence : ORG
+2023 : DATE
+OUTLOOK : ORG
+11 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+50  2023 : CARDINAL
+this year : DATE
+52 : CARDINAL
+United States : GPE
+58 : CARDINAL
+59 : CARDINAL
+United Kingdom : GPE
+60 : CARDINAL
+Japan : GPE
+61 : CARDINAL
+66 : CARDINAL
+last year : DATE
+2023 : DATE
+68 : CARDINAL
+US Equities : ORG
+74 : CARDINAL
+Non-US Developed Market Equities : ORG
+74 : CARDINAL
+75 : CARDINAL
+UK Equities : WORK_OF_ART
+76 : CARDINAL
+Japanese : NORP
+77 : CARDINAL
+Global Currencies : ORG
+83 : CARDINAL
+Global Fixed Income : ORG
+94 : CARDINAL
+Global Commodities : ORG
+12 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+Assessing the Risk : WORK_OF_ART
+45–55% : PERCENT
+US : GPE
+2023 : DATE
+50% : PERCENT
+10 : CARDINAL
+45–55% : PERCENT
+ISG : ORG
+13 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+3 : CARDINAL
+10% : PERCENT
+30% : PERCENT
+2022 : DATE
+10% : PERCENT
+GFC : ORG
+US : GPE
+five : CARDINAL
+2019 : DATE
+2020 : DATE
+50% : PERCENT
+10 : CARDINAL
+2023 : DATE
+Federal Reserve : ORG
+two : CARDINAL
+First : ORDINAL
+Chair Powell : PERSON
+FOMC : ORG
+FOMC : ORG
+Second : ORDINAL
+Canadian-American : NORP
+John 
+Kenneth Galbraith’s : PERSON
+One : CARDINAL
+COVID-19 : ORG
+China : GPE
+Russia : GPE
+US : GPE
+the second half of 2023 : DATE
+two : CARDINAL
+Federal Reserve : ORG
+2023 : DATE
+the Federal 
+Reserve : ORG
+the Federal Reserve : ORG
+Treasury : ORG
+3 : CARDINAL
+2012 : DATE
+Prior to 2023 : DATE
+US : GPE
+10% to 30% : PERCENT
+30 : CARDINAL
+20 : CARDINAL
+20 : CARDINAL
+15 : CARDINAL
+15 : CARDINAL
+15 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+10 : CARDINAL
+10 : CARDINAL
+45 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+55 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+2012 : DATE
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017
+ : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+2023 : DATE
+December 31, 2022 : DATE
+2015 : DATE
+2016 : DATE
+2015 : DATE
+2016 : DATE
+One : CARDINAL
+John Kenneth Galbraith : PERSON
+14 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+US : GPE
+non-US-dollar : ORG
+last year : DATE
+Outlook : PERSON
+Piloting Through : WORK_OF_ART
+Federal Reserve : ORG
+15 : CARDINAL
+post-WWII : EVENT
+only nine : CARDINAL
+60% : PERCENT
+4 : CARDINAL
+the past 10 months : DATE
+the 1970s : DATE
+early 1980s : DATE
+about $4 : MONEY
+Arab : NORP
+about $40 : MONEY
+the 
+Iranian Revolution : EVENT
+Iran-Iraq War : EVENT
+14.8% : PERCENT
+March 1980 : DATE
+13.6% : PERCENT
+June of the same year.11 : DATE
+9.1% : PERCENT
+6.6% : PERCENT
+2022 : DATE
+5 : CARDINAL
+November 2021 : DATE
+Goldman 
+Sachs US Financial Conditions Index : ORG
+more than four : CARDINAL
+11 months : DATE
+GFC : ORG
+3.11% : PERCENT
+the beginning of the year : DATE
+7.08% : PERCENT
+late October : DATE
+Treasury : ORG
+GFC : ORG
+6 : CARDINAL
+7 : CARDINAL
+WWII : EVENT
+months : DATE
+11 : CARDINAL
+an average of 30 months : DATE
+31 : CARDINAL
+March 
+2022 : DATE
+the first quarter of 2023 : DATE
+the fourth quarter of 2025 : DATE
+4 : CARDINAL
+10-Month Change : DATE
+Federal Reserve : ORG
+2022 : DATE
+the early 1980s : DATE
+4.3 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10
+
+1955 1960 : DATE
+1985 1990 1995 2000 : DATE
+2010 2015 2020 : DATE
+10-Month : DATE
+December 2022 : DATE
+February 1994 : DATE
+Bloomberg : PERSON
+Haver Analytics : ORG
+5 : CARDINAL
+Goldman Sachs US Financial 
+Conditions Index
+Financial : ORG
+4% : PERCENT
+between November 
+2021 : DATE
+October 2022 : DATE
+101.7 : CARDINAL
+96 : CARDINAL
+97 : CARDINAL
+98 : CARDINAL
+99 : CARDINAL
+100 : CARDINAL
+101 : CARDINAL
+102 : CARDINAL
+103 : CARDINAL
+104 : CARDINAL
+105 : CARDINAL
+1990 : DATE
+1993 : DATE
+1996 : DATE
+1999 : DATE
+2002 : DATE
+2005 : DATE
+2008 : DATE
+2011 : DATE
+2014 : DATE
+2017 : DATE
+2020 : DATE
++4.0% : PERCENT
+2021 : DATE
+2022 : DATE
+Tighter Financial 
+Conditions
+
+Data : WORK_OF_ART
+December 31, 2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+15 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+2024 : DATE
+five-year : DATE
+30 
+months : DATE
+Eric Engstrom : PERSON
+Steven 
+Sharpe : PERSON
+two : CARDINAL
+the Board of Governors : ORG
+the Federal Reserve System : ORG
+Engstrom-Sharpe : PERSON
+3-month : DATE
+Treasury : ORG
+18 months : DATE
+Treasury : ORG
+3-month : DATE
+Treasury : ORG
+model assigns : CARDINAL
+70% : PERCENT
+12 months : DATE
+2024 : DATE
+1% : PERCENT
+early 2022 : DATE
+ISG : ORG
+the ISG Yield Curve Inversion Diffusion : ORG
+four : CARDINAL
+daily : DATE
+weekly : DATE
+monthly : DATE
+100% : PERCENT
+nine : CARDINAL
+1965 : DATE
+100% : PERCENT
+July 25, 2022 : DATE
+89% : PERCENT
+9 : CARDINAL
+about seven months : DATE
+1.5 : CARDINAL
+two years : DATE
+seven months : DATE
+February 2023 : DATE
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+2000 : DATE
+2002 : DATE
+2004
+2006
+ : DATE
+2008 : DATE
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+Seasonally : DATE
+October 2022 : DATE
+Haver Analytics : ORG
+6 : CARDINAL
+Goldman Sachs : ORG
+US Housing 
+Affordability Index
+Homeownership : PERSON
+GFC : ORG
+69.7 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+110 : CARDINAL
+120 : CARDINAL
+130 : CARDINAL
+140 : CARDINAL
+150 : CARDINAL
+1996 1998 2000 2002 2004 2006 : DATE
+2010 : DATE
+2012 2014 2016 2018 : DATE
+2020 2022 : DATE
+Goldman Sachs US Housing Affordability Index 
+
+Increasing
+Affordability
+
+Data : ORG
+December 2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+8 : CARDINAL
+ISG Yield Curve Inversion Diffusion : ORG
+100 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+1955 1960 : DATE
+1985 1990 1995 2000 : DATE
+2010 2015 2020 : DATE
+December 31, 2022 : DATE
+four : CARDINAL
+daily : DATE
+weekly : DATE
+monthly : DATE
+the previous 6 months : DATE
+ISG : ORG
+Bloomberg : PERSON
+Haver Analytics : ORG
+16 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2024 : DATE
+ISG : ORG
+the ISG Recession 
+Scorecard : ORG
+65 : CARDINAL
+10 : CARDINAL
+62 : DATE
+the Conference 
+Board Leading Economic Index : ORG
+Institute : ORG
+Supply Management : ORG
+National 
+Bureau of Economic Research : ORG
+One : CARDINAL
+Escape : PRODUCT
+Model 
+Land: How Mathematical Models Can Lead : ORG
+Erica 
+Thompson : PERSON
+School of Economics Data Science Institute : ORG
+the London Mathematical Laboratory : ORG
+9 : CARDINAL
+ISG Yield Curve Inversion Diffusion : ORG
+Start of Recession : ORG
+100% : PERCENT
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+16 : CARDINAL
+18 : CARDINAL
+20 : CARDINAL
+22 : CARDINAL
+24 : CARDINAL
+26 : CARDINAL
+28 : CARDINAL
+30 : CARDINAL
+32 : CARDINAL
+34 : CARDINAL
+Months : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+Haver Analytics : ORG
+NBER : ORG
+10 : CARDINAL
+62 : DATE
+65 : CARDINAL
+62 : CARDINAL
+65 : CARDINAL
+40 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+1965 : DATE
+1970 : DATE
+1975 : DATE
+1980 : DATE
+1985 : DATE
+1990 : DATE
+1995 : DATE
+2000 : DATE
+2005 : DATE
+2010 : DATE
+2015 : DATE
+2020 : DATE
+December 2022 : DATE
+Haver Analytics : ORG
+Erica Thompson : PERSON
+Basic Books 2022 : ORG
+Cover : ORG
+17 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+four : CARDINAL
+US : GPE
+Federal Reserve : ORG
+Balanced Economy
+The US : WORK_OF_ART
+today : DATE
+the end of 2021 : DATE
+11 : CARDINAL
+Financial Excess Monitor : ORG
+the Goldman Sachs : ORG
+US Economics Research : ORG
+David Mericle : PERSON
+Goldman Sachs : ORG
+US : GPE
+the US Economics Research : ORG
+March 2018 : DATE
+46 : CARDINAL
+US : GPE
+2022 : DATE
+US : GPE
+today : DATE
+a year ago : DATE
+12 : CARDINAL
+49.7% : PERCENT
+1980 : DATE
+Global Investment Research Financial Excess Monitor : ORG
+GFC : ORG
+today : DATE
+Consumers
+Non-Financial 
+Business
+Financial 
+Business
+
+Government : ORG
+1990 1991 : DATE
+1999 2000 2001
+2002 2003 2004 2005 2006 : DATE
+2008 2009 2010 : DATE
+2011 2012 2013
+2014 2015 : DATE
+2020 2021 2022 : DATE
+2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+12 : CARDINAL
+Non-Financial Corporate : ORG
+49.7 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+45 : CARDINAL
+50 : CARDINAL
+55 : CARDINAL
+60 : CARDINAL
+65 : CARDINAL
+80 : CARDINAL
+Haver Analytics : ORG
+18 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+3.7% : PERCENT
+1973 : DATE
+1999 : DATE
+13 : CARDINAL
+1980 : DATE
+10.3% : PERCENT
+two : CARDINAL
+14.7% : PERCENT
+the end of 2021 : DATE
+over $1.5 trillion : MONEY
+Bank : ORG
+America : GPE
+Shorter Lag of Policy Tightening : WORK_OF_ART
+Mericle : ORG
+participants.14 : PERSON
+Mericle : GPE
+US : GPE
+2023 : DATE
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+Q2 : CARDINAL
+Q3
+ : PRODUCT
+Q4
+Q1
+Q2 : PRODUCT
+Q3
+ : PRODUCT
+Q4
+Q1
+Q2 : PRODUCT
+Q3
+Q4 : PRODUCT
+2021 : DATE
+2022 : DATE
+2023 : DATE
+2022 : DATE
+Global Inverstment Research Estimates : ORG
+2023 : DATE
+Goldman Sachs Global Investment Research : ORG
+15 : CARDINAL
+2023 : DATE
+Video/Audio/Photo & 
+Information Equipment
+Clothing & Footwear : ORG
+Pharma & Medical : ORG
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+May-22 : PRODUCT
+November 2022 : DATE
+Global Inverstment Research Estimates : ORG
+December 2024 : DATE
+Goldman Sachs Global Investment Research : ORG
+13 : CARDINAL
+Non-Financial Corporate Debt 
+Service Ratio : ORG
+1980 : DATE
+33.4 : CARDINAL
+08 : CARDINAL
+10.3 : CARDINAL
+14.7 : CARDINAL
+8 : CARDINAL
+13 : CARDINAL
+18 : CARDINAL
+23 : CARDINAL
+28 : CARDINAL
+33 : CARDINAL
+38 : CARDINAL
+43 : CARDINAL
+48 : CARDINAL
+1980 : DATE
+1985 : DATE
+1990 : DATE
+1995 : DATE
+2000 : DATE
+2005 : DATE
+2010 : DATE
+2015 : DATE
+2020
+
+% : PERCENT
+Q3 2022 : DATE
+Haver Analytics : ORG
+19 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+2023 : DATE
+14 : CARDINAL
+15 : CARDINAL
+the middle of 
+2023 : DATE
+the GS Supply Chain Congestion : ORG
+Scale : ORG
+• : PRODUCT
+about 40% : PERCENT
+17 : CARDINAL
+as long as a year : DATE
+decision- : GPE
+2022 : DATE
+US Economics Research : ORG
+monthly : DATE
+Exhibit 18 : DATE
+the Federal Reserve : ORG
+18 : CARDINAL
+2023 : DATE
+Monthly : DATE
+4.1 : CARDINAL
+6.3 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10
+
+2006
+2008 : DATE
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+Annual : DATE
+YoY : GPE
+November 2022 : DATE
+Goldman Sachs Global Investment Research, Department of 
+Labor : ORG
+NFIB : ORG
+Dallas Federal Reserve : ORG
+Dallas Federal Reserve : ORG
+Richmond Federal Reserve Manufacturing : ORG
+Richmond Fed : ORG
+NY Federal Reserve : ORG
+Kansas City Federal Reserve : ORG
+6-month : DATE
+hourly : TIME
+16 : CARDINAL
+Goldman Sachs Supply Chain 
+Congestion Scale : ORG
+Fully Open : EVENT
+2 : CARDINAL
+1 : CARDINAL
+10 : CARDINAL
+December 31, 2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+17 : CARDINAL
+mid-2021 : DATE
+Rent of Primary Residence
+Apartment List: Asking Rents : ORG
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+Jan-2019 : PERSON
+Jul-2019 : PERSON
+Jan-2020
+Jul-2020
+Jan-2021 : WORK_OF_ART
+Jul-2021
+Jan-2022
+Jul-2022 : PERSON
+Monthly : DATE
+October 2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+Haver Analytics : ORG
+Oxford Economics : ORG
+Seasonally : DATE
+20 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+5−5.25% : PERCENT
+19 : CARDINAL
+1-year : DATE
+Treasury : ORG
+one year from now : DATE
+nine : CARDINAL
+1972 : DATE
+two : CARDINAL
+1974 : DATE
+1980 : DATE
+the Federal 
+Reserve : ORG
+4.7% : PERCENT
+early 
+ : DATE
+November : DATE
+4.2% : PERCENT
+year-end : DATE
+the Federal Reserve : ORG
+only one : CARDINAL
+FOMC : ORG
+December 2021 : DATE
+Economic Projections : ORG
+December 2022 : DATE
+2023 : DATE
+45% to 55% : PERCENT
+21 : DATE
+GS US Economics Research : ORG
+Bill Dudley : PERSON
+Jason Furman : PERSON
+Harvard Kennedy School : ORG
+the Department of 
+Economics : ORG
+Harvard University : ORG
+the Council of Economic Advisers : ORG
+55% : PERCENT
+Mark Zandi : PERSON
+Moody’s 
+Analytics : ORG
+50% : PERCENT
+2024 : DATE
+two 
+years : DATE
+Exhibit : GPE
+22 : DATE
+19 : CARDINAL
+1-Year : DATE
+Treasury : ORG
+1 Year Forward : DATE
+Policy Rate : PERSON
+1y1y : DATE
+14.1 : CARDINAL
+19.1 : CARDINAL
+10.0 : CARDINAL
+8.3 : CARDINAL
+7.5 : CARDINAL
+5.3 : CARDINAL
+3.2 : CARDINAL
+4.7 : CARDINAL
+0 : CARDINAL
+6 : CARDINAL
+4 : CARDINAL
+2 : CARDINAL
+10 : CARDINAL
+8 : CARDINAL
+14 : CARDINAL
+12 : CARDINAL
+16 : CARDINAL
+18 : CARDINAL
+20
+% : PERCENT
+11.75% : PERCENT
+Months : DATE
+9.75% : PERCENT
+Months : DATE
+6.0% : PERCENT
+Months : DATE
+6.50% : PERCENT
+Months : DATE
+5.25% : PERCENT
+Months : DATE
+2.50% : PERCENT
+Months : DATE
+ISG : ORG
+5.25% : PERCENT
+7 Months
+
+ : DATE
+1y1y : CARDINAL
+13.0% : PERCENT
+Months : DATE
+20.0% : PERCENT
+1972
+1977
+1982
+1987
+ : DATE
+1992 : DATE
+1997 : DATE
+2002 : DATE
+2007 : DATE
+2012 : DATE
+2017 : DATE
+2022 : DATE
+December 31, 2022 : DATE
+6m6 : CARDINAL
+1976 : DATE
+6-month : DATE
+2-year : DATE
+2001–08 : ORDINAL
+52-week : DATE
+Bloomberg : PERSON
+21 : CARDINAL
+US : GPE
+Probability of Recession Within: : WORK_OF_ART
+1 year : DATE
+2 years : DATE
+William C. Dudley : PERSON
+70% : PERCENT
+90% : PERCENT
+Jason Furman : PERSON
+55% : PERCENT
+75% : PERCENT
+Mark Zandi : PERSON
+50% : PERCENT
+60% : PERCENT
+45–55% : PERCENT
+65–75% : PERCENT
+GS Global Investment Research : ORG
+Hatzius & David Mericle : ORG
+35% : PERCENT
+December 31, 2022 : DATE
+GS Global Investment Research : ORG
+William C. Dudley : PERSON
+Mark 
+Zandi : PERSON
+Jason Furman : PERSON
+20 : CARDINAL
+December 2023 : DATE
+the end of 2021 : DATE
+Market Implied : ORG
+SEP : ORG
+SEP : ORG
+1.4 : CARDINAL
+4.6 : CARDINAL
+4.4 : CARDINAL
+5.1 : CARDINAL
+0.1 : CARDINAL
+0.9 : CARDINAL
+1.6 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+Jun-2022 : PERSON
+Jun-2023 : PRODUCT
+December 31, 2022 : DATE
+Bloomberg, Federal Reserve : ORG
+21 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+12% : PERCENT
+one year : DATE
+24% : PERCENT
+two years : DATE
+12 : CARDINAL
+2023 : DATE
+2024 : DATE
+20 : CARDINAL
+2023 to 2024 : DATE
+60/40 : CARDINAL
+60/40 : CARDINAL
+Stock/Bond Portfolios : ORG
+2022 : DATE
+60/40 : CARDINAL
+60/40 : CARDINAL
+60/40 : CARDINAL
+The Financial Times : ORG
+60/40 : CARDINAL
+decade : DATE
+60/40 : CARDINAL
+2022 : DATE
+a tumultuous year : DATE
+60/40 : CARDINAL
+2022 : DATE
+60/40 : CARDINAL
+2022 : DATE
+• ISG’s : ORG
+60/40 : CARDINAL
+60/40 : CARDINAL
+22 : CARDINAL
+1981 : DATE
+2022 : DATE
+12% : PERCENT
+one year : DATE
+24% : PERCENT
+two years : DATE
+1946–2022 : CARDINAL
+1946–1980 : CARDINAL
+1981–2022 : CARDINAL
+18 : CARDINAL
+36 : CARDINAL
+26 : CARDINAL
+50 : CARDINAL
+12 : CARDINAL
+24 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+Next 12 : DATE
+Next 24 : DATE
+December 2022 : DATE
+Haver Analytics : ORG
+2022 : DATE
+22 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+60/40 : CARDINAL
+Bonds
+Negative : ORG
+12-month : DATE
+only 2% : PERCENT
+1926 : DATE
+23 : CARDINAL
+Bloomberg Barclays US : ORG
+10-year : DATE
+Treasury : ORG
+About 67% : PERCENT
+23% : PERCENT
+8% : PERCENT
+96 years : DATE
+12-month : DATE
+60/40 : CARDINAL
+12-month : DATE
+80% : PERCENT
+24 : CARDINAL
+25 : DATE
+60/40 : CARDINAL
+August 2022 : DATE
+26 : CARDINAL
+three-year : DATE
+10-year : DATE
+0.04 : CARDINAL
+25-year : DATE
+between 1975 and 2000 : DATE
+three-year : DATE
+0.33 : CARDINAL
+22-year : DATE
+between 2000 and 2022 : DATE
+23 : CARDINAL
+Negative Returns : LOC
+US Stocks : ORG
+US : GPE
+12-month : DATE
+Bond Returns
+
+Stock Returns : ORG
+23%
+67% : PERCENT
+2% : PERCENT
+8% : PERCENT
+December 2022 : DATE
+US : GPE
+Bloomberg Barclays US Intermediate Treasuries : ORG
+Ibbotson : ORG
+US : GPE
+1926 : DATE
+Datastream : GPE
+25 : CARDINAL
+60/40 : CARDINAL
+1926 : DATE
+60/40 : CARDINAL
+12-month : DATE
+80% : PERCENT
+12-Month : DATE
+Positive Returns (Right : WORK_OF_ART
+Positive Returns, Unconditional (Right : FAC
+10.2 : CARDINAL
+21.6 : CARDINAL
+9.2 : CARDINAL
+19.2 : CARDINAL
+73 : CARDINAL
+86 : CARDINAL
+80 : CARDINAL
+87 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+12 Months : DATE
+24 Months : DATE
+December 31, 2022 : DATE
+60/40 : CARDINAL
+60% : PERCENT
+US : GPE
+US : GPE
+US : GPE
+Bloomberg Barclays US Intermediate Treasuries : ORG
+Ibbotson : ORG
+US : GPE
+Datastream : GPE
+Ibbotson : PERSON
+24 : CARDINAL
+12-Month : DATE
+60/40 : CARDINAL
+60/40 : CARDINAL
+12-month : DATE
+80% : PERCENT
+1926 : DATE
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+1926 1932 1938 : DATE
+1944 1950 1956 1962 1968 1974 1980 1986 1992 : DATE
+2004 2010 2016 : DATE
+12-Month : DATE
+Frequency of Positive Returns : WORK_OF_ART
+80% : PERCENT
+December 2022 : DATE
+60/40 : CARDINAL
+60% : PERCENT
+US : GPE
+US : GPE
+US : GPE
+Bloomberg Barclays US Intermediate Treasuries : ORG
+Ibbotson : ORG
+US : GPE
+Datastream : GPE
+Ibbotson : PERSON
+23 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+10-year : DATE
+60/40 : CARDINAL
+27 : CARDINAL
+60/40 : CARDINAL
+The Last Decade : DATE
+60/40 : CARDINAL
+the Bloomberg Barclays Intermediate Treasury : ORG
+8.0% : PERCENT
+5.3% : PERCENT
+the decade ending in : DATE
+2022 : DATE
+8.8% : PERCENT
+5.4% : PERCENT
+1926 : DATE
+the 
+past decade : DATE
+8.8% : PERCENT
+10.1% : PERCENT
+1926 : DATE
+Sharpe : PERSON
+26 : CARDINAL
+3-Year : DATE
+10-Year Correlation of Bonds : DATE
+0.33 : CARDINAL
+0.04 : CARDINAL
+0.0 : CARDINAL
+0.2 : CARDINAL
+0.4 : CARDINAL
+0.6 : CARDINAL
+0.8 : DATE
+1928
+1933
+1938
+1943 : DATE
+1948 : DATE
+1953 : DATE
+1958 : DATE
+1963 : DATE
+1968
+1973
+1978
+1983
+ : DATE
+1988 : DATE
+1993 : DATE
+1998 : DATE
+2003 : DATE
+2008 : DATE
+2013 : DATE
+2018 : DATE
+3-Year : DATE
+0.26 : CARDINAL
+0.04 : CARDINAL
+0.0 : CARDINAL
+0.2 : CARDINAL
+0.4 : CARDINAL
+0.6 : CARDINAL
+10-Year : DATE
+1935 : DATE
+1940 : DATE
+1945 : DATE
+1950 : DATE
+1955 : DATE
+1960 : DATE
+1965 : DATE
+1970 : DATE
+1975 : DATE
+1980 : DATE
+1985 : DATE
+1990 : DATE
+1995 : DATE
+2000 : DATE
+2005 : DATE
+2010 : DATE
+2015 : DATE
+2020 : DATE
+December 31, 2022 : DATE
+US : GPE
+Bloomberg Barclays US Intermediate Treasuries : ORG
+Ibbotson : ORG
+US : GPE
+Datastream : GPE
+Ibbotson : ORG
+Global Financial Data : ORG
+24 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+the next five and 10 years : DATE
+ISG : ORG
+Tactical Asset 
+Allocation : ORG
+6.3% : PERCENT
+60/40 : CARDINAL
+the next five years : DATE
+10-year : DATE
+6.2% : PERCENT
+next decade : DATE
+0.75 : CARDINAL
+1.0 : CARDINAL
+Model Portfolios : PRODUCT
+Appropriate : ORG
+ISG : ORG
+Sharpe : PERSON
+28 : CARDINAL
+about 0.7 : CARDINAL
+Sharpe : NORP
+0.43 : CARDINAL
+0.51 : CARDINAL
+60/40 : CARDINAL
+US Preeminence : ORG
+ISG : ORG
+US : GPE
+December 2022 : DATE
+China : GPE
+Middle Kingdom : GPE
+27 : CARDINAL
+US Equities
+Intermediate Treasuries
+
+-83
+
+-22
+-15
+-22
+-16
+
+-29
+
+-43
+
+-14
+-17
+
+-30
+
+-15
+-15
+
+-45
+-51
+
+-14
+-20
+-18 : WORK_OF_ART
+12 : CARDINAL
+0 : CARDINAL
+8 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+3 : CARDINAL
+6 : CARDINAL
+3 : CARDINAL
+25 : CARDINAL
+2 : CARDINAL
+5 : CARDINAL
+2 : CARDINAL
+23 : CARDINAL
+12 : CARDINAL
+2 : CARDINAL
+5 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+29 : CARDINAL
+Jun 32 : DATE
+May 46 : DATE
+Nov 46 : DATE
+Dec 57 : DATE
+Dec 61 : DATE
+Jan 66 : DATE
+Sep 66 : LAW
+Nov 68 : DATE
+Dec 72 : DATE
+Sep 74 : LAW
+Dec 76 : DATE
+Nov 80 : DATE
+87 : CARDINAL
+Nov 87 : DATE
+May 90 : DATE
+Oct 90 : DATE
+98 : CARDINAL
+Aug 98 : DATE
+Sep 02 : LAW
+Feb 09 : DATE
+Sep 18 : LAW
+Dec 18 : DATE
+Dec 19 : DATE
+Mar 20 : DATE
+Dec 21 : DATE
+Dec 22 : DATE
+December 2022 : DATE
+Datastream : GPE
+Ibbotson : ORG
+Global Financial Data : ORG
+28 : CARDINAL
+60/40 Portfolio Reference : QUANTITY
+Matched-
+ : PERSON
+Volatility Optimized Diversified Portfolio
+An : WORK_OF_ART
+Sharpe : PERSON
+60/40 : CARDINAL
+60% : PERCENT
+40% : PERCENT
+Bonds Allocations
+
+Reference
+Optimized : ORG
+40.0% : PERCENT
+26.6% : PERCENT
+0.0% : PERCENT
+5.0% : PERCENT
+60.0% : PERCENT
+42.1% : PERCENT
+0.0% : PERCENT
+2.3% : PERCENT
+Private Equity : ORG
+0.0% : PERCENT
+17.9% : PERCENT
+0.0% : PERCENT
+6.1% : PERCENT
+100.0% : PERCENT
+100.0% : PERCENT
+2.50% : PERCENT
+5.3% : PERCENT
+6.0% : PERCENT
+Sharpe Ratio : PERSON
+0.43 : CARDINAL
+0.51 : CARDINAL
+8.9% : PERCENT
+8.9% : PERCENT
+December 31, 2022 : DATE
+the MSCI All Country World Index : ORG
+Barclays 
+Capital US Municipal : ORG
+1 : CARDINAL
+Datastream : GPE
+25 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+US : GPE
+China : GPE
+Insight : ORG
+2022 : DATE
+January 2010 : DATE
+Exhibit : GPE
+29 : DATE
+US : GPE
+30 : CARDINAL
+US : GPE
+29 : CARDINAL
+ISG : ORG
+Commodities Insight Publication
+Commodities : WORK_OF_ART
+US : GPE
+January 2010 : DATE
+345 : CARDINAL
+38 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+300 : CARDINAL
+350 : CARDINAL
+400 : CARDINAL
+December 31, 2022 : DATE
+Bloomberg : GPE
+30 : CARDINAL
+67 : CARDINAL
+77 : CARDINAL
+100 : CARDINAL
+91 : CARDINAL
+32 : CARDINAL
+56 : CARDINAL
+55 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+1 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+Intermediate Treasuries
+Long Treasuries
+
+Home Prices
+Commodity Prices
+Gold Prices : WORK_OF_ART
+US : GPE
+Q3 2022 : DATE
+Bureau of Labor Statistics : ORG
+Datastream : GPE
+Bloomberg : GPE
+Ibbotson : PERSON
+Robert Shiller : PERSON
+Yale University : ORG
+26 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+20 years : DATE
+30 : CARDINAL
+60/40 : CARDINAL
+A year : DATE
+the prior 
+decade : DATE
+John Templeton : PERSON
+American : NORP
+four : CARDINAL
+English : LANGUAGE
+60/40 : CARDINAL
+Templeton : GPE
+five : CARDINAL
+10 years : DATE
+five-year : DATE
+Five-Year : DATE
+45−55% : PERCENT
+US : GPE
+50% : PERCENT
+50% : PERCENT
+GFC : ORG
+2.4% : PERCENT
+2023 : DATE
+1.2% : PERCENT
+US : GPE
+Eurozone : ORG
+UK : GPE
+Brazil : GPE
+India : GPE
+Russia : GPE
+Ukraine : GPE
+China : GPE
+4.9% : PERCENT
+COVID : ORG
+Economist : ORG
+China : GPE
+• Mid- : PRODUCT
+US : GPE
+Japan : GPE
+UK : GPE
+• Slightly : PRODUCT
+US : GPE
+Europe : LOC
+UK : GPE
+Japan : GPE
+31 : CARDINAL
+ISG Outlooks : ORG
+GFC : ORG
+10 : CARDINAL
+15 : CARDINAL
+15 : CARDINAL
+25 : CARDINAL
+20 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+20 : CARDINAL
+15 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+20 : CARDINAL
+15 : CARDINAL
+15 : CARDINAL
+30 : CARDINAL
+50 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : DATE
+2009 2010 : DATE
+2011 2012 2013 2014 2015 2016 2017 : DATE
+2020 2021 2022 2023 : DATE
+Bear Case
+Base Case
+
+Data : WORK_OF_ART
+December 31, 2022 : DATE
+27 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+US : GPE
+1−2% : PERCENT
+32 : DATE
+US : GPE
+2023 : DATE
+about 13% : PERCENT
+12% : PERCENT
+9.0% : PERCENT
+9.8% : PERCENT
+50% : PERCENT
+30% : PERCENT
+US : GPE
+the full-year : DATE
+US : GPE
+18% : PERCENT
+2022 : DATE
+21.4x : CARDINAL
+the beginning of 2022 : DATE
+17.4x : CARDINAL
+the end of the year : DATE
+as much as 27% : PERCENT
+US : GPE
+20% : PERCENT
+33 : CARDINAL
+five-year : DATE
+US : GPE
+this year : DATE
+45−55% : PERCENT
+30% : PERCENT
+32 : CARDINAL
+ISG Prospective Total Returns : ORG
+2 : CARDINAL
+4 : CARDINAL
+4 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+11 : CARDINAL
+12 : CARDINAL
+12 : CARDINAL
+13 : CARDINAL
+13 : CARDINAL
+9 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+4 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+8 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+8 : CARDINAL
+6 : CARDINAL
+6 : CARDINAL
+6 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+DXY : ORG
+9% : PERCENT
+3% : PERCENT
+8% : PERCENT
+6% : PERCENT
+US : GPE
+0% : PERCENT
+13% : PERCENT
+US : GPE
+12% : PERCENT
+5-Year : DATE
+5% : PERCENT
+6% : PERCENT
+10-Year : DATE
+7% : PERCENT
+22% : PERCENT
+UK : GPE
+15% : PERCENT
+Japan Equity : ORG
+17% : PERCENT
+Non-US Developed
+ Equity (Local : ORG
+15% : PERCENT
+15% : PERCENT
+15% : PERCENT
+18% : PERCENT
+2023 : CARDINAL
+5-Year : DATE
+EUR Moderate : ORG
+8% : PERCENT
+US : GPE
+8% : PERCENT
+US : GPE
+8% : PERCENT
+December 31, 2022 : DATE
+17 : CARDINAL
+ISG : ORG
+33 : CARDINAL
+Year-End 2023 : DATE
+US : GPE
+27% : PERCENT
+27 : CARDINAL
+13 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+4,800 : CARDINAL
+20% : PERCENT
+Central Case : LOC
+4,200–4,300 : CARDINAL
+50% : PERCENT
+Bad Case : WORK_OF_ART
+3,600 : CARDINAL
+30% : PERCENT
+December 31, 2022 : DATE
+Bloomberg : PERSON
+28 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+First : ORDINAL
+30% : PERCENT
+the 
+full year : DATE
+70% : PERCENT
+13% : PERCENT
+the end of 2023 : DATE
+Second : ORDINAL
+ISG : ORG
+more than 10% : PERCENT
+Exhibit : GPE
+34 : DATE
+post-WWII : EVENT
+more than six months : DATE
+2022 : DATE
+a year : DATE
+only 2% : PERCENT
+1926 : DATE
+last 
+year : DATE
+Yield Curve Inversion Diffusion : ORG
+July 25, 2022 : DATE
+US : GPE
+17% : PERCENT
+earlier in the year : DATE
+35 : CARDINAL
+2022 : DATE
+9% : PERCENT
+18% : PERCENT
+2022 : DATE
+Federal Reserve : ORG
+36 : CARDINAL
+S&P : ORG
+500 : CARDINAL
+4% to 85% : PERCENT
+40% : PERCENT
+34% : PERCENT
+2015 : DATE
+2022 : DATE
+10% : PERCENT
+first : ORDINAL
+the Federal 
+Reserve : ORG
+March : DATE
+2022 : DATE
+Federal Reserve : ORG
+third : ORDINAL
+a year : DATE
+2022 : DATE
+12 : CARDINAL
+24 
+months : DATE
+60/40 : CARDINAL
+34 : CARDINAL
+ISG : ORG
+Underweighting Equities : WORK_OF_ART
+Imminent Recession Risk
+
+Small
+Large
+
+Low : ORG
+December 31, 2022 : DATE
+35 : CARDINAL
+17% : PERCENT
+last year : DATE
+0.0 : CARDINAL
+-20
+
+-18
+
+-16
+
+-14
+
+-12
+
+-10
+
+-8
+
+-6
+
+-4
+
+-2
+
+0 : WORK_OF_ART
+Dec-56 : CARDINAL
+Sep-59 Dec-65 Dec-67 Mar-73 Sep-78 : PRODUCT
+Feb-06
+ : PRODUCT
+Jul-22 : PERSON
+100% : PERCENT
+1Y : CARDINAL
+July 2022 : DATE
+Bloomberg : PERSON
+29 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+50/50 : CARDINAL
+Exhibit 37 : FAC
+only 18% : PERCENT
+38 : CARDINAL
+post-WWII : EVENT
+50/50 : CARDINAL
+10.6% : PERCENT
+the 12 months : DATE
+annual : DATE
+8.9% : PERCENT
+24 months : DATE
+12 or 24 months later : DATE
+the Great 
+Depression : EVENT
+53% : PERCENT
+2.8 years : DATE
+3.6 years : DATE
+39 : CARDINAL
+post-WWII : EVENT
+three : CARDINAL
+a year : DATE
+1973−74 : CARDINAL
+Israeli War and Arab oil : EVENT
+GFC : ORG
+the early 1970s : DATE
+nearly 2.5 : CARDINAL
+40 : CARDINAL
+36 : CARDINAL
+US : GPE
+Federal Reserve Tightening Start Date : ORG
+4 : CARDINAL
+85 : DATE
+32 : CARDINAL
+18 : CARDINAL
+15 : CARDINAL
+35 : CARDINAL
+18 : CARDINAL
+68 : CARDINAL
+48 : CARDINAL
+75 : CARDINAL
+40 : CARDINAL
+34 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+December 31, 2022 : DATE
+Bloomberg : GPE
+12-Month : DATE
+50/50 : CARDINAL
+50/50 : CARDINAL
+12-month : DATE
+18% : PERCENT
+1926 : DATE
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80
+
+ : DATE
+1926 1933 1940 1947 : DATE
+2003 2010 2017 : DATE
+12-Month : DATE
+Frequency of Positive Returns : WORK_OF_ART
+82% : PERCENT
+December 2022 : DATE
+50/50 : CARDINAL
+50% : PERCENT
+US : GPE
+US : GPE
+US : GPE
+Datastream : GPE
+Ibbotson : PERSON
+38 : CARDINAL
+12-Month : DATE
+50/50 : CARDINAL
+Portfolio Following Negative Returns
+Typically : WORK_OF_ART
+8.5 : CARDINAL
+8.9 : CARDINAL
+9.0 : CARDINAL
+10.6 : CARDINAL
+82 : CARDINAL
+85 : DATE
+75 : CARDINAL
+83 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+16 : CARDINAL
+18 : CARDINAL
+20 : CARDINAL
+Positive Returns
+Average Cumulative Nominal Returns : WORK_OF_ART
+12-Month : DATE
+Positive Returns (Right : WORK_OF_ART
+Positive Returns, Unconditional (Right)
+
+Data : FAC
+December 31, 2022 : DATE
+50/50 : CARDINAL
+50% : PERCENT
+US : GPE
+US : GPE
+US : GPE
+Datastream : GPE
+Ibbotson : PERSON
+30 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+December 2021 : DATE
+December 2022 : DATE
+Exhibit : GPE
+41 : CARDINAL
+GFC : ORG
+143% : PERCENT
+42 : CARDINAL
+123% : PERCENT
+US : GPE
+2.5x : CARDINAL
+GFC : ORG
+12-month : DATE
+13.3% : PERCENT
+12-month : DATE
+three : CARDINAL
+39 : CARDINAL
+the Great Depression : EVENT
+US : GPE
+50/50 : CARDINAL
+Aug-1929 : ORG
+Jul-1931 : PRODUCT
+Jun-1933 : PERSON
+Apr-1937
+Mar-1939
+Feb-1941
+Jan-1943
+Dec-1944
+
+% : PERSON
+Peak Date : DATE
+August 1929 : DATE
+34 Months : DATE
+43 Months : DATE
+151 Months : DATE
+January 31, 1945 : DATE
+50/50 : CARDINAL
+50% : PERCENT
+US : GPE
+US : GPE
+US : GPE
+Datastream : GPE
+Ibbotson : PERSON
+40 : CARDINAL
+today : DATE
+Post-World War II : ORG
+April 1996 : DATE
+2021 : DATE
+15.8 : CARDINAL
+21.5 : CARDINAL
+15.5 : CARDINAL
+18.7 : CARDINAL
+16.5 : CARDINAL
+17.1 : CARDINAL
+22.2 : CARDINAL
+29.7 : CARDINAL
+19.4 : CARDINAL
+26.7 : CARDINAL
+19.2 : CARDINAL
+22.4 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+P/Trend Reported Earnings : ORG
+P/Peak Reported Earnings : ORG
+Shiller : ORG
+P/TTM Operating Earnings : ORG
+P/TTM Reported Earnings
+
+Multiple (x)
+
+Based on Earnings Over a Cycle
+Based on Earnings : ORG
+the Last 12 Months : DATE
+December 31, 2022 : DATE
+Bloomberg : GPE
+Robert Shiller : PERSON
+31 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+• Technical : ORG
+last year : DATE
+200- : CARDINAL
+The third year : DATE
+WWII : EVENT
+44 : CARDINAL
+41 : CARDINAL
+2.0 : CARDINAL
+2.0 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+1980 : DATE
+1985 : DATE
+1990 : DATE
+1995 : DATE
+2000 : DATE
+2005 : DATE
+2010 : DATE
+2015 : DATE
+2020 : DATE
+1999–2000 : CARDINAL
+2005–2007 : CARDINAL
+GFC : ORG
+December 31, 2022 : DATE
+US : GPE
+10-year : DATE
+Treasury : ORG
+Investment Strategy Group : ORG
+Goldman Sachs Global Investment Research : ORG
+Bloomberg 
+FactSet : PERSON
+43 : CARDINAL
+50/50 : CARDINAL
+12-Month : DATE
+12-month : DATE
+13.3% : PERCENT
+1973–74 : ORDINAL
+GFC : ORG
+8.5 : CARDINAL
+8.9 : CARDINAL
+9.0 : CARDINAL
+10.6 : CARDINAL
+13.3 : CARDINAL
+82 : CARDINAL
+85 : CARDINAL
+75 : CARDINAL
+83 : CARDINAL
+96 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+12-Month : DATE
+1973–74 : ORDINAL
+GFC : ORG
+Positive Returns (Right : WORK_OF_ART
+Positive Returns, Unconditional (Right : FAC
+Positive Returns : WORK_OF_ART
+1973–74 : ORDINAL
+GFC : ORG
+December 31, 2022 : DATE
+50/50 : CARDINAL
+50% : PERCENT
+US : GPE
+US : GPE
+US : GPE
+Datastream : GPE
+Ibbotson : PERSON
+44 : CARDINAL
+Presidential Cycle
+ : WORK_OF_ART
+The third year : DATE
+84% : PERCENT
+8 : CARDINAL
+4 : CARDINAL
+16 : CARDINAL
+7 : CARDINAL
+63 : CARDINAL
+55 : CARDINAL
+84 : CARDINAL
+79 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+Year 1
+Year 2
+Year 3
+Year 4
+
+ : DATE
+December 31, 2022 : DATE
+1946 : DATE
+Bloomberg : PERSON
+42 : CARDINAL
+Households : ORG
+Nonprofits : ORG
+Non-Financial Corporates : ORG
+143% : PERCENT
+GFC : ORG
+123% : PERCENT
+the end of 2022 : DATE
+143 : CARDINAL
+123 : CARDINAL
+25 : CARDINAL
+45 : CARDINAL
+65 : CARDINAL
+85 : DATE
+105 : CARDINAL
+125 : CARDINAL
+145 : CARDINAL
+165 : CARDINAL
+80 : CARDINAL
+86-Q1 : CARDINAL
+92-Q1 : CARDINAL
+98-Q1 : CARDINAL
+04-Q1 : CARDINAL
+10-Q1 : CARDINAL
+16-Q1 : CARDINAL
+22 : CARDINAL
+seasonally : DATE
+annual : DATE
+SAAR : ORG
+Haver Analytics : ORG
+32 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+New 
+York City : GPE
+2022 : DATE
+2009 : DATE
+32% : PERCENT
+2022 : DATE
+between 2009 : DATE
+18% : PERCENT
+US : GPE
+US : GPE
+US : GPE
+Downdrafts : ORG
+10 months : DATE
+eight months : DATE
+2022 : DATE
+Outlook : PERSON
+2023 : DATE
+January 2022 : DATE
+2022 : DATE
+the beginning of 2023 : DATE
+A tumultuous year : DATE
+2021 : DATE
+about 80% : PERCENT
+the MSCI ACWI : ORG
+22 : CARDINAL
+2022 : DATE
+10 : CARDINAL
+45 : CARDINAL
+Required Decline : PERSON
+US Equities : ORG
+Offset Tax Consequences of Selling
+Capital : ORG
+December 31, 2022 : DATE
+Datastream : GPE
+2,031 : CARDINAL
+GFC : ORG
+677 : CARDINAL
+3,386 : CARDINAL
+COVID-19 : ORG
+46 : CARDINAL
+US : GPE
+50 : CARDINAL
+250 : CARDINAL
+6250 : DATE
+1945
+1955 : DATE
+1965 : DATE
+1975 : DATE
+1985 : DATE
+1995 : DATE
+2005 : DATE
+2015 : DATE
+Log Scale : PERSON
+1945 : DATE
+100 : CARDINAL
+2022 : DATE
+Bloomberg : GPE
+33 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+about 50 : CARDINAL
+2022 : DATE
+Treasury : ORG
+5.1% : PERCENT
+0.18 : CARDINAL
+about 18% : PERCENT
+the year : DATE
+One : CARDINAL
+2022 : DATE
+two : CARDINAL
+GFC : ORG
+Russian : NORP
+Ukraine : GPE
+about 20 : CARDINAL
+VIX : ORG
+early months : DATE
+85 : CARDINAL
+2022 : DATE
+39 
+intraday : TIME
+the year : DATE
+22 : DATE
+48 : CARDINAL
+2022 : DATE
+2022 : DATE
+nine : CARDINAL
+3.2% : PERCENT
+48 : CARDINAL
+Daily Implied S&P 500 Volatility
+Extreme : PERSON
+22 : CARDINAL
+39 : CARDINAL
+Intraday : DATE
+1/24 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+45 : CARDINAL
+Feb-22 : PRODUCT
+Aug-22 : CARDINAL
+Oct-22 : CARDINAL
+VIX : WORK_OF_ART
+December 31, 2022 : DATE
+Bloomberg : PERSON
+47 : CARDINAL
+10 months : DATE
+50% : PERCENT
+Months : DATE
+Months : DATE
+Portfolio Drawdown : ORG
+Months : DATE
+May 1946 : DATE
+Nov 1946 : DATE
+6 : CARDINAL
+35 : CARDINAL
+18 : CARDINAL
+Dec 1961 : DATE
+Jun 1962 : PERSON
+6 : CARDINAL
+10 : CARDINAL
+1970 : DATE
+19 : CARDINAL
+9 : CARDINAL
+6 : CARDINAL
+1972 : DATE
+1974 : DATE
+21 : CARDINAL
+21 : CARDINAL
+1987 : DATE
+Nov 1987 : DATE
+-29.5% : PERSON
+3 : CARDINAL
+18 : CARDINAL
+14 : CARDINAL
+2000 : DATE
+2002 : DATE
+25 : CARDINAL
+49 : CARDINAL
+15 : CARDINAL
+2007 : DATE
+Feb 2009 : DATE
+16 : CARDINAL
+37 : CARDINAL
+19 : CARDINAL
+2018 : DATE
+-19.4% : PERCENT
+3 : CARDINAL
+4 : CARDINAL
+2 : CARDINAL
+Feb 19 : DATE
+2020 : CARDINAL
+1 : CARDINAL
+5 : CARDINAL
+3 : CARDINAL
+11 : CARDINAL
+21 : CARDINAL
+10 : CARDINAL
+2022 : DATE
+December 31, 2022 : DATE
+50/50 : CARDINAL
+50% : PERCENT
+US : GPE
+US : GPE
+US : GPE
+monthly : DATE
+more than -20% : PERCENT
+Monthly : DATE
+2018 : DATE
+2022 : DATE
+daily : DATE
+Datastream : GPE
+Ibbotson : PERSON
+34 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+6% : PERCENT
+-5% : PERCENT
+early 2023 : DATE
+this year : DATE
+US : GPE
+year-end 2022 : DATE
+six : CARDINAL
+the last decade : DATE
+2-Year : DATE
+2-year : DATE
+Treasury : ORG
+2022 : DATE
+2-year : DATE
+Treasury : ORG
+Federal 
+Reserve : ORG
+2-year : DATE
+Treasury : ORG
+2022 : DATE
+4.4% : PERCENT
+1.2% : PERCENT
+5−5.25% : PERCENT
+2023.18 : CARDINAL
+US Energy Infrastructure Master : ORG
+Limited Partnerships: The allocation : WORK_OF_ART
+2015 : DATE
+January 2016 : DATE
+37% : PERCENT
+one : CARDINAL
+nearly 30% : PERCENT
+2022 : DATE
+• Valuations : PRODUCT
+one : CARDINAL
+• Corporate : ORG
+2022 : DATE
+about 3.9% : PERCENT
+2021 : DATE
+2023 : DATE
+8% : PERCENT
+Alerian : NORP
+1.8x : CARDINAL
+20s : DATE
+2023 : DATE
+October 2022 : DATE
+63% : PERCENT
+55% : PERCENT
+2021 : DATE
+83 : CARDINAL
+Overweight Eurozone Banks: : ORG
+June 2018 : DATE
+European : NORP
+2021 : DATE
+42% : PERCENT
+2022 : DATE
+2% : PERCENT
+two-thirds : CARDINAL
+MLP Enterprise Value : ORG
+the least 2 years : DATE
+8.6 : CARDINAL
+11.3 : CARDINAL
+9.7 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+16 : CARDINAL
+18 : CARDINAL
+1Q07 : ORDINAL
+1Q15 : CARDINAL
+1Q17 : ORDINAL
+1Q19 : CARDINAL
+Q1 2003 : DATE
+Median : NORP
+2010–15 : CARDINAL
+2022 : DATE
+Bloomberg : PERSON
+35 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+50 : CARDINAL
+20s : DATE
+6% : PERCENT
+0.60x : CARDINAL
+0.69x : CARDINAL
+Exhibit 51 : FAC
+European : NORP
+US : GPE
+Nord Stream 2 : FAC
+Russian : NORP
+Ukraine : GPE
+US : GPE
+March 2023 : DATE
+April : DATE
+over $1 per million : MONEY
+BTU : ORG
+Exhibit : PERSON
+only 9% : PERCENT
+0.5 : MONEY
+less 95% : PERCENT
+2022 : DATE
+about 20% : PERCENT
+annual : DATE
+US : GPE
+1990 : DATE
+2020 : DATE
+69% : PERCENT
+France : GPE
+50 : CARDINAL
+1.8 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+Nonperforming Loan Ratio : WORK_OF_ART
+Q2 2022 : DATE
+European Central Bank : ORG
+51 : CARDINAL
+Price/Book Ratio
+Eurozone : ORG
+R2 : CARDINAL
+80% : PERCENT
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+16 : CARDINAL
+Trailing Return on Equity ( : WORK_OF_ART
+2023 : DATE
+December 31, 2022 : DATE
+Datastream : GPE
+March-April : DATE
+March 2023 : DATE
+April : DATE
+0.19 : DATE
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5
+
+1994 1996 : DATE
+2010 : DATE
+2012 2014 2016 2018 : DATE
+2020 2022 : DATE
+MMBtu : PERSON
+1.08 : MONEY
+December 31, 2022 : DATE
+Bloomberg : PERSON
+36 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2018 : DATE
+annual : DATE
+December 31, 2022 : DATE
+48 : MONEY
+70 : MONEY
+three : CARDINAL
+SUIT : ORG
+Systematic Downside Mitigation Tilt (SDMT : ORG
+Trend-Based Rotation (TBR) : ORG
+three : CARDINAL
+2022 : DATE
+first : ORDINAL
+two : CARDINAL
+TBR : ORG
+2023 : DATE
+2021 : DATE
+10 : CARDINAL
+US : GPE
+US : GPE
+US : GPE
+US : GPE
+Treasury : ORG
+US : GPE
+ISG : ORG
+Role of Growth Stocks : ORG
+ISG : ORG
+One : CARDINAL
+FANGMANT : ORG
+GFC : ORG
+FANGMANT : ORG
+20% : PERCENT
+29% : PERCENT
+November 2021 : DATE
+Exxon : ORG
+Nuclear Reactor Requirements : WORK_OF_ART
+93 : CARDINAL
+255 : CARDINAL
+0 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+300 : CARDINAL
+2008 : DATE
+2012 : DATE
+2016 : DATE
+2020 : DATE
+2024 : DATE
+2028 : DATE
+2032 : DATE
+2036 : DATE
+2040 : CARDINAL
+2022 : DATE
+2040 : DATE
+FANGMANT : ORG
+20% : PERCENT
+29 : CARDINAL
+Nov 2021 : DATE
+20 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30
+
+2004
+2006
+2008 : DATE
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+December 31, 2022 : DATE
+Apple : ORG
+Netflix : GPE
+Google/Alphabet : ORG
+Microsoft : ORG
+Amazon : ORG
+Nvidia : GPE
+Tesla : ORG
+Bloomberg : PERSON
+37 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+1.4% : PERCENT
+Coca-Cola : ORG
+0.8% : PERCENT
+Apple Inc. : ORG
+6.0% : PERCENT
+Microsoft : ORG
+5.6% : PERCENT
+2021 : DATE
+2022 : DATE
+two : CARDINAL
+four : CARDINAL
+March 2000 : DATE
+GFC : ORG
+five : CARDINAL
+the last 10 years : DATE
+2021 : DATE
+2022 : DATE
+2021 : DATE
+40% : PERCENT
+2022 : DATE
+2000 : DATE
+GFC : ORG
+2.21 : CARDINAL
+0.94 : CARDINAL
+the decade ending in : DATE
+2021 : DATE
+0.92 : CARDINAL
+2.75 : CARDINAL
+the five 
+years ending in : DATE
+2021 : DATE
+56 : CARDINAL
+GFC : ORG
+US : GPE
+US : GPE
+2023 : DATE
+55 : CARDINAL
+7.4 : CARDINAL
+18.8 : CARDINAL
+16.5 : CARDINAL
+18.4 : CARDINAL
+9.6 : CARDINAL
+19.7 : CARDINAL
+15.6 : CARDINAL
+15.7 : CARDINAL
+2.2 : CARDINAL
+0.9 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+Mar 24, 2000 : DATE
+Mar 9, 2009 : DATE
+2011–2021 : CARDINAL
+2016–2021 : CARDINAL
+Equal-Weighted : ORG
+December 31, 2021 : DATE
+Bloomberg : PERSON
+GFC : ORG
+20.4 : CARDINAL
+17.8 : CARDINAL
+17.0 : CARDINAL
+16.6 : CARDINAL
+16.3 : CARDINAL
+14.4 : CARDINAL
+13.9 : CARDINAL
+13.6 : CARDINAL
+12.8 : CARDINAL
+9.0 : CARDINAL
+8.5 : CARDINAL
+15.6 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+Info Tech
+
+Consumer Disc : ORG
+March 2009 : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+US : GPE
+38 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+US : NORP
+the Data
+
+Exhibit 58: Nominal : ORG
+Capita : WORK_OF_ART
+US : GPE
+29,198 : CARDINAL
+33,592 : CARDINAL
+34,358 : CARDINAL
+42,330 : CARDINAL
+47,318 : CARDINAL
+48,398 : CARDINAL
+56,794 : CARDINAL
+66,408 : CARDINAL
+75,180 : CARDINAL
+10,000 : CARDINAL
+20,000 : CARDINAL
+30,000 : CARDINAL
+40,000 : CARDINAL
+50,000 : CARDINAL
+60,000 : CARDINAL
+70,000 : CARDINAL
+80,000 : CARDINAL
+Spain : GPE
+Korea : GPE
+Italy : GPE
+Japan : GPE
+France : GPE
+UK : GPE
+Germany : GPE
+Canada : GPE
+Australia : GPE
+US : GPE
+Nominal : ORG
+Capita : PERSON
+2022 : DATE
+IMF World Economic Outlook : ORG
+US : GPE
+25 : CARDINAL
+60 : CARDINAL
+US : GPE
+391 : CARDINAL
+397 : CARDINAL
+566 : CARDINAL
+618 : CARDINAL
+739 : CARDINAL
+2,130 2,875 : CARDINAL
+2,912 3,331 : CARDINAL
+5,457 : CARDINAL
+15,361 : CARDINAL
+41,062 : CARDINAL
+5,000 : CARDINAL
+10,000 : CARDINAL
+15,000 : CARDINAL
+20,000 : CARDINAL
+25,000 : CARDINAL
+30,000 : CARDINAL
+35,000 : CARDINAL
+40,000 : CARDINAL
+45,000 : CARDINAL
+South Africa : GPE
+Mexico : GPE
+Italy : GPE
+Spain : GPE
+Brazil : GPE
+Germany : GPE
+France : GPE
+UK : GPE
+India : GPE
+Japan : GPE
+China : GPE
+US : GPE
+Billions : MONEY
+December 31, 2022 : DATE
+Bloomberg : PERSON
+US : GPE
+1,997 : CARDINAL
+2,133 : CARDINAL
+2,200 : CARDINAL
+2,778 : CARDINAL
+3,198 : CARDINAL
+3,469 : CARDINAL
+4,031 : CARDINAL
+4,301 : CARDINAL
+20,256 : CARDINAL
+25,035 : CARDINAL
+5,000 : CARDINAL
+10,000 : CARDINAL
+15,000 : CARDINAL
+20,000 : CARDINAL
+25,000 : CARDINAL
+30,000 : CARDINAL
+Italy : GPE
+Russia : GPE
+Canada : GPE
+France : GPE
+UK : GPE
+India : GPE
+Germany : GPE
+Japan : GPE
+China : GPE
+US : GPE
+Nominal : ORG
+Billions : MONEY
+2022 : DATE
+IMF World Economic Outlook : ORG
+GFC : ORG
+US : GPE
+the past 13 years : DATE
+7.1 : CARDINAL
+8.0 : CARDINAL
+8.0 : CARDINAL
+8.4 : CARDINAL
+8.5 : CARDINAL
+9.2 : CARDINAL
+9.9 : CARDINAL
+15.7 : CARDINAL
+0 : CARDINAL
+4 : CARDINAL
+8 : CARDINAL
+12 : CARDINAL
+16 : CARDINAL
+20 : CARDINAL
+Chinese : NORP
+German : NORP
+UK : GPE
+French : NORP
+647% : PERCENT
+747 : MONEY
+267% : PERCENT
+367 : MONEY
+235% : PERCENT
+335 : MONEY
+216% : PERCENT
+316 : MONEY
+210% : PERCENT
+310 : MONEY
+204% : PERCENT
+304 : MONEY
+189% : PERCENT
+289 : MONEY
+157% : PERCENT
+257 : MONEY
+100 : MONEY
+December 31, 2022 : DATE
+Datastream : GPE
+Bloomberg : PERSON
+39 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+62 : CARDINAL
+Years : DATE
+US : GPE
+years : DATE
+7.8 : CARDINAL
+8.2 : CARDINAL
+9.0 : CARDINAL
+9.2 : CARDINAL
+9.7 : CARDINAL
+10.5 10.6 : CARDINAL
+11.2 11.4 : CARDINAL
+12.1 : CARDINAL
+12.7 : CARDINAL
+13.1 : CARDINAL
+13.1 : CARDINAL
+13.3 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+India : GPE
+Turkey : GPE
+Brazil : GPE
+China : GPE
+Mexico : GPE
+South Africa : GPE
+France : GPE
+Spain : GPE
+Italy : GPE
+Russia : GPE
+Germany : GPE
+Taiwan : GPE
+Japan : GPE
+UK : GPE
+South Korea : GPE
+US : GPE
+Years : DATE
+2020 : DATE
+years : DATE
+2015 : DATE
+2020 : DATE
+Barro-Lee : ORG
+2015 : DATE
+the most recent years : DATE
+2015 : DATE
+Barro-Lee : ORG
+2021 : DATE
+64 : CARDINAL
+US : GPE
+2.2 : CARDINAL
+2.5 : CARDINAL
+2.7 : CARDINAL
+2.8 : CARDINAL
+2.9 : CARDINAL
+3.0 : CARDINAL
+3.1 : CARDINAL
+3.2 : CARDINAL
+3.2 : CARDINAL
+3.4 : CARDINAL
+3.4 : CARDINAL
+3.6 : CARDINAL
+3.7 : CARDINAL
+3.7 : CARDINAL
+3.8 : CARDINAL
+3.8 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+India : GPE
+Turkey : GPE
+China : GPE
+Mexico : GPE
+South Africa : GPE
+Spain : GPE
+Brazil : GPE
+Italy : GPE
+France : GPE
+Taiwan : GPE
+Russia : GPE
+Japan : GPE
+Germany : GPE
+US : GPE
+South Korea : GPE
+UK : GPE
+2019 : DATE
+Penn World : ORG
+10.0 : CARDINAL
+61 : CARDINAL
+US : GPE
+164% : PERCENT
+28 : CARDINAL
+28 : CARDINAL
+39 : CARDINAL
+44 : CARDINAL
+76 : CARDINAL
+91 : CARDINAL
+95 : CARDINAL
+96 : CARDINAL
+104 : CARDINAL
+127 : CARDINAL
+164 : CARDINAL
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+160 : CARDINAL
+180 : CARDINAL
+Mexico : GPE
+Italy : GPE
+Brazil : GPE
+Spain : GPE
+Germany : GPE
+China : GPE
+UK : GPE
+South Africa : GPE
+India : GPE
+France : GPE
+Japan : GPE
+US : GPE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+63 : CARDINAL
+Working-Age Population With 
+ : ORG
+Completed Tertiary Education : ORG
+US : GPE
+tertiary : ORDINAL
+4.7 : CARDINAL
+5.8 : CARDINAL
+6.0 : CARDINAL
+8.8 : CARDINAL
+8.9 : CARDINAL
+9.5 11.0 : CARDINAL
+15.1 : CARDINAL
+15.3 : CARDINAL
+20.9 : CARDINAL
+24.0 : CARDINAL
+27.7 : CARDINAL
+28.6 : CARDINAL
+29.3 : CARDINAL
+32.1 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+South Africa : GPE
+China : GPE
+India : GPE
+Turkey : GPE
+Brazil : GPE
+Taiwan : GPE
+Italy : GPE
+France : GPE
+Mexico : GPE
+Germany : GPE
+Spain : GPE
+UK : GPE
+Japan : GPE
+Russia : GPE
+US : GPE
+South Korea : GPE
+Working-Age Population : ORG
+2020 : DATE
+tertiary : ORDINAL
+between 2015 and 2020 : DATE
+Barro-Lee : ORG
+2015 : DATE
+2015 : DATE
+Barro-Lee : ORG
+2021 : DATE
+UNESCO : ORG
+United Nations World : ORG
+40 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+66 : CARDINAL
+Labor Productivity : ORG
+US : GPE
+19 : CARDINAL
+37 : CARDINAL
+38 : CARDINAL
+48 : CARDINAL
+59 : CARDINAL
+63 : CARDINAL
+82 : CARDINAL
+92 : CARDINAL
+99 : CARDINAL
+105 : CARDINAL
+108 : CARDINAL
+109 : CARDINAL
+117 : CARDINAL
+127 : CARDINAL
+147 : CARDINAL
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+160 : CARDINAL
+India : GPE
+China : GPE
+Brazil : GPE
+Mexico : GPE
+South Africa : GPE
+Russia : GPE
+Japan : GPE
+Korea : GPE
+Spain : GPE
+UK : GPE
+Germany : GPE
+Italy : GPE
+France : GPE
+Taiwan : GPE
+US : GPE
+Labor Productivity : ORG
+2021 : DATE
+Thousands : CARDINAL
+2021 : DATE
+Conference Board : ORG
+68 : CARDINAL
+Triadic Patent Families Registered : ORG
+US : GPE
+394 : CARDINAL
+662 : CARDINAL
+910 : CARDINAL
+1,708 : CARDINAL
+1,880 : CARDINAL
+3,244 : CARDINAL
+4,381 : CARDINAL
+5,897 : CARDINAL
+13,040 : CARDINAL
+17,469 : CARDINAL
+0 : CARDINAL
+2,000 : CARDINAL
+4,000 : CARDINAL
+6,000 : CARDINAL
+8,000 : CARDINAL
+10,000 : CARDINAL
+12,000 : CARDINAL
+14,000 : CARDINAL
+16,000 : CARDINAL
+18,000 : CARDINAL
+20,000 : CARDINAL
+India : GPE
+Canada : GPE
+Italy : GPE
+UK : GPE
+France : GPE
+Korea : GPE
+Germany : GPE
+China : GPE
+US : GPE
+Japan : GPE
+2020 : DATE
+the European Patent Office : ORG
+the United States : GPE
+the Japan Patent Office : ORG
+OECD : ORG
+65 : CARDINAL
+TFP : ORG
+US : GPE
+US : GPE
+40 : CARDINAL
+44 : CARDINAL
+51 : CARDINAL
+55 : CARDINAL
+63 : CARDINAL
+77 : DATE
+89 : CARDINAL
+91 : CARDINAL
+100 : CARDINAL
+103 : CARDINAL
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+China : GPE
+India : GPE
+Brazil : GPE
+Russia : GPE
+Japan : GPE
+UK : GPE
+France Germany : GPE
+US : GPE
+Norway : GPE
+US : GPE
+2019 : DATE
+Penn World Table : ORG
+67 : CARDINAL
+US : GPE
+2.5 2.6 2.6 : QUANTITY
+2.7 : CARDINAL
+2.7 : CARDINAL
+2.7 : CARDINAL
+2.8 : CARDINAL
+2.9 : CARDINAL
+3.0 : CARDINAL
+3.0 : CARDINAL
+3.1 : CARDINAL
+3.2 : CARDINAL
+3.2 : CARDINAL
+3.2 : CARDINAL
+3.3 : CARDINAL
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+India : GPE
+Colombia : GPE
+China : GPE
+Brazil : GPE
+Argentina : GPE
+Greece : GPE
+Chile : GPE
+Turkey : GPE
+Spain : GPE
+Portugal : GPE
+Poland : GPE
+Mexico : GPE
+Italy : GPE
+Singapore : GPE
+UK : GPE
+Australia : GPE
+France : GPE
+Canada : GPE
+Japan : GPE
+Sweden : GPE
+Germany : GPE
+US : GPE
+2015 : DATE
+World Management Survey : ORG
+41 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+70 : CARDINAL
+US : GPE
+67 : CARDINAL
+74 : CARDINAL
+75 : CARDINAL
+91 : CARDINAL
+97 : CARDINAL
+100 : CARDINAL
+101 : CARDINAL
+106 : CARDINAL
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+China : GPE
+Brazil : GPE
+India : GPE
+Russia : GPE
+France : GPE
+Japan : GPE
+US : GPE
+UK : GPE
+Germany : GPE
+US : GPE
+100 : CARDINAL
+2022 : DATE
+The Heritage Foundation : ORG
+72 : CARDINAL
+Nobel Laureates : GPE
+50 : CARDINAL
+US : GPE
+US$billion : MONEY
+Capita : PERSON
+Nobel : WORK_OF_ART
+50 : CARDINAL
+United States : GPE
+22,996 : CARDINAL
+69,227 : CARDINAL
+403 : CARDINAL
+23 : CARDINAL
+Europe : LOC
+22,044 : CARDINAL
+37,060 : CARDINAL
+579 : CARDINAL
+15 : CARDINAL
+France : GPE
+2,957 : CARDINAL
+45,188 : CARDINAL
+72 : CARDINAL
+1 : CARDINAL
+Germany : GPE
+4,263 : CARDINAL
+51,238 : CARDINAL
+113 : CARDINAL
+3 : CARDINAL
+Italy : GPE
+2,101 : CARDINAL
+35,473 : CARDINAL
+21 : CARDINAL
+Spain : GPE
+1,426 : CARDINAL
+30,090 : CARDINAL
+8 : CARDINAL
+United Kingdom : GPE
+3,188 : CARDINAL
+47,329 : CARDINAL
+137 : CARDINAL
+Australia : GPE
+1,635 : CARDINAL
+63,464 : CARDINAL
+12 : CARDINAL
+2 : CARDINAL
+Canada : GPE
+1,988 : CARDINAL
+52,015 : CARDINAL
+28 : CARDINAL
+3 : CARDINAL
+Japan : GPE
+4,933 : CARDINAL
+39,301 : CARDINAL
+29 : CARDINAL
+Korea : GPE
+1,811 : CARDINAL
+35,004 : CARDINAL
+1 : CARDINAL
+New Zealand : GPE
+247 : CARDINAL
+48,317 : CARDINAL
+3 : CARDINAL
+55,654 : CARDINAL
+47,432 : CARDINAL
+1,055 : CARDINAL
+44 : CARDINAL
+China : GPE
+17,745 : CARDINAL
+12,562 : CARDINAL
+10 : CARDINAL
+Russia : GPE
+1,779 : CARDINAL
+12,219 : CARDINAL
+32 : CARDINAL
+East : LOC
+19,523 : CARDINAL
+12,530 : CARDINAL
+42 : CARDINAL
+4 : CARDINAL
+2021 : DATE
+IMF : ORG
+Nobel Prize : WORK_OF_ART
+Times Higher Education : ORG
+69 : CARDINAL
+Modern Innovation System : ORG
+US : GPE
+1.7 : CARDINAL
+1.8 : CARDINAL
+2.3 : CARDINAL
+2.4 : CARDINAL
+3.3 : CARDINAL
+3.5 : CARDINAL
+4.3 : CARDINAL
+4.4 : CARDINAL
+5.5 : CARDINAL
+6.0 : CARDINAL
+6.0 : CARDINAL
+6.9 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+Italy : GPE
+Spain : GPE
+Canada : GPE
+China : GPE
+Australia : GPE
+France : GPE
+Avg Open
+Economy : WORK_OF_ART
+UK : GPE
+Germany : GPE
+US : GPE
+South Korea : GPE
+Japan : GPE
+Modern Innovation System Composite Index
+
+Data : ORG
+2021 : DATE
+China Pathfinder : PERSON
+Atlantic Council : ORG
+Rhodium Group : ORG
+71 : CARDINAL
+Worldwide Governance Indicators : PERSON
+US : GPE
+44 : CARDINAL
+58 : CARDINAL
+59 : CARDINAL
+63 : CARDINAL
+100 : CARDINAL
+102 : CARDINAL
+108 : CARDINAL
+110 : CARDINAL
+113 : CARDINAL
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+Russia : GPE
+Brazil : GPE
+China : GPE
+India : GPE
+US : GPE
+France : GPE
+UK : GPE
+Japan : GPE
+Germany : GPE
+US : GPE
+100 : CARDINAL
+2021 : DATE
+World Bank : ORG
+42 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2023 : DATE
+2022 : DATE
+2022 : DATE
+10% : PERCENT
+US : GPE
+45−55% : PERCENT
+2023 : DATE
+Ash Carter : PERSON
+US : GPE
+50% : PERCENT
+Russian : NORP
+Ukraine : GPE
+2022 : DATE
+Ukraine : GPE
+US : GPE
+China : GPE
+China : GPE
+2022 : DATE
+• : PRODUCT
+North Korea : GPE
+2022 : DATE
+Kim Jong : PERSON
+Un : ORG
+North Korea’s : GPE
+about two : CARDINAL
+Iran : GPE
+Iran : GPE
+Russia : GPE
+China : GPE
+zero : CARDINAL
+COVID : ORG
+US : GPE
+China : GPE
+zero : CARDINAL
+US : GPE
+2022 : DATE
+US : GPE
+the second half of 2023 : DATE
+US : GPE
+2022 : DATE
+Andrew Bishop : PERSON
+Signum Global Advisors : ORG
+Ian Bremmer : PERSON
+Eurasia Group : ORG
+Nick 
+Carter : PERSON
+the Defence Staff : ORG
+UK : GPE
+Bernie Haykel : PERSON
+Near Eastern : ORG
+Princeton University : ORG
+Alex Younger : PERSON
+the Secret Intelligence Service : ORG
+UK : GPE
+Goldman Sachs : ORG
+Ukraine : GPE
+2023 : DATE
+Vladimir Putin : PERSON
+Ukraine : GPE
+Russians : NORP
+Russians : NORP
+• Russian : NORP
+Ukraine : GPE
+Russia : GPE
+Russia : GPE
+Russia : GPE
+Russian : NORP
+Ukraine : GPE
+Ukraine : GPE
+Russia : GPE
+2023 : DATE
+43 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+US : GPE
+Russia : GPE
+US : GPE
+Russian : NORP
+Putin : PERSON
+Alex : PERSON
+Putin : PERSON
+5% : PERCENT
+Financially : PERSON
+Russia : GPE
+2023 : DATE
+2024 : DATE
+Russia : GPE
+3% : PERCENT
+2022 : DATE
+• Equally : ORG
+2.6% : PERCENT
+2023 : DATE
+• Oil : PRODUCT
+year-end 
+ : DATE
+2022 : DATE
+• China : PRODUCT
+India : GPE
+24% : PERCENT
+11% : PERCENT
+Russia : GPE
+Russia : GPE
+$186 billion : MONEY
+One : CARDINAL
+Russia : GPE
+Tony Radakin : PERSON
+Russia : GPE
+US : GPE
+The Wagner Group : ORG
+Russian : NORP
+Russia : GPE
+Soviet : LANGUAGE
+North Korea : GPE
+West : LOC
+Ukraine : GPE
+Ukraine : GPE
+US : GPE
+Europe : LOC
+Ukraine : GPE
+Western : NORP
+Europe : LOC
+Russia : GPE
+Germany : GPE
+less than a year : DATE
+first : ORDINAL
+LNG : ORG
+Wilhelmshaven : GPE
+first : ORDINAL
+LNG : ORG
+US : GPE
+6% : PERCENT
+Germany : GPE
+2021 : DATE
+US : GPE
+LNG : ORG
+73 : CARDINAL
+2022 : DATE
+Qatar : GPE
+Qatar : GPE
+Freeport : NORP
+Texas : GPE
+June 2022 : DATE
+73 : CARDINAL
+Annual : DATE
+US : GPE
+LNG : ORG
+81 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+2010 : DATE
+2013 : DATE
+2016 : DATE
+2019 : DATE
+2022 : DATE
+Qatar : GPE
+US : GPE
+2022 : DATE
+2022 : DATE
+Bloomberg : PERSON
+Bloomberg New Energy Finance : ORG
+Germany : GPE
+first : ORDINAL
+LNG : ORG
+December 2022 : DATE
+2022 : DATE
+44 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+Ukraine : GPE
+Russia : GPE
+US : GPE
+China : GPE
+China : GPE
+Middle Kingdom : GPE
+China : GPE
+West : LOC
+US : GPE
+the US Bureau of Industry : ORG
+Security : ORG
+US : GPE
+China : GPE
+Presidents Biden : PERSON
+Xi : PERSON
+November 14, 2022 : DATE
+Bali : GPE
+Indonesia : GPE
+Chinese : NORP
+US : GPE
+December 30, 2022 : DATE
+US : GPE
+China : GPE
+December 2022 : DATE
+The Japanese : ORG
+Ministry of Defense : ORG
+between December 17 and December 
+27 : DATE
+Chinese : NORP
+Liaoning : GPE
+Japan : GPE
+Japan : GPE
+Lianoning : WORK_OF_ART
+400 miles : QUANTITY
+US : GPE
+Guam : GPE
+Chinese : NORP
+Guam : GPE
+December 21 : DATE
+the US Indo-Pacific 
+Command : ORG
+a People’s Liberation 
+Army Navy : ORG
+U.S. Air 
+Force : ORG
+December 25 : DATE
+China : GPE
+71 : CARDINAL
+Taiwan : GPE
+47 : CARDINAL
+Taiwan : GPE
+Taiwan : GPE
+2022 : DATE
+2021.26 : CARDINAL
+US : GPE
+China : GPE
+Chinese : NORP
+Taiwan : GPE
+2023 : DATE
+the next five years : DATE
+Bishop : ORG
+Signum Global Advisors : ORG
+Chinese : NORP
+Liaoning : GPE
+400 miles : QUANTITY
+US : GPE
+Guam : GPE
+December 2022 : DATE
+Taiwan : GPE
+Chinese : NORP
+December 2022 : DATE
+Taiwan Ministry of National 
+Defense : ORG
+US : GPE
+Chinese : NORP
+Navy : ORG
+J-11 : PRODUCT
+U.S. Air 
+Force : ORG
+December 2022 : DATE
+45 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+35% : PERCENT
+Chinese : NORP
+Taiwan : GPE
+the next two years : DATE
+North Korea : GPE
+North Korea’s : GPE
+2022 : DATE
+North Korea : GPE
+2023 : DATE
+74 : CARDINAL
+North Korea : GPE
+2022 : DATE
+the prior five years : DATE
+CIA : ORG
+William Burns : PERSON
+Bremmer : ORG
+Eurasia Group : ORG
+Korean : NORP
+at least 2017 : DATE
+China : GPE
+Russia : GPE
+North Korea : GPE
+Ukraine : GPE
+Russia : GPE
+US : GPE
+China : GPE
+South Korea : GPE
+North Korea : GPE
+2023 : DATE
+North Korea : GPE
+Iran : GPE
+Iran : GPE
+two : CARDINAL
+2023 : DATE
+Russia : GPE
+the International Atomic Energy Agency : ORG
+the Institute for Science and 
+International Security : ORG
+ISIS : ORG
+Iran : GPE
+HEU : ORG
+60% : PERCENT
+ISIS : ORG
+Iran : GPE
+60% : PERCENT
+HEU : ORG
+90% : PERCENT
+Iran : GPE
+Nick : PERSON
+Iran : GPE
+the Ukraine war : EVENT
+Alex : PERSON
+Iran : GPE
+Eurasia Group : ORG
+Iran : GPE
+90% : PERCENT
+Iran : GPE
+October 2023.32 : DATE
+74 : CARDINAL
+North Korean Missile Launches : NORP
+North Korea : GPE
+2022 : DATE
+five years : DATE
+Unha-3 : ORG
+50 : CARDINAL
+100 : CARDINAL
+2011 : DATE
+2012 : DATE
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+Hypersonic Glide Vehicle : LAW
+2022 : DATE
+North Korea : GPE
+Iran : GPE
+2023 : DATE
+46 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+Iran : GPE
+Israel : GPE
+2023 : DATE
+Drones : PERSON
+Missiles : PERSON
+Russia : GPE
+Russia : GPE
+Iran : GPE
+West : LOC
+Russia : GPE
+Iran : GPE
+Iranians : NORP
+Russians : NORP
+Ukrainian : NORP
+United Nations Security Council : ORG
+France : GPE
+Germany : GPE
+UK : GPE
+Iran : GPE
+Russia : GPE
+2022 : DATE
+Kenneth : PERSON
+Frank” McKenzie Jr. : WORK_OF_ART
+Marine : NORP
+the US Central Command : ORG
+the Middle East : LOC
+South Asia : LOC
+Iran : GPE
+the Middle East : LOC
+Russia : GPE
+China : GPE
+Russia : GPE
+Iran : GPE
+North Korea : GPE
+US : GPE
+China : GPE
+US : GPE
+The Office of the Director of National Intelligence : ORG
+Russia : GPE
+US : GPE
+2023 : DATE
+Australia : GPE
+January 2023 : DATE
+2022 : DATE
+the Middle East : LOC
+Afghanistan : GPE
+West : LOC
+Nick : PERSON
+Africa : LOC
+Combating Terrorism Center at West Point : WORK_OF_ART
+Africa : LOC
+the Middle 
+East : LOC
+Africa : LOC
+COVID-19 : PERSON
+last year : DATE
+XBB1.5 : PRODUCT
+US : GPE
+Singapore : GPE
+David Ho : PERSON
+Columbia 
+University : ORG
+Luciana 
+Borio : PERSON
+the US National Security Council : ORG
+47 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+China : GPE
+first : ORDINAL
+COVID : ORG
+Wuhan : GPE
+2020 : DATE
+the Financial 
+Times : ORG
+Sun Yang : PERSON
+the Chinese 
+Center for Disease Control and Prevention : ORG
+CDC : ORG
+about 250 million : CARDINAL
+18% : PERCENT
+China : GPE
+COVID-19 : ORG
+the first 20 days : DATE
+December 2022.39 : DATE
+Wu Zunyou : PERSON
+Chinese : NORP
+CDC : ORG
+China : GPE
+three : CARDINAL
+second : ORDINAL
+hundreds of millions : MONEY
+Lunar New Year : EVENT
+January 21, 2023 : DATE
+third : ORDINAL
+late February : DATE
+mid-March : DATE
+the New Year : EVENT
+The University of Washington’s Institute : ORG
+Health Metrics and Evaluation : ORG
+China : GPE
+as many as 1 million : CARDINAL
+Borio : PERSON
+China : GPE
+China : GPE
+COVID : ORG
+China : GPE
+China : GPE
+US : GPE
+David Mericle : PERSON
+Alec Phillips : PERSON
+Goldman Sachs Global Investment Research : ORG
+2023 : DATE
+Treasury : ORG
+US : GPE
+US : GPE
+August 2023 : DATE
+October : DATE
+Mericle : GPE
+Phillips : ORG
+this year : DATE
+1995 : DATE
+2011 : DATE
+US : GPE
+Democratic : NORP
+Republican : NORP
+House : ORG
+Republicans : NORP
+Democrats : NORP
+Treasury : ORG
+Mericle : GPE
+Phillips : ORG
+House : ORG
+China : GPE
+first : ORDINAL
+COVID : ORG
+Wuhan : GPE
+2020 : DATE
+48 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+Key Takeaways : LOC
+2022 : DATE
+two : CARDINAL
+US : GPE
+US Preeminence : PERSON
+US : GPE
+US : GPE
+UK : GPE
+Russia : GPE
+Japan : GPE
+China : GPE
+4.9% : PERCENT
+4−4.5% : PERCENT
+• Monetary Policy Tightening : ORG
+2022 : DATE
+China : GPE
+• Recession Risk : ORG
+US : GPE
+45−55% : PERCENT
+2023 : DATE
+US : GPE
+49 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+US : GPE
+Exhibit 75 : ORG
+• Attractive High-Single- : WORK_OF_ART
+over 10% : PERCENT
+9% : PERCENT
+this year : DATE
+Russia : GPE
+China : GPE
+North Korea : GPE
+Iran : GPE
+Russia : GPE
+Iran : GPE
+US : GPE
+75 : CARDINAL
+ISG : ORG
+Underweighting Equities : WORK_OF_ART
+Imminent Recession Risk
+
+Small
+Large
+
+Low : ORG
+December 31, 2022 : DATE
+50 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2023 : CARDINAL
+A Difficult Balancing Act
+
+ : WORK_OF_ART
+more than 280 : CARDINAL
+last year : DATE
+51 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+52 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+UK : GPE
+last year : DATE
+today : DATE
+almost three-quarters : CARDINAL
+annual : DATE
+greater than 4% : PERCENT
+Europe : LOC
+UK : GPE
+more than $750 
+billion : MONEY
+US : GPE
+this year : DATE
+US : GPE
+Japan : GPE
+2022 : DATE
+China : GPE
+Russia : GPE
+Ukraine : GPE
+last year : DATE
+the 
+final months of 2022 : DATE
+UK : GPE
+winter : DATE
+a year : DATE
+United States : GPE
+Year Two : DATE
+US : GPE
+9% : PERCENT
+last year : DATE
+four decades : DATE
+a second year : DATE
+2021 : DATE
+last 
+year : DATE
+Ukraine : GPE
+China : GPE
+zero : CARDINAL
+9% : PERCENT
+last year : DATE
+four decades : DATE
+7.1 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+1923
+1932
+1941 : DATE
+1950 : DATE
+1959 : DATE
+1968 : DATE
+1977 : DATE
+1986 : DATE
+1995 : DATE
+2004 : DATE
+2013 : DATE
+2022 : DATE
+YoY : GPE
+June
+2022 : DATE
+9.1 : CARDINAL
+November 2022 : DATE
+Haver Analytics : ORG
+76 : CARDINAL
+ISG Outlook for Developed Economies
+
+Real : ORG
+Headline Inflation*
+Annual Average (% : WORK_OF_ART
+Annual : DATE
+Policy Rate : ORG
+10-Year : DATE
+2022 : DATE
+2023 : DATE
+2023 : DATE
+2023 : DATE
+Bad Case : WORK_OF_ART
+2022 : DATE
+2023 : DATE
+2022 : DATE
+2023 : DATE
+2022 : DATE
+2023 : DATE
+2022 : DATE
+2023 : DATE
+United States : GPE
+2.0 : CARDINAL
+0.9–1.5 : ORG
+2.6 : CARDINAL
+8.0 : CARDINAL
+3.9–4.5 : GPE
+6.1 : CARDINAL
+4.3–4.7 : CARDINAL
+4.375 : CARDINAL
+5.1 : CARDINAL
+3.9 : CARDINAL
+3.15–3.65 : CARDINAL
+3.3 : CARDINAL
+0.6 : CARDINAL
+8.6 : CARDINAL
+6.7–7.3 : CARDINAL
+4.0 : CARDINAL
+2.0 : CARDINAL
+3.5 : CARDINAL
+2.6 : CARDINAL
+1.75–2.25 : CARDINAL
+United Kingdom : GPE
+4.4 : CARDINAL
+0.0 : CARDINAL
+9.0 : CARDINAL
+6.0 : CARDINAL
+4.3–4.7 : CARDINAL
+3.5 : CARDINAL
+4.5 : CARDINAL
+3.7 : CARDINAL
+3.0–3.5 : CARDINAL
+Japan : GPE
+1.5 : CARDINAL
+1.0–1.6 : CARDINAL
+2.0 : CARDINAL
+0.3 : CARDINAL
+2.4 : CARDINAL
+1.6–2.0 : CARDINAL
+2.2 : CARDINAL
+1.7–2.1 : CARDINAL
+0.0 : CARDINAL
+0.4 : CARDINAL
+December 31, 2022 : DATE
+Haver Analytics : ORG
+Bloomberg : PERSON
+Japan : GPE
+US : GPE
+the Federal Reserve’s : ORG
+Eurozone : ORG
+ECB : ORG
+Japan : GPE
+BOJ : ORG
+10-year : DATE
+German : NORP
+53 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+US : GPE
+79 : CARDINAL
+the Federal Reserve’s : ORG
+2% : PERCENT
+80 : CARDINAL
+81 : CARDINAL
+US : GPE
+at least three : CARDINAL
+First : ORDINAL
+Second : ORDINAL
+2021 : DATE
+last year : DATE
+Core Goods
+Core Services : ORG
+3.7 : CARDINAL
+6.8 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14
+
+2008
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+YoY : GPE
+November 2022 : DATE
+Haver Analytics : ORG
+80 : CARDINAL
+Atlanta : GPE
+San 
+Francisco Fed Cyclical : ORG
+2% : PERCENT
+Atlanta : GPE
+3-Month : DATE
+San Francisco Fed Cyclical Core PCE Inﬂation : ORG
+6.4 : CARDINAL
+7.4 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+1998
+2001
+ : DATE
+2004 : DATE
+2007 : DATE
+2010 : DATE
+2013 : DATE
+2016 : DATE
+2019 : DATE
+2022 : DATE
+YoY : GPE
+November 2022 : DATE
+Haver Analytics : ORG
+79 : CARDINAL
+the Federal Reserve’s : ORG
+2% : PERCENT
+4.7 : CARDINAL
+4.6 : CARDINAL
+5.0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+1990 : DATE
+1995 : DATE
+2000 : DATE
+2005 : DATE
+2010 : DATE
+2015 : DATE
+2020
+
+% : PERCENT
+6-Month : DATE
+12-Month : DATE
+Core PCE : ORG
+12-Month : DATE
+November 2022 : DATE
+Haver Analytics : ORG
+81 : CARDINAL
+Labor Productivity Growth
+Productivity : ORG
+Corporate : ORG
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+1990 : DATE
+1994 : DATE
+1998 : DATE
+2002 : DATE
+2006 : DATE
+2010 : DATE
+2014 : DATE
+2018 : DATE
+2022 : DATE
+YoY : GPE
+2022 : DATE
+US : GPE
+Federal Reserve : ORG
+Haver Analytics : ORG
+54 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+the 
+Federal Reserve’s : ORG
+last year : DATE
+82 : CARDINAL
+the Federal Reserve’s : ORG
+the early 1980s : DATE
+2022 : DATE
+US : GPE
+around 4% : PERCENT
+the start of the year : DATE
+less than 2% : PERCENT
+year-end : DATE
+84 and 85 : CARDINAL
+82 : CARDINAL
+COVID-19 : ORG
+Disposable Personal Income
+Real Disposable Personal Income : WORK_OF_ART
+2.9 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+YoY : GPE
+November 2022 : DATE
+Haver Analytics : ORG
+84 : CARDINAL
+this year : DATE
+3.2 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+4.0 : CARDINAL
+4.5 : CARDINAL
+5.0 : CARDINAL
+5.5 : CARDINAL
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+December 31, 2022 : DATE
+American Automobile Association : ORG
+AAA : ORG
+Bloomberg : PERSON
+83 : CARDINAL
+Goldman Sachs US Financial 
+Conditions Index
+Financial : ORG
+last year : DATE
+101.7 : CARDINAL
+100.2 : CARDINAL
+96 : CARDINAL
+97 : CARDINAL
+98 : CARDINAL
+99 : CARDINAL
+100 : CARDINAL
+101 : CARDINAL
+102 : CARDINAL
+2012 : DATE
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+Tighter Financial
+Conditions
+
++3.3
+
+Data : WORK_OF_ART
+December 31, 2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+85 : CARDINAL
+US : GPE
+2022 : DATE
+2022 : DATE
+US : GPE
+1.9 : CARDINAL
+4.3 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+4.0 : CARDINAL
+4.5 : CARDINAL
+Jul-21
+Oct-21
+Jan-22
+Apr-22
+Jul-22
+ : PERSON
+Oct-22
+
+% : PERCENT
+YoY : GPE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+55 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+the Federal Reserve’s : ORG
+2023 : DATE
+1.2% : PERCENT
+the 1.5−2.0% : PERCENT
+last year’s : DATE
+last year’s : DATE
+three : CARDINAL
+the 
+Federal Reserve : ORG
+this year : DATE
+89 : CARDINAL
+Housing : ORG
+the Federal Reserve : ORG
+this year : DATE
+third : ORDINAL
+more than half : CARDINAL
+PCE : ORG
+Net Worth : GPE
+US Households : ORG
+Nonprofit Organizations : WORK_OF_ART
+last year’s : DATE
+2023 : DATE
+2019 : DATE
+537 : CARDINAL
+2021 : DATE
+617 : CARDINAL
+557 : CARDINAL
+300 : CARDINAL
+350 : CARDINAL
+400 : CARDINAL
+450 : CARDINAL
+500 : CARDINAL
+550 : CARDINAL
+600 : CARDINAL
+650
+
+1947 1952 : DATE
+1972 1977 1982 1987 1992 1997 2002 : DATE
+2012 2017 2022 : DATE
+2022 : DATE
+Haver Analytics : ORG
+88 : CARDINAL
+US : GPE
+this year : DATE
+0.9 : CARDINAL
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+1955 : DATE
+1965 : DATE
+1975 : DATE
+1985 : DATE
+1995 : DATE
+2005 : DATE
+2015 : DATE
+2022 : DATE
+Haver Analytics : ORG
+87 : CARDINAL
+US : GPE
+Households : ORG
+13.2 : CARDINAL
+9.6 : CARDINAL
+10.1 : CARDINAL
+10.2 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+11 : CARDINAL
+12 : CARDINAL
+13 : CARDINAL
+14 : CARDINAL
+1980 : DATE
+1985 : DATE
+1990 : DATE
+1995 : DATE
+2000 : DATE
+2005 : DATE
+2010 : DATE
+2015 : DATE
+2020 : DATE
+2022 : DATE
+Federal Reserve : ORG
+Haver Analytics : ORG
+56 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+about 1.7 : CARDINAL
+3.7% : PERCENT
+PCE : ORG
+3.6% : PERCENT
+year-end : DATE
+the Federal Reserve’s : ORG
+0.25% : PERCENT
+5% : PERCENT
+2023 : DATE
+today : DATE
+91 : CARDINAL
+US Market Rents : ORG
+PCE Housing 
+Services Inflation
+ : ORG
+later this year : DATE
+PCE Housing Services
+Zillow (National)
+
+ : ORG
+CoreLogic Single-Family Detached : ORG
+7.1 : CARDINAL
+9.8 : CARDINAL
+5.8 : CARDINAL
+9.3 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+YoY : GPE
+October 2022 : DATE
+CoreLogic : ORG
+Zillow : NORP
+October : DATE
+PCE (Personal Consumption Expenditures : ORG
+October : DATE
+ApartmentList, Bureau of Economic Analysis : ORG
+Labor Statistics : ORG
+CoreLogic : ORG
+Zillow, : ORG
+Federal Reserve : ORG
+89 : CARDINAL
+this year : DATE
+4.6 : CARDINAL
+7.1 : CARDINAL
+4.6 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10
+
+2014
+2015
+2016
+ : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+YoY : GPE
+Core Goods
+Housing Services
+Core Services : ORG
+October 2022 : DATE
+October : DATE
+October : DATE
+Bureau of Economic Analysis : ORG
+Bureau of Labor Statistics : ORG
+Federal Reserve : ORG
+Supplier Delivery Times : ORG
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+45 : CARDINAL
+50 : CARDINAL
+55 : CARDINAL
+60 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+45 : CARDINAL
+50 : CARDINAL
+55 : CARDINAL
+60 : CARDINAL
+2009 2010 : DATE
+2011 2012 2013 2014 2015 2016 2017 : DATE
+2020 2021 2022 : DATE
+November 2022 : DATE
+Haver Analytics : ORG
+92 : CARDINAL
+US : GPE
+Unemployed 
+Individuals
+ : ORG
+Unemployed
+Job Openings : ORG
+6.0 : CARDINAL
+10.5 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+2000 : DATE
+2002 : DATE
+2004
+2006
+ : DATE
+2008 : DATE
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+Millions : CARDINAL
+November 2022 : DATE
+Haver Analytics : ORG
+57 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+Yield Curve Inversion Diffusion : ORG
+Bloomberg : ORG
+2023.45 : CARDINAL
+45−55% : PERCENT
+this year : DATE
+First : ORDINAL
+around $1.5 trillion : MONEY
+Federal Reserve : ORG
+half : CARDINAL
+2022 : DATE
+roughly $350 billion : MONEY
+about $5,500 : MONEY
+Second : ORDINAL
+DPI : ORG
+this year : DATE
+2022 : DATE
+GIR : ORG
+DPI : ORG
+3.5% : PERCENT
+2023 : DATE
+2023 : DATE
+94 : CARDINAL
+Equivalents
+Households : PRODUCT
+71 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90
+
+ : DATE
+1947 1952 : DATE
+1972 1977 1982 1987 1992 1997 2002 : DATE
+2012 2017 2022 : DATE
+2022 : DATE
+Haver Analytics : ORG
+93 : CARDINAL
+ISG Yield Curve Inversion : ORG
+100 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+1955 1960 : DATE
+1985 1990 1995 2000 : DATE
+2010 2015 : DATE
+December 31, 2022 : DATE
+four : CARDINAL
+daily : DATE
+weekly : DATE
+monthly : DATE
+the previous 6 months : DATE
+ISG : ORG
+Bloomberg : PERSON
+Haver Analytics : ORG
+95 : CARDINAL
+Atlanta Federal Reserve Wage Tracker : ORG
+Wage Quartile
+ : PERSON
+Bottom Quartile : PERSON
+3rd : FAC
+7.4 : CARDINAL
+7.2 : CARDINAL
+5.7 : CARDINAL
+4.8 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+2007 : DATE
+2010 : DATE
+2013 : DATE
+2016 : DATE
+2019 : DATE
+2022 : DATE
+YoY : GPE
+November 2022 : DATE
+Haver Analytics : ORG
+58 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2022 : DATE
+Federal Reserve : ORG
+the year ahead : DATE
+Russia : GPE
+Ukraine : GPE
+last year : DATE
+ECB : ORG
+the final 
+months of 2022 : DATE
+about 0.8% : PERCENT
+the second half of this year : DATE
+this year : DATE
+Eurozone : ORG
+0.3% : PERCENT
+2023 : DATE
+98 : CARDINAL
+2022 : DATE
+Nonenergy Industrial Goods
+Energy
+Food
+Headline : ORG
+11.0 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+YoY : GPE
+November 2022 : DATE
+Haver Analytics : ORG
+96 : CARDINAL
+Social Security Cost-of-Living 
+Adjustments : ORG
+Social Security : ORG
+US : GPE
+this year : DATE
+8.7 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+1990 : DATE
+1994 : DATE
+1998 : DATE
+2002 : DATE
+2006 : DATE
+2010 : DATE
+2014 : DATE
+2018 : DATE
+2022 : DATE
+YoY : GPE
+2023 : DATE
+Social Security Administration : ORG
+97 : CARDINAL
+last year : DATE
+1.8 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+10 : CARDINAL
+8 : CARDINAL
+2012 2013 2014 2015 2016 2017 : DATE
+2020 2021 : DATE
+2023 2024 : DATE
+YoY : GPE
+2024 : DATE
+Goldman Sachs Global Investment Research : ORG
+59 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+ECB : ORG
+2% : PERCENT
+this year : DATE
+First : ORDINAL
+last year’s : DATE
+2023 : CARDINAL
+Second : ORDINAL
+7.0% : PERCENT
+4.2% : PERCENT
+2023 : DATE
+ECB : ORG
+3.5% : PERCENT
+the first half of 2023 : DATE
+this year : DATE
+last year : DATE
+next 
+winter : DATE
+the summer : DATE
+United Kingdom : GPE
+UK : GPE
+4.4% : PERCENT
+last year : DATE
+the full year : DATE
+2022 : DATE
+the third quarter : DATE
+100 : CARDINAL
+ISG : ORG
+Baseline Forecast : PERSON
+101.5 : CARDINAL
+105.3 : CARDINAL
+75 : CARDINAL
+80 : CARDINAL
+85 : DATE
+90 : CARDINAL
+95 : CARDINAL
+100 : CARDINAL
+105 : CARDINAL
+110 : CARDINAL
+100 : CARDINAL
+2022 : DATE
+Q4 2023 : DATE
+Haver Analytics : ORG
+99 : CARDINAL
+Eurozone : ORG
+2.9 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+2010 : DATE
+2011 : DATE
+2012 : DATE
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 2020 : DATE
+YoY : GPE
+2022 : DATE
+European Commission : ORG
+2022 : DATE
+Federal 
+Reserve : ORG
+the year ahead : DATE
+60 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+1.5% : PERCENT
+the summer : DATE
+1% : PERCENT
+the full year : DATE
+Liz : PERSON
+Rishi Sunak : ORG
+around 2.5% : PERCENT
+2027 : DATE
+2023 : DATE
+40-year : DATE
+this year : DATE
+BOE : ORG
+2% : PERCENT
+BOE : ORG
+4.5% : PERCENT
+the first half of this year : DATE
+UK : GPE
+Brexit : PERSON
+UK : GPE
+Exhibit 102 : FAC
+5.1% : PERCENT
+6.9% : PERCENT
+the end of this year : DATE
+Japan : GPE
+Japan : GPE
+2022 : DATE
+COVID : ORG
+102 : CARDINAL
+UK : GPE
+ISG : ORG
+Baseline Forecast : PERSON
+UK : GPE
+98.7 : CARDINAL
+106.0 : CARDINAL
+75 : CARDINAL
+80 : CARDINAL
+85 : DATE
+90 : CARDINAL
+95 : CARDINAL
+100 : CARDINAL
+105 : CARDINAL
+110 : CARDINAL
+100 : CARDINAL
+2022 : DATE
+Q4 2023 : DATE
+Haver Analytics : ORG
+101 : CARDINAL
+UK : GPE
+UK : GPE
+228 : CARDINAL
+0 : CARDINAL
+100 : CARDINAL
+200 : CARDINAL
+300 : CARDINAL
+400 : CARDINAL
+500 : CARDINAL
+600 : CARDINAL
+2010 2011 2012 : DATE
+2020 2021 2022 : DATE
+Brexit : PERSON
+Mini-Budget
+
+Data : ORG
+November 2022 : DATE
+PolicyUncertainty : ORG
+Haver Analytics : ORG
+61 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+1.5% : PERCENT
+last year : DATE
+around 0.8% : PERCENT
+2023 : DATE
+103 : CARDINAL
+Japanese : NORP
+1.3% : PERCENT
+this year : DATE
+third consecutive year : DATE
+Japan : GPE
+3.8% : PERCENT
+late last year : DATE
+three decades : DATE
+this year : DATE
+1.8% : PERCENT
+1.9% : PERCENT
+this year : DATE
+BOJ : ORG
+2% : PERCENT
+10-year : DATE
+JGB : ORG
+±25 bps : ORG
+Haruhiko Kuroda : PERSON
+BOJ : ORG
+Kuroda : PERSON
+YCC : ORG
+first : ORDINAL
+this 
+year : DATE
+YCC : ORG
+NIRP : ORG
+March-April : DATE
+Kuroda : GPE
+April : DATE
+BOJ : ORG
+Fortune
+
+Emerging : WORK_OF_ART
+last year’s : DATE
+Russia : GPE
+Ukraine : GPE
+COVID : ORG
+China : GPE
+Chinese : NORP
+103 : CARDINAL
+Japanese : NORP
+Japanese : NORP
+Consumer Conﬁdence
+Income Growth
+Employment
+Willingness to Buy Durable Goods : WORK_OF_ART
+29.4 : CARDINAL
+34.3 : CARDINAL
+34.4 : CARDINAL
+22.0 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+2008 : DATE
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+November 2022 : DATE
+Haver Analytics : ORG
+Japanese : NORP
+1.3% : PERCENT
+this year : DATE
+third : ORDINAL
+62 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+EM : ORG
+105 : CARDINAL
+EM : ORG
+3.3% : PERCENT
+last year : DATE
+4% : PERCENT
+less than half : CARDINAL
+6.8% : PERCENT
+2021 : DATE
+106 : CARDINAL
+last year’s : DATE
+2023 : DATE
+this year : DATE
+EM : ORG
+China : GPE
+this year : DATE
+3.7% : PERCENT
+EM : ORG
+2023 : DATE
+last year : DATE
+Asia : LOC
+Asia : LOC
+EM : ORG
+China : GPE
+zero : CARDINAL
+East Asian : NORP
+China : GPE
+the second quarter : DATE
+China : GPE
+Exhibit 104: Emerging Markets Headline : WORK_OF_ART
+Core Inflation
+Inflation : ORG
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+Turkey : GPE
+Hungary : GPE
+Poland : GPE
+Romania : GPE
+Czech Republic
+
+ : GPE
+Chile : GPE
+Colombia : GPE
+Russia : GPE
+Peru : GPE
+Philippines : GPE
+Mexico : GPE
+South Africa : GPE
+YoY : GPE
+Turkey : GPE
+84% : PERCENT
+Turkey : GPE
+69% : PERCENT
+Brazil : GPE
+India : GPE
+Thailand : GPE
+Indonesia : GPE
+Israel : GPE
+Korea : GPE
+Malaysia : GPE
+Taiwan : GPE
+November 2022 : DATE
+Haver Analytics : ORG
+106 : CARDINAL
+EM : ORG
+2023 : DATE
+China : GPE
+2021 : DATE
+2022 : DATE
+2023 : DATE
+6.8 : CARDINAL
+7.1 : CARDINAL
+9.4 : CARDINAL
+6.8 : CARDINAL
+8.1 : CARDINAL
+8.7 : CARDINAL
+5.0 : CARDINAL
+4.7 : CARDINAL
+3.3 : CARDINAL
+4.0 : CARDINAL
+4.6 : CARDINAL
+3.3 : CARDINAL
+2.7 : CARDINAL
+6.9 : CARDINAL
+3.1 : CARDINAL
+3.7 : CARDINAL
+4.8 : CARDINAL
+2.3 : CARDINAL
+1.4 : CARDINAL
+4.9 : CARDINAL
+5.6 : CARDINAL
+0.9 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+EM : ORG
+EM Asia : LOC
+CEE : ORG
+Latam : GPE
+China : GPE
+India : GPE
+Brazil : GPE
+Russia : GPE
+YoY : GPE
+2022 : DATE
+2023 : DATE
+International Monetary Fund : ORG
+Russia : GPE
+Ukraine : GPE
+105 : CARDINAL
+2022 : DATE
+2022 : DATE
+1,060 : CARDINAL
+725 : CARDINAL
+500 500 500 : MONEY
+350 : CARDINAL
+325 : CARDINAL
+325 : CARDINAL
+315 : CARDINAL
+225 : CARDINAL
+225 200 : CARDINAL
+425 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+1,000 : CARDINAL
+1,200 : CARDINAL
+Hungary : GPE
+Colombia : GPE
+Chile : GPE
+Peru : GPE
+Poland : GPE
+Mexico : GPE
+Brazil : GPE
+Philippines : GPE
+Czech Republic : GPE
+South Africa : GPE
+Israel : GPE
+Korea : GPE
+India : GPE
+Indonesia : GPE
+Malaysia : GPE
+Thailand : GPE
+Taiwan : GPE
+Russia : GPE
+Turkey : GPE
+US : GPE
+Basis Points
+
+Data : ORG
+December 31, 2022 : DATE
+Bloomberg : PERSON
+63 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+Chinese : NORP
+Hong Kong : GPE
+Chinese : NORP
+US : GPE
+Europe : LOC
+Korea : GPE
+Taiwan : GPE
+around 2% : PERCENT
+this year : DATE
+3% : PERCENT
+2022 : DATE
+India : GPE
+around 5.6% : PERCENT
+India : GPE
+Asia : LOC
+China : GPE
+China : GPE
+last year : DATE
+zero : CARDINAL
+107 : CARDINAL
+108 : CARDINAL
+8% : PERCENT
+2021 : DATE
+an estimated 2.7% : PERCENT
+last year : DATE
+1976 : DATE
+2020 : DATE
+5.2% : PERCENT
+around 5.5% : PERCENT
+China : GPE
+COVID : ORG
+late last year : DATE
+2023 : DATE
+107 : CARDINAL
+China : GPE
+Chinese : NORP
+6.2 : CARDINAL
+10.6 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+YoY : GPE
+November 2022 : DATE
+Haver Analytics : ORG
+108 : CARDINAL
+China : GPE
+Benchmark Interest Rate : ORG
+The People’s Bank of China : ORG
+1-Year Medium-Term Lending Facility : DATE
+7-Day : DATE
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+16 : CARDINAL
+18 : CARDINAL
+20 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+4.0 : CARDINAL
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+December 2022 : DATE
+Haver Analytics : ORG
+109 : CARDINAL
+New Symptomatic : GPE
+COVID-19 Cases : ORG
+COVID-19 : ORG
+Hong Kong : GPE
+Taiwan : GPE
+Singapore : GPE
+2,790 : CARDINAL
+906 : CARDINAL
+162 : CARDINAL
+1,000 : CARDINAL
+2,000 : CARDINAL
+3,000 : CARDINAL
+4,000 : CARDINAL
+5,000 : CARDINAL
+6,000 : CARDINAL
+7,000 : CARDINAL
+8,000 : CARDINAL
+9,000 : CARDINAL
+10,000 : CARDINAL
+0 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+300 : CARDINAL
+350 : CARDINAL
+400 : CARDINAL
+450 : CARDINAL
+December 31, 2022 : DATE
+7-day : DATE
+2 : CARDINAL
+million : CARDINAL
+Wind : GPE
+64 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+COVID : ORG
+four months : DATE
+Hong Kong : GPE
+Singapore : GPE
+Taiwan : GPE
+first : ORDINAL
+China : GPE
+China : GPE
+the 
+first quarter of this year : DATE
+the second quarter of this year : DATE
+China : GPE
+last year : DATE
+16 : CARDINAL
+last November : DATE
+Chinese : NORP
+4.9% : PERCENT
+2023 : DATE
+2.1% : PERCENT
+1.1% : PERCENT
+3% : PERCENT
+China : GPE
+Insight on : ORG
+China : GPE
+Middle 
+Kingdom: Middle Income : GPE
+Central and Eastern Europe
+Economies : LOC
+Central and Eastern Europe : LOC
+Ukraine : GPE
+Russia : GPE
+last year : DATE
+Russian : NORP
+Hungary : GPE
+more than a : CARDINAL
+10 : CARDINAL
+Czech : NORP
+nearly a quarter : DATE
+FX : ORG
+last year : DATE
+2023 : DATE
+winter : DATE
+early this year : DATE
+Russia : GPE
+3.0% : PERCENT
+last year : DATE
+an additional 2.6% : PERCENT
+2023 : DATE
+Latin America : LOC
+Latin American : NORP
+last year : DATE
+first : ORDINAL
+2021 : DATE
+110 : CARDINAL
+China : GPE
+Savings Rate
+Household : PERSON
+YTD : ORG
+Left : ORG
+25 : CARDINAL
+26 : CARDINAL
+27 : CARDINAL
+28 : CARDINAL
+29 : CARDINAL
+30 : CARDINAL
+31 : CARDINAL
+32 : CARDINAL
+33 : CARDINAL
+34 : CARDINAL
+35 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+16
+
+2015
+2016
+ : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+YoY : GPE
+2022 : DATE
+Haver Analytics : ORG
+65 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+Colombia : GPE
+Mexico : GPE
+Brazil : GPE
+Chile : GPE
+Chinese : NORP
+2023 : DATE
+China : GPE
+later in the year : DATE
+Brazil : GPE
+3.1% : PERCENT
+last year : DATE
+nearly 8% : PERCENT
+just 0.9% : PERCENT
+this year : DATE
+66 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+last year : DATE
+18% : PERCENT
+annual : DATE
+2008 : DATE
+US : GPE
+last October : DATE
+85% : PERCENT
+Bloomberg : PERSON
+nearly $32 trillion : MONEY
+16% : PERCENT
+less than 2% : PERCENT
+1926,49 : CARDINAL
+fourth : ORDINAL
+2023 : CARDINAL
+67 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+68 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+last year : DATE
+Chinese : NORP
+US : GPE
+US : GPE
+this year : DATE
+two : CARDINAL
+2023 : DATE
+First : ORDINAL
+US : GPE
+last year’s : DATE
+Second : ORDINAL
+US : GPE
+this 
+year : DATE
+the final 
+months : DATE
+the end of 2023 : DATE
+US : GPE
+this year : DATE
+Eurozone : GPE
+UK : GPE
+2023 : DATE
+year-end : DATE
+today : DATE
+US Equities : WORK_OF_ART
+2022 : DATE
+US : GPE
+nearly $13 trillion : MONEY
+last year : DATE
+Japan : GPE
+Germany : GPE
+UK : GPE
+Last 
+year : DATE
+second : ORDINAL
+the last three years : DATE
+2020 : DATE
+last year : DATE
+US : GPE
+today : DATE
+Year-End 2023 : DATE
+2022 : DATE
+Implied Upside : ORG
+2022 : DATE
+US : GPE
+3,840 : CARDINAL
+4,200–4,300 : CARDINAL
+9–12% : PERCENT
+1.8% : PERCENT
+11–14% : PERCENT
+Euro Stoxx : WORK_OF_ART
+3,794 : CARDINAL
+4,000–4,300 : CARDINAL
+5–13% : PERCENT
+3.6% : PERCENT
+9–17% : PERCENT
+FTSE : ORG
+100 : CARDINAL
+UK : GPE
+7,452 : CARDINAL
+7,800–8,000 : CARDINAL
+5–7% : PERCENT
+3.9% : PERCENT
+9–11% : PERCENT
+Japan : GPE
+1,892 : CARDINAL
+2,000–2,100 : CARDINAL
+6–11% : PERCENT
+2.6% : PERCENT
+8–14% : PERCENT
+MSCI EM : ORG
+956 : CARDINAL
+4–9% : PERCENT
+3.0% : PERCENT
+7–12% : PERCENT
+December 31, 2022 : DATE
+Datastream : GPE
+Bloomberg : PERSON
+Outlook : LOC
+112 : CARDINAL
+Annual : DATE
+Downtrend : LOC
+Last year : DATE
+213 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+300 : CARDINAL
+1946 : DATE
+1950 : DATE
+1954 : DATE
+1958 : DATE
+1962 : DATE
+1966 : DATE
+1970 : DATE
+1974 : DATE
+1978 : DATE
+1982 : DATE
+1986 : DATE
+1990 : DATE
+1994 : DATE
+1998 : DATE
+2002 : DATE
+2006 : DATE
+2010 : DATE
+2014 : DATE
+2018 : DATE
+2022 : DATE
+Year 2022 : DATE
+December 31, 2022 : DATE
+200-day : DATE
+Bloomberg : PERSON
+69 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+US : GPE
+2023 : DATE
+70% : PERCENT
+this year : DATE
+4–6% : PERCENT
+this year : DATE
+115 : CARDINAL
+last year : DATE
+US : GPE
+2023 : DATE
+last year’s : DATE
+this year : DATE
+US : GPE
+Median : NORP
+65 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+1 : CARDINAL
+5 : CARDINAL
+9 : CARDINAL
+13 : CARDINAL
+17 : CARDINAL
+21 : CARDINAL
+25 : CARDINAL
+29 : CARDINAL
+33 : CARDINAL
+37 : CARDINAL
+41 : CARDINAL
+45 : CARDINAL
+49 : CARDINAL
+53 : CARDINAL
+57 : CARDINAL
+October 2022 : DATE
+Wall Street Journal Economic Forecasting Survey : ORG
+114 : CARDINAL
+Year-End 2023 : DATE
+70% : PERCENT
+27 : CARDINAL
+13 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+4,800 : CARDINAL
+20% : PERCENT
+Central Case : LOC
+4,200–4,300 : CARDINAL
+50% : PERCENT
+Bad Case : WORK_OF_ART
+3,600 : CARDINAL
+30% : PERCENT
+December 31, 2022 : DATE
+Bloomberg : PERSON
+115 : CARDINAL
+Yearly : DATE
+Nominal US : ORG
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+1992 : DATE
+1995 : DATE
+1998 : DATE
+2001 : DATE
+2004 : DATE
+2007 : DATE
+2010 : DATE
+2013 : DATE
+2016 : DATE
+2019 : DATE
+2022 : DATE
+YoY : GPE
+YoY : GPE
+2022 : DATE
+FactSet : ORG
+Haver Analytics : ORG
+70 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+90% : PERCENT
+about 12 years : DATE
+only 7% : PERCENT
+nearly $2 trillion : MONEY
+this year : DATE
+about two-thirds : CARDINAL
+the inflationary 1970s : DATE
+116 : CARDINAL
+recent quarters : DATE
+this year : DATE
+2022 : DATE
+the end of 2023 : DATE
+earlier in the year : DATE
+Two : CARDINAL
+First : ORDINAL
+six : CARDINAL
+nine months : DATE
+about three months : DATE
+Second : ORDINAL
+about 20% : PERCENT
+a few months : DATE
+two : CARDINAL
+late this year : DATE
+116 : CARDINAL
+about two-thirds : CARDINAL
+65 : CARDINAL
+67 : CARDINAL
+73 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+70 : CARDINAL
+100 : CARDINAL
+90 : CARDINAL
+1970s : DATE
+Last 20 Years : DATE
+Q3 2022 : DATE
+1970 : DATE
+Goldman Sachs Global Investment Research : ORG
+FactSet : ORG
+Compustat : ORG
+118 : CARDINAL
+EPS During : ORG
+US : GPE
+Bear Markets
+Equities : ORG
+6–9 months : DATE
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+6 : CARDINAL
+9 : CARDINAL
+12 : CARDINAL
+15 : CARDINAL
+18 : CARDINAL
+Months Relative to Bear Market Low
+
+%
+
+Data : WORK_OF_ART
+2022 : DATE
+US : GPE
+1903 : DATE
+Goldman Sachs Global Investment Research : ORG
+Robert Shiller : PERSON
+117 : CARDINAL
+Congestion Scale : PERSON
+2 : CARDINAL
+10 : CARDINAL
+January 2022 : DATE
+Fully Open : EVENT
+2 : CARDINAL
+1 : CARDINAL
+10 : CARDINAL
+December 27, 2022 : DATE
+Scale : GPE
+weekly : DATE
+Goldman Sachs Global Investment Research : ORG
+71 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+500 : CARDINAL
+this year : DATE
+2023 : DATE
+last year : DATE
+3800 : CARDINAL
+the following year : DATE
+23% : PERCENT
+83% : PERCENT
+2023 : DATE
+two : CARDINAL
+years : DATE
+This year : DATE
+third : ORDINAL
+four-year : DATE
+84% : PERCENT
+122 : CARDINAL
+that past years : DATE
+last year : DATE
+Exhibit 124 : FAC
+Bloomberg : PERSON
+last year : DATE
+the Federal Reserve’s : ORG
+2022 : DATE
+Bloomberg : PERSON
+2020 : DATE
+a year : DATE
+US : GPE
+119 : CARDINAL
+Market Bottom : LOC
+Median : NORP
+15 : CARDINAL
+24 : CARDINAL
+8 : CARDINAL
+18 : CARDINAL
+20 : CARDINAL
+31 : CARDINAL
+17 : CARDINAL
+32 : CARDINAL
+25 : CARDINAL
+39 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+45 : CARDINAL
+Jun-49 : PERSON
+Mar-09 Mar-20 : PERSON
+December 31, 2022 : DATE
+post-WWII : NORP
+2001 : DATE
+less than one month to eight months : DATE
+about three months : DATE
+the first date of : DATE
+NBER : ORG
+trough month : DATE
+Bloomberg : GPE
+NBER : ORG
+120 : CARDINAL
+Implied Year-End : EVENT
+Recession End Time
+ : PERSON
+late this year : DATE
+107 : CARDINAL
+107 : CARDINAL
+104 : CARDINAL
+101 : CARDINAL
+103 : CARDINAL
+98 : CARDINAL
+95 : CARDINAL
+92 : CARDINAL
+91 : CARDINAL
+70 : CARDINAL
+75 : CARDINAL
+80 : CARDINAL
+85 : DATE
+90 : CARDINAL
+95 : CARDINAL
+100 : CARDINAL
+105 : CARDINAL
+110 : CARDINAL
+115 : CARDINAL
+120 : CARDINAL
+Jul-23 : CARDINAL
+Sep-23
+Oct-23 : ORG
+Nov-23 : PRODUCT
+25th : ORDINAL
+75th Percentile : ORG
+December 31, 2022 : DATE
+Bloomberg : GPE
+NBER : ORG
+12 : CARDINAL
+WWII : EVENT
+December 2023 : DATE
+91% : PERCENT
+January 2022 : DATE
+4,797 : CARDINAL
+4,377 : CARDINAL
+year-end 2023 : DATE
+Outlook : LOC
+121 : CARDINAL
+12 Months : DATE
+20% : PERCENT
+the following year : DATE
+23% : PERCENT
+7 : CARDINAL
+12 : CARDINAL
+23 : CARDINAL
+25 : CARDINAL
+26 : CARDINAL
+31 : CARDINAL
+38 : CARDINAL
+47 : CARDINAL
+59 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70
+
+1973 2001 2008 : DATE
+1962 1957 : DATE
+2009 2020 : DATE
+70% : PERCENT
+9 : CARDINAL
+13 : CARDINAL
+Median : NORP
+23 : CARDINAL
+2022 : DATE
+Bloomberg : PERSON
+72 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+today : DATE
+last year : DATE
+25% : PERCENT
+US : GPE
+126 : CARDINAL
+127 : CARDINAL
+122 : CARDINAL
+Presidential Cycle
+ : WORK_OF_ART
+The third year : DATE
+84% : PERCENT
+% Time Higher (Right : ORG
+8 : CARDINAL
+4 : CARDINAL
+16 : CARDINAL
+7 : CARDINAL
+63 : CARDINAL
+55 : CARDINAL
+84 : CARDINAL
+79 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+Year 1
+Year 2
+Year 3
+Year 4
+
+ : DATE
+2022 : DATE
+1946 : DATE
+Bloomberg : PERSON
+124 : CARDINAL
+US : GPE
+last year : DATE
+Recession Story : PERSON
+20,000 : CARDINAL
+40,000 : CARDINAL
+60,000 : CARDINAL
+80,000 : CARDINAL
+100,000 : CARDINAL
+120,000 : CARDINAL
+140,000 : CARDINAL
+160,000 : CARDINAL
+180,000 : CARDINAL
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+10-Year : DATE
+December 2022 : DATE
+Bloomberg : PERSON
+125 : CARDINAL
+Two Years : DATE
+Last year : DATE
+25% : PERCENT
+Aug-57 : CARDINAL
+Jan-80 Jul-81 : PERSON
+Mar-01 Dec-07 Feb-20
+
+ : PERSON
+Last Year : DATE
+December 31, 2022 : DATE
+the first date of : DATE
+NBER : ORG
+Bloomberg : GPE
+NBER : ORG
+the Years 
+ : DATE
+20% : PERCENT
+Trailing : GPE
+last year : DATE
+2 : CARDINAL
+26 : CARDINAL
+36 : CARDINAL
+10 : CARDINAL
+11 : CARDINAL
+9 : CARDINAL
+22 : CARDINAL
+16 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+Jun-62
+Jun-70 : PRODUCT
+Jun-74
+Oct-87 : PERSON
+December 31, 2022 : DATE
+more than 20% : PERCENT
+9-month : DATE
+more than 20% : PERCENT
+last year : DATE
+Bloomberg : GPE
+73 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+128 : CARDINAL
+today : DATE
+year-end 2023 : DATE
+the year : DATE
+126 : CARDINAL
+US : GPE
+2003–06 : GPE
+2.2 : CARDINAL
+4.6 : CARDINAL
+2.1 : CARDINAL
+4.4 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+December 31, 2022 : DATE
+US : GPE
+Treasury : ORG
+10-year : DATE
+FactSet : ORG
+Bloomberg : ORG
+128 : CARDINAL
+Implied Change : ORG
+20 : CARDINAL
+23 : CARDINAL
+24 : CARDINAL
+29 : CARDINAL
+31 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+30% : PERCENT
+Down Volume : PERSON
+Two : CARDINAL
+15% : PERCENT
+Quarter : DATE
+20% : PERCENT
+First : ORDINAL
+Year : DATE
+December 31, 2022 : DATE
+Bloomberg : GPE
+Datastream : GPE
+FactSet : ORG
+SentimenTrader : ORG
+35–40% : PERCENT
+15% : PERCENT
+EPS : ORG
+10 : CARDINAL
+NYSE : ORG
+103% : PERCENT
+year : DATE
+127 : CARDINAL
+US : GPE
+US : GPE
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+US : GPE
+10-Year : DATE
+December 31, 2022 : DATE
+US : GPE
+10-year : DATE
+Treasury : ORG
+Goldman Sachs Global Investment Research : ORG
+Bloomberg : PERSON
+FactSet : ORG
+129 : CARDINAL
+1 Year : DATE
+44 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+45 : CARDINAL
+50 : CARDINAL
+1968 1972 1976 1980 1984 1988 1992 1996 2000 2004 2008 : DATE
+2016 2020 : DATE
+2022 : DATE
+the Federal Reserve Bank : ORG
+Philadelphia Survey of Professional Forecasters : ORG
+Federal Reserve Bank : ORG
+Philadelphia : GPE
+NBER : ORG
+74 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+129 : CARDINAL
+one : CARDINAL
+130 : CARDINAL
+first : ORDINAL
+Non-US Developed Market Equities : ORG
+Rocky Road to Recovery
+
+ : FAC
+non-US : NORP
+last year : DATE
+7% : PERCENT
+Europe : LOC
+Australasia : GPE
+the Far East : LOC
+US : GPE
+20% : PERCENT
+UK : GPE
+Australia : GPE
+2022 : DATE
+2023 : DATE
+This year : DATE
+two : CARDINAL
+US : GPE
+UK : GPE
+around half : CARDINAL
+last year : DATE
+this year : DATE
+EAFE : PERSON
+European : NORP
+this year : DATE
+UK : GPE
+last 
+year : DATE
+20% : PERCENT
+more than a decade : DATE
+Ukraine : GPE
+131 : CARDINAL
+2022 : DATE
+Non-US : ORG
+US : GPE
+EM : ORG
+2022 : DATE
+7 : CARDINAL
+2 : CARDINAL
+-16
+-16
+
+-23
+-25
+
+-20
+
+ : PRODUCT
+5 : CARDINAL
+10 : CARDINAL
+US : GPE
+EM : ORG
+UK : GPE
+Australia : GPE
+Spain : GPE
+Japan : GPE
+France : GPE
+Italy : GPE
+Switzerland : GPE
+Germany : GPE
+Netherlands : GPE
+December 31, 2022 : DATE
+US : GPE
+US : GPE
+MSCI : NORP
+Datastream : GPE
+130 : CARDINAL
+US : GPE
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40
+
+1988
+1992
+1996
+2000 : DATE
+2004
+2008 : DATE
+2012 : DATE
+2016 : DATE
+2020 : DATE
+December 29, 2022 : DATE
+52-week : DATE
+American Association of Individual Investors : ORG
+Sentiment Survey : PERSON
+75 : CARDINAL
+Russian : NORP
+last year : DATE
+2023 : DATE
+Europe : LOC
+the year : DATE
+this 
+year : DATE
+30% : PERCENT
+Eurozone : CARDINAL
+this year : DATE
+last year : DATE
+133 : CARDINAL
+Section I : LAW
+Eurozone : ORG
+last year : DATE
+First : ORDINAL
+Second : ORDINAL
+the last decade : DATE
+6% : PERCENT
+UK Equities : ORG
+UK : GPE
+last year : DATE
+Last year : DATE
+first : ORDINAL
+2016 : DATE
+UK : GPE
+FTSE : ORG
+132 : CARDINAL
+24 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+6 : CARDINAL
+9 : CARDINAL
+12 : DATE
+Months : DATE
+3 Months : DATE
+2022 : DATE
+1990 : DATE
+Datastream : GPE
+2022 : DATE
+2023 : DATE
+2023 : DATE
+2023
+2022 : DATE
+28 : CARDINAL
+3 : CARDINAL
+12 : CARDINAL
+4 : CARDINAL
+13 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+Dividend Yield
+Total Return
+
+%
+
+Data : ORG
+December 31, 2022 : DATE
+ISG : ORG
+Datastream : GPE
+Ukraine : GPE
+Russian : NORP
+last year : DATE
+76 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2022 : DATE
+last year’s : DATE
+UK : GPE
+2023 : DATE
+UK : GPE
+UK : GPE
+this year : DATE
+135 : CARDINAL
+FTSE : ORG
+100 : CARDINAL
+3.9% : PERCENT
+2023 : DATE
+Japanese : NORP
+Japan : GPE
+last year : DATE
+Three : CARDINAL
+First : ORDINAL
+Japan : GPE
+BOJ : ORG
+Second : ORDINAL
+Japanese : NORP
+the start of last year : DATE
+136 : CARDINAL
+Japanese : NORP
+Japan : GPE
+2023 : DATE
+FTSE : ORG
+100 : CARDINAL
+MSCI World Total 
+Returns : ORG
+2020 : DATE
+UK : GPE
+FTSE : ORG
+100 : CARDINAL
+MSCI World : ORG
+10% : PERCENT
+20% : PERCENT
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+110 : CARDINAL
+120 : CARDINAL
+130 : CARDINAL
+140 : CARDINAL
+150 : CARDINAL
+2020 : DATE
+2021 : DATE
+2022 : DATE
+2020 : DATE
+100 : CARDINAL
+December 31, 2022 : DATE
+Datastream : GPE
+135 : CARDINAL
+UK : GPE
+14 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+6 : CARDINAL
+9 : CARDINAL
+12 : DATE
+Months : DATE
+3 Months : DATE
+2022 : DATE
+1990 : DATE
+Datastream : GPE
+Japan : GPE
+BOJ : ORG
+77 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+111 : CARDINAL
+this year : DATE
+Japan : GPE
+BOJ : ORG
+last year’s : DATE
+2022 : DATE
+20% : PERCENT
+the sixth year : DATE
+eighth year : DATE
+the last decade : DATE
+16 : CARDINAL
+24 : CARDINAL
+2022 : DATE
+North Asia : LOC
+China : GPE
+Korea : GPE
+Taiwan : GPE
+58% : PERCENT
+MSCI EM : ORG
+25% : PERCENT
+last year : DATE
+11% : PERCENT
+North Asia : LOC
+2023 : DATE
+China : GPE
+China : GPE
+MSCI 
+EM : PERSON
+10% : PERCENT
+2023 : DATE
+90 : MONEY
+11.4x : DATE
+EM : ORG
+3% : PERCENT
+2023 : DATE
+four : CARDINAL
+First : ORDINAL
+China : GPE
+December 2022 : DATE
+Middle Kingdom : GPE
+Second : ORDINAL
+North Asia : LOC
+Third : ORDINAL
+EM : ORG
+last year : DATE
+17 : CARDINAL
+3% : PERCENT
+101 : CARDINAL
+last year : DATE
+EM : ORG
+136 : CARDINAL
+Japanese : NORP
+2010 : DATE
+Abenomics : NORP
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+JPY Trillions : ORG
+December 23, 2022 : DATE
+Haver Analytics : ORG
+137 : CARDINAL
+MSCI EM : PERSON
+Annual : DATE
+China : GPE
+Korea : GPE
+Taiwan : GPE
+last year : DATE
+11.6 : CARDINAL
+37.8 : CARDINAL
+18.9 : CARDINAL
+18.7 : CARDINAL
+1.8 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+North Asia
+Contribution : LOC
+MSCI EM Return : PERSON
+December 31, 2022 : DATE
+Datastream : GPE
+MSCI : PERSON
+78 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2023 : CARDINAL
+Global Currency Outlook : ORG
+US : GPE
+2022 : DATE
+second consecutive year : DATE
+Federal Reserve : ORG
+decades : DATE
+US : GPE
+Swedish : NORP
+Bank of Japan : ORG
+12% : PERCENT
+British : NORP
+two : CARDINAL
+11% : PERCENT
+annual : DATE
+2016 : DATE
+UK : GPE
+the European Union : ORG
+EM : ORG
+Asian : NORP
+European : NORP
+Latin : NORP
+American : NORP
+Mexican : NORP
+Brazilian : NORP
+Peruvian : NORP
+the 
+US dollar’s : ORG
+US : GPE
+US : GPE
+2023 : DATE
+last year : DATE
+US : GPE
+US : GPE
+non-US : ORG
+50% and : PERCENT
+70% : PERCENT
+US Dollar : ORG
+US : GPE
+the past decade : DATE
+eight : CARDINAL
+years : DATE
+46% : PERCENT
+8% : PERCENT
+2022 : DATE
+last year : DATE
+20 years : DATE
+one : CARDINAL
+US : GPE
+this year : DATE
+139 : CARDINAL
+US : GPE
+US Dollar : ORG
+US : GPE
+last year : DATE
+10 : CARDINAL
+G-10 : PRODUCT
+EM Asia
+EM : PRODUCT
+EMEA : ORG
+Latin America : LOC
+1 : CARDINAL
+1 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+Switzerland : GPE
+Australia : GPE
+Canada : GPE
+New Zealand : GPE
+Norway : GPE
+UK : GPE
+Japan : GPE
+Sweden : GPE
+Singapore : GPE
+Thailand : GPE
+Malaysia : GPE
+Korea : GPE
+China : GPE
+Indonesia : GPE
+Philippines : GPE
+India : GPE
+Taiwan : GPE
+Russia : GPE
+Czech Republic : GPE
+South Africa : GPE
+Poland : GPE
+Hungary : GPE
+Turkey : GPE
+Brazil : GPE
+Mexico : GPE
+Peru : GPE
+Chile : GPE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+79 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+Federal Reserve : ORG
+this year : DATE
+six months : DATE
+140 : CARDINAL
+the year : DATE
+US : GPE
+US : GPE
+the Federal 
+Reserve : ORG
+US : GPE
+last year : DATE
+Euro
+ : WORK_OF_ART
+the second consecutive year : DATE
+US : GPE
+16% : PERCENT
+6% : PERCENT
+2022 : DATE
+Russia : GPE
+Ukraine : GPE
+last year : DATE
+seven : CARDINAL
+the last nine years : DATE
+139 : CARDINAL
+Expected Policy Rate Hikes : ORG
+Central Banks : PERSON
+US : GPE
+Q2 2023 : DATE
+Policy Rate Change : ORG
+First : ORDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+US : GPE
+UK : GPE
+Japan : GPE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+US : GPE
+Federal Reserve : ORG
+US : GPE
+the following six months : DATE
+3 Months : DATE
+6 Months : DATE
+3.9 : CARDINAL
+1.1 : CARDINAL
+8.2 : CARDINAL
+4.1 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+2022 : DATE
+Bloomberg : PERSON
+Federal Reserve : ORG
+above 4% : PERCENT
+1974, March 1980 : DATE
+December 1980, 1984, 1989 : DATE
+Federal Reserve : ORG
+4% : PERCENT
+1995, 2000 : DATE
+2006 : DATE
+2018 : DATE
+141 : CARDINAL
+US : GPE
+113.0 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+110 : CARDINAL
+120 : CARDINAL
+130 : CARDINAL
+140 : CARDINAL
+150 : CARDINAL
+160 : CARDINAL
+170 : CARDINAL
+1980
+1986
+1992
+ : DATE
+1998 : DATE
+2004 : DATE
+2010 : DATE
+2016 : DATE
+2022 : DATE
+131.0 : CARDINAL
+November 2022 : DATE
+Haver Analytics : ORG
+IMF : ORG
+80 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+zero : CARDINAL
+first : ORDINAL
+25% : PERCENT
+2014 : DATE
+Russian : NORP
+first : ORDINAL
+a decade : DATE
+142 : CARDINAL
+First : ORDINAL
+Second : ORDINAL
+winter : DATE
+ECB : ORG
+Yen : PERSON
+last year : DATE
+25% : PERCENT
+US : GPE
+October : DATE
+more than three decades : DATE
+15% : PERCENT
+year-end : DATE
+12% : PERCENT
+2022 : DATE
+2013 : DATE
+the second 
+consecutive year : DATE
+last year’s : DATE
+Japanese : NORP
+a decade : DATE
+the Bank of 
+Japan : ORG
+2% : PERCENT
+BOJ : ORG
+2% : PERCENT
+this year : DATE
+BOJ : ORG
+this year : DATE
+142 : CARDINAL
+Eurozone : CARDINAL
+first : ORDINAL
+2012 : DATE
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4
+
+2008
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+12-Month : DATE
+Capital Outﬂow =
+ : ORG
+Headwind : PERSON
+October 2022 : DATE
+Haver Analytics : ORG
+6 Months : DATE
+Beginning of a US Recession
+Global : WORK_OF_ART
+3.8 : CARDINAL
+3.9 : CARDINAL
+3.2 : CARDINAL
+3.6 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+4.0 : CARDINAL
+4.5 : CARDINAL
+JPY Nominal Trade-Weighted Exchange Rate
+
+Spot Return : ORG
+2022 : DATE
+Bloomberg : PERSON
+Haver Analytics : ORG
+1973 : DATE
+81 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+Japan : GPE
+US : GPE
+the past year : DATE
+Japan : GPE
+the last year : DATE
+Japanese : NORP
+about 3.5% : PERCENT
+2023 : DATE
+2022 : DATE
+US : GPE
+second 
+consecutive year : DATE
+Last year’s : DATE
+11% : PERCENT
+25% : PERCENT
+September : DATE
+two : CARDINAL
+2016 : DATE
+the United Kingdom’s : GPE
+the European Union : ORG
+2023 : DATE
+UK : GPE
+this year : DATE
+the 
+Bank of England : ORG
+late 2023 or 2024 : DATE
+US : GPE
+UK : GPE
+4.2% : PERCENT
+145 : CARDINAL
+UK : GPE
+UK : GPE
+GFC : ORG
+145 : CARDINAL
+144 : CARDINAL
+Japanese : NORP
+Japan : GPE
+Capital Outﬂow =
+ : ORG
+Headwind : PERSON
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3
+
+2008
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+12-Month : DATE
+Net Goods Trade
+Net Services Trade
+
+Net Trade
+
+Data : ORG
+October 2022 : DATE
+Haver Analytics : ORG
+145 : CARDINAL
+UK : GPE
+UK : GPE
+FDI : ORG
+GFC : ORG
+Capital Outﬂow =
+ : ORG
+Headwind : PERSON
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+2008 : DATE
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+4-Quarter : DATE
+2022 : DATE
+Haver Analytics : ORG
+82 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2023 : DATE
+last year’s : DATE
+this year : DATE
+US : GPE
+this year : DATE
+EM : ORG
+last year : DATE
+6.1% : PERCENT
+US : GPE
+ninth : ORDINAL
+annual : DATE
+this same period : DATE
+half : CARDINAL
+US : GPE
+this underwhelming decade : DATE
+Russia : GPE
+Ukraine : GPE
+last year : DATE
+EM : ORG
+EM : ORG
+European : NORP
+10−25% : PERCENT
+last fall : DATE
+US : GPE
+EM : ORG
+Asia : LOC
+China : GPE
+zero : CARDINAL
+15% : PERCENT
+one : CARDINAL
+Latin 
+America : LOC
+Mexico : GPE
+Brazil : GPE
+the year : DATE
+2023 : DATE
+one : CARDINAL
+EM : ORG
+the Federal 
+Reserve : ORG
+EM : ORG
+US : GPE
+Chinese : NORP
+two : CARDINAL
+this year : DATE
+First : ORDINAL
+Chinese : NORP
+two : CARDINAL
+US Treasuries : ORG
+Second : ORDINAL
+zero : CARDINAL
+China : GPE
+Emerging Markets
+Positive : WORK_OF_ART
+Mexico : GPE
+Brazil : GPE
+0.0 : CARDINAL
+1.2 : CARDINAL
+2.2 : CARDINAL
+7.9 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+Poland : GPE
+Hungary : GPE
+Czech Republic : GPE
+Russia : GPE
+Thailand : GPE
+Philippines : GPE
+Chile : GPE
+Israel : GPE
+Korea : GPE
+Colombia : GPE
+Malaysia : GPE
+Taiwan : GPE
+South Africa : GPE
+Indonesia : GPE
+India : GPE
+China : GPE
+Mexico : GPE
+Brazil : GPE
+November 2022 : DATE
+Macrobond : GPE
+Bloomberg : PERSON
+147 : CARDINAL
+3-Month : DATE
+Implied Currency Volatility : ORG
+Emerging Markets 
+Investors : ORG
+EM : ORG
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+35 : CARDINAL
+2011 : DATE
+2012 : DATE
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+December 31, 2022 : DATE
+Macrobond : GPE
+Bloomberg : PERSON
+83 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+2022 : DATE
+the start of the year : DATE
+last year : DATE
+Bloomberg Global Aggregate : WORK_OF_ART
+16% : PERCENT
+three : CARDINAL
+1990 : DATE
+last year : DATE
+today : DATE
+the Federal 
+Reserve : ORG
+the first half of 2023 : DATE
+ECB : ORG
+BOE : ORG
+Federal Reserve : ORG
+10-year : DATE
+this year : DATE
+US : GPE
+United Kingdom : GPE
+a record $3 trillion : MONEY
+this year : DATE
+around $2 trillion : MONEY
+$1 trillion : MONEY
+recent 
+years : DATE
+148 : CARDINAL
+2022 : DATE
+7.1 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+YoY : GPE
+Loans : NORP
+US : GPE
+1–10 Year : DATE
+US : GPE
+US : GPE
+US : GPE
+7–10 Year : DATE
+US : GPE
+UK : GPE
+7–10 Year : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+November 2022 : DATE
+$2.0 trillion : MONEY
+$3.1 trillion : MONEY
+0 : CARDINAL
+500 : CARDINAL
+1,000 : CARDINAL
+1,500 : CARDINAL
+2,000 : CARDINAL
+2,500 : CARDINAL
+3,000 : CARDINAL
+3,500 : CARDINAL
+2022 : DATE
+2023 : DATE
+US$ billions : MONEY
+Central Bank Flows
+Net Sovereign Issuance
+
+Net Supply
+
+Data : ORG
+December 31, 2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+US : GPE
+year-end : DATE
+2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+US Treasury : ORG
+European Commission : ORG
+UK Office for Budget Responsibility : ORG
+the Federal 
+Reserve : ORG
+the first half of 2023 : DATE
+ECB : ORG
+BOE : ORG
+84 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+the Federal Reserve : ORG
+US Treasuries : ORG
+US Treasuries : ORG
+last year : DATE
+10-year : DATE
+Treasury : ORG
+16% : PERCENT
+a calendar year : DATE
+10-year : DATE
+year-end : DATE
+3.15–3.65% : PERCENT
+2023 : DATE
+Federal Reserve : ORG
+the middle of the year : DATE
+the last 40 years : DATE
+10-year : DATE
+Treasury : ORG
+May 
+1974 : DATE
+December 1980 : DATE
+10-year : DATE
+a decade : DATE
+decades : DATE
+10-year : DATE
+the second quarter of this year : DATE
+the Federal Reserve : ORG
+last year : DATE
+10-year : DATE
+the subsequent year : DATE
+80 : CARDINAL
+330 : CARDINAL
+3.4% : PERCENT
+three : CARDINAL
+First : ORDINAL
+Second : ORDINAL
+the Federal Reserve’s : ORG
+this year : DATE
+around $2 trillion : MONEY
+Treasury : ORG
+this year : DATE
+$1.6 trillion : MONEY
+2022 : DATE
+US : GPE
+the Federal Reserve : ORG
+150 : CARDINAL
+2023 US Treasury : MONEY
+Municipal Bond : PERSON
+Return Projections : WORK_OF_ART
+Treasuries : ORG
+2023 : DATE
+2022 : DATE
+1.3 : CARDINAL
+5.0 : CARDINAL
+6.1 : CARDINAL
+7.8 : CARDINAL
+3.6 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+US : GPE
+5-Year : DATE
+Treasury : ORG
+10-Year : DATE
+Treasury : ORG
+December 31, 2022 : DATE
+Bloomberg : PERSON
+Outlook : LOC
+last 40 years : DATE
+10-year : DATE
+Treasury : ORG
+85 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+the 
+Federal Reserve : ORG
+10-year : DATE
+roughly four : CARDINAL
+151 : CARDINAL
+Treasury : ORG
+Federal Reserve : ORG
+four 
+decades : DATE
+last year : DATE
+2% : PERCENT
+10-year : DATE
+268 : CARDINAL
+12% : PERCENT
+TIPS : ORG
+last year : DATE
+the 1980s : DATE
+2023 : DATE
+10-year : DATE
+breakeven : CARDINAL
+the Federal Reserve’s : ORG
+2% : PERCENT
+last year’s : DATE
+10-year : DATE
+Treasury : ORG
+one : CARDINAL
+breakeven : CARDINAL
+Treasuries : GPE
+US : GPE
+US Municipal Bonds : WORK_OF_ART
+last year : DATE
+The Bloomberg Municipal 
+Bond Index : ORG
+8.5% : PERCENT
+1982 : DATE
+4.8% : PERCENT
+10-year : DATE
+1993 : DATE
+13.1% : PERCENT
+the year : DATE
+153 : CARDINAL
+151 : CARDINAL
+ISG Prospective : ORG
+2023 : CARDINAL
+US : GPE
+Treasuries : ORG
+4 : CARDINAL
+18 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+8 : CARDINAL
+5 : CARDINAL
+3 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+2-Year : DATE
+Treasury : ORG
+10-Year : DATE
+December 31, 2022 : DATE
+152 : CARDINAL
+US : GPE
+2022 : DATE
+Year-end : DATE
+2021 : DATE
+2.5 : CARDINAL
+2.5 : CARDINAL
+2.6 : CARDINAL
+3.7 : CARDINAL
+2.9 : CARDINAL
+2.6 : CARDINAL
+6.0 : CARDINAL
+3.6 : CARDINAL
+2.9 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+Next 12 Months : DATE
+1-Year : DATE
+2 Years : DATE
+5-Year : DATE
+5 Years : DATE
+December 31, 2022 : DATE
+PCE : ORG
+Federal Reserve’s : ORG
+Bloomberg : PERSON
+86 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+250 : CARDINAL
+last year : DATE
+2022 : DATE
+1984 : DATE
+154 : CARDINAL
+$118 billion : MONEY
+2022 : DATE
+2013 : DATE
+Last year’s : DATE
+14.5% : PERCENT
+over-year : DATE
+$1.17 trillion : MONEY
+fiscal 2022 : DATE
+16.6% : PERCENT
+fiscal 2021 : DATE
+18.3% : PERCENT
+year-over-year : DATE
+last year : DATE
+155 : CARDINAL
+$134.5 billion : MONEY
+2022 : DATE
+annual : DATE
+2023 : DATE
+4.1% : PERCENT
+a few 
+years : DATE
+4.2 : CARDINAL
+2.7 : CARDINAL
+156 : CARDINAL
+155 : CARDINAL
+US State Governments
+Rainy : WORK_OF_ART
+Q3 : PERSON
+last year : DATE
+Fiscal Year : DATE
+135 : CARDINAL
+11.6 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+160 : CARDINAL
+1988 : DATE
+1991 : DATE
+1994 : DATE
+1997 : DATE
+2000 : DATE
+2003 : DATE
+2006 : DATE
+2009 : DATE
+2012 : DATE
+2015 : DATE
+2018 : DATE
+2021 : DATE
+Billions : MONEY
+2022 : DATE
+National Association of State Budget Officers : ORG
+153 : CARDINAL
+Corporate Credit Indices : ORG
+2022 : DATE
+1.3 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+1–10 : CARDINAL
+IG : ORG
+Exc Ret CDX IG : PERSON
+Exc Ret CDX HY : PERSON
+December 31, 2022 : DATE
+Investment Grade : ORG
+Exc Ret: : PERSON
+CDX IG : ORG
+Credit Default Swap : ORG
+CDX : ORG
+Bloomberg, Barclays, Credit Suisse : ORG
+154 : CARDINAL
+US : GPE
+Last year : DATE
+1984 : DATE
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+1984 : DATE
+1988 : DATE
+1992 : DATE
+2000 : DATE
+2004
+2008 : DATE
+2012 : DATE
+2016 : DATE
+2020 : DATE
+Billions : MONEY
+December 28, 2022 : DATE
+2006 : DATE
+Haver Analytics : ORG
+Investment Company Institute : ORG
+ICI : ORG
+87 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+nearly 10 last year : DATE
+$327 billion : MONEY
+just $34 billion : MONEY
+158 : CARDINAL
+Treasury : ORG
+last year’s : DATE
+Treasuries : PERSON
+5-year : DATE
+10-year : DATE
+159 : CARDINAL
+1-10 : CARDINAL
+160 : CARDINAL
+US : GPE
+this year : DATE
+158 : CARDINAL
+AAA US Municipal Bond : ORG
+Treasury : ORG
+47 : CARDINAL
+69 : CARDINAL
+79 : CARDINAL
+63 : CARDINAL
+69 : CARDINAL
+91 : CARDINAL
+83 : CARDINAL
+90 : CARDINAL
+99 : CARDINAL
+80 : CARDINAL
+85 : DATE
+94 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+5-Year : DATE
+10-Year : DATE
+30-Year : DATE
+2022 : DATE
+2000 : DATE
+1987 : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+156 : CARDINAL
+US : GPE
+Municipal Bond Issuers : ORG
+2.7–4.2x : CARDINAL
+4.2 : CARDINAL
+2.7 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+11 : CARDINAL
+12 : CARDINAL
+13 : CARDINAL
+1989 : DATE
+1993 : DATE
+1997 : DATE
+2005 : DATE
+2009 : DATE
+2013 : DATE
+2017 : DATE
+2021 : DATE
+2022 : DATE
+Moody’s Investors Service : ORG
+159 : CARDINAL
+AAA Municipal 
+Bonds Over Treasuries
+Incremental : ORG
+2022 : DATE
+0.4 : CARDINAL
+0.3 : CARDINAL
+0.7 : CARDINAL
+0.2 : DATE
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+2010 2011 2012 : DATE
+2020 2021 2022 : DATE
+10-Year : DATE
+10-Year : DATE
+2010 : DATE
+5-Year : DATE
+5-Year : DATE
+2010 : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+157 : CARDINAL
+US : GPE
+Downgrades
+Upgrades : PERSON
+nearly 10 : CARDINAL
+2022 : DATE
+Par Value Downgraded
+Par Value Upgraded : ORG
+316 : CARDINAL
+327 : CARDINAL
+54 : CARDINAL
+34 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+300 : CARDINAL
+350 : CARDINAL
+2010 : DATE
+2011 : DATE
+2012 2013 2014
+2015
+2016 2017 2018
+2019 2020 : DATE
+2021 2022 : DATE
+Billions : MONEY
+2022 : DATE
+Moody’s Investor Service : ORG
+88 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+2.9% : PERCENT
+Treasury : ORG
+US : GPE
+last year’s : DATE
+roughly eight years : DATE
+last year : DATE
+13.1% : PERCENT
+160 : CARDINAL
+10-Year : DATE
+Nominal Spread
+After-Tax Spread
+Long-Term Median After-Tax Spread : PERSON
+0.6 : CARDINAL
+0.9 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4
+
+2000
+2002 : DATE
+2004
+2006
+ : DATE
+2008 : DATE
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+December 31, 2022 : DATE
+Bloomberg : GPE
+US : GPE
+Municipal Bond : PERSON
+Sector
+Defaults : ORG
+2022 : DATE
+2021 : DATE
+IDR : ORG
+778 : CARDINAL
+747 : PRODUCT
+72 : CARDINAL
+82 : CARDINAL
+13 : CARDINAL
+10 : CARDINAL
+391 : CARDINAL
+83 : CARDINAL
+1,062 : CARDINAL
+308 : CARDINAL
+217 : CARDINAL
+23 : CARDINAL
+66 : CARDINAL
+126 : CARDINAL
+6 : CARDINAL
+25 : CARDINAL
+526 : CARDINAL
+259 : CARDINAL
+60 : CARDINAL
+20 : CARDINAL
+70 : CARDINAL
+92 : CARDINAL
+0 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+1,000 : CARDINAL
+1,200 : CARDINAL
+IDR : ORG
+Utilities : ORG
+Par Value US$ Millions : ORG
+2021 : DATE
+2020 : DATE
+2022 : DATE
+November 2022 : DATE
+Industrial Development Revenue : ORG
+Barclays : GPE
+161 : CARDINAL
+US : GPE
+Treasuries : GPE
+2.0 : CARDINAL
+21 : CARDINAL
+1.6 : CARDINAL
+2.6 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10
+
+1995
+2000
+2005 : DATE
+2010 : DATE
+2015 : DATE
+2020 : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+163 : CARDINAL
+US : GPE
+Municipal Bond : PERSON
+750 : CARDINAL
+1.4 : CARDINAL
+7.9 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : DATE
+2008 : DATE
+2011 : DATE
+2014 : DATE
+2017 : DATE
+2020 : DATE
+2008 : DATE
+750 : CARDINAL
+November 2022 : DATE
+Bloomberg : PERSON
+89 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+161 : CARDINAL
+195 : CARDINAL
+10-year : DATE
+60 : CARDINAL
+last year : DATE
+41% : PERCENT
+2021 : DATE
+162 : CARDINAL
+only 1.4% : PERCENT
+7.9% : PERCENT
+2008 : DATE
+163 : CARDINAL
+Treasury : ORG
+5.9% : PERCENT
+2023 : DATE
+US : GPE
+Last year : DATE
+15.8% : PERCENT
+1973 : DATE
+11.2% : PERCENT
+second : ORDINAL
+1983 : DATE
+164 : CARDINAL
+165 : CARDINAL
+1.14% : PERCENT
+the US Municipal Bond : ORG
+just 1.6% : PERCENT
+the end 
+of : DATE
+November last year : DATE
+about half : CARDINAL
+164 : CARDINAL
+Years : DATE
+Negative US Investment 
+Grade Total Returns : ORG
+1973 : DATE
+2022 : DATE
+annual : DATE
+1973 : DATE
+CEQ : ORG
+1980 : DATE
+2015 : DATE
+2021 : DATE
+2013 : DATE
+1999 : DATE
+1979 : DATE
+2018 : DATE
+1994 : DATE
+2008 : DATE
+1974 : DATE
+2022 : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+165 : CARDINAL
+Years : DATE
+1983 : DATE
+US : GPE
+second : ORDINAL
+2022 : DATE
+CER : ORG
+1994 : DATE
+2002 : DATE
+2018 : DATE
+2015 : DATE
+2000 : DATE
+1990 : DATE
+2022 : DATE
+2008 : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+2022 : DATE
+the year : DATE
+2022 : DATE
+CES : ORG
+92 : CARDINAL
+165 : CARDINAL
+130 : CARDINAL
+283 : CARDINAL
+583 : CARDINAL
+469 : CARDINAL
+439 : CARDINAL
+674 : CARDINAL
+652 : CARDINAL
+0 : CARDINAL
+100 : CARDINAL
+200 : CARDINAL
+300 : CARDINAL
+400 : CARDINAL
+500 : CARDINAL
+600 : CARDINAL
+700 : CARDINAL
+Dec. 31 : DATE
+2021 : DATE
+2022 : DATE
+Dec. 31 : DATE
+2022 : DATE
+Dec. 31 : DATE
+2021 : DATE
+2022 : DATE
+Dec. 31 : DATE
+2022 : DATE
+Dec. 31 : DATE
+2021 : DATE
+2022 : DATE
+Dec. 31 : DATE
+2022 : DATE
+December 31, 2022 : DATE
+Bloomberg, Barclays, Credit Suisse : ORG
+90 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+186 : CARDINAL
+2022 : DATE
+166 : CARDINAL
+only 3.7% : PERCENT
+11.2% : PERCENT
+less than 1% : PERCENT
+last year : DATE
+Exhibit 153 : PERSON
+the US Municipal Bond : ORG
+167 : CARDINAL
+only 11% : PERCENT
+1999 : DATE
+four : CARDINAL
+BB : GPE
+nearly half : CARDINAL
+today : DATE
+about a third : CARDINAL
+CCC : ORG
+1.8 : CARDINAL
+last 
+year : DATE
+this year : DATE
+167 : CARDINAL
+Median Interest Coverage : ORG
+US : GPE
+2022 : DATE
+2.8 : CARDINAL
+11th : ORDINAL
+4.0 : CARDINAL
+99th : ORDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4
+
+1999
+ : DATE
+2002 : DATE
+2005 : DATE
+2008 : DATE
+2011 : DATE
+2014 : DATE
+2017 : DATE
+2020 : DATE
+2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+169 : CARDINAL
+US : GPE
+52 : CARDINAL
+28 : CARDINAL
+23 : CARDINAL
+27 : CARDINAL
+44 : CARDINAL
+10 : CARDINAL
+48 : CARDINAL
+36 : CARDINAL
+6 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+2022 : DATE
+November 2022 : DATE
+Morgan : PERSON
+168 : CARDINAL
+2022 : DATE
+CEU : ORG
+4.4 : CARDINAL
+5.2 : CARDINAL
+1.0 : CARDINAL
+2.0 : CARDINAL
+3.0 : CARDINAL
+4.0 : CARDINAL
+5.0 : CARDINAL
+3.5 : CARDINAL
+4.0 : CARDINAL
+4.5 : CARDINAL
+5.0 : CARDINAL
+5.5 : CARDINAL
+6.0
+
+2001
+2004
+2007 : DATE
+2010 : DATE
+2013 : DATE
+2016 : DATE
+2019 : DATE
+2022 : DATE
+2022 : DATE
+S&P LCD : ORG
+91 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+170 : CARDINAL
+171 : CARDINAL
+172 : CARDINAL
+1.4 : CARDINAL
+last year : DATE
+BB : GPE
+170 : CARDINAL
+2022 : DATE
+C&I : ORG
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+1990 : DATE
+1993 : DATE
+1996 : DATE
+1999 : DATE
+2002 : DATE
+2005 : DATE
+2008 : DATE
+2011 : DATE
+2014 : DATE
+2017 : DATE
+2020 : DATE
+39.1 : CARDINAL
+31.8 : CARDINAL
+2022 : DATE
+Federal Reserve SLOOS : ORG
+172 : CARDINAL
+Moody’s Liquidity Stress 
+Indicator : ORG
+LSI : ORG
+recent months : DATE
+2.7 : CARDINAL
+4.9 : CARDINAL
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+2002 : DATE
+2005 : DATE
+2008 : DATE
+2011 : DATE
+2014 : DATE
+2017 : DATE
+2020 : DATE
+Moody’s LSI
+Median : ORG
+Q4 2002 : DATE
+November 2022 : DATE
+Moody’s Investors Services : ORG
+173 : CARDINAL
+US : GPE
+Leveraged Loan Markets Maturing : ORG
+Year : DATE
+the next two years : DATE
+3 : CARDINAL
+5 : CARDINAL
+11 : CARDINAL
+14 : CARDINAL
+14 : CARDINAL
+15 : CARDINAL
+18 : CARDINAL
+9 : CARDINAL
+6 : CARDINAL
+6 : CARDINAL
+0 : CARDINAL
+2 : CARDINAL
+7 : CARDINAL
+16 : CARDINAL
+17 : CARDINAL
+16 : CARDINAL
+30 : CARDINAL
+12 : CARDINAL
+0 : CARDINAL
+0 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+2023
+2024 : DATE
+2025 : DATE
+2026 : DATE
+2027 : DATE
+2028 : DATE
+2029 : DATE
+2030 : DATE
+2031 : DATE
+2032 : DATE
+Universe Maturing : ORG
+US : GPE
+US : GPE
+November 2022 : DATE
+JP Morgan : ORG
+US : GPE
+Leveraged Loan Universe : ORG
+7.2 : CARDINAL
+8.7 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90
+
+1997
+2000 : DATE
+2003 : DATE
+2006 : DATE
+2009 : DATE
+2012 : DATE
+2015 : DATE
+2018 : DATE
+2021 : DATE
+70 : MONEY
+Share of Leveraged Loan Market Below : ORG
+80 : MONEY
+November 2022 : DATE
+70 : MONEY
+80 : MONEY
+Morgan : PERSON
+92 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+last year : DATE
+15% : PERCENT
+2023 : DATE
+the next two years : DATE
+less than 10% : PERCENT
+173 : CARDINAL
+more than 60% : PERCENT
+last year : DATE
+3% : PERCENT
+this 
+year : DATE
+3.5% : PERCENT
+550 : CARDINAL
+175 : CARDINAL
+this year : DATE
+European : NORP
+40-year : DATE
+European : NORP
+UK : GPE
+European : NORP
+BOE : ORG
+UK : GPE
+European : NORP
+2022 : DATE
+European : NORP
+nearly 20% : PERCENT
+US Treasuries : ORG
+Europe : LOC
+2023 : DATE
+ECB : ORG
+BOE : ORG
+3.25–3.75% : PERCENT
+4.25–4.75% : PERCENT
+the end of this year : DATE
+German : NORP
+UK : GPE
+10-year : DATE
+about 150 : CARDINAL
+125 : CARDINAL
+year-end : DATE
+European : NORP
+12-Month : DATE
+Projected : ORG
+12-Month : DATE
+US : GPE
+2023 : DATE
+Par-Weighted Default Rate
+Projected Par-Weighted Default Rate : ORG
+Issuer-Weighted Default Rate : ORG
+0.8 : CARDINAL
+3.0 : CARDINAL
+1.5 : CARDINAL
+4.2 : CARDINAL
+0 : CARDINAL
+3 : CARDINAL
+6 : CARDINAL
+9 : CARDINAL
+12 : CARDINAL
+15 : CARDINAL
+18 : CARDINAL
+21
+
+1996
+2001
+2006 : DATE
+2011 : DATE
+2016 : DATE
+2021 : DATE
+12-Month : DATE
+November 2022 : DATE
+Morgan : PERSON
+175 : CARDINAL
+Incremental Risk Premiums of High : ORG
+2023 : DATE
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+16 : CARDINAL
+1987 : DATE
+1991 : DATE
+1995 : DATE
+1999 : DATE
+2003 : DATE
+2007 : DATE
+2011
+2015
+2019 : DATE
+Credit Risk Premium : ORG
+3.2 : CARDINAL
+3.4 : CARDINAL
+December 2022 : DATE
+Haver Analytics : ORG
+Federal Reserve : ORG
+93 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+Europe : LOC
+UK : GPE
+US : GPE
+this year : DATE
+ECB : ORG
+BOE : ORG
+2023 : DATE
+ECB : ORG
+nearly 
+a decade : DATE
+ECB : ORG
+Italy : GPE
+more than two : CARDINAL
+Germany : GPE
+German : NORP
+10-year : DATE
+1.75–2.25% : PERCENT
+BOE : ORG
+First : ORDINAL
+last September : DATE
+Second : ORDINAL
+UK : GPE
+around half : CARDINAL
+this 
+year : DATE
+monthly : DATE
+Third : ORDINAL
+£260 billion : MONEY
+UK : GPE
+2023 : DATE
+3.0–3.5% : PERCENT
+10-year : DATE
+2022 : DATE
+$44.1 
+billion : MONEY
+last year : DATE
+15-year : DATE
+11.7% : PERCENT
+EMLD : ORG
+last year : DATE
+second : ORDINAL
+annual : DATE
+EMLD : ORG
+2023 : DATE
+EM : ORG
+Brazil : GPE
+Hungary : GPE
+14% : PERCENT
+2% : PERCENT
+Korea : GPE
+Thailand : GPE
+US : GPE
+Asia : LOC
+Latin America : LOC
+Central and Eastern Europe : LOC
+the Middle East : LOC
+Africa : LOC
+the year : DATE
+this year : DATE
+176 : CARDINAL
+260 : CARDINAL
+170 : CARDINAL
+140 : CARDINAL
+90 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+300 : CARDINAL
+UK : GPE
+Germany : GPE
+France : GPE
+Italy : GPE
+Spain : GPE
+Billions
+
+Central Bank Flows
+Net Sovereign Issuance
+
+ : ORG
+December 31, 2022 : DATE
+Goldman Sachs Global Investment Research : ORG
+Goldman Sachs Global Investment Research : ORG
+European 
+Commission : ORG
+UK Office for Budget Responsibility : ORG
+EMLD : ORG
+2023 : DATE
+EM : ORG
+94 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+EMLD : ORG
+EMLD : NORP
+2023 : DATE
+EMLD : ORG
+6.8% : PERCENT
+1.5% : PERCENT
+0.4% : PERCENT
+EMD : ORG
+US Treasury : ORG
+2022 : DATE
+178 : CARDINAL
+EMD : ORG
+18% : PERCENT
+last year : DATE
+annual : DATE
+1993 : DATE
+US Treasury : ORG
+EMD : ORG
+the year : DATE
+10-year : DATE
+Pakistan : GPE
+Sri Lanka : GPE
+179 : CARDINAL
+2023 : DATE
+last year : DATE
+EMD : ORG
+250 : CARDINAL
+650 : CARDINAL
+this year : DATE
+EMD : ORG
+seven-year : DATE
+US Treasury : ORG
+EMD : ORG
+2023 : DATE
+2023 : CARDINAL
+last 
+year : DATE
+180 : CARDINAL
+23% : PERCENT
+177 : CARDINAL
+EM : ORG
+US : GPE
+Asia : LOC
+10 : CARDINAL
+275 : CARDINAL
+583 : CARDINAL
+732 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+1,000 : CARDINAL
+1,200 : CARDINAL
+1,400 : CARDINAL
+Asia : LOC
+Europe : LOC
+Latin America : LOC
+Mideast & Africa : ORG
+December 31, 2022 : DATE
+2004 : DATE
+Macrobond : GPE
+Bloomberg : PERSON
+Morgan : PERSON
+179 : CARDINAL
+EM : ORG
+822 : CARDINAL
+453 : CARDINAL
+139 : CARDINAL
+0 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+1,000 : CARDINAL
+1,200 : CARDINAL
+1,400 : CARDINAL
+1,600 : CARDINAL
+1,800 : CARDINAL
+2,000 : CARDINAL
+1993
+1996
+ : DATE
+1999 : DATE
+2002 : DATE
+2005 : DATE
+2008 : DATE
+2011 : DATE
+2014 : DATE
+2017 : DATE
+2020 : DATE
+December 31, 2022 : DATE
+Macrobond : GPE
+Bloomberg : PERSON
+JP Morgan : PERSON
+178 : CARDINAL
+Last year’s : DATE
+EM : ORG
+27 : CARDINAL
+38 : CARDINAL
+11 : CARDINAL
+20 : CARDINAL
+13 : CARDINAL
+10 : CARDINAL
+14 : CARDINAL
+22 : CARDINAL
+12 : CARDINAL
+10 10 : CARDINAL
+30 : CARDINAL
+12 : CARDINAL
+17 : CARDINAL
+7 : CARDINAL
+1 : CARDINAL
+10 10 : CARDINAL
+15 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50
+
+1995 1997 : DATE
+2003 2005 : DATE
+2007 2009 2011 2013 2015 2017 2019 : DATE
+2021 : DATE
+December 31, 2022 : DATE
+Macrobond : GPE
+Bloomberg : PERSON
+JP Morgan : PERSON
+95 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+second consecutive year : DATE
+54% : PERCENT
+early June : DATE
+the 
+second half of the year : DATE
+last year : DATE
+39% : PERCENT
+14% : PERCENT
+the year ahead : DATE
+years : DATE
+China : GPE
+COVID : ORG
+months : DATE
+Chinese : NORP
+South America : LOC
+Russia : GPE
+the Middle East : LOC
+this year : DATE
+the past year : DATE
+last year : DATE
+1970s : DATE
+181 : CARDINAL
+10% : PERCENT
+overnight : TIME
+Russia : GPE
+Ukraine : GPE
+124 : MONEY
+last March : DATE
+200-million : CARDINAL
+the US Strategic Petroleum Reserve : ORG
+Chinese : NORP
+181 : CARDINAL
+Russia : GPE
+17 : CARDINAL
+11 : CARDINAL
+4 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+4 : CARDINAL
+4 : CARDINAL
+3 : CARDINAL
+3 : CARDINAL
+2 : CARDINAL
+23 : CARDINAL
+US : GPE
+Saudi Arabia : GPE
+Russia : GPE
+Canada : GPE
+Iraq : GPE
+China : GPE
+UAE : GPE
+Iran : GPE
+Brazil : GPE
+Kuwait : GPE
+Norway : GPE
+Russia : GPE
+11 : CARDINAL
+2021 : DATE
+BP Statistical Review of Energy : ORG
+180 : CARDINAL
+2022 : DATE
+a second consecutive year : DATE
+2022 : DATE
+2022 : DATE
+2021 : DATE
+31% : PERCENT
+46% : PERCENT
+20% : PERCENT
+5% : PERCENT
+12% : PERCENT
+9% : PERCENT
+14% : PERCENT
+6% : PERCENT
+0% : PERCENT
+11% : PERCENT
+23% : PERCENT
+39% : PERCENT
+10% : PERCENT
+-10% : PERCENT
+3% : PERCENT
+December 31, 2022 : DATE
+Bloomberg : PERSON
+contango : ORG
+96 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+European : NORP
+Russia : GPE
+the first quarter of this year : DATE
+0.5 million : CARDINAL
+1.1 million : CARDINAL
+Russia : GPE
+India : GPE
+China : GPE
+182 : CARDINAL
+Russia : GPE
+China : GPE
+India : GPE
+last year : DATE
+close to : CARDINAL
+2 million : CARDINAL
+Russian : NORP
+Europe : LOC
+less than half : CARDINAL
+Upward : ORG
+the Middle East : LOC
+Libya : GPE
+US : GPE
+China : GPE
+Chinese : NORP
+0.5 million : CARDINAL
+last year : DATE
+first : ORDINAL
+annual : DATE
+1990 : DATE
+183 : CARDINAL
+China : GPE
+COVID : ORG
+COVID : ORG
+year-end : DATE
+US : GPE
+OPEC : ORG
+US : GPE
+November : DATE
+December : DATE
+US : GPE
+OPEC : ORG
+70–100 : MONEY
+year-end : DATE
+US : GPE
+Ukraine : GPE
+60 : MONEY
+182 : CARDINAL
+2022 : DATE
+Russian Waterborne Crude 
+Oil Exports : PERSON
+Russian : NORP
+Europe : LOC
+India : GPE
+China : GPE
+3.3 : CARDINAL
+3.1 : CARDINAL
+3.3 : CARDINAL
+3.7 : CARDINAL
+3.7 : CARDINAL
+3.6 : CARDINAL
+3.3 : CARDINAL
+3.4 : CARDINAL
+3.2 : CARDINAL
+3.3 : CARDINAL
+3.3 : CARDINAL
+3.0 : CARDINAL
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+4.0 : CARDINAL
+4.5 : CARDINAL
+Jun
+Jul
+Aug
+Sep : PERSON
+Million : CARDINAL
+Europe : LOC
+China : GPE
+India : GPE
+Turkey : GPE
+December 2022 : DATE
+Kpler : PERSON
+183 : CARDINAL
+Chinese : NORP
+2022 : DATE
+Chinese : NORP
+COVID : ORG
+0.0 : CARDINAL
+0.2 : CARDINAL
+0.4 : CARDINAL
+0.6 : CARDINAL
+0.8 : CARDINAL
+1.0 : CARDINAL
+1.2 : CARDINAL
+1.4 : CARDINAL
+1990 : DATE
+1994 : DATE
+1998 : DATE
+2002 : DATE
+2006 : DATE
+2010 : DATE
+2014 : DATE
+2018 : DATE
+2022e : DATE
+0 : CARDINAL
+2 : CARDINAL
+4 : CARDINAL
+6 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+12 : CARDINAL
+14 : CARDINAL
+16 : CARDINAL
+18 : CARDINAL
+Million : CARDINAL
+YoY Change
+Average Annual Level (Right)
+
+Data : WORK_OF_ART
+2022 : DATE
+BP Statistical Review of Energy : ORG
+97 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+184 : CARDINAL
+last year : DATE
+US : GPE
+the 1970s : DATE
+2022 : DATE
+the year : DATE
+four 
+decades : DATE
+last year : DATE
+US : GPE
+this year : DATE
+185 : CARDINAL
+one : CARDINAL
+last year : DATE
+186 : CARDINAL
+US : GPE
+this year : DATE
+1971 : DATE
+24% : PERCENT
+184 : CARDINAL
+2022 : DATE
+2023 : DATE
+6.5 : CARDINAL
+7.0 : CARDINAL
+7.5 : CARDINAL
+8.0 : CARDINAL
+8.5 : CARDINAL
+Jan-17
+Jan-18
+Jan-19 : PRODUCT
+December 31, 2022 : DATE
+Kpler : PERSON
+Global Platts : PERSON
+IEA : ORG
+EIA : ORG
+PJK : ORG
+PAJ : ORG
+International 
+Enterprise Singapore : ORG
+185 : CARDINAL
+US : GPE
+10-Year : DATE
+last year : DATE
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+3.5 : CARDINAL
+500 : CARDINAL
+1,000 : CARDINAL
+1,500 : CARDINAL
+2,000 : CARDINAL
+2,500 : CARDINAL
+2006 : DATE
+2008 : DATE
+2010 : DATE
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+Gold Price : WORK_OF_ART
+10-Year : DATE
+2022 : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+186 : CARDINAL
+Rate Regime : ORG
+0.9 : CARDINAL
+0.6 : CARDINAL
+1.2 : CARDINAL
+0.6 : CARDINAL
+2.0 : CARDINAL
+0.4 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+Monthly : DATE
+0.9% : PERCENT
+5-Year : DATE
+10-Year : DATE
+December 31, 2022 : DATE
+Bloomberg : PERSON
+98 : CARDINAL
+Goldman Sachs : ORG
+january 2023 : DATE
+more than 10% : PERCENT
+US : GPE
+this year : DATE
+US : GPE
+28% : PERCENT
+early 2022 : DATE
+early 2020 : DATE
+EM : ORG
+FX : ORG
+the World Gold Council : ORG
+Turkey : GPE
+China : GPE
+India : GPE
+187 : CARDINAL
+269 : CARDINAL
+200 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+300 : CARDINAL
+2012 : DATE
+2014 : DATE
+2016 : DATE
+2018 : DATE
+2020 : DATE
+2022 : DATE
+Billions : MONEY
+December 31, 2022 : DATE
+Bloomberg : PERSON
+99 : CARDINAL
+Outlook
+Investment Strategy Group : ORG
+American Automobile Association : ORG
+Bank of England : ORG
+Bank of Japan 
+bps : ORG
+Annual : DATE
+CDX : ORG
+CEE : ORG
+Eastern Europe : LOC
+DXY : ORG
+Europe : LOC
+Australasia : GPE
+the Far East 
+EBITDA : LOC
+European Central Bank : ORG
+EM : ORG
+EMD : ORG
+EMEA : ORG
+Europe : LOC
+Middle East : LOC
+Africa : LOC
+EPS : ORG
+ERP : ORG
+Apple : ORG
+Netflix : GPE
+Google/Alphabet : ORG
+Microsoft : ORG
+Amazon : ORG
+Nvidia : GPE
+Tesla : ORG
+FDI : ORG
+Federal Open Market Committee : ORG
+100 : CARDINAL
+Financial Times Stock Exchange : ORG
+100 : CARDINAL
+FX : ORG
+GIR : ORG
+Goldman Sachs] Global Investment Research : ORG
+GFC : ORG
+Goldman Sachs : ORG
+International Monetary Fund : ORG
+Investment Strategy Group : ORG
+Japanese : NORP
+JPY : ORG
+Japanese : NORP
+Latam : FAC
+Latin America : LOC
+MLF : ORG
+Million : CARDINAL
+British : NORP
+Morgan Stanley Capital International : ORG
+MSCI All Country World : PERSON
+National Bureau of Economic Research : ORG
+NYSE : ORG
+New York Stock Exchange : ORG
+OPEC : ORG
+PMI : ORG
+Tokyo : GPE
+12 months : DATE
+UN : ORG
+United Nations : ORG
+US : GPE
+United States : GPE
+West Texas Intermediate : PRODUCT
+YCC : ORG
+year-end
+ : DATE
+YoY : GPE
+year over year : DATE
+YTD : ORG
+Notes : PRODUCT
+1 : CARDINAL
+Ashton Carter : PERSON
+the Investment Strategy 
+Group : ORG
+December 17, 2021 : DATE
+2 : CARDINAL
+Mark A. Milley : PERSON
+the Economic 
+Club of New York : ORG
+David 
+Westin : PERSON
+November 9, 2022 : DATE
+3 : CARDINAL
+UN Refugee Agency : ORG
+December 27 : DATE
+2022 : DATE
+4 : CARDINAL
+Kiel Institute : ORG
+Ukraine Support 
+Tracker : WORK_OF_ART
+December 7, 2022 : DATE
+5 : CARDINAL
+Anna Bjerde : PERSON
+World Bank : ORG
+Die 
+Press : ORG
+December 3, 2022 : DATE
+6 : CARDINAL
+Joint Statement of the Russian 
+Federation : WORK_OF_ART
+the People’s 
+Republic of China : ORG
+the 
+International Relations Entering : ORG
+New Era : ORG
+the Global 
+Sustainable Development : ORG
+February 4, 2022 : DATE
+7 : CARDINAL
+Federal Reserve Chair : ORG
+Jerome 
+Powell : PERSON
+Federal Reserve : ORG
+December 14, 2022 : DATE
+8 : CARDINAL
+Lawrence H. Summers : PERSON
+Washington Post : ORG
+December 19, 2022 : DATE
+9 : CARDINAL
+Seth Klarman : PERSON
+The Value of 
+Not Being Sure : WORK_OF_ART
+February 23, 2009 : DATE
+10 : CARDINAL
+Federal Reserve Chair : ORG
+Jerome 
+Powell : PERSON
+Federal Reserve : ORG
+December 14, 2022 : DATE
+11 : CARDINAL
+11.8% : PERCENT
+9.9% : PERCENT
+12 : CARDINAL
+Erica Thompson : PERSON
+Escape : PERSON
+Model Land: How Mathematical 
+Models Can Lead : PRODUCT
+Basic 
+Books : WORK_OF_ART
+2022 : DATE
+13 : CARDINAL
+Consumer Checkpoint: End 
+of : WORK_OF_ART
+year : DATE
+Bank of 
+America Institute : ORG
+December : DATE
+8, 2022 : DATE
+14 : CARDINAL
+Joseph Briggs : PERSON
+US Economics 
+Analyst : ORG
+Goldman Sachs 
+Global Investment Research : ORG
+December 18, 2022 : DATE
+15 : CARDINAL
+Sujeet Indap : PERSON
+Apollo Defends 
+Push to Retail Investors Amid 
+Blackstone Storm : WORK_OF_ART
+Financial 
+Times : ORG
+December 13, 2022 : DATE
+16 : CARDINAL
+John Templeton : PERSON
+at least 1993 : DATE
+four : CARDINAL
+English : LANGUAGE
+Four : CARDINAL
+2002 : DATE
+William Bernstein : PERSON
+17 : CARDINAL
+ISG : ORG
+ISG : ORG
+1-10 : CARDINAL
+US : GPE
+JPM Government : ORG
+HFRI Fund : ORG
+Barclays US Corporate : ORG
+Yield : PERSON
+US : GPE
+MSCI EM : PERSON
+FTSE : ORG
+100 : CARDINAL
+UK Equities : ORG
+MSCI EAFE Local Index : PERSON
+Euro Stoxx : PERSON
+50 : CARDINAL
+Japan : GPE
+8% : PERCENT
+18 : CARDINAL
+19 : CARDINAL
+Nick Carter : PERSON
+Investment Strategy Group : ORG
+December 7, 2022 : DATE
+20 : CARDINAL
+Ian Bremmer : PERSON
+the Investment Strategy 
+Group : ORG
+December 19, 2022 : DATE
+21 : CARDINAL
+Alex Younger : PERSON
+the Investment Strategy 
+Group : ORG
+December 9, 2022 : DATE
+22 : CARDINAL
+Economist : ORG
+December 20, 2022 : DATE
+23 : CARDINAL
+Aleksei Aleksandrov : PERSON
+Russian : NORP
+RFE : ORG
+December : DATE
+31, 2022 : DATE
+24 : CARDINAL
+Chinese : NORP
+US Territory of Guam : WORK_OF_ART
+December 30, 2022 : DATE
+25 : CARDINAL
+US Indo-Pacific Command : ORG
+USINDOPACOM 
+Statement on Unsafe Intercept : WORK_OF_ART
+U.S. Aircraft Over South China : ORG
+United States : GPE
+December 29, 2022 : DATE
+26 : CARDINAL
+Agence France-Presse : ORG
+China : GPE
+Warplane Incursions : PERSON
+Taiwan Air : FAC
+2022 : DATE
+Guardian : ORG
+January 2, 2023 : DATE
+27 : CARDINAL
+CIA : ORG
+William Burns : PERSON
+War : EVENT
+Ukraine : GPE
+Intelligence 
+Challenges Posed : ORG
+China : GPE
+PBS : ORG
+NewsHour : ORG
+December 16, 2022 : DATE
+Ian Bremmer : PERSON
+the Investment Strategy 
+Group : ORG
+December 19, 2022 : DATE
+28 : CARDINAL
+With Fewer Guardrails : WORK_OF_ART
+Risk of Conflict on the Korean 
+Peninsula Will Continue : WORK_OF_ART
+Grow : PERSON
+Eurasia Group : ORG
+November 17, 2022 : DATE
+29 : CARDINAL
+David Albright : PERSON
+Iran Building 
+Nuclear Weapons : WORK_OF_ART
+Science and International 
+Security : ORG
+December 5, 2022 : DATE
+30 : CARDINAL
+Nick Carter : PERSON
+Investment Strategy Group : ORG
+December 7, 2022 : DATE
+31 : CARDINAL
+Alex Younger : PERSON
+Investment Strategy Group : ORG
+December 9, 2022 : DATE
+32 : CARDINAL
+Iran : GPE
+2023 : DATE
+Eurasia 
+Group : ORG
+December 12, 2022 : DATE
+33 : CARDINAL
+CIA : ORG
+William Burns : PERSON
+War : EVENT
+Ukraine : GPE
+Intelligence 
+Challenges Posed : ORG
+China : GPE
+PBS NewsHour : ORG
+December 16 : DATE
+2022 : DATE
+34 : CARDINAL
+France : GPE
+Germany : GPE
+the United 
+Kingdom : GPE
+JCPOA : NORP
+UN Security 
+Council Meeting : ORG
+Iran : GPE
+December 19, 2022 : DATE
+35 : CARDINAL
+Robin Wright : PERSON
+The Looming 
+Threat of a Nuclear Crisis : WORK_OF_ART
+Iran : GPE
+New Yorker : ORG
+December : DATE
+27 : DATE
+2021 : DATE
+36 : CARDINAL
+Annual Threat Assessment : WORK_OF_ART
+the U.S. Intelligence 
+Community : ORG
+National 
+Intelligence : ORG
+March 8, 2022 : DATE
+37 : CARDINAL
+The Terrorist Threats and 
+Trends : WORK_OF_ART
+2023 : DATE
+Combating 
+Terrorism Center at West Point : WORK_OF_ART
+November/December 2022 : DATE
+38 : CARDINAL
+Omicron Offshoot : PERSON
+Drive New COVID Surge : ORG
+US : GPE
+CNN : ORG
+January 3, 2023 : DATE
+39 : CARDINAL
+Qianer Lui : PERSON
+Cheng Leng : PERSON
+Sun Yu : PERSON
+Ryan McMorrow : PERSON
+China : GPE
+20 Days : DATE
+Financial Times : ORG
+December 25 : DATE
+2022 : DATE
+40 : CARDINAL
+Helen Davidson : PERSON
+China : GPE
+Amid Warning : PERSON
+Three : CARDINAL
+Winter : DATE
+Guardian : ORG
+December : DATE
+19, 2022 : DATE
+41 : CARDINAL
+Erin Prater : PERSON
+The Public Health 
+Organization : WORK_OF_ART
+China : GPE
+Fortune : WORK_OF_ART
+December 20, 2022 : DATE
+42 : CARDINAL
+Jan Hatzius : PERSON
+al. : GPE
+10 : CARDINAL
+2023 : DATE
+Phillips : ORG
+Goldman Sachs 
+Global Investment Research : ORG
+December 26, 2022 : DATE
+43 : CARDINAL
+Michael Hartnett : PERSON
+The 
+Thundering Word Year Ahead 
+2023 : WORK_OF_ART
+Bank of America Global 
+Research : ORG
+November 22, 2022 : DATE
+44 : CARDINAL
+45 : CARDINAL
+Vince Golle : PERSON
+Kyungjin Yoo : PERSON
+Economists Place : WORK_OF_ART
+70% : PERCENT
+2023 : DATE
+Bloomberg : PERSON
+December 20, 2022 : DATE
+46 : DATE
+Aditya Aladangady : PERSON
+al. : GPE
+Excess Savings During the 
+ : WORK_OF_ART
+Notes : PRODUCT
+October 21, 2022 : DATE
+47 : DATE
+WEIS : ORG
+Bloomberg : PERSON
+48 : CARDINAL
+Bloomberg World Exchange : ORG
+Market Capitalization : ORG
+December 31, 2021 : DATE
+October 12, 2022 : DATE
+49 : DATE
+12-month : DATE
+1926 : DATE
+50 : CARDINAL
+Morgan 2023 Global Equity 
+Outlook : ORG
+December 1, 2022 : DATE
+51 : CARDINAL
+Brazil : GPE
+Chile : GPE
+Colombia : GPE
+Czech Republic : GPE
+Egypt : GPE
+Hungary : GPE
+India : GPE
+Indonesia : GPE
+Korea : GPE
+Malaysia : GPE
+Mexico : GPE
+Peru : GPE
+Philippines : GPE
+Poland : GPE
+South 
+Africa : GPE
+Thailand : GPE
+Turkey : GPE
+52 : CARDINAL
+Morgan : PERSON
+December 31, 2021 : DATE
+December 30, 2022 : DATE
+53 : DATE
+Goldman Sachs 
+Global Investment Research : ORG
+54 : CARDINAL
+Martin M. Andreasen : PERSON
+Jens 
+H. E. Christensen : PERSON
+Simon 
+Riddell : PERSON
+The TIPS Liquidity 
+Premium : WORK_OF_ART
+Federal Reserve 
+Bank of San Francisco : ORG
+2017-11 : DATE
+July 2020 : DATE
+55 : CARDINAL
+National Association of State 
+Budget Officers : ORG
+56 : CARDINAL
+Bank of England : ORG
+Financial 
+Policy Summary : WORK_OF_ART
+December 2022 : DATE
+December : DATE
+13, 2022 : DATE
+57 : CARDINAL
+Morgan EM : ORG
+mid-December 2022 : DATE
+Goldman 
+Sachs & Co. : ORG
+LLC : ORG
+Goldman Sachs : ORG
+the Securities and 
+Exchange Commission : ORG
+SEC : ORG
+the 
+Financial Industry Regulatory Authority : ORG
+FINRA : ORG
+the Securities Investor 
+Protection Corporation : ORG
+SIPC : ORG
+PWM : ORG
+Guide/Regulation Best Interest : ORG
+index.html : PERSON
+Intended Audience : PERSON
+PWM : ORG
+PWM : ORG
+PWM Team : ORG
+Rule 305-3 : PRODUCT
+1940 : DATE
+Accredited Investors : ORG
+the Securities Act : LAW
+1933 : DATE
+PWM Team : ORG
+Affiliates : ORG
+The Ayco 
+Company : WORK_OF_ART
+Goldman Sachs : ORG
+Ayco Personal Financial Management : ORG
+The Goldman Sachs Group : ORG
+United Capital Financial 
+Advisers : ORG
+Goldman Sachs : ORG
+Personal Financial Management : ORG
+ACH : ORG
+The Goldman Sachs 
+Trust Company : ORG
+N.A. : GPE
+The Goldman 
+Sachs Trust Company : ORG
+Delaware : GPE
+Goldman Sachs : ORG
+Bank USA : ORG
+Federal Deposit 
+Insurance Corporation : ORG
+FDIC : ORG
+Equal Housing Lender : ORG
+third : ORDINAL
+GSFO Services : WORK_OF_ART
+Wealth Management : ORG
+the United States : GPE
+Ayco Family 
+Office Services : WORK_OF_ART
+Investment Strategy Group : ORG
+ISG : ORG
+The Investment Strategy Group : ORG
+the Asset & Wealth Management : ORG
+AWM : ORG
+GS : ORG
+ISG : ORG
+ISG : ORG
+GS Global Investment 
+Research : ORG
+AWM : ORG
+ISG : ORG
+Model Portfolios : ORG
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+daily : DATE
+ISG : ORG
+Cambridge Associates : ORG
+Investment Risks and Information : ORG
+GS&Co : LOC
+ADV : ORG
+Brochure : ORG
+PWM Relationship Guide : ORG
+AI : WORK_OF_ART
+AI : ORG
+Offering Memorandum : ORG
+Subscription 
+Agreement : ORG
+Currencies : ORG
+Digital Assets/Cryptocurrency : ORG
+Digital : ORG
+Digital : ORG
+FDIC : ORG
+U.S. : GPE
+Transacting : WORK_OF_ART
+GS : ORG
+U.S. : GPE
+the Master Agreement : WORK_OF_ART
+Non-US Securities : ORG
+Non-US : ORG
+ADRs/ : GPE
+Options Disclosure Document : ORG
+Characteristics : PRODUCT
+Risk of Standardized Options : ORG
+PWM : ORG
+the 
+geographic region(s) represented : ORG
+Structured Investments : ORG
+Structured : ORG
+Structured : ORG
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+U.S. : GPE
+Traded Notes : PERSON
+Prospectus : ORG
+PWM Team : ORG
+1 : CARDINAL
+EDGAR : ORG
+SEC : ORG
+2 : CARDINAL
+PWM Team : ORG
+3 : CARDINAL
+1-866 : CARDINAL
+daily : DATE
+daily : DATE
+Security-Specific References : ORG
+PWM Team : ORG
+GS : ORG
+ADV : ORG
+ISG/GIR Forecasts : ORG
+ISG : ORG
+Goldman Sachs Global 
+Investment Research’s : ORG
+GIR : ORG
+only one : CARDINAL
+the GIR Report : ORG
+GIR : ORG
+PWM : ORG
+monthly : DATE
+U.S. : GPE
+1-800-323-5678 : CARDINAL
+daily : DATE
+Aggregate : ORG
+Provide Additional 
+Performance Information : ORG
+GS : PERSON
+GS : PERSON
+Indices/Benchmarks : ORG
+Comparative Benchmarks : WORK_OF_ART
+Comparative Benchmarks : ORG
+ITD : ORG
+ITD : ORG
+third : ORDINAL
+third : ORDINAL
+GS : PERSON
+Consolidated Reporting : ORG
+Third : ORDINAL
+Party Investments : ORG
+GS : ORG
+third : ORDINAL
+third : ORDINAL
+SIPC : ORG
+Form 1099 : DATE
+Schedule 
+K-1 : ORG
+annually : DATE
+monthly : DATE
+GS : PERSON
+statement(s : PERSON
+GS : PERSON
+the Employee Retirement Income 
+Security Act : LAW
+1974 : DATE
+Department of 
+Labor Regulations : ORG
+GS : ORG
+GS : ORG
+the Family 
+Office : ORG
+GS : ORG
+Third Party Vendors : ORG
+Third Party Vendors : ORG
+Family Office Services : ORG
+Ayco : ORG
+GS : ORG
+Section 15B : LAW
+Securities Exchange Act : LAW
+1934 : DATE
+Additional Information for Ayco Clients : ORG
+Ayco Family Office 
+Services : ORG
+Solicitation : ORG
+Argentina : GPE
+Australia : GPE
+Australia : GPE
+Goldman 
+Sachs & Co : ORG
+Goldman Sachs 
+International : ORG
+GSI : ORG
+Goldman Sachs : ORG
+Goldman Sachs : ORG
+Asia : LOC
+Australia : GPE
+first : ORDINAL
+Goldman 
+Sachs : ORG
+Sophisticated : ORG
+Goldman Sachs : ORG
+Australia : GPE
+911A(2 : CARDINAL
+the Corporations Act : LAW
+6D.2 : CARDINAL
+7.9 : CARDINAL
+the Corporations Act : LAW
+Australia : GPE
+GSI : ORG
+GSSP : ORG
+the Corporations Act : LAW
+GSI : ORG
+GSSP : ORG
+Australian : NORP
+Financial Services Licence : ORG
+the 
+Corporations Act : LAW
+Australian Financial Services : ORG
+the 
+Securities and Exchange Commission : ORG
+US : GPE
+GSI : ORG
+Financial Conduct Authority : ORG
+Prudential Regulation Authority : ORG
+the United Kingdom : GPE
+GSSP : ORG
+the Monetary Authority : ORG
+Singapore : GPE
+Singaporean : NORP
+the Securities 
+and Futures Commission : ORG
+Hong 
+Kong : GPE
+Australian : NORP
+GSI : ORG
+Australia : GPE
+Bahrain : GPE
+GSI : ORG
+the Kingdom of Bahrain : GPE
+the Central 
+Bank of Bahrain : ORG
+CBB : ORG
+CBB : ORG
+CBB : ORG
+Brazil : GPE
+Goldman Sachs : ORG
+Brazil : GPE
+Brazil : GPE
+the Brazilian Securities and Exchange 
+Commission : ORG
+Comissão de Valores : ORG
+Brazil : GPE
+CVM : ORG
+third : ORDINAL
+Chile : GPE
+Fecha de inicio de la oferta : PERSON
+oferta se : PERSON
+Norma de Carácter General N : ORG
+336 : CARDINAL
+Seguros de Chile : ORG
+oferta versa sobre : ORG
+Registro de Valores Extranjeros : FAC
+Superintendencia de Valores : PERSON
+Seguros : PRODUCT
+ésta versa : PERSON
+Que : PERSON
+de 
+entregar : PERSON
+Chile : GPE
+de oferta 
+pública mientras : PERSON
+sean : NORP
+el 
+Registro de Valores : ORG
+Dubai : GPE
+Goldman Sachs International : ORG
+GSI : ORG
+the Dubai Financial Services Authority : ORG
+DIFC : ORG
+the Financial 
+Services Authority : ORG
+FSA : ORG
+the Prudential Regulation Authority : ORG
+the Financial Conduct 
+Authority : ORG
+Prudential Regulation 
+Authority : ORG
+UK : GPE
+DIFC : ORG
+Level : PRODUCT
+5 : DATE
+Gate Precinct Building 1 : FAC
+Dubai : GPE
+International Financial Centre : ORG
+PO Box : PERSON
+506588 : DATE
+Dubai : GPE
+UAE : GPE
+GSI : ORG
+UK : GPE
+Plumtree 
+Court : ORG
+25 : CARDINAL
+London : GPE
+EC4A : ORG
+4AU : ORG
+United Kingdom : GPE
+DFSA Rulebook : PRODUCT
+Israel : GPE
+Goldman Sachs : ORG
+Israeli : NORP
+Korea : GPE
+Goldman Sachs : ORG
+Goldman Sachs : ORG
+Asia : LOC
+L.L.C : ORG
+Goldman Sachs Asset Management 
+International : ORG
+Goldman Sachs : ORG
+Asset Management Korea Co., Ltd. : ORG
+Korea : GPE
+Goldman 
+Sachs : ORG
+Asia : LOC
+Cross-Border Investment Advisory 
+Company : ORG
+the Korean Financial 
+Supervisory Commission : ORG
+the Hong Kong Securities & Futures 
+Commission : ORG
+Goldman Sachs Asset 
+Management International : ORG
+the 
+Securities and Exchange Commission : ORG
+the United States : GPE
+Financial Services 
+ : ORG
+Authority of the United Kingdom : ORG
+Goldman Sachs Asset Management 
+Korea Co., Ltd. : ORG
+Asset 
+Management Company : ORG
+Korea : GPE
+the Korean Financial Supervisory 
+Commission : ORG
+Oman : GPE
+Oman : GPE
+Oman : GPE
+Capital Market Law of Oman (Sultani 
+Decree 80/98 : WORK_OF_ART
+Oman : GPE
+Article 6 : LAW
+the Capital Market 
+Law : ORG
+Ministerial Decision 
+No : ORG
+the Sultanate of Oman : GPE
+Panama : GPE
+the 
+national Securities Commission : ORG
+1 : CARDINAL
+July 8, 1999 : DATE
+the “Panamanian 
+Securities Act : EVENT
+Panama : GPE
+the Panamanian Securities Act : LAW
+Panamanian : NORP
+the National 
+Securities Commission of the Republic 
+of : ORG
+Panama : GPE
+Goldman 
+Sachs : ORG
+Goldman Sachs : ORG
+Panamanian : NORP
+Peru : GPE
+Superintendencia : ORG
+SMV : ORG
+Qatar : GPE
+Qatar : GPE
+Qatar : GPE
+Financial Markets Authority : ORG
+Qatar : GPE
+Financial Centre Regulatory Authority : ORG
+Qatar Central Bank : ORG
+Qatar : GPE
+Singapore : GPE
+Hong Kong : GPE
+Singapore : GPE
+Hong Kong : GPE
+Singapore : GPE
+Hong Kong : GPE
+Singapore : GPE
+Hong Kong : GPE
+Singapore : GPE
+Hong Kong : GPE
+Singapore : GPE
+South Africa : GPE
+Goldman Sachs : ORG
+Goldman Sachs : ORG
+Goldman Sachs 
+International : ORG
+South Africa : GPE
+the Financial Advisory and Intermediary 
+Services Act : ORG
+2002 : DATE
+Ukraine : GPE
+Goldman Sachs & Co. : ORG
+LLC : ORG
+Ukraine : GPE
+Ukrainian : NORP
+Ukrainian : NORP
+United Arab Emirates : GPE
+the United Arab Emirates : GPE
+8 : CARDINAL
+1984 : DATE
+the United Arab Emirates : GPE
+the Central Bank : ORG
+United Arab Emirates : GPE
+Commodities Authority : ORG
+United Kingdom : GPE
+the United 
+Kingdom : GPE
+Section 21 : LAW
+Financial Services : ORG
+GSI : ORG
+Plumtree 
+Court : ORG
+25 : CARDINAL
+London : GPE
+EC4A : ORG
+4AU : ORG
+United Kingdom : GPE
+the Prudential Regulation Authority : ORG
+the Financial Conduct 
+Authority : ORG
+the Prudential Regulation 
+Authority : ORG
+2023 : DATE
+Goldman Sachs : ORG
+the  
+Investment Strategy Group : ORG
+Thomas Devos : PERSON
+Anais Boussie : PERSON
+Jeremy Nalewaik : PERSON
+Howard Spector : PERSON
+Matthieu Walterspiler : PERSON
+Olivia Xia : PERSON
+Grant Nelson : PERSON
+Jonas Schmitten : PERSON
+Tia Sparks : ORG
+Goldman Sachs : ORG
+Amsterdam : GPE
+Atlanta : GPE
+Austin : GPE
+Beijing : GPE
+Boston : GPE
+Chicago : GPE
+Dallas : GPE
+Denver : GPE
+Dubai : GPE
+Dublin : GPE
+Frankfurt : GPE
+Geneva : GPE
+Hong Kong : GPE
+Houston : GPE
+London : GPE
+Los Angeles : GPE
+Madrid : GPE
+Melbourne : GPE
+Miami : GPE
+Milan : GPE
+Monaco : GPE
+New York : GPE
+Paris : GPE
+Philadelphia : GPE
+San Francisco : GPE
+Seattle : GPE
+Shanghai : GPE
+Shenzhen : GPE
+Singapore : GPE
+Stockholm : GPE
+Sydney : GPE
+Tel Aviv : GPE
+Washington : GPE
+D.C. : GPE
+West Palm Beach : GPE
+Zurich : GPE

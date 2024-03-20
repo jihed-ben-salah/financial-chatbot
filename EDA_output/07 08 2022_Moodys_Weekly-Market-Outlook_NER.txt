@@ -1,0 +1,1722 @@
+MOODY : ORG
+1 : CARDINAL
+Moody’s Analytics : ORG
+Moody’s Investors Service : ORG
+Moody’s Analytics : ORG
+Moody’s Analytics : ORG
+Moody’s Capital Markets Research : ORG
+Moody’s Analytics : ORG
+June : DATE
+the Federal Open Market Committee : ORG
+a ton : QUANTITY
+50- : CARDINAL
+75 : CARDINAL
+July : DATE
+50- : CARDINAL
+75 : CARDINAL
+the minutes : TIME
+Fed : ORG
+the University of Michigan’s : ORG
+Fed : ORG
+June : DATE
+Fed : ORG
+this month : DATE
+1.1% : PERCENT
+between May and 
+June : DATE
+second : ORDINAL
+monthly : DATE
+at least 1% : PERCENT
+Fed : ORG
+Fed : ORG
+Treasury : ORG
+Fed : ORG
+fed : ORG
+2.5% : PERCENT
+Fed : ORG
+OUTLOOK : ORG
+JULY 7, 2022 
+
+ : DATE
+Ryan Sweet : PERSON
+Stefan Angrick : PERSON
+Europe : LOC
+Ross Cioffi : PERSON
+U.S. : GPE
+Jesse Rogers 
+Economist : PERSON
+Steven Shields : PERSON
+Matt Orefice : PERSON
+Data Specialist 
+
+Inside Economics Podcast : ORG
+Google Podcasts  
+Spotify 
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+Top of Mind ...................................... : ORG
+Week Ahead in Global Economy ... : WORK_OF_ART
+U.S. : GPE
+7 : CARDINAL
+Europe : LOC
+10 : CARDINAL
+Asia-Pacific : LOC
+11 : CARDINAL
+Ratings Roundup : WORK_OF_ART
+12 : CARDINAL
+15 : CARDINAL
+CDS Movers : ORG
+16 : CARDINAL
+19 : CARDINAL
+MOODY : ORG
+2 : CARDINAL
+Fed : ORG
+Fed : ORG
+Fed : ORG
+the 
+central bank : ORG
+Fed : ORG
+Fed : ORG
+first-quarter : DATE
+the second quarter : DATE
+GDI : ORG
+The 
+Bureau of Economic Analysis : ORG
+BEA : ORG
+BEA : ORG
+GDI : ORG
+one : CARDINAL
+Fed : ORG
+U.S. : GPE
+this year : DATE
+33% : PERCENT
+52% : PERCENT
+VIX : ORG
+monthly : DATE
+VIX : WORK_OF_ART
+ISM : ORG
+U.S. : GPE
+0.62 : CARDINAL
+U.S. : GPE
+U.S. : GPE
+VIX : ORG
+U.S. : GPE
+VIX : ORG
+ISM : ORG
+583 : CARDINAL
+350 : CARDINAL
+1,000 : CARDINAL
+three : CARDINAL
+three : CARDINAL
+U.S. : GPE
+the first half of this year : DATE
+ISM : ORG
+ISM : ORG
+June : DATE
+ISM : ORG
+July : DATE
+ISM : ORG
+prior months : DATE
+ISM : ORG
+50 : CARDINAL
+MOODY : ORG
+3 : CARDINAL
+this year : DATE
+summer’s end : DATE
+late summer year : DATE
+Latin 
+America : LOC
+May : DATE
+Brazil : GPE
+Colombia : GPE
+Asia : LOC
+Africa : LOC
+the Middle East : LOC
+Asia : LOC
+Chinese : NORP
+three-year : DATE
+Europe : LOC
+Two : CARDINAL
+first : ORDINAL
+Australia : GPE
+Argentina : GPE
+Brazil : GPE
+U.S. : GPE
+Ukraine : GPE
+Russia : GPE
+second : ORDINAL
+Federal Reserve : ORG
+Fed : ORG
+Latin 
+America : LOC
+Africa : LOC
+Europe : LOC
+Middle East : LOC
+Latin America : LOC
+monthly : DATE
+some 15% : PERCENT
+Europe : LOC
+Southeast Asia : LOC
+Africa : LOC
+Middle East : LOC
+MOODY : ORG
+4 : CARDINAL
+today : DATE
+tomorrow : DATE
+Russia : GPE
+Ukraine : GPE
+Australia : GPE
+Fed : ORG
+almost half : CARDINAL
+earlier this year : DATE
+9 : MONEY
+2004-2014 : DATE
+Egypt : GPE
+Turkey : GPE
+South Africa : GPE
+Chile : GPE
+Colombia : GPE
+Peru : GPE
+Philippines : GPE
+Turkey : GPE
+the Arab Spring : EVENT
+China : GPE
+Iran : GPE
+Today : DATE
+a decade : DATE
+COVID-19 : ORG
+this year : DATE
+Asia : LOC
+the Middle East : LOC
+India : GPE
+Southeast Asia : LOC
+Delta : LOC
+Omicron : ORG
+COVID-19 : ORG
+The Middle East : LOC
+last decade : DATE
+Latin America : LOC
+21st- : CARDINAL
+China : GPE
+China : GPE
+China : GPE
+MOODY : ORG
+5 : CARDINAL
+The Week Ahead : EVENT
+U.S. : GPE
+U.S. : GPE
+next week : DATE
+the Federal Reserve : ORG
+fed : ORG
+50 : CARDINAL
+75 : CARDINAL
+this month : DATE
+June : DATE
+more than 1% : PERCENT
+June : DATE
+0.6% : PERCENT
+May : DATE
+year-ago : DATE
+around 8.9% : PERCENT
+June : DATE
+8.6% : PERCENT
+May : DATE
+the University of Michigan : ORG
+Fed : ORG
+PCE : ORG
+June : DATE
+NFIB : ORG
+Europe : LOC
+U.K. : GPE
+0.1% : PERCENT
+May : DATE
+0.3% : PERCENT
+April : DATE
+PMI : ORG
+53.1 : CARDINAL
+May : DATE
+58.2 : CARDINAL
+the previous 
+month : DATE
+0.4% : PERCENT
+this May : DATE
+April : DATE
+Germany : GPE
+Ireland : GPE
+France : GPE
+Spain : GPE
+the month : DATE
+next week : DATE
+Germany : GPE
+7.6% : PERCENT
+June : DATE
+7.9% : PERCENT
+May : DATE
+Spain : GPE
+10.2% : PERCENT
+8.7% : PERCENT
+France : GPE
+5.8% : PERCENT
+5.2% : PERCENT
+Italy : GPE
+8% : PERCENT
+6.8% : PERCENT
+Germany : GPE
+one : CARDINAL
+Germany : GPE
+May : DATE
+€33.3 billion : MONEY
+May : DATE
+the prior month’s : DATE
+€32.4 billion : MONEY
+China : GPE
+COVID-19 : PERSON
+Asia-Pacific 
+
+ : LOC
+China : GPE
+annual : DATE
+June : DATE
+April : DATE
+the same 
+month : DATE
+May : DATE
+June : DATE
+PMI : ORG
+last month : DATE
+China : GPE
+3.8% : PERCENT
+the 
+second quarter : DATE
+4.8% : PERCENT
+the March quarter : DATE
+New Zealand : GPE
+South Korea : GPE
+50 : CARDINAL
+July : DATE
+The Reserve Bank of New Zealand : ORG
+multiyear : DATE
+50 : CARDINAL
+2.5% : PERCENT
+225 : CARDINAL
+The Bank of Korea : ORG
+June : DATE
+6% : PERCENT
+almost 24 years : DATE
+50 : CARDINAL
+BoK : WORK_OF_ART
+2.25% : PERCENT
+Households : ORG
+New Zealand : GPE
+South Korea : GPE
+MOODY : ORG
+6 : CARDINAL
+New Guinea : GPE
+Japan : GPE
+House of Councillors : ORG
+Medium
+Low : FAC
+12 : CARDINAL
+21-Jul : TIME
+4-Sep : TIME
+Chile : GPE
+Referendum : GPE
+New Constitution
+Medium
+Low : EVENT
+2 : CARDINAL
+Brazil : GPE
+National Party Congress : ORG
+7-18-Nov : DATE
+U.N. : ORG
+U.N. Climate Change Conference 2022 : ORG
+COP 27 : LAW
+15-16-Nov : DATE
+G-20 : PRODUCT
+Indonesia : GPE
+18-19 Nov : DATE
+APEC : ORG
+Thailand : GPE
+MOODY : ORG
+7 : CARDINAL
+U.S. : GPE
+Q2 : CARDINAL
+Moody's : ORG
+166 : CARDINAL
+160 : CARDINAL
+last week : DATE
+155 : CARDINAL
+June : DATE
+5 : CARDINAL
+150 : CARDINAL
+141 : CARDINAL
+June : DATE
+U.S. : GPE
+562 : CARDINAL
+580 : CARDINAL
+mid-2020 : DATE
+Bloomberg Barclays : PERSON
+this past week : DATE
+549 : CARDINAL
+566 : CARDINAL
+Baa : PERSON
+VIX : ORG
+25.9 : CARDINAL
+VIX : ORG
+the past week : DATE
+May : DATE
+nine : CARDINAL
+April : DATE
+five : CARDINAL
+May : DATE
+2.1% : PERCENT
+12 months ended in May : DATE
+1.9% : PERCENT
+Six of the month's : DATE
+three : CARDINAL
+The year : DATE
+39 : CARDINAL
+May : DATE
+26 : CARDINAL
+the same period last year : DATE
+Construction & Building : ORG
+nine : CARDINAL
+this year : DATE
+eight : CARDINAL
+North 
+America : GPE
+17 : CARDINAL
+16 : CARDINAL
+U.S. : GPE
+one : CARDINAL
+Canada : GPE
+Europe : LOC
+11 : CARDINAL
+Asia-Pacific : ORG
+Latin 
+America : LOC
+two : CARDINAL
+Moody's Credit Transition Model : ORG
+12-month : DATE
+2.8% : PERCENT
+the end of 2022 : DATE
+3.3% : PERCENT
+May 2023 : DATE
+4.1% : PERCENT
+U.S. : GPE
+First-quarter 2020 : DATE
+annual : DATE
+14% : PERCENT
+IG : ORG
+19% : PERCENT
+45% : PERCENT
+IG : ORG
+12% : PERCENT
+Second-quarter 2020 : DATE
+annual : DATE
+69% : PERCENT
+IG : ORG
+32% : PERCENT
+142% : PERCENT
+IG : ORG
+45% : PERCENT
+Third-quarter 2020 : DATE
+annual : DATE
+6% : PERCENT
+IG : ORG
+annual : DATE
+44% : PERCENT
+12% : PERCENT
+IG : ORG
+56% : PERCENT
+Fourth-quarter 2020 : DATE
+annual : DATE
+3% : PERCENT
+IG : ORG
+annual : DATE
+8% : PERCENT
+16% : PERCENT
+IG : ORG
+11% : PERCENT
+First-quarter 2021 : DATE
+annual : DATE
+4% : PERCENT
+IG : ORG
+57% : PERCENT
+9% : PERCENT
+IG : ORG
+64% : PERCENT
+the second quarter of 2021 : DATE
+over-year : DATE
+35% : PERCENT
+the second quarter : DATE
+the third quarter of 2021 : DATE
+5% : PERCENT
+U.S. : GPE
+16% : PERCENT
+a year-
+ago : DATE
+the 
+third quarter : DATE
+Fourth-quarter 2021 : DATE
+9.4% : PERCENT
+$133 billion : MONEY
+the third quarter : DATE
+$92 billion : MONEY
+three months of 2021 : DATE
+December : DATE
+33% : PERCENT
+five-year : DATE
+the month : DATE
+the first quarter of 2022 : DATE
+$901 billion : MONEY
+12% : PERCENT
+a year-ago : DATE
+the second quarter : DATE
+$548 billion : MONEY
+21% : PERCENT
+a year-ago : DATE
+38 : MONEY
+the second quarter : DATE
+$63 billion : MONEY
+the 
+first three months of the year : DATE
+79% : PERCENT
+a year-ago : DATE
+MOODY : ORG
+8 : CARDINAL
+the week ended July 1 : DATE
+$0.788 billion : MONEY
+$98.2 billion : MONEY
+$11.5 billion : MONEY
+the same week : DATE
+$805.8 billion : MONEY
+2018 : DATE
+2019 : DATE
+U.S. : GPE
+ECONOMIC OUTLOOK : PERSON
+U.S. : GPE
+June : DATE
+prior months : DATE
+first-quarter : DATE
+12.4% : PERCENT
+fiscal 2021 : DATE
+4.4% : PERCENT
+this year : DATE
+3.8% : PERCENT
+the next year : DATE
+June : DATE
+The U.S. Treasury Department : ORG
+April : DATE
+2021 : DATE
+second : ORDINAL
+first-quarter : DATE
+the Bureau of 
+Economic Analysis : ORG
+season : DATE
+the first three months of the year : DATE
+$2.5 trillion : MONEY
+1.1 : CARDINAL
+0.7 percentage point : PERCENT
+2022 : DATE
+2023 : DATE
+May : DATE
+COVID-19 : ORG
+COVID-19 : ORG
+COVID-19 : PERSON
+U.S. : GPE
+97.07 million : CARDINAL
+88.5 million : CARDINAL
+daily : DATE
+May : DATE
+122,000 : CARDINAL
+May : DATE
+COVID-19 : ORG
+The European Union’s : ORG
+sixth : ORDINAL
+Russia : GPE
+the Yom Kippur War : EVENT
+Ukraine : GPE
+West Texas Intermediate : PRODUCT
+this quarter : DATE
+107 : MONEY
+June : DATE
+the second half of this year : DATE
+next year : DATE
+60 : MONEY
+late 2024 : DATE
+2.7% : PERCENT
+this year : DATE
+2.8% : PERCENT
+U.S. : GPE
+this year : DATE
+80 : CARDINAL
+the past few months : DATE
+2023 : DATE
+2.7% to : PERCENT
+2.6% : PERCENT
+between 2% and 2.5% : PERCENT
+first-quarter : DATE
+1.5% : PERCENT
+this year : DATE
+the first quarter : DATE
+first-quarter : DATE
+Trade : ORG
+U.S. : GPE
+a ton : QUANTITY
+three : CARDINAL
+COVID-19 : ORG
+quarterly : DATE
+the 
+first quarter of 2022 : DATE
+the quarter : DATE
+this year : DATE
+Bloomberg : PERSON
+2.6% : PERCENT
+next 
+year : DATE
+0.6 percentage point : PERCENT
+Bloomberg : PERSON
+2% : PERCENT
+MOODY : ORG
+9 : CARDINAL
+the past few weeks : DATE
+U.S. : GPE
+the second quarter : DATE
+this year : DATE
+6.5% : PERCENT
+this 
+year : DATE
+7% : PERCENT
+May : DATE
+5.2% : PERCENT
+2023 : DATE
+3.9% : PERCENT
+next year : DATE
+1.77 million : CARDINAL
+1.83 million : CARDINAL
+1.86 million : CARDINAL
+next year : DATE
+1.89 : CARDINAL
+each 
+year : DATE
+this year : DATE
+6.59 million : CARDINAL
+6.86 million : CARDINAL
+next year : DATE
+about 10% : PERCENT
+Transactions House : ORG
+this year : DATE
+June : DATE
+11.3% : PERCENT
+this year : DATE
+12.2% : PERCENT
+2023 : DATE
+2024 : DATE
+U.S. : GPE
+between 400,000 : CARDINAL
+450,000 : CARDINAL
+around 150,000 : CARDINAL
+later this year : DATE
+the 
+Federal Reserve’s : ORG
+Nonfarm : LOC
+390,000 : CARDINAL
+May : DATE
+822,000 : CARDINAL
+the next few 
+months : DATE
+around 5 
+million : QUANTITY
+373,000 : CARDINAL
+this year : DATE
+May : DATE
+next year : DATE
+2024 : DATE
+around 3.3% : PERCENT
+the fourth quarter of this year : DATE
+the next couple of years : DATE
+3.5% : PERCENT
+62.5% : PERCENT
+80% : PERCENT
+this summer : DATE
+The minutes : TIME
+May : DATE
+the Federal Open 
+Market Committee : EVENT
+Fed : ORG
+Fed : ORG
+March : DATE
+fed : ORG
+Fed : ORG
+Fed : ORG
+about $520 billion : MONEY
+this year : DATE
+around 37% : PERCENT
+less than 20% : PERCENT
+MBS : ORG
+FOMC : ORG
+May minutes : TIME
+10-year : DATE
+Treasury : ORG
+10-year : DATE
+Treasury : ORG
+3.14% : PERCENT
+three 
+months : DATE
+10-year : DATE
+Treasury : ORG
+3.25% : PERCENT
+the fourth quarter of next year : DATE
+May : DATE
+June : DATE
+the first quarter of next year : DATE
+the second quarter : DATE
+MOODY : ORG
+10 : CARDINAL
+EUROPE : LOC
+Boris Johnson : PERSON
+U.K. : GPE
+Boris Johnson : PERSON
+Thursday : DATE
+next week : DATE
+Johnson : PERSON
+U.K. : GPE
+Thursday : DATE
+German : NORP
+German : NORP
+0.2% : PERCENT
+month on 
+month : DATE
+May : DATE
+April : DATE
+1.3% : PERCENT
+0.7% : PERCENT
+2.7% : PERCENT
+February : DATE
+0.6% : PERCENT
+5.5% : PERCENT
+the second half of the year : DATE
+June : DATE
+PMI : ORG
+2.8 : CARDINAL
+52 : CARDINAL
+Ireland : GPE
+May : DATE
+13.9% : PERCENT
+month over month : DATE
+9.6% : PERCENT
+April : DATE
+32.6% : PERCENT
+20.4% : PERCENT
+April : DATE
+6.1% : PERCENT
+two 
+months : DATE
+Irish : NORP
+this June : DATE
+PMI : ORG
+3.3 : CARDINAL
+53.1 : CARDINAL
+16 months : DATE
+May : DATE
+Ireland : GPE
+Germany : GPE
+this May : DATE
+next week’s : DATE
+0.4% : PERCENT
+month-on-month : DATE
+May : DATE
+Dutch : NORP
+June 
+Year-on-year : DATE
+Netherlands : GPE
+8.6% : PERCENT
+June : DATE
+9.7% : PERCENT
+March : DATE
+the coming months : DATE
+year-ago : DATE
+next month : DATE
+12 : CARDINAL
+VAT : ORG
+Dutch : NORP
+second : ORDINAL
+later this year : DATE
+Swiss : NORP
+Switzerland : GPE
+June : DATE
+February : DATE
+2.2% : PERCENT
+this summer : DATE
+later this year : DATE
+MOODY : ORG
+11 : CARDINAL
+ASIA-PACIFIC : NORP
+Japan : GPE
+Japan : GPE
+House of Councillors : ORG
+Fumio Kishida : PERSON
+first : ORDINAL
+nine months : DATE
+10 July : DATE
+half : CARDINAL
+next two years : DATE
+Kishida : PERSON
+recent weeks : DATE
+Kishida : ORG
+COVID-19 : PERSON
+Kishida : ORG
+Russia : GPE
+Ukraine : GPE
+Liberal Democratic Party-Komeito : ORG
+One : CARDINAL
+two : CARDINAL
+Constitutional 
+Democratic Party : ORG
+2021 : CARDINAL
+CDP : ORG
+Kishida : PERSON
+second : ORDINAL
+Japan Innovation Party : ORG
+2021 : DATE
+Osaka : GPE
+Kansai : PERSON
+One : CARDINAL
+Japan : GPE
+The Innovation Party : ORG
+Democratic Party : ORG
+LDP- : CARDINAL
+Komeito : GPE
+Article 9 : LAW
+Japan : GPE
+two-thirds : CARDINAL
+Kishida : PERSON
+LDP : ORG
+Kishida : GPE
+nine months : DATE
+Shinzo Abe : PERSON
+Abe : PERSON
+LDP : ORG
+Japan : GPE
+2% : PERCENT
+LDP : ORG
+dovish : NORP
+Komeito : GPE
+LDP : ORG
+Kishida : ORG
+Japan : GPE
+South Korea : GPE
+Kishida : ORG
+Yoshihide Suga : PERSON
+Abe : PERSON
+Kishida : PERSON
+Abenomics : GPE
+Kishida : ORG
+Japan : GPE
+Kishida : PERSON
+Russia : GPE
+Ukraine : GPE
+MOODY : ORG
+12 : CARDINAL
+Downgrades Dominate : FAC
+U.S. : GPE
+Europe : LOC
+U.S. : GPE
+U.S. : GPE
+weekly : DATE
+Moody’s Investors 
+Service : ORG
+four : CARDINAL
+five : CARDINAL
+FLNG Liquefaction : ORG
+3 : CARDINAL
+Baa3 : ORG
+Moody’s Investors Service : ORG
+June 8 : DATE
+three : CARDINAL
+Freeport : NORP
+LNG : ORG
+at least 90 days : DATE
+FLIQ3 : ORG
+Freeport LNG : PERSON
+Meanwhile Fitness International : ORG
+LLC : ORG
+B3 : NORP
+June 29 : DATE
+Moody's 
+
+Investors Service’s : ORG
+2022 : DATE
+2023 : DATE
+the first half of this year : DATE
+U.S. : GPE
+169:112 : CARDINAL
+Europe : LOC
+Western Europe : LOC
+2:1 : CARDINAL
+June 30 : DATE
+Moody’s Investors Service : ORG
+Commerzbank AG’s : ORG
+one : CARDINAL
+A2 : PRODUCT
+A1 : PRODUCT
+Moody's Advanced : ORG
+approximately $8.4B : MONEY
+MOODY : ORG
+13 : CARDINAL
+0.0 : CARDINAL
+0.2 : CARDINAL
+0.4 : CARDINAL
+0.6 : CARDINAL
+0.8 : CARDINAL
+1.0 : CARDINAL
+0.0 : CARDINAL
+0.2 : CARDINAL
+0.4 : CARDINAL
+0.6 : CARDINAL
+0.8 : CARDINAL
+1.0 : CARDINAL
+1 : CARDINAL
+Rating Changes - US Corporate & Financial Institutions: : ORG
+3-month : DATE
+Moody's : ORG
+2 : CARDINAL
+BCF
+Bank Credit Facility Rating : ORG
+Money-Market : ORG
+Family Rating : PERSON
+MTN : ORG
+MTN Program Rating : ORG
+Notes : PRODUCT
+Notes : PRODUCT
+FSR : ORG
+Bank Financial Strength Rating : ORG
+PS
+Preferred Stock Rating : ORG
+Speculative-Grade Liquidity Rating
+
+JrSub
+Junior Subordinated Rating : ORG
+Long-Term Deposit Rating : ORG
+STD
+Short-Term Deposit Rating : PRODUCT
+14 : CARDINAL
+3 : CARDINAL
+Million : MONEY
+New LTD : GPE
+IG/S
+G : ORG
+6/29/2022 : DATE
+B3 : CARDINAL
+SG : ORG
+6/29/2022 : CARDINAL
+LLLP : PERSON
+B1 : CARDINAL
+B3 : NORP
+SG : ORG
+6/29/2022 : DATE
+FLNG : ORG
+3 : CARDINAL
+3075.2 : CARDINAL
+IG : ORG
+6/30/2022 : PERSON
+SG : ORG
+6/30/2022 : PERSON
+CORSAIR GROUP : ORG
+CAYMAN : ORG
+B1 : CARDINAL
+Moody's : ORG
+4 : CARDINAL
+Million : MONEY
+SG : ORG
+6/29/2022 : DATE
+Financial
+LTD : ORG
+IG : ORG
+GERMANY : GPE
+6/29/2022 : DATE
+BANKI HF : ORG
+Financial
+LTD : ORG
+COMMERZBANK AG
+Financial
+SrUnsec : ORG
+8338.021 : CARDINAL
+A1 : PRODUCT
+A2 : PRODUCT
+IG
+GERMANY : ORG
+6/30/2022 : PERSON
+CATALYST HEALTHCARE : ORG
+ROMFORD : ORG
+FINANCING PLC : ORG
+154.1509 : CARDINAL
+A2 : PRODUCT
+A3 : PRODUCT
+IG : ORG
+UNITED KINGDOM : GPE
+6/30/2022 : DATE
+B1 : CARDINAL
+SG : ORG
+NETHERLANDS : GPE
+7/1/2022 : DATE
+AXA : ORG
+Financial
+SrUnsec/Sub/JrSub/MTN : ORG
+A2 : PRODUCT
+A1 : PRODUCT
+IG : ORG
+FRANCE : GPE
+7/1/2022 : DATE
+ZEPHYR GERMAN : ORG
+B1 : CARDINAL
+SG : ORG
+GERMANY : GPE
+7/4/2022 : DATE
+DEUTSCHE BAHN AG-DEUTSCHE BAHN 
+FINANCE : ORG
+2078.311 : CARDINAL
+A3
+Baa1 : PRODUCT
+IG : ORG
+GERMANY : GPE
+7/5/2022 : DATE
+OCTAGON HEALTHCARE FUNDING PLC : ORG
+367.7628 : ORG
+A2 : PRODUCT
+A3 : PRODUCT
+IG : ORG
+UNITED KINGDOM : GPE
+Moody's : ORG
+MOODY : ORG
+15 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+2003 2004 2005 : DATE
+2008 2009 : DATE
+2010 : DATE
+2011 : DATE
+2012 : DATE
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+Moody's : ORG
+1 : CARDINAL
+5-Year : DATE
+400 : CARDINAL
+800 : CARDINAL
+1,200 : CARDINAL
+1,600 : CARDINAL
+2,000 : CARDINAL
+400 : CARDINAL
+800 : CARDINAL
+1,200 : CARDINAL
+1,600 : CARDINAL
+2,000 : CARDINAL
+2003 2004 2005 : DATE
+2008 2009 2010 : DATE
+2011 : DATE
+2012 : DATE
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 2020 : DATE
+Moody's : ORG
+2 : CARDINAL
+5-Year : DATE
+MOODY : ORG
+16 : CARDINAL
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+American Airlines Group Inc. : ORG
+Ca
+Caa1
+
+JPMorgan Chase & Co. : WORK_OF_ART
+A2 : ORG
+Motorola Solutions : ORG
+Goldman Sachs Group, Inc. : ORG
+Baa3 : ORG
+A2 : ORG
+Comcast Corporation : ORG
+A3
+Baa1
+A3
+
+ : PRODUCT
+Union Pacific Corporation : ORG
+Baa1
+
+Home Depot, Inc. : ORG
+A2 : ORG
+Intel Corporation : ORG
+A1 : PRODUCT
+Walt Disney Company : ORG
+A2
+
+ : ORG
+Raytheon Technologies Corporation : ORG
+A1
+Baa1 : PRODUCT
+Issuer : NORP
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+B1 : CARDINAL
+Merck & Co. : ORG
+A3 : PRODUCT
+A1 : PRODUCT
+Colgate-Palmolive Company : ORG
+A2 : PRODUCT
+Philip Morris International Inc. : ORG
+Baa3
+Baa1
+A2 : PRODUCT
+Illinois Tool Works Inc. : ORG
+A2 : ORG
+Applied Materials Inc. : ORG
+A2 : PRODUCT
+A2 : ORG
+A1 : PRODUCT
+A1 : PRODUCT
+Baa1
+Baa1 : PRODUCT
+Toyota Motor Credit Corporation : ORG
+A1 : PRODUCT
+Coca-Cola Company : ORG
+A1 : PRODUCT
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+508 : CARDINAL
+100 : CARDINAL
+408 : CARDINAL
+Deluxe Corporation : ORG
+B3 : CARDINAL
+788 : CARDINAL
+588 : CARDINAL
+200 : CARDINAL
+Carnival Corporation : ORG
+1,545 : CARDINAL
+1,388 : CARDINAL
+157 : CARDINAL
+Nabors Industries, Inc. : ORG
+Caa2 : CARDINAL
+816 : CARDINAL
+676 : CARDINAL
+139 : CARDINAL
+Embarq Corporation : ORG
+710 : CARDINAL
+579 : CARDINAL
+130 : CARDINAL
+661 : CARDINAL
+548 : CARDINAL
+112 : CARDINAL
+Royal Caribbean Cruises Ltd. : ORG
+1,228 : CARDINAL
+1,128 : CARDINAL
+100 : CARDINAL
+331 : CARDINAL
+248 : CARDINAL
+83 : CARDINAL
+363 : CARDINAL
+279 : CARDINAL
+83 : CARDINAL
+Liberty Interactive : ORG
+1,711 : CARDINAL
+1,643 : CARDINAL
+69 : CARDINAL
+CDS Spread Decreases : ORG
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+American Airlines Group Inc. : ORG
+1,457 : CARDINAL
+1,678 : CARDINAL
+United Airlines Holdings : ORG
+919 : CARDINAL
+988 : CARDINAL
+Enbridge Energy Limited Partnership : ORG
+119 : CARDINAL
+159 : CARDINAL
+558 : CARDINAL
+595 : CARDINAL
+KB Home : ORG
+430 : CARDINAL
+461 : CARDINAL
+Unisys Corporation : ORG
+B3 : CARDINAL
+533 : CARDINAL
+564 : CARDINAL
+822 : CARDINAL
+848 : CARDINAL
+Baa3 : ORG
+131 : CARDINAL
+155 : CARDINAL
+AutoNation : ORG
+Baa3 : ORG
+153 : CARDINAL
+171 : CARDINAL
+Delta Air Lines : ORG
+Baa3 : ORG
+543 : CARDINAL
+560 : CARDINAL
+Moody's : ORG
+CDS Spreads : ORG
+CDS Implied Ratings
+
+ : ORG
+CDS Implied Ratings
+
+ : ORG
+3 : CARDINAL
+CDS Movers - US : ORG
+June 29, 2022 : DATE
+July 6, 2022 : DATE
+MOODY : ORG
+17 : CARDINAL
+CDS Movers 
+
+ 
+
+CDS Implied Rating Rises
+Issuer
+Jul. 6 : ORG
+Jun. : PERSON
+29 : CARDINAL
+Paribas : ORG
+A2 : PRODUCT
+A3 : PRODUCT
+Barclays PLC : ORG
+CaixaBank : ORG
+S.A. : ORG
+A2 : PRODUCT
+A3
+Baa1 : PRODUCT
+Lloyds Bank : ORG
+A2 : PRODUCT
+A3
+ : PRODUCT
+A1 : PRODUCT
+DZ BANK AG : ORG
+Bayerische Landesbank : ORG
+A1 : PRODUCT
+A2 : PRODUCT
+UniCredit Bank : ORG
+Austria AG : PERSON
+A3
+Baa1
+Baa1 : PRODUCT
+Baa3
+Baa1 : PRODUCT
+Anheuser-Busch : ORG
+SA/NV : ORG
+KBC Group N.V. : ORG
+Issuer : NORP
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+Commercial Bank AG : ORG
+Baa3
+Baa1
+Baa1
+
+Banca Monte : PERSON
+Siena S.p.A. : ORG
+B3 : NORP
+B1 : CARDINAL
+Scottish : NORP
+A2 : PRODUCT
+Vedanta Resources Limited : ORG
+B3 : NORP
+Spain : GPE
+A1 : PRODUCT
+Banco Santander S.A. : ORG
+Spain : GPE
+A3 : PRODUCT
+A2 : PRODUCT
+A2 : ORG
+Deutsche Bank AG : ORG
+Baa3 : ORG
+A2 : ORG
+Nordea Bank Abp : ORG
+A1 : PRODUCT
+Commerzbank AG : ORG
+A2 : PRODUCT
+Bayerische Motoren Werke Aktiengesellschaft : ORG
+A2 : LOC
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+Vedanta Resources Limited : ORG
+B3 : CARDINAL
+2,000 : CARDINAL
+1,157 : CARDINAL
+844 : CARDINAL
+Boparan Finance plc : ORG
+2,412 : CARDINAL
+2,100 : CARDINAL
+312 : CARDINAL
+Caa2 : PRODUCT
+1,817 : CARDINAL
+1,552 : CARDINAL
+265 : CARDINAL
+1,870 : CARDINAL
+1,611 : CARDINAL
+259 : CARDINAL
+Banca Monte : GPE
+Siena S.p.A.
+Caa1 : ORG
+741 : CARDINAL
+515 : CARDINAL
+225 : CARDINAL
+Jaguar Land Rover Automotive Plc : ORG
+B1 : CARDINAL
+1,111 : CARDINAL
+921 : CARDINAL
+190 : CARDINAL
+Wienerberger AG : ORG
+276 : CARDINAL
+131 : CARDINAL
+145 : CARDINAL
+Ardagh Packaging Finance : ORG
+972 : CARDINAL
+829 : CARDINAL
+142 : CARDINAL
+Iceland Bondco plc : ORG
+Caa2 : PRODUCT
+1,287 : CARDINAL
+1,161 : CARDINAL
+127 : CARDINAL
+Stena AB : ORG
+815 : CARDINAL
+689 : CARDINAL
+125 : CARDINAL
+CDS Spread Decreases : ORG
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+Smiths Group plc : ORG
+84 : CARDINAL
+96 : CARDINAL
+ITV : ORG
+Baa3 : ORG
+264 : CARDINAL
+271 : CARDINAL
+ASML Holding N.V. : WORK_OF_ART
+A2 : PRODUCT
+33 : CARDINAL
+39 : CARDINAL
+Atlas Copco AB : ORG
+A2 : PRODUCT
+41 : CARDINAL
+47 : CARDINAL
+CaixaBank : ORG
+S.A.
+Baa1
+74 : ORG
+78 : CARDINAL
+Baa3 : ORG
+40 : CARDINAL
+44 : CARDINAL
+AG : ORG
+A2 : PRODUCT
+57 : CARDINAL
+61 : CARDINAL
+Nestle S.A. : ORG
+39 : CARDINAL
+42 : CARDINAL
+Anheuser-Busch : ORG
+SA/NV : ORG
+97 : CARDINAL
+100 : CARDINAL
+Heineken N.V. : PERSON
+48 : CARDINAL
+51 : CARDINAL
+Moody's : ORG
+CDS Spreads : ORG
+CDS Implied Ratings
+
+ : ORG
+CDS Implied Ratings
+
+ : ORG
+4 : CARDINAL
+CDS Movers - Europe : ORG
+June 29, 2022 : DATE
+July 6, 2022 : DATE
+MOODY : ORG
+18 : CARDINAL
+CDS Movers 
+
+ 
+
+CDS Implied Rating Rises
+Issuer
+Jul. 6 : ORG
+Jun. : PERSON
+29 : CARDINAL
+China Development Bank : ORG
+A3
+Baa1
+A1 : PRODUCT
+Macquarie Bank Limited : ORG
+A2 : PRODUCT
+A3 : PRODUCT
+A2 : LOC
+Hong Kong SAR : GPE
+China : GPE
+Wesfarmers Limited : ORG
+A1 : PRODUCT
+A2 : PRODUCT
+A3 : PRODUCT
+Chorus Limited : ORG
+A3
+Baa1
+Baa2 : PRODUCT
+Hynix Inc. : ORG
+A3 : PRODUCT
+A3
+ : PRODUCT
+A1
+
+Korea, Government : PERCENT
+Commonwealth Bank of Australia : ORG
+A2 : PRODUCT
+A2 : PRODUCT
+Indonesia : GPE
+Issuer : NORP
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+A2 : PRODUCT
+A1 : PRODUCT
+Mitsubishi Corporation : ORG
+A1 : PRODUCT
+A2 : ORG
+Sumitomo Corporation : ORG
+A2 : PRODUCT
+Yusen Kabushiki Kaisha : PERSON
+A2 : PRODUCT
+Japan : GPE
+A1 : PERSON
+Australia : GPE
+A3 : PRODUCT
+A2 : PRODUCT
+New Zealand : GPE
+SoftBank Group Corp. : ORG
+B1 : CARDINAL
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+Spread Diff : PERSON
+Pakistan : GPE
+B3 : CARDINAL
+1,483 : CARDINAL
+1,314 : CARDINAL
+169 : CARDINAL
+SoftBank Group Corp. : ORG
+548 : CARDINAL
+482 : CARDINAL
+66 : CARDINAL
+Development Bank of Kazakhstan : ORG
+338 : CARDINAL
+273 : CARDINAL
+65
+
+ : PERCENT
+261 : CARDINAL
+211 : CARDINAL
+50 : CARDINAL
+Halyk Savings Bank : ORG
+518 : CARDINAL
+490 : CARDINAL
+28 : CARDINAL
+Suncorp-Metway Limited : ORG
+A1
+93 : PRODUCT
+67 : CARDINAL
+26 : CARDINAL
+India : GPE
+Baa3 : PRODUCT
+147 : CARDINAL
+124 : CARDINAL
+23 : CARDINAL
+Nomura Holdings : ORG
+117 : CARDINAL
+94 : CARDINAL
+23 : CARDINAL
+Nomura Securities Co., Ltd. : ORG
+A3
+ : PRODUCT
+109 : CARDINAL
+89 : CARDINAL
+20 : CARDINAL
+Mitsubishi Corporation : ORG
+A2 : PRODUCT
+60 : CARDINAL
+42 : CARDINAL
+19 : CARDINAL
+CDS Spread Decreases : ORG
+Jul. 6 : DATE
+Jun. : PERSON
+29 : CARDINAL
+Hynix Inc. : ORG
+123 : CARDINAL
+147 : CARDINAL
+Hong Kong SAR : GPE
+China : GPE
+25 : CARDINAL
+29 : CARDINAL
+Baa3 : ORG
+162 : CARDINAL
+165 : CARDINAL
+East Japan Railway Company : ORG
+A1 : PRODUCT
+34 : CARDINAL
+35 : CARDINAL
+Asahi Group Holdings : ORG
+26 : CARDINAL
+26 : CARDINAL
+Coca-Cola Amatil Limited : ORG
+34 : CARDINAL
+35 : CARDINAL
+DBS Bank Ltd. : ORG
+38 : CARDINAL
+38 : CARDINAL
+Chorus Limited : ORG
+89 : CARDINAL
+89 : CARDINAL
+Amcor Pty Ltd : ORG
+118 : CARDINAL
+118 : CARDINAL
+MTR Corporation Limited : ORG
+39 : CARDINAL
+39 : CARDINAL
+Moody's : ORG
+5 : CARDINAL
+CDS Movers - APAC : ORG
+June 29, 2022 : DATE
+July 6, 2022 : DATE
+CDS Implied Ratings
+
+ : ORG
+CDS Implied Ratings
+
+ : ORG
+MOODY : ORG
+19 : CARDINAL
+700 : CARDINAL
+1,400 : CARDINAL
+2,100 : CARDINAL
+2,800 : CARDINAL
+700 : CARDINAL
+1,400 : CARDINAL
+2,100 : CARDINAL
+2,800 : CARDINAL
+Jun
+Jul
+Aug
+Sep : PERSON
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+Moody's : ORG
+6 : CARDINAL
+0 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+1,000 : CARDINAL
+0 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+600 : CARDINAL
+1,000 : CARDINAL
+Jun
+Jul
+Aug
+Sep : PERSON
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+Moody's / Dealogic
+
+ : ORG
+7 : CARDINAL
+20 : CARDINAL
+Weekly : DATE
+11.499 : CARDINAL
+0.788 : CARDINAL
+13.075 : CARDINAL
+Year-to-Date : DATE
+805.305 : CARDINAL
+98.174 : CARDINAL
+Investment-Grade : ORG
+5.597 : CARDINAL
+0.462 : CARDINAL
+6.081 : CARDINAL
+Year-to-Date : DATE
+448.066 : CARDINAL
+27.072 : CARDINAL
+482.798 : CARDINAL
+Moody's/ Dealogic : PERSON
+8 : CARDINAL
+Corporate & Financial Institutions
+ 
+ 
+
+ 
+
+MOODY’S ANALYTICS          CAPITAL MARKETS RESEARCH / WEEKLY MARKET OUTLOOK : ORG
+21 : CARDINAL
+100 : CARDINAL
+1335998 : CARDINAL
+Us : GPE
+Reid Kanaley : PERSON
+Americas : LOC
+Europe : LOC
+Asia : LOC
+Japan : GPE
+2 2916 1121 : DATE
+Japan : GPE
+22 : CARDINAL
+2022 : DATE
+Moody’s Corporation : ORG
+Moody’s Investors Service : ORG
+Moody’s Analytics, Inc. : ORG
+MOODY : ORG
+CREDIT RATINGS ISSUED BY : ORG
+MOODY'S : ORG
+MATERIALS : WORK_OF_ART
+PRODUCTS : ORG
+MOODY : ORG
+COLLECTIVELY : ORG
+MOODY : ORG
+MEET ITS CONTRACTUAL FINANCIAL OBLIGATIONS AS THEY COME : ORG
+THE EVENT OF DEFAULT : EVENT
+IMPAIRMENT : PERSON
+MOODY : ORG
+CREDIT RATINGS DO NOT ADDRESS ANY OTHER RISK : ORG
+CREDIT RATINGS : ORG
+MOODY : ORG
+MOODY : ORG
+INCLUDE : ORG
+MOODY : ORG
+ANALYTICS : ORG
+MOODY : ORG
+CREDIT RATINGS : ORG
+MOODY : ORG
+SELL : ORG
+MOODY : ORG
+CREDIT RATINGS : ORG
+MOODY : ORG
+DUE CARE : ORG
+SALE : PERSON
+MOODY : ORG
+COPIED : ORG
+REPACKAGED : ORG
+FURTHER TRANSMITTED : PERSON
+DISSEMINATED : ORG
+WHOLE : ORG
+MOODY : ORG
+MOODY : ORG
+MOODY : ORG
+MOODY : ORG
+MOODY : ORG
+third : ORDINAL
+MOODY : ORG
+MOODY : ORG
+MOODY : ORG
+MOODY : ORG
+MOODY : ORG
+EXPRESS : ORG
+IMPLIED : ORG
+ACCURACY : ORG
+MOODY : ORG
+WHATSOEVER : ORG
+Moody’s Investors Service, Inc. : ORG
+Moody’s Corporation : ORG
+MCO : ORG
+Moody’s Investors Service : ORG
+Moody’s Investors Service : ORG
+1,000 : MONEY
+approximately $5,000,000 : MONEY
+MCO : ORG
+Moody’s Investors Service : ORG
+Moody’s Investors Service : ORG
+MCO : ORG
+Moody’s Investors 
+Service : ORG
+SEC : ORG
+MCO : ORG
+more than 5% : PERCENT
+annually : DATE
+Investor 
+Relations — Corporate Governance : WORK_OF_ART
+Australia : GPE
+Australia : GPE
+the Australian Financial Services License : ORG
+MOODY : ORG
+Moody’s 
+Investors Service Pty Limited ABN : ORG
+61 : CARDINAL
+399 : CARDINAL
+Moody’s Analytics Australia Pty Ltd ABN : ORG
+94 : CARDINAL
+105 136 : CARDINAL
+AFSL : ORG
+the Corporations Act 2001 : LAW
+Australia : GPE
+MOODY : ORG
+the Corporations Act 2001 : LAW
+MOODY : ORG
+Japan : GPE
+Moody's : ORG
+Japan : GPE
+K.K. : PERSON
+Moody's Group : ORG
+G.K. : PERSON
+Moody’s Overseas Holdings Inc. : ORG
+MCO : ORG
+Moody’s SF : ORG
+Japan : GPE
+K.K. : PERSON
+MJKK : ORG
+Nationally Recognized Statistical Rating Organization : WORK_OF_ART
+Non-NRSRO Credit Ratings : ORG
+Non-NRSRO Credit Ratings : ORG
+U.S. : GPE
+the Japan Financial Services Agency : ORG
+FSA : ORG
+2 : CARDINAL
+3 : DATE
+JPY100,000 : PRODUCT
+MSFJ : ORG
+Japanese : NORP

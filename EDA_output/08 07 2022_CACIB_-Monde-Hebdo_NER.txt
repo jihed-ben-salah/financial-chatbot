@@ -1,0 +1,935 @@
+Études Économiques Groupe : ORG
+22/222 : CARDINAL
+8 : CARDINAL
+MONDE : PERSON
+2 : CARDINAL
+baisse du taux de marge : PERSON
+3 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+baisse de la : PERSON
+PIB : ORG
+6 : CARDINAL
+un : ORG
+6 : CARDINAL
+Ghana : PERSON
+FMI : ORG
+N : GPE
+22/222 : CARDINAL
+8 : CARDINAL
+2 : CARDINAL
+mondiaux ont retrouvé leur 
+appétit pour : PERSON
+après la : ORG
+Europe : LOC
+un : ORG
+sur la : ORG
+sa capacité à : ORG
+Fed : ORG
+Aux États-Unis : PERSON
+signaux macro- : PERSON
+un : ORG
+mois de mai 
+ont continué d’augmenter : PERSON
++1,6% : PERCENT
+Mais : PERSON
+d’activité des services : ORG
+un : ORG
+bas : PERSON
+depuis mai 
+2020 : PERSON
+dans la demande 
+de main-d’œuvre : ORG
+l’emploi du : GPE
+mois de juin ont néanmoins : PERSON
+la 
+solidité du marché du travail ( : PERSON
+372 : CARDINAL
+de son 
+niveau de plein emploi : PERSON
+un : ORG
+un : ORG
+PIB : ORG
+qui resterait : PERSON
+un : ORG
+de la : ORG
+50 : CARDINAL
+75 : CARDINAL
+de la 
+prochaine réunion de juillet et qu’une position plus : ORG
+Alors : ORG
+marchés se : PERSON
+sont : GPE
+Fed : ORG
+de sa : PERSON
+Au Royaume-Uni : PERSON
+mais aussi 
+des : PERSON
+d’État : ORG
+la crédibilité : GPE
+qui ont 
+fini : PERSON
+bien malgré : PERSON
+Boris Johnson : PERSON
+l’élection d’un nouveau : ORG
+parti conservateur : PERSON
+d’un nouveau : PERSON
+ministre et : PERSON
+d’un 
+nouveau gouvernement : PERSON
+Boris Johnson : PERSON
+d’exercer : PERSON
+En Europe : LOC
+de la : ORG
+de 
+durcir : PERSON
+un : ORG
+de la crédibilité de l’action de la banque : ORG
+la hausse des taux de 25 : ORG
+21 : CARDINAL
+dans : NORP
+Toutefois : GPE
+dans : NORP
+continué de se : PERSON
+un : ORG
+qui : PERSON
+la livraison des : PERSON
+mondiaux : PERSON
+d’une : DATE
+L’Eurostoxx50 : PERSON
+0,4% : PERCENT
+0,7% : PERCENT
+S&P500 : ORG
+2% : PERCENT
+de la Fed : ORG
+progressé de : ORG
+17 pb à : QUANTITY
+3% : PERCENT
+2,97% : PERCENT
+La courbe des : PERSON
+un : ORG
+annonciateur de 
+ : PERSON
+dans : NORP
+Allemagne : ORG
+de 
+base : PERSON
+la courbe des taux européens : PERSON
+continué de se : PERSON
+Bund : PERSON
+1,27% : PERCENT
+de la BCE est : PERSON
+Les : GPE
+France : GPE
+Espagne et Italie : PERSON
+3 : CARDINAL
+4 : CARDINAL
+9 : CARDINAL
+2,8% : PERCENT
+1,01 dollar : MONEY
+l’approche de l’arrêt : ORG
+NordStream 1 : PRODUCT
+un : ORG
+d’arrêt : ORG
+baril : CARDINAL
+Nord : PERSON
+nette 
+baisse : PERSON
+mais 
+majeur : ORG
+N : GPE
+22/222 : CARDINAL
+8 : CARDINAL
+3 : CARDINAL
+baisse du taux de marge : PERSON
+La : GPE
+2,9% : PERCENT
+2,2% : PERCENT
+2022 : DATE
+Cette : ORG
+s’asseoir : ORG
+de la : ORG
+1,5% : PERCENT
+de l’emploi : PERSON
+0,6% : PERCENT
+1% : PERCENT
++1,3% : PERCENT
+après la 
+pause de fin d’année dernière : ORG
+de la 
+consommation : PERSON
+1,9% : PERCENT
+15% : PERCENT
+continué de progresser : PERSON
+un : ORG
+6,9% : PERCENT
+4,2% : PERCENT
+un : ORG
+La 
+capacité de financement s’est : PERSON
+5,6% : PERCENT
+la baisse des 
+valorisations : PERSON
+un : ORG
+la richesse : GPE
+de la : PERSON
+de la : PERSON
+soutien liée : PERSON
+Covid : PERSON
+dans la baisse des 
+subventions à la production : ORG
+un : ORG
+3,1% : PERCENT
+capacité de 
+financement : PERSON
+4,8% : PERCENT
+un : ORG
+(78,8% : PERCENT
+Notre : FAC
+fait s’accroître : ORG
+Covid : PERSON
+941 : CARDINAL
+d’euros dans : PRODUCT
+un : ORG
+liées à la montée de l’inflation : ORG
+estimée 
+à : PERSON
+4,3% : PERCENT
+12% : PERCENT
+de leur : ORG
+1,8% : PERCENT
+0,6% : PERCENT
++1,7% : PERCENT
+Dans : NORP
+par la : ORG
+de 
+l’industrie : PERSON
+5,8% : PERCENT
+dans la : ORG
+0,4% : PERCENT
+un : ORG
+1,3% : PERCENT
+2019 : DATE
+2,3% : PERCENT
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+20 : CARDINAL
+21 : CARDINAL
+22 : CARDINAL
+2015=100 : CARDINAL
+Allemagne : LOC
+FSO : ORG
+Crédit Agricole S.A.
+Monde : ORG
+N : GPE
+22/222 : CARDINAL
+8 : CARDINAL
+4 : CARDINAL
+Ukraine : GPE
+mois de 
+mai : PERSON
+mai avec : ORG
+hausse de : ORG
+5,9% : PERCENT
+un : ORG
+grâce : PRODUCT
+Cependant : PERSON
+d’activité en : ORG
+Notre : FAC
+s’affaiblissent peu à peu et : PERSON
+d’activité se : PERSON
+un : ORG
+un : ORG
+coût énergétique s’accentue : ORG
+L’acquis de croissance de la : PERSON
+deuxième trimestre : PERSON
+de -1,1% : PERSON
+juin : GPE
+948 : PRODUCT
+C’est la hausse la plus 
+élevée depuis : ORG
+2021 : DATE
+37 000 : CARDINAL
+maintient avec : ORG
+CDI : ORG
+783 595 : CARDINAL
+9% : PERCENT
+mois de juin : PERSON
+Parmi : ORG
+312 824 : CARDINAL
+292 : CARDINAL
+679 : CARDINAL
+sont : GPE
+discontinus1 : ORG
+178 : CARDINAL
+la saison : PERSON
+20% : PERCENT
+27% : PERCENT
+juin de l'année 
+dernière : PERSON
+un : ORG
+d'ERTE : PERSON
+dans : NORP
+21 570 : CARDINAL
+2 551 : CARDINAL
+ERTE : ORG
+2 293 : CARDINAL
+2 078 : CARDINAL
+1 769 : CARDINAL
+Notre : WORK_OF_ART
+42 409 : CARDINAL
+un : ORG
+chiffre 
+bien inférieur : PERSON
+la baisse : PERSON
+juin de l'année : PERSON
+sur la 
+ : ORG
+2014-2019 : DATE
+595 : CARDINAL
+2 880 : CARDINAL
+ce qui : PERSON
+un : ORG
+Parmi : ORG
+dans : NORP
+dans : NORP
+un : ORG
+dans : NORP
++21,3% : PERCENT
+2% : PERCENT
+niveaux de juin 
+ : ORG
+2019 : DATE
+l'hôtellerie : DATE
+2% : PERCENT
+l'emploi dans : ORG
+supérieur de respectivement : PERSON
+12% : PERCENT
+10,7% : PERCENT
+1 : CARDINAL
+un : ORG
+CDI : ORG
+-1 : ORG
+2 : CARDINAL
+5 : CARDINAL
+8 : CARDINAL
+11 : CARDINAL
+14 : CARDINAL
+17 : CARDINAL
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+Affiliations : ORG
+Agriculture
+Industrie
+Construction
+Services : ORG
+Affiliations : ORG
+Sécurité Sociale : ORG
+Crédit Agricole S.A.
+Monde : ORG
+N : GPE
+22/222 : CARDINAL
+8 : CARDINAL
+5 : CARDINAL
+Le : FAC
+2,6% : PERCENT
+mais la : PERSON
+0,3% : PERCENT
+progressé de 
+0,2% : PERSON
+du trimestre précédent : PERSON
+Dans : NORP
+un : ORG
+contexte de : PERSON
+ont progressé 
+de : PERSON
+1,4% : PERCENT
+la propension à épargner a : ORG
+1,1 : CARDINAL
+quatrième trimestre : PERSON
+2021 : DATE
+12,6% : PERCENT
+6,8% : PERCENT
+7,2 % : PERCENT
+La hausse des coûts de : ORG
+Alors : ORG
+1,4% : PERCENT
+de la période : PERSON
+0,2% : PERCENT
+une baisse du : PERSON
+de pourcentage qui 
+le ramène : PERSON
+41% : PERCENT
+soit non niveau le plus bas : ORG
+2010 : DATE
+continué 
+ : PERSON
+progressé de 5,2% : ORG
+2022 : DATE
+24,1% : PERCENT
+Notre : FAC
+Au cours de l’année 2021 : PRODUCT
+nominaux à : PERSON
+quatrième trimestre : PERSON
+2019 : DATE
+la progression est : ORG
+Le même : FAC
+2019 : DATE
+0,7% : PERCENT
+bien qu’il : PERSON
+pic de 
+2020 : PERSON
+qui se : PERSON
+situait autour des : PERSON
+8% : PERCENT
+2010 : DATE
+2019 : DATE
+d’être achevée : PERSON
+2021 : DATE
+dans un environnement plus : ORG
+un : ORG
+Mais il est : PERSON
+-15 : ORG
+0% : PERCENT
+5% : PERCENT
+10% : PERCENT
+15% : PERCENT
+T1 : CARDINAL
+T2 : CARDINAL
+T1 : NORP
+T2 : CARDINAL
+T1 : NORP
+T2 : CARDINAL
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+Istat : ORG
+Crédit Agricole S.A. : ORG
+19 : CARDINAL
+20 : CARDINAL
+21 : CARDINAL
+22 : CARDINAL
+23 : CARDINAL
+24 : CARDINAL
+25 : CARDINAL
+39 : CARDINAL
+40 : CARDINAL
+41 : CARDINAL
+42 : CARDINAL
+43 : CARDINAL
+44 : CARDINAL
+45 : CARDINAL
+46 : CARDINAL
+T1 : CARDINAL
+T2 : CARDINAL
+T1 : NORP
+T2 : CARDINAL
+T1 : NORP
+T2 : CARDINAL
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+Taux : NORP
+Istat : ORG
+Crédit Agricole S.A.
+ : ORG
+Monde : GPE
+N : GPE
+22/222 : CARDINAL
+8 : CARDINAL
+6 : CARDINAL
+Moyen-Orient et Afrique du Nord 
+
+ Maroc : ORG
+baisse de la : PERSON
+PIB : ORG
+Selon : NORP
+Haut-Commissariat : ORG
+PIB n’a : ORG
+0,3% : PERCENT
+2021 : DATE
+PIB avait : ORG
+progressé de 2% : PERSON
+14% : PERCENT
+PIB non : ORG
+2,5% : PERCENT
+(-0,9% : PERCENT
+Notre : FAC
+notre prévision de croissance de : ORG
+1,5% : PERCENT
+2022 : DATE
+dans : NORP
+un : ORG
+ce qui fait peser : PERSON
+eu lieu : ORG
+un : ORG
+Le : WORK_OF_ART
+Kaïs Saïed : PERSON
+projet de 
+nouvelle : PERSON
+constitution qui est : LOC
+2014 : DATE
+désormais dénommés : PERSON
+renforcé dans 
+l’article : PERSON
+5 : CARDINAL
+Dans : NORP
+Parlement : GPE
+un : ORG
+du scrutin : PERSON
+La : PERSON
+de la : ORG
+un : ORG
+Parlement : GPE
+Conseil : PERSON
+de la : PERSON
+FMI : ORG
+un : ORG
+de soutien 
+financier : PERSON
+d’éviter un défaut de paiement sur la 
+dette : ORG
+PIB annuel : PERSON
+Notre : FAC
+la Tunisie : ORG
+Moyen-Orient : ORG
+Nord : ORG
+Printemps : PERSON
+un : ORG
+dans : NORP
+dans : NORP
+Monde : PERSON
+N : GPE
+22/222 : CARDINAL
+8 : CARDINAL
+Ghana : PERSON
+de la pression populaire et des 
+tensions : ORG
+autorités ghanéennes : PERSON
+finalement se : PERSON
+FMI : ORG
+un : ORG
+dans : NORP
+avait dégénéré : PERSON
+Ghana : GPE
+Avec un déficit public 
+moyen de 8,1% : ORG
+PIB : ORG
+2012 : DATE
+2022 : DATE
+n’a cessé de croître pour atteindre 
+ : PERSON
+aujourd’hui plus de : PRODUCT
+80% : PERCENT
+un : ORG
+de la : PERSON
+15% : PERCENT
+PIB : ORG
+n’a cessé de 
+progresser : PERSON
+sur la dette absorbent 
+aujourd’hui à eux seuls plus de la moitié des revenus 
+du gouvernement : ORG
+de la 
+dette : PERSON
+d’accès : ORG
+marchés 
+internationaux : PERSON
+2021 : DATE
+Ghana : GPE
+Dans : NORP
+30% : PERCENT
+début de l’année 2022 : ORG
+Sans : NORP
+marchés internationaux : PERSON
+qui se déprécie autant : PERSON
+un : ORG
+courant de : PERSON
+3,5% : PERCENT
+PIB à financer : ORG
+de la 
+dette externe à honorer : PERSON
+Ghana : GPE
+qui représente : PERSON
+23% : PERCENT
+volumes de 
+production : PERSON
+Au 
+mois de mai : PERSON
+27,6% : PERCENT
+la stratégie : GPE
+qui 
+consistait : PERSON
+se 
+confronte : PERSON
+exprimée lors des 
+manifestations : ORG
+Notre : FAC
+Un : PRODUCT
+FMI : ORG
+Ghana : GPE
+sur sa : ORG
+La banque : ORG
+taux directeur : PERSON
+19% : PERCENT
+élevée de l’inflation ( : ORG
+4% : PERCENT
+la complexité de son : PERSON
+cœur du : ORG
+2013 : DATE
+2015 : DATE
+2018 : DATE
+2021 : DATE
+20% : PERCENT
+25% : PERCENT
+30% : PERCENT
+35% : PERCENT
+40% : PERCENT
+45% : PERCENT
+50% : PERCENT
+55% : PERCENT
+60% : PERCENT
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+Dette : NORP
+PIB : ORG
+Ghana : PERSON
+dette publique : PERSON
+Bank of Ghana : ORG
+FMI : ORG
+Crédit Agricole S.A.
+Monde : ORG
+N : GPE
+22/222 : CARDINAL
+8 : CARDINAL
+Thomson Reuters : ORG
+Taux de change des : ORG
+EUR/USD : ORG
+EUR/GBP : ORG
+USD/JPY 
+
+ 
+
+Source : : ORG
+Thomson Reuters : ORG
+Thomson Reuters : ORG
+Bund : LOC
+EUR : ORG
+Thomson Reuters : ORG
+Marché : NORP
+100 : CARDINAL
+Thomson Reuters : ORG
+Thomson Reuters : ORG
+1,2 : CARDINAL
+1,5 : CARDINAL
+1,8 : CARDINAL
+2,1 : CARDINAL
+2,4 : CARDINAL
+2,7 : CARDINAL
+3,0 : CARDINAL
+3,3 : CARDINAL
+3,6 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+juil.-22
+
+ : ORG
+Fed : ORG
+2 : CARDINAL
+Etats-Unis : NORP
+10 : CARDINAL
+106 : CARDINAL
+110 : CARDINAL
+114 : CARDINAL
+118 : CARDINAL
+122 : CARDINAL
+126 : CARDINAL
+130 : CARDINAL
+134 : CARDINAL
+138 : CARDINAL
+1,0 : CARDINAL
+1,2 : CARDINAL
+1,3 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+Livre : PERSON
+Yen japonais : PERSON
+éch : ORG
+0,2 : CARDINAL
+0,4 : CARDINAL
+1,0 : CARDINAL
+1,2 : CARDINAL
+1,4 : CARDINAL
+1,6 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+juil.-22 : GPE
+Eonia
+Euribor : WORK_OF_ART
+Allemagne 2 : PRODUCT
+Allemagne 10 : ORG
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : CARDINAL
+50 : CARDINAL
+80 : CARDINAL
+110 : CARDINAL
+140 : CARDINAL
+170 : CARDINAL
+200 : CARDINAL
+230 : CARDINAL
+260 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+France : GPE
+éch : ORG
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+40 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+110 : CARDINAL
+120 : CARDINAL
+130 : CARDINAL
+140 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+VIX - USA : ORG
+éch : ORG
+dr. : PERSON
+Eurostoxx : ORG
+50 : CARDINAL
+40 : CARDINAL
+MSCI - Emergents : ORG
+1 700 : CARDINAL
+1 750 : CARDINAL
+1 800 : CARDINAL
+1 850 : CARDINAL
+1 : CARDINAL
+1 950 : CARDINAL
+2 000 : CARDINAL
+2 : CARDINAL
+2 100 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+N : GPE
+22/222 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+100 : CARDINAL
+Thomson Reuters : ORG
+Coût du : PERSON
+de vrac sec : PERSON
+Baltic : NORP
+Baltic Exchange : ORG
+Cours : DATE
+baril : CARDINAL
+USD 
+
+Brent : ORG
+mer du Nord : PERSON
+Thomson Reuters : ORG
+London Metal Exchange : ORG
+CRB : ORG
+USDA : ORG
+340 : CARDINAL
+390 : CARDINAL
+440 : CARDINAL
+490 : CARDINAL
+540 : CARDINAL
+590 : CARDINAL
+640 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+Roupie : ORG
+Yuan : PERSON
+Peso : WORK_OF_ART
+1 000 : CARDINAL
+1 500 : CARDINAL
+2 000 : CARDINAL
+2 500 : CARDINAL
+3 000 : CARDINAL
+3 500 : CARDINAL
+4 000 : CARDINAL
+4 500 : CARDINAL
+5 000 : CARDINAL
+5 500 : CARDINAL
+6 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+Baltic : NORP
+60 : CARDINAL
+70 : CARDINAL
+80 : CARDINAL
+90 : CARDINAL
+100 : CARDINAL
+110 : CARDINAL
+120 : CARDINAL
+130 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+juil.-22
+
+ : ORG
+West Texas Intermediate : PRODUCT
+6 000 : CARDINAL
+7 000 : CARDINAL
+8 000 : CARDINAL
+9 000 : CARDINAL
+10 000 : CARDINAL
+11 000 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+160 : CARDINAL
+180 : CARDINAL
+200 : CARDINAL
+220 : CARDINAL
+240 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+Fer
+Cuivre : PRODUCT
+éch : ORG
+400 : CARDINAL
+420 : CARDINAL
+440 : CARDINAL
+460 : CARDINAL
+480 : CARDINAL
+500 : CARDINAL
+520 : CARDINAL
+540 : CARDINAL
+560 : CARDINAL
+580 : CARDINAL
+600 : CARDINAL
+620 : CARDINAL
+6,5 : CARDINAL
+7,0 : CARDINAL
+7,5 : CARDINAL
+8,0 : CARDINAL
+8,5 : CARDINAL
+9,0 : CARDINAL
+10,5 : CARDINAL
+11,0 : CARDINAL
+juil.-21 : PERSON
+janv.-22 : GPE
+Blé
+Indice CRB : ORG
+éch : ORG
+dr. : PERSON
+Monde : PERSON
+N : GPE
+22/222 : CARDINAL
+8 : CARDINAL
+10 : CARDINAL
+2022-2023 : DATE
+Entre : GPE
+Titre : GPE
+Thème : GPE
+Moyen-Orient et Afrique du Nord : ORG
+dans : NORP
+05/07/2022 : ORG
+Espagne : LOC
+9 : CARDINAL
+05/07/2022 : ORG
+France : GPE
+un : ORG
+2021 : DATE
+2022 : DATE
+France : GPE
+2022-2023 : DATE
+Colombie : PERSON
+Gustavo Petro : ORG
+un : ORG
+Amérique : NORP
+Europe : LOC
+de sa Puissance 
+Europe : PERSON
+Que la force soit : PERSON
+Automobile : ORG
+Asie - Au Sommet : ORG
+la Chine : GPE
+du Sud 
+Chine : PERSON
+28/06/2022 : DATE
+Avenir de l'Europe - L'euro : PERSON
+Europe : LOC
+Études Économiques Groupe – Crédit Agricole S.A. : ORG
+12 : CARDINAL
+Directeur de la : PERSON
+Tania SOLLOGOUB : PERSON
+Armelle SARDA 
+
+ : PERSON
+Ticiano : PERSON
+Olivier ELUERE : PERSON
+Sofia TOZY : PERSON
+Philippe VILAS-BOAS : PERSON
+Europe : LOC
+Asie : PERSON
+Ada ZAN : PERSON
+Catherine LEBOUGRE : PERSON
+Afrique du Nord : PERSON
+Moyen-Orient : Olivier LE CABELLEC 
+
+Afrique : ORG
+Elisabeth : PERSON
+Fabienne PESTY : PERSON
+Études Économiques : PERSON
+sur l’App store & sur Google Play 
+
+ : ORG
+l’opinion de Crédit Agricole S.A. à la : ORG
+de sa : PERSON
+sauf : ORG
+Cette : ORG
+d’être : ORG
+qui : PERSON
+sont : GPE
+une : ORG
+la responsabilité du : ORG
+Crédit Agricole S.A. : ORG
+Crédit Agricole S.A. : ORG
+bien 
+ : PERSON
+Ni Crédit Agricole S.A. : ORG
+une de : ORG
+Caisse Régionale : PRODUCT
+sa : GPE
+titre de la divulgation : PERSON
+dans : NORP

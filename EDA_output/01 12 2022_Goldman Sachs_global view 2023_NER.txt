@@ -1,0 +1,307 @@
+1 : CARDINAL
+Goldman Sachs Asset Management
+Strategic Advisory Solutions : ORG
+Goldman Sachs Global Investment Research (GIR : ORG
+Goldman Sachs Asset Management : ORG
+November 2022 : DATE
+Goldman Sachs : ORG
+1 : CARDINAL
+2022 : DATE
+GIR : ORG
+1.8% : PERCENT
+2023 : DATE
+US : GPE
+Europe : LOC
+China : GPE
+2 : CARDINAL
+China : GPE
+COVID-19 : ORG
+3 : CARDINAL
+2023 : DATE
+US : GPE
+GIR : ORG
+5-5.25% : PERCENT
+2023 : DATE
+Euro : LAW
+UK : GPE
+3.00% : PERCENT
+4.50% : PERCENT
+4 : CARDINAL
+Ukraine : GPE
+China : GPE
+5 : CARDINAL
+US : GPE
+FX : ORG
+non-US : NORP
+2023 : DATE
+6 : CARDINAL
+Brazil : GPE
+Chile : GPE
+Korea : GPE
+7 : CARDINAL
+CB : ORG
+GIR : ORG
+1H 2023 : DATE
+8 : CARDINAL
+US : GPE
+Europe : LOC
+9 : CARDINAL
+US : GPE
+US : GPE
+USD : ORG
+10 : CARDINAL
+years : DATE
+10 : CARDINAL
+2023 : DATE
+10 : CARDINAL
+2023 : DATE
+Shorter Term : PERSON
+US : GPE
+European : NORP
+Japanese : NORP
+CREDIT
+US Investment Grade : ORG
+US : GPE
+Euro : WORK_OF_ART
+British : NORP
+Japanese Yen : PERSON
+Chinese : NORP
+3 : CARDINAL
+12 : CARDINAL
+12 : CARDINAL
+4026 : CARDINAL
+3600 : CARDINAL
+4000 : CARDINAL
+Europe : LOC
+441 : CARDINAL
+390 : CARDINAL
+450 : CARDINAL
+2.1 : CARDINAL
+494 : CARDINAL
+510 : CARDINAL
+550 : CARDINAL
+11.3 : CARDINAL
+¥ : ORG
+2018 : DATE
+2000 : DATE
+2200 : CARDINAL
+9.0 : CARDINAL
+10-Year : DATE
+Treasury : ORG
+3.7 : CARDINAL
+4.2 : CARDINAL
+4.3 : CARDINAL
+64 : CARDINAL
+10-Year : DATE
+2.0 : CARDINAL
+2.6 : CARDINAL
+2.8 : CARDINAL
+10-Year : DATE
+JGB : ORG
+0.3 : CARDINAL
+0.3 : CARDINAL
+0.3 : CARDINAL
+0 bp
+
+Euro : QUANTITY
+1.04 : CARDINAL
+0.94 : CARDINAL
+1.05 : CARDINAL
+0.9 : CARDINAL
+/$ : PERSON
+1.21 : CARDINAL
+1.07 : CARDINAL
+1.22 : CARDINAL
+0.9 : CARDINAL
+Yen : PERSON
+139 : CARDINAL
+155 : CARDINAL
+140 : CARDINAL
+/bbl : PERSON
+83.6 : CARDINAL
+115 : CARDINAL
+110 : CARDINAL
+31.5 : CARDINAL
+London Gold : PERSON
+1750 : DATE
+1850 : DATE
+1950 : DATE
+11.4 : CARDINAL
+Goldman Sachs Asset Management : ORG
+2 : CARDINAL
+10 : CARDINAL
+2023 : DATE
+1Federal Reserve Bank of Philadelphia : ORG
+2International Labor Organization (ILO : ORG
+3Transportation Security Administration : ORG
+TSA : ORG
+4Mortgage : CARDINAL
+Bankers Association : ORG
+5Bureau : CARDINAL
+Economic Analysis : ORG
+6University : CARDINAL
+Michigan Survey of Consumers : ORG
+Sachs Asset Management : ORG
+8Goldman : CARDINAL
+Sachs Global Investment Research : ORG
+9Bloomberg : PERSON
+November 21, 2022 : DATE
+Goldman Sachs : ORG
+Point Break : LOC
+2023 : DATE
+a year : DATE
+next year : DATE
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+171% : PERCENT
+the beginning of 20221 : DATE
+ILO : ORG
+1.5% : PERCENT
+40mm : QUANTITY
+jobs2 : ORG
+daily : DATE
+TSA : ORG
+17x : DATE
+20203 : DATE
+Only 2% : PERCENT
+US : GPE
+today : DATE
+25% : PERCENT
+20114 : DATE
+30% : PERCENT
+2021 : DATE
+US : GPE
+services5 : PERSON
+60 : CARDINAL
+seven 
+consecutive months : DATE
+morale6 : ORG
+3Q : CARDINAL
+80% : PERCENT
+10% : PERCENT
+this year : DATE
+harvesting7 : PERSON
+this year : DATE
+2022 : DATE
+daily : DATE
+1.31% : PERCENT
+negative days : DATE
+-1.14% : PERCENT
+this year : DATE
+UK : GPE
+A year ago : DATE
+~25% : PERCENT
+Today : DATE
+Japan : GPE
+5% : PERCENT
+90th : ORDINAL
+the past ten 
+years : DATE
+US Treasuries : ORG
+5.5x : CARDINAL
+US : GPE
+today : DATE
+earlier this year : DATE
+100 : CARDINAL
+Bloomberg : GPE
+US : GPE
+2.7% : PERCENT
+Goldman Sachs Asset Management : ORG
+3 : CARDINAL
+10 : CARDINAL
+1 : CARDINAL
+Goldman Sachs Asset Management : ORG
+Goldman Sachs Global Investment Research : ORG
+Goldman Sachs : ORG
+Investment Strategy Group : ORG
+November 2022 : DATE
+Goldman Sachs Asset Management : ORG
+2 : CARDINAL
+Goldman Sachs : ORG
+Global Investment Research : ORG
+1.5% : PERCENT
+Defensives : PERSON
+Page 1 : PERSON
+PCE : ORG
+10-year : DATE
+2-year : DATE
+the European Central Bank : ORG
+EM : ORG
+EPS : ORG
+Fed : ORG
+the Federal Reserve : ORG
+FX : ORG
+Terminal : ORG
+year-end : DATE
+2 : CARDINAL
+October 31, 2022 : DATE
+20-day : DATE
+TSA : ORG
+November 20, 2022 : DATE
+May 1, 2020 : DATE
+September 30 : DATE
+2022 : DATE
+daily : DATE
+daily : DATE
+1932 : DATE
+US Treasuries : ORG
+MSCI AC Asia Pacific : ORG
+Japan : GPE
+4 : CARDINAL
+5 : CARDINAL
+8 : CARDINAL
+the Asia Pacific region : LOC
+the Standard & Poor’s : ORG
+500 : CARDINAL
+Europe : LOC
+Europe : LOC
+the 
+Tokyo Stock Exchange : ORG
+TSE : ORG
+first : ORDINAL
+TSE : ORG
+10-Year : DATE
+US Treasury : ORG
+10 years : DATE
+The University of Michigan Consumer Sentiment Index : ORG
+monthly : DATE
+Goldman Sachs Asset Management : ORG
+4 : CARDINAL
+10 : CARDINAL
+U.S. : GPE
+10-Year : DATE
+Treasury : ORG
+the United States : GPE
+Disclosures : PERSON
+Goldman Sachs Asset Management : ORG
+Goldman Sachs Global Investment 
+Research (GIR : ORG
+Goldman Sachs Global Investment Research : ORG
+Goldman Sachs : ORG
+Goldman Sachs Asset 
+Management : ORG
+Views : ORG
+Goldman Sachs Asset Management : ORG
+Goldman Sachs : ORG
+Views : ORG
+Goldman Sachs Asset Management : ORG
+Goldman 
+Sachs & Co. : ORG
+LLC : ORG
+Goldman Sachs : ORG
+Goldman Sachs : ORG
+2022 : DATE
+Goldman Sachs : ORG
+Goldman Sachs & Co. : ORG
+LLC : ORG
+FINRA : ORG
+299697 : CARDINAL
+December 1, 2022 : DATE
+Goldman Sachs : ORG
+800-312 : CARDINAL
+888-444 : CARDINAL
+800-559 : CARDINAL
+866-473-8637 : CARDINAL
+800-621-2550 : CARDINAL
+212-902-8157 : CARDINAL

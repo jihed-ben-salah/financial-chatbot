@@ -1,0 +1,860 @@
+1 : CARDINAL
+2023 : DATE
+4 : CARDINAL
+5 : CARDINAL
+MACROECONOMICS & MARKETS : ORG
+6 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+Markets - Taking : ORG
+SUSTAINABILITY : ORG
+16 : CARDINAL
+19 : CARDINAL
+22 : CARDINAL
+25 : CARDINAL
+28 : CARDINAL
+Thematic : NORP
+Technology : ORG
+China : GPE
+31 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+ALEXANDER BERNHARDT : PERSON
+VINCENT NICHOLS : PERSON
+CHI LO : ORG
+APAC : ORG
+4 : CARDINAL
+2022 : DATE
+60% : PERCENT
+40% : PERCENT
+October : DATE
+60/40 : CARDINAL
+its worst year : DATE
+the Second World War : EVENT
+almost 30% : PERCENT
+year-to-date : DATE
+60/40 : CARDINAL
+recent years : DATE
+US : GPE
+Japanese : NORP
+Ukraine : GPE
+Europe : LOC
+years : DATE
+Sino-US : NORP
+Taiwan : GPE
+2023 : DATE
+Committed : ORG
+zero : CARDINAL
+zero : CARDINAL
+zero : CARDINAL
+ROBERT GAMBI
+ : PERSON
+Global : ORG
+5 : CARDINAL
+2023 : DATE
+China : GPE
+China : GPE
+Macroeconomics : PERSON
+Europe : LOC
+China : GPE
+zero : CARDINAL
+Chinese : NORP
+West : LOC
+• Equities : PRODUCT
+Europe : LOC
+US : GPE
+6 : CARDINAL
+Europe : LOC
+zero : CARDINAL
+ZCP : ORG
+China : GPE
+Europe : LOC
+US : GPE
+the third 
+quarter of 2023 : DATE
+China : GPE
+winter : DATE
+Europe : LOC
+US : GPE
+China : GPE
+US : GPE
+US : GPE
+2023 : DATE
+7 : CARDINAL
+PCE : ORG
+3% : PERCENT
+the end of 2023 : DATE
+One : CARDINAL
+average1 : ORG
+The US Federal Reserve : ORG
+US : GPE
+European : NORP
+the Infrastructure Investment and Jobs Act : ORG
+the Inflation Reduction Act : LAW
+nearly USD 400 billion : MONEY
+Openings : ORG
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7
+
+2000
+2005 : DATE
+2010 : DATE
+2015 : DATE
+2020 : DATE
+August 2022 : DATE
+FactSet : ORG
+BNP Paribas Asset Management : ORG
+1 : CARDINAL
+November 2022 : DATE
+8 : CARDINAL
+Europe : LOC
+OPEC : ORG
+the 1970s : DATE
+10 : CARDINAL
+2019 : DATE
+ECB : ORG
+2% : PERCENT
+2024 : DATE
+UK : GPE
+Germany : GPE
+Italian : NORP
+4% : PERCENT
+40% : PERCENT
+2022 : DATE
+2023 : DATE
+ECB : ORG
+EU : ORG
+Europe : LOC
+OPEC : ORG
+the 1970s : DATE
+12.5 : CARDINAL
+25 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+800 : CARDINAL
+1600 : DATE
+12.5 : CARDINAL
+25 : CARDINAL
+50 : CARDINAL
+100 : CARDINAL
+200 : CARDINAL
+400 : CARDINAL
+800 : CARDINAL
+1600 : DATE
+0 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+60 : CARDINAL
+70 : DATE
+100=2019 : CARDINAL
+100=1973 : CARDINAL
+100=2019 : CARDINAL
+Months : DATE
+21 Oct. 2022 : DATE
+Bloomberg : PERSON
+BNP Paribas Asset Management : ORG
+9 : CARDINAL
+China : GPE
+two : CARDINAL
+Chinese : NORP
+2022 : DATE
+zero : CARDINAL
+2023 : DATE
+Covid : PERSON
+China : GPE
+Communist Party Congress : ORG
+Xi’s Party Congress : ORG
+China : GPE
+US : GPE
+Europe : LOC
+over 4% : PERCENT
+6% : PERCENT
+US : GPE
+China : GPE
+just 0.4% : PERCENT
+3 : CARDINAL
+China : GPE
+US : GPE
+Core : ORG
+year-on-year : DATE
+0.4 : CARDINAL
+4.7 : CARDINAL
+6.6 : CARDINAL
+0 : CARDINAL
+1 : CARDINAL
+2 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+China : GPE
+US : GPE
+Sept. 2022 : DATE
+BNP Paribas Asset Management : ORG
+2 : CARDINAL
+November 2022 : DATE
+1 0 : CARDINAL
+2022 : DATE
+an extraordinary year : DATE
+half : CARDINAL
+the Global Financial Crisis : ORG
+GFC : ORG
+many decades : DATE
+60% : PERCENT
+40% : PERCENT
+20% : PERCENT
+late October : DATE
+9-10% : PERCENT
+the last 50-odd years : DATE
+2008 : DATE
+14% : PERCENT
+2022 : DATE
+Asia : LOC
+Europe : LOC
+2022 : DATE
+One : CARDINAL
+2023 : DATE
+2022 : DATE
+Europe : LOC
+Three-month : DATE
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5
+
+% : PERCENT
+0.0 : CARDINAL
+0.5 : CARDINAL
+1.0 : CARDINAL
+1.5 : CARDINAL
+2.0 : CARDINAL
+2.5 : CARDINAL
+3.0 : CARDINAL
+2005 : DATE
+2010 : DATE
+2015 : DATE
+2020 : DATE
+5 year-5 year : DATE
+US : GPE
+25 Oct. 2022 : DATE
+Bloomberg : PERSON
+BNP Paribas Asset Management : ORG
+US : GPE
+2022 : DATE
+Today : DATE
+three : CARDINAL
+2023 : DATE
+1 : CARDINAL
+the US Federal Reserve : ORG
+2 : CARDINAL
+3 : CARDINAL
+China : GPE
+Russia-
+Ukraine : GPE
+US : GPE
+Europe : LOC
+UK : GPE
+2023 : DATE
+Fed : ORG
+Fed : ORG
+2022 : DATE
+2-year : DATE
+March : DATE
+fed : ORG
+three years : DATE
+1.5% to 5% : PERCENT
+just six months : DATE
+Five-year : DATE
+five years ahead : DATE
+50-year : DATE
+GFC : ORG
+US : GPE
+Europe : LOC
+a year ago : DATE
+1.50% : PERCENT
+1.25% : PERCENT
+5.0-5.5% : PERCENT
+2.25% : PERCENT
+Europe : LOC
+mid-2023 : DATE
+2022 : DATE
+2 : CARDINAL
+0.000 : CARDINAL
+0.025 : CARDINAL
+0.050 : CARDINAL
+0.075 : CARDINAL
+0.100 : CARDINAL
+0.125 : CARDINAL
+0.150 : CARDINAL
+25 : CARDINAL
+50 : CARDINAL
+75 : CARDINAL
+100 : CARDINAL
+125 : CARDINAL
+150 : CARDINAL
+175 : CARDINAL
+200 : CARDINAL
+2011 : DATE
+2013 : DATE
+2015 : DATE
+2017 : DATE
+2019 : DATE
+2021 : DATE
+EUR IG : ORG
+CDS : ORG
+5 : CARDINAL
+5 : CARDINAL
+5 : CARDINAL
+24 Oct. 2022 : DATE
+BNP Paribas Asset Management : ORG
+1 : CARDINAL
+4.9% : PERCENT
+OIS : ORG
+50bp : ORDINAL
+Fed : ORG
+Staying : PERSON
+European : NORP
+one : CARDINAL
+2020 : DATE
+European : NORP
+around 10% : PERCENT
+five-year : DATE
+eight : CARDINAL
+second : ORDINAL
+2022 : DATE
+Europe : LOC
+US : GPE
+three million : CARDINAL
+2023 : DATE
+300 000 : CARDINAL
+400bp : FAC
+the summer of : DATE
+2021 : DATE
+Europe : LOC
+Ukraine : GPE
+GFC : ORG
+Twelve-month : DATE
+PE : ORG
+10 : CARDINAL
+15 years : DATE
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+5 : CARDINAL
+10 : CARDINAL
+15 : CARDINAL
+20 : CARDINAL
+25 : CARDINAL
+30 : CARDINAL
+35 : CARDINAL
+USA : GPE
+Nasdaq
+EMU : ORG
+UK : GPE
+APxJ : PERSON
+Japan : GPE
+China : GPE
+24 Oct. 2022 : DATE
+Bloomberg : PERSON
+BNP Paribas Asset Management : ORG
+Europe : LOC
+China : GPE
+Japan : GPE
+2022 : DATE
+January 2022 : DATE
+2022 : DATE
+2023 : DATE
+Asia : LOC
+US : GPE
+2023 : DATE
+the Ukraine war : EVENT
+China : GPE
+Taiwan : GPE
+4 : CARDINAL
+EPS : ORG
+PE : ORG
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+10 : CARDINAL
+20 : CARDINAL
+30 : CARDINAL
+40 : CARDINAL
+50 : CARDINAL
+World AC : ORG
+MSCI USA Nasdaq : ORG
+100 : CARDINAL
+MSCI
+Europe : ORG
+MSCI EMU : ORG
+UK : GPE
+MSCI
+ : PERSON
+Japan : GPE
+MSCI
+Emerging : PERSON
+EPS : ORG
+24 Oct. 2022 : DATE
+Bloomberg : PERSON
+BNP Paribas Asset Management : ORG
+2022 : DATE
+10 November 2022 : DATE
+more than : CARDINAL
+Five year-five year : DATE
+US : GPE
+post-Global Financial Crisis : ORG
+2023 : DATE
+US : GPE
+the end of 2023 : DATE
+1 : CARDINAL
+2023 : DATE
+Central : ORG
+1 : CARDINAL
+BNP Paribas Asset Management : ORG
+November 2022 : DATE
+ALEXANDER BERNHARDT : PERSON
+early 2005 : DATE
+United Nations : ORG
+Kofi Annan : PERSON
+PRI : ORG
+Only a few years later : DATE
+ten-fold : CARDINAL
+a horizon of quarters 
+or years : DATE
+2005 : DATE
+ESG : ORG
+2005 : DATE
+ESG : ORG
+ESG : ORG
+PRI : ORG
+more than USD 100 trillion : CARDINAL
+PRI : ORG
+six : CARDINAL
+ESG : ORG
+Principles : NORP
+ESG : ORG
+ESG : ORG
+50 : CARDINAL
+2015 : DATE
+more than 500.1 : CARDINAL
+ESG : ORG
+ESG : ORG
+the past 20 years : DATE
+before 2004 : DATE
+ESG : ORG
+ESG : ORG
+1 : CARDINAL
+PRI : ORG
+2021 : DATE
+ESG : ORG
+ESG : ORG
+ESG : ORG
+one : CARDINAL
+ESG : ORG
+Socially Responsible Investing : PERSON
+PRI : ORG
+ESG : ORG
+ESG : ORG
+More than 270 : CARDINAL
+USD : ORG
+61 trillion : CARDINAL
+zero : CARDINAL
+2050 : DATE
+initiative.2 : PERSON
+PRI : ORG
+ESG : ORG
+ESG : ORG
+2 : CARDINAL
+43 : CARDINAL
+zero : CARDINAL
+273 : CARDINAL
+4.0 : CARDINAL
+4.0 : CARDINAL
+England : GPE
+between 1760 and 1860 : DATE
+second : ORDINAL
+US : GPE
+the 1850s : DATE
+the early 2000s : DATE
+second : ORDINAL
+Industry 4.0 : ORG
+fourth : ORDINAL
+1st 
+1760-1860 : DATE
+2nd 
+1850s-1914 : DATE
+• Electrification : PRODUCT
+3rd : ORDINAL
+1969-2000s : DATE
+Digital : ORG
+• Computers : PRODUCT
+4th : ORDINAL
+2010s : DATE
+Industry 4.0 : PRODUCT
+BNP Paribas Asset Management : ORG
+zero : CARDINAL
+the next decade : DATE
+Industry 4.0 : ORG
+10 : CARDINAL
+20 years : DATE
+US : GPE
+VINCENT NICHOLS : PERSON
+2023 : DATE
+2022 : DATE
+today : DATE
+2023 : CARDINAL
+1 : CARDINAL
+AI : ORG
+2 : CARDINAL
+Gartner : ORG
+5% : PERCENT
+2023 : DATE
+Cybersecurity : ORG
+one : CARDINAL
+3 : CARDINAL
+AI : ORG
+4 : CARDINAL
+twelve-month : DATE
+North American : NORP
+6x : CARDINAL
+2013-2018 : DATE
+32% : PERCENT
+five-year : DATE
+5 : CARDINAL
+6 : CARDINAL
+the US Federal
+Reserve : ORG
+1 : CARDINAL
+2 : CARDINAL
+1 : CARDINAL
+North American : NORP
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+11 : CARDINAL
+12 : CARDINAL
+13 : CARDINAL
+14 : CARDINAL
+3 : CARDINAL
+4 : CARDINAL
+5 : CARDINAL
+6 : CARDINAL
+7 : CARDINAL
+8 : CARDINAL
+9 : CARDINAL
+10 : CARDINAL
+11 : CARDINAL
+12 : CARDINAL
+13 : CARDINAL
+14 : CARDINAL
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+5 : CARDINAL
+2013-2019 : DATE
+25 Oct. 2022 : DATE
+FactSet : ORG
+BNP Paribas Asset Management : ORG
+3 : CARDINAL
+4 : CARDINAL
+The Ukraine war : EVENT
+Sino : NORP
+5 : CARDINAL
+three-plus year : DATE
+the next three years : DATE
+Micron : ORG
+First : ORDINAL
+two years : DATE
+US : GPE
+three-plus year : DATE
+1 : CARDINAL
+Paribas Asset Management : ORG
+China : GPE
+CHI LO : ORG
+APAC : ORG
+China : GPE
+Sino : NORP
+2018 : DATE
+Asia : LOC
+China : GPE
+Asia : LOC
+a third : CARDINAL
+Asia : LOC
+Asia : LOC
+Asia : LOC
+China : GPE
+Firstly : ORDINAL
+US : GPE
+USD 620 billion : MONEY
+June 
+2018 : DATE
+USD 801 billion : MONEY
+August 2022 : DATE
+US : GPE
+2 6 : CARDINAL
+China : GPE
+Chinese : NORP
+Phase One : PRODUCT
+January 2020 : DATE
+Secondly : ORDINAL
+Asian : NORP
+US : GPE
+ASEAN : ORG
+FDI : ORG
+China : GPE
+the last six years : DATE
+ASEAN : ORG
+China : GPE
+ASEAN : ORG
+China : GPE
+China : GPE
+China : GPE
+ASEAN : ORG
+FDI : ORG
+ASEAN : ORG
+China : GPE
+China : GPE
+China : GPE
+US : GPE
+China : GPE
+2016 : DATE
+1 : CARDINAL
+ASEAN : ORG
+Brunei : GPE
+Cambodia : GPE
+Indonesia : GPE
+Lao : GPE
+Malaysia : GPE
+Myanmar : GPE
+Philippines : GPE
+Singapore : GPE
+Thailand : GPE
+Vietnam : GPE
+China : GPE
+USD : PERSON
+4 quarter : DATE
+50 : CARDINAL
+100 : CARDINAL
+150 : CARDINAL
+200 : CARDINAL
+250 : CARDINAL
+300 : CARDINAL
+350 : CARDINAL
+1999
+ : DATE
+2001 : DATE
+2004 : DATE
+2006 : DATE
+2009 : DATE
+2012 : DATE
+2014 : DATE
+2017 : DATE
+2019 : DATE
+2022 : DATE
+FDI : ORG
+CEIC : ORG
+BNP Paribas Asset Management : ORG
+2 7 : CARDINAL
+FDI : ORG
+ASEAN : ORG
+China : GPE
+40% : PERCENT
+only 10% : PERCENT
+ASEAN : ORG
+China : GPE
+ASEAN : ORG
+China : GPE
+China : GPE
+China : GPE
+ASEAN : ORG
+Asia : LOC
+China : GPE
+China : GPE
+China : GPE
+Asia : LOC
+China : GPE
+Beijing : GPE
+Asia : LOC
+China : GPE
+Asia : LOC
+China : GPE
+Asia : LOC
+China : GPE
+the Middle Kingdom : GPE
+ASEAN : ORG
+USD : PERSON
+0 : CARDINAL
+20 : CARDINAL
+40 : CARDINAL
+60 : CARDINAL
+80 : CARDINAL
+100 : CARDINAL
+120 : CARDINAL
+140 : CARDINAL
+160 : CARDINAL
+180 : CARDINAL
+200 : CARDINAL
+1980  1983  1986  1989  1992  1995  1998  2001  2004  2007   : DATE
+2010  2013  2016  2019 : DATE
+CEIC : ORG
+BNP Paribas Asset Management : ORG
+13 : CARDINAL
+the past 
+decade : DATE
+AUM : ORG
+USD 1 trillion : MONEY
+2011 : DATE
+Exhibit 1 : PERSON
+risk-
+return : PERSON
+Infrastructure : ORG
+ESG : ORG
+the European Union's : ORG
+zero : CARDINAL
+2050 : DATE
+1 : CARDINAL
+European : NORP
+24% : PERCENT
+23% : PERCENT
+Renewables : PRODUCT
+21% : PERCENT
+16% : PERCENT
+7% : PERCENT
+4% : PERCENT
+4% : PERCENT
+1% : PERCENT
+Infranews & Inframation : ORG
+January 2022 : DATE
+the next few decades : DATE
+Sustainability 
+Centre : ORG
+the Paris Accord : LAW
+the past 10 years : DATE
+two : CARDINAL
+Europe : LOC
+5 : CARDINAL
+Bloomberg, Quant Research Group : ORG
+BNP Paribas Asset Management
+Indices : ORG
+RNGL : ORG
+LGCPTREH : PERSON
+LG30TRUH : GPE
+Bloomberg : PERSON
+2013 : DATE
+2014 : DATE
+2015 : DATE
+2016 : DATE
+2017 : DATE
+2018 : DATE
+2019 : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+21.2% : PERCENT
+32% : PERCENT
+11.5% : PERCENT
+15.6% : PERCENT
+8.4% : PERCENT
+0.1% : PERCENT
+30% : PERCENT
+6.7% : PERCENT
+36.9% : PERCENT
+14.1% : PERCENT
+6.5% : PERCENT
+19.5% : PERCENT
+10.4% : PERCENT
+10.7% : PERCENT
+7.5% : PERCENT
+25.3% : PERCENT
+6.3% : PERCENT
+31.1% : PERCENT
+0% : PERCENT
+8.4% : PERCENT
+1% : PERCENT
+10.1% : PERCENT
+3.7% : PERCENT
+13.3% : PERCENT
+5.7% : PERCENT
+25.6% : PERCENT
+7.5% : PERCENT
+8.1% : PERCENT
+0.3% : PERCENT
+9.2% : PERCENT
+4.8% : PERCENT
+2.5% : PERCENT
+2.6% : PERCENT
+4.6% : PERCENT
+4.5% : PERCENT
+2.3% : PERCENT
+4.3% : PERCENT
+EUR : ORG
+31 October 2022 : DATE
+November 2022 - Design: : DATE
+BNPP AM - P2210080 : ORG
+Paribas Asset Management France : ORG
+1 : CARDINAL
+75009 : DATE
+Paris : GPE
+France : GPE
+Paris : GPE
+319 : CARDINAL
+378 832 : CARDINAL
+GP 96002 : LAW
+1 : CARDINAL
+2 : CARDINAL
+the Key Investor Information Document : ORG
+the United States : GPE
+US : GPE
+Regulation S : ORG
+1933 : DATE
+Key Investor Information Document : ORG
+ESG : ORG
+EU : ORG
+ESG : ORG
+ESG : ORG
+ESG : ORG
+ESG : ORG
+the Sub-Fund's : ORG
+Daniel Morris : ORG
+Andrew Craig : PERSON
+Haktan Asalioglu : PERSON
+Nieck Ammerlaan : PERSON
+BNP Paribas Asset Management : ORG
+Graphic : PERSON
+November 2022 : DATE

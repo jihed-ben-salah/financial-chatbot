@@ -285,7 +285,7 @@ def update_histogram(n_clicks):
     return fig
 
 def generate_wordcloud(max_words):
-    with open('C:/Users/rimai/Desktop/financial_nlp_nlu/EDA_output/corpus.txt', 'r',encoding='utf-8') as file:
+    with open('C:/Users/jihed/OneDrive/Bureau/Financial reports analysis/financial_reports_analysis/pages/analysis.py', 'r',encoding='utf-8') as file:
             corpus=file.read()
     mpl.rcParams['font.size']=18              
     mpl.rcParams['savefig.dpi']=50             

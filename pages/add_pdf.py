@@ -1,13 +1,13 @@
 from dash import html, register_page, dcc, callback, Input, Output, State, callback
 import base64
 import io
-from script import extract_text_from_pdf_2
+from main import extract_text_from_pdf_2
 import sqlite3
 import joblib
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import accuracy_score
 import dash_bootstrap_components as dbc
-from script import chunking,get_vectorstore,get_conversation_chain
+from main import chunking,get_vectorstore,get_conversation_chain
 import torch
 from xgboost import XGBClassifier
 
@@ -106,8 +106,8 @@ def update_uploaded_pdf(contents,filename):
 
         data_financial.to_csv('./data/financial_' + name + '.csv', index=False)
    
-
-        conn = sqlite3.connect('./notebooks/financial_reports.db')  # Change to your database filename
+        #to change
+        conn = sqlite3.connect('./notebooks/financial_reports.db') 
         cursor = conn.cursor()
 
         for index, row in data_financial.iterrows():
@@ -137,12 +137,15 @@ State("user-question", "value")
 def QA(inp_text,n_clicks,user_question):
     if not n_clicks or not user_question:
         return ""
+    
+    print("##################### user q",user_question)
                 
-  
     conversation_output = []
     text = ' '.join(inp_text)
     text_chunks = chunking(text)
-    vectorstore = get_vectorstore(text_chunks)
+    print(text_chunks)
+    vectorstore = get_vectorstore(text_chunks[0])
+    print('v: ',vectorstore)
     conversation_chain = get_conversation_chain(vectorstore)
     response = conversation_chain({'question': user_question})
     conversation_output = []

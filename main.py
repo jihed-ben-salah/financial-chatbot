@@ -48,7 +48,7 @@ from spellchecker import SpellChecker
 import fitz
 from unidecode import unidecode
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceInstructEmbeddings
+from langchain.embeddings import HuggingFaceInstructEmbeddings,HuggingFaceBgeEmbeddings,HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from gensim.models import Word2Vec
 import ast
@@ -134,7 +134,7 @@ def en_fr_translate(text,model,tokenizer):
     return translated_text
 
 def get_vectorstore(text_chrunk):
-    embeddings=HuggingFaceInstructEmbeddings(model_name='hkunlp/instructor-xl')
+    embeddings=HuggingFaceEmbeddings()
     vectorstore=FAISS.from_texts(texts=text_chrunk,embedding=embeddings)
     return vectorstore
 
@@ -326,7 +326,9 @@ def search_NER(text,f_name):
     for entity in doc.ents:
         with open('./EDA_output/'+name+'_NER.txt', 'a',encoding='utf-8') as file:
             file.write(entity.text + ' : ' + entity.label_ + '\n')
-    #spacy.displacy.serve(doc,style="ent")
+            print(entity.text)
+            print(entity.label_)
+    spacy.displacy.serve(doc,style="ent")
     
 def summarization_t5(text,model,tokenizer,max_len):
     print(text)   
@@ -577,7 +579,7 @@ def main(function_name,input_directory="./pdf",texts_directory="./extracted_data
         vocab = list(model.wv.index_to_key)
         word_embeddings = [model.wv[word] for word in vocab]
         embedding_df = pd.DataFrame(word_embeddings, index=vocab)
-        embedding_df.to_csv('./dash-tsne/data/financial.csv', header=True)
+        embedding_df.to_csv('./data/financial.csv', header=True)
 
 
 
@@ -589,3 +591,4 @@ if __name__ == "__main__":
     #parser.add_argument('output_directory', type=str, help='Directory of the output files')
     args = parser.parse_args()
     main(args.function)
+    
